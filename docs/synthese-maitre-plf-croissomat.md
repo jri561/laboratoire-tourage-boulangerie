@@ -7,19 +7,22 @@
 
 Sur vos deux vidéos, la cinématique d'ensemble est déjà très propre et bien synchronisée. Voici l'audit précis organe par organe :
 
-### Les Points Forts Constatés (À Conserver Absolument)
-1. **Nettoyage et netteté de découpe** : Les arêtes des triangles sont franches, sans effilochage de gluten. L'entaille axiale à la base (10–15 mm) est bien centrée et nette.
-2. **Fonctionnement du tandem d'arbres séparateurs** : Le décalage spatial des triangles tête-bêche s'opère instantanément. L'intervalle longitudinal (5 à 8 cm) entre les pièces est régulier, évitant tout chevauchement.
-3. **Aspect de surface de la pâte** : Pas d'excès de farine blanche visible sur le dessus, surface mate et saine.
+### 1. Diagnostic Réel sur Vos Vidéos & Configuration Fixe de votre SCM50
 
-### Les 2 Points de Vigilance & Ajustements Recommandés
-1. **L'Étirement Axial (Longueur du Triangle)** :
-   * *Observation* : Vos triangles découpés ont un ratio base/hauteur d'environ 120–130 mm pour ~180 mm de hauteur. Après le passage sous les galets bleus, ils ne sont que très peu allongés (environ 190–200 mm).
-   * *Conséquence* : Un triangle de 190 mm ne donnera que **2 à 2,5 spires** sous l'enrouleur. Le croissant sera trapu, compact, et le cœur aura du mal à cuire à cœur en cuisson directe congelé.
-   * *Ajustement conseillé* : Augmenter très légèrement l'écart de vitesse d'entraînement du tapis aval pour étirer le triangle jusqu'à **240–260 mm** avant l'engagement sous le tablier. Avec notre formule à 30 % de T65 Tradition, cet étirement se fera sans aucune déchirure.
-2. **Centrage de la Piste Gauche** :
-   * *Observation* : Sur la frame de sortie, la piste de gauche frôle la rive du tapis.
-   * *Ajustement* : Vérifier le centrage de la bande sur la rampe amont pour équilibrer parfaitement les 3 pistes par rapport aux 3 galets de guidage.
+Vos clarifications d'atelier permettent de verrouiller le fonctionnement exact de votre machine :
+
+#### Ce qui est Totalement Fixe d'Usine (Rien à dérégler) :
+1. **La Rampe d'Alimentation et les 3 Pistes** : Tout est usiné fixe aux cotes exactes de la machine. Il n'y a pas de guides mobiles à déplacer. La bande se cale naturellement sur la rampe.
+2. **La Matrice de Découpe Triangulaire** : C'est un emporte-pièce monobloc fixe et unique. La surface du triangle est constante. **Le poids de 75 g est piloté à 100 % par l'épaisseur d'abaisse au laminoir (3,5 mm ± 0,1 mm)**.
+3. **Les 2 Arbres à Galets au Milieu** : Ils ont une fonction **exclusive de décalage et de séparation** des triangles tête-bêche (aucun étirement axial à ce stade). Les galets doivent simplement être bien centrés sur chaque piste.
+
+#### Où se Produit Réellement l'Étirement Axial ?
+* **L'étirement se fait UNIQUEMENT sous le tablier du module d'enrouleur transversal (à gauche)**.
+* C'est la friction différentielle entre le tapis transporteur et la bande supérieure de l'enrouleur qui allonge le triangle de la base vers la pointe pendant qu'il roule sur lui-même.
+* Ce sont les **3 manettes sur coulisses rouges** qui gouvernent cet étirement :
+  - **Manette 1 (5–6 mm)** : Amorce immédiate de la base.
+  - **Manette 2 (28–32 mm)** : Coin divergent laissant les spires se développer en longueur et en diamètre.
+  - **Manette 3 (Souple)** : Roulage sans compression excessive (3 à 4 spires lâches, clé dessous à 6h).
 
 ---
 
@@ -73,15 +76,15 @@ flowchart TD
 
 ## 5. Synthèse des Réglages Croissomat SCM50
 
-* **Température de bande** : **10 °C à 12 °C (Sweet Spot à 11 °C)** avec décompression libre $\ge 60\text{ s}$ sur la rampe inox.
+* **Matrice et Rampe 100 % fixes** : Poids de 75 g piloté par l'abaisse laminoir à **3,5 mm (± 0,1 mm)**.
+* **Température de bande** : **10 °C à 12 °C (Sweet Spot à 11 °C)** après décompression libre $\ge 60\text{ s}$ sur la rampe inox.
 * **Texture (Test du pouce)** : Empreinte qui remonte à 50 % en 5 s ; peau mate et sèche sans suintement.
-* **Farinage** : "Voile fantôme" T45 tamisée sous la bande, zéro farine sur le dessus.
-* **Découpe guillotine** : Butée réglée pour couper 100 % des fibres sans entailler le tapis ; tampons éjecteurs propres.
-* **Arbres séparateurs** : Galets blancs centrés sur l'axe médian des triangles, anneaux bleus dégraissés, étirement axial vers **24–26 cm**.
-* **Bloc d'enrouleur transversal (3 manettes rouges)** :
+* **Farinage Inversé** : Fleusage laminoir dessous contre le tapis, zéro farine sur le dessus (soudure des spires).
+* **Arbres à galets bleus** : Décalage pur des triangles tête-bêche (pression douce, galets centrés sur chaque piste).
+* **Bloc d'enrouleur transversal (3 manettes rouges — L'étirement se fait ici !)** :
   * *Manette 1 (Haut/Av)* : Entrefait d'amorce à **5–6 mm**.
   * *Manette 2 (Haut/Ar)* : Pente en coin divergent vers **28–32 mm**.
-  * *Manette 3 (Bas)* : Réglage **souple (3 à 4 spires lâches)** + calage de la **clé sous le croissant (à 6 heures)**.
+  * *Manette 3 (Bas)* : Réglage **souple (3 à 4 spires lâches, loi de Laplace)** + calage de la **clé sous le croissant (à 6 heures)**.
 
 ---
 
