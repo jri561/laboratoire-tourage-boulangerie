@@ -117,13 +117,24 @@ def main():
     pains_choc = int((paton_toure_total_kg * 0.98) / 0.075) # 75 g de pâte crue par pièce
     boites_160 = round(pains_choc / 160.0, 1)
     chocolat_kg = pains_choc * 0.010
+
+    pains_raisins = int((paton_toure_total_kg * 0.98) / 0.055) # 55 g de pâte crue par pièce
+    creme_kg = pains_raisins * 0.020
+    poudre_creme_kg = creme_kg * 0.259
+    eau_creme_kg = creme_kg * 0.741
+    raisins_kg = pains_raisins * 0.015
+
     print("-" * 72)
-    print("RENDEMENTS D'ATELIER ESTIMÉS (après parage 2 %) :")
+    print("RENDEMENTS D'ATELIER ESTIMÉS SI PRODUCTION DÉDIÉE (après parage 2 %) :")
     print(f"  > CROISSANTS D'EXCELLENCE (75 g cru) : ~{croissants} pièces")
-    print(f"  > PAINS AU CHOCOLAT 1 BARRE (85 g brut dont 75 g pâte + 10 g barre) :")
-    print(f"      - Nombre de pièces               : ~{pains_choc} pains au chocolat")
+    print(f"  > PAINS AU CHOCOLAT 1 BARRE (85 g brut : 75 g pâte + 10 g barre 160) :")
+    print(f"      - Quantité produite              : ~{pains_choc} pains au chocolat")
     print(f"      - Besoin en barres calibre 160    : ~{pains_choc} barres ({chocolat_kg:.2f} kg de chocolat)")
     print(f"      - Équivalent boîtes (160 barres)  : ~{boites_160} boîte(s)")
+    print(f"  > PAINS AUX RAISINS ESCARGOTS (90 g brut : 55 g pâte + 20 g crème + 15 g raisins) :")
+    print(f"      - Quantité produite              : ~{pains_raisins} escargots")
+    print(f"      - Crème pâtissière à froid       : {creme_kg:6.2f} kg ({poudre_creme_kg:.2f} kg poudre + {eau_creme_kg:.2f} kg eau)")
+    print(f"      - Raisins secs bruts (non trempés): {raisins_kg:6.2f} kg")
     print("-" * 72)
     print(f"Diagnostic Thermique : {bilan_froid['remarque']}")
     print("=" * 72)

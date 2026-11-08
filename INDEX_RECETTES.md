@@ -8,13 +8,13 @@
 
 | Pôle de Fabrication | Nb Produits Recensés | Validés (`🟢`) | En Cours (`🔵`) | En Attente d'Audit (`🟡`) |
 | :--- | :---: | :---: | :---: | :---: |
-| **1. Viennoiseries Feuilletées (PLF & Tourage)** | 10 | 2 | 0 | 8 |
+| **1. Viennoiseries Feuilletées (PLF & Tourage)** | 10 | 3 | 0 | 7 |
 | **2. Viennoiserie Générale & Pâtes Levées** | 4 | 0 | 0 | 4 |
 | **3. Biscuiterie, Cakes & Pâtisserie Nomade** | 10 | 0 | 0 | 10 |
 | **4. Pâtisserie Boulangère Traditionnelle & Bases** | 4 | 0 | 0 | 4 |
 | **5. Pôle Girocrêpes & Traiteur Salé** | 5 | 0 | 0 | 5 |
 | **6. Référentiels d'Atelier & Documents Transverses** | 5 | 0 | 0 | 5 |
-| **TOTAL GÉNÉRAL** | **38** | **2** | **0** | **36** |
+| **TOTAL GÉNÉRAL** | **38** | **3** | **0** | **35** |
 
 ---
 
@@ -24,7 +24,7 @@
 | :--- | :--- | :---: | :--- | :--- | :---: |
 | `V-PLF-01` | **Croissant d'Excellence PAC** | 75 g | Poussé Surgelé (PAC), Ligne Rondo, Beurre 82/84% | [Fiche](recettes/catalogue/croissant-pac-excellence.md) | 🟢 Validé Production |
 | `V-PLF-02` | **Pain au Chocolat Équerré PAC** | 85 g (75g pâte + 10g choco) | Poussé Surgelé (PAC), 1 grosse barre 160, Polyline | [Fiche](recettes/catalogue/pain-chocolat-equerre-pac.md) | 🟢 Validé Production |
-| `V-PLF-03` | **Pain aux Raisins (Escargot) PAC** | 90 g | Crème pâtissière à froid + raisins macérés | `06_PLF_Pret_A_Cuire_PAC.pdf` | 🟡 En attente d'audit / Archive |
+| `V-PLF-03` | **Pain aux Raisins (Escargot) PAC** | 90 g (55g pâte + 20g crème + 15g raisins) | Poussé Surgelé (PAC), Crème à froid Staufim/Finecrem, Raisins bruts, Polyline | [Fiche](recettes/catalogue/pain-raisins-escargot-pac.md) | 🟢 Validé Production |
 | `V-PLF-04` | **Pain Suisse (Chocolatines) PAC** | 120 g | Crème pâtissière + pépites chocolat 50% | `06_PLF_Pret_A_Cuire_PAC.pdf` | 🟡 En attente d'audit / Archive |
 | `V-PLF-05` | **Oranais aux Abricots PAC** | 100 g | Crème pâtissière + 2 demi-oreillons abricot | `06_PLF_Pret_A_Cuire_PAC.pdf` | 🟡 En attente d'audit / Archive |
 | `V-PLF-06` | **Cinnamon Roll Feuilleté PAC** | 75 g | Beurre cannelle cassonade roulé serré | `06_PLF_Pret_A_Cuire_PAC.pdf` | 🟡 En attente d'audit / Archive |
