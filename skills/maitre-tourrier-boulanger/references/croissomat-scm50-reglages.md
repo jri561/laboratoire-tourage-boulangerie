@@ -54,17 +54,56 @@ Contrairement aux systèmes rotatifs simples, votre machine utilise un découpag
 
 ---
 
-## 3. Le Duo de Rouleaux Séparateurs : Intervalle & Élongation Axiale
+## 3. Le Dispositif de Séparation & Décalage : Les 2 Arbres à Galets Rainurés
 
-Situés entre le premier tapis de découpe et le second tapis de transfert, ces deux petits rouleaux motorisés jouent un rôle clé :
+Vos vidéos révèlent avec une précision parfaite le mécanisme central de séparation des croissants : **deux arbres transversaux en acier inox équipés chacun de 3 galets rainurés blancs montés avec des anneaux toriques en élastomère bleu**.
 
-1. **Séparation Physique & Cadencement** :
-   * En tournant à une vitesse légèrement supérieure au tapis de découpe ($V_2 > V_1$), ils pincent l'extrémité de chaque triangle et l'accélèrent vers l'avant.
-   * Cette accélération crée un **espace libre de 3 à 5 cm entre deux triangles successifs**, empêchant tout chevauchement ou collage à l'entrée du module d'enrouleur.
-2. **Premier Étirement Axial** :
-   * Le pincement différentiel allonge naturellement le triangle de **180–200 mm à 230–250 mm**, amorçant la silhouette élancée du croissant.
-3. **Consigne de Pression des Rouleaux** :
-   * Le pincement doit être **doux et élastique**. S'il est trop serré, il écrase localement les 12 feuillets de beurre au centre du triangle.
+```
+    [SORTIE DE DÉCOUPE GUILLOTINE]
+    (Triangles imbriqués tête-bêche sans chute)
+                 │
+                 ▼
+     ┌──────────────────────────────────────────────────────────┐
+     │  ARBRE AMONT 1 : 3 Galets blancs + Anneaux toriques bleus│ ──> Pince la Rangée A (Base avant)
+     └──────────────────────────────────────────────────────────┘
+                 │
+                 ▼  Accélération différentielle du tapis aval
+     ┌──────────────────────────────────────────────────────────┐
+     │  ARBRE AVAL 2 : 3 Galets blancs + Anneaux toriques bleus │ ──> Retient/Cadence la Rangée B (Pointe avant)
+     └──────────────────────────────────────────────────────────┘
+                 │
+                 ▼
+    [TRIANGLES PARFAITEMENT DÉCALÉS & SÉPARÉS]
+    (Intervalle libre de 5 à 8 cm entre chaque pièce)
+```
+
+### 3.1 Pourquoi ce Double Arbre à Galets est Indispensable ?
+1. **La contrainte géométrique du zéro chute** :
+   * La guillotine triangulaire découpe la pâte en imbriquant les triangles tête-bêche (une base en avant, la pointe voisine en avant) pour ne générer aucun déchet de pâte.
+   * Si les triangles continuaient leur course ensemble, ils se toucheraient bord à bord et entreraient en collision frontale dans l'enrouleur.
+2. **Le déphasage spatial & temporel (Staggering)** :
+   * L'arbre 1 applique ses 3 galets sur la première série de triangles (ceux dont la base avance en premier) pour assurer leur entraînement immédiat par le tapis aval plus rapide.
+   * L'arbre 2, décalé géométriquement, temporise la seconde série de triangles (ceux dont la pointe avance en premier).
+   * **Résultat visuel (net sur vos vidéos)** : Dès le passage sous les deux barres, les triangles imbriqués se décrochent et s'espacent de **5 à 8 cm**, formant une file indienne cadencée et parfaitement isolée sur chaque piste !
+3. **L'entaille de base** :
+   * Vos vidéos montrent très nettement la **fente axiale de 10 à 15 mm découpée au centre de la base de chaque triangle**. Cette entaille permet aux cornes du croissant de s'écarter harmonieusement lors du roulage sous tablier sans former de bourrelet compact au cœur.
+
+---
+
+### 3.2 Les 3 Réglages Clés d'Atelier sur vos Deux Arbres à Galets
+
+* **1. Centrage Latéral Strict des Galets sur les Pistes** :
+  * Chaque galet blanc coulisse sur son axe cylindrique et se bloque par une vis pointeau six pans (BTR).
+  * **Règle** : Le galet doit appuyer **rigoureusement au milieu de l'axe longitudinal du triangle**.
+  * *Si le galet est décalé de 5 mm vers un côté* : Il appuie sur l'arête biseautée au lieu du centre, ce qui fait pivoter le triangle en travers $\rightarrow$ le triangle entre de biais dans l'enrouleur et produit un croissant tordu en virgule.
+* **2. Pression d'Appui des Arbres (Hauteur & Ressorts)** :
+  * Les deux arbres sont montés sur des paliers latéraux réglables.
+  * **Pression idéale** : Un pincement doux mais franc. Les anneaux bleus doivent adhérer à la pâte pour l'entraîner sans jamais marquer de sillon permanent dans les 3,5 mm d'épaisseur ni écraser les 12 feuillets de beurre.
+  * *Si la pression est trop faible* : Le galet patine sur la pâte (danger aggravé s'il y a de la farine sur le dessus !) $\rightarrow$ le triangle n'est pas accéléré, les pièces restent collées entre elles.
+  * *Si la pression est trop forte* : Écrasement du feuilletage au centre et risque de déchirement de la pointe fine.
+* **3. Entretien & Dégraissage des Anneaux Toriques Bleus** :
+  * Les anneaux bleus en élastomère assurent le coefficient d'adhérence nécessaire avec la pâte.
+  * **Consigne de fin de poste** : Nettoyer les anneaux à l'éponge humide non abrasive. Si du beurre ou de l'huile s'y dépose, les anneaux perdent leur grip, patinent et désynchronisent la séparation des triangles.
 
 ---
 
