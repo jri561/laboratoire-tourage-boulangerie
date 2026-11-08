@@ -30,7 +30,67 @@ flowchart LR
 
 ---
 
-## 2. Le Bloc d'Enroulement Transversal : Maîtrise des 3 Manettes à Coulisses Rouges
+## 2. Le Triptyque Fondamental d'Atelier : Texture, Température & Farinage Idéaux
+
+Pour que la Croissomat SCM50 délivre 100 % de sa précision sans bourrage ni déchirure, la matière doit répondre à un triptyque rhéologique rigoureux :
+
+```
+             ┌─────────────────────────────────────────────────────┐
+             │            LE TRIPTYQUE IDÉAL SCM50                 │
+             └─────────────────────────────────────────────────────┘
+                         /                       \
+                        /                         \
+                       ▼                           ▼
+        ┌────────────────────────┐      ┌─────────────────────────┐
+        │  TEMPÉRATURE BANDE     │      │   TEXTURE / RHÉOLOGIE   │
+        │  10 °C à 12 °C STRICT  │      │  Ferme, ductile, mate   │
+        │ (Sweet spot à 11 °C)   │      │  Zéro suintement d'eau  │
+        └────────────────────────┘      └─────────────────────────┘
+                         \                         /
+                          \                       /
+                           ▼                     ▼
+                        ┌───────────────────────────┐
+                        │    FARINAGE / FLEUSAGE    │
+                        │   "Voile fantôme" T45     │
+                        │  Zéro farine entre spires │
+                        └───────────────────────────┘
+```
+
+### 2.1 La Température Idéale : 10 °C à 12 °C (Sweet Spot strict à 11 °C)
+* **Pourquoi 10 °C – 12 °C à cœur ?**
+  * **Comportement du beurre (Courbe SFC - Solid Fat Content)** : À 11 °C, le beurre de tourage 84 % atteint sa zone de déformation plastique parfaite. Il est ferme mais malléable. Il plie et s'enroule sans casser ni fuser dans la détrempe.
+  * **Comportement du réseau de gluten** : La pâte est suffisamment raffermie pour résister au cisaillement des couteaux sans s'affaisser, tout en gardant sa souplesse.
+* **Les deux dérives thermiques mortelles** :
+  * **Pâte trop froide ($< 9\text{ }^\circ\text{C}$)** : Le beurre est vitreux et cassant. La pâte est rigide : elle glisse sur le tapis incliné sans accrocher la Manette 1 d'amorce, ou se fracture en accordéon. Les couteaux rotatifs martèlent au lieu de trancher net.
+  * **Pâte trop chaude ($> 13\text{ }^\circ\text{C}$)** : Le beurre atteint son point de ramollissement, pénètre la détrempe (perte de feuilletage). La pâte devient grasse et poisseuse, colle aux couteaux rotatifs, bourre sous les carters et s'écrase sous le tablier d'enroulement.
+* **Gestion du flux atelier** : Dans un laboratoire à 20 °C, une bande abaissée à 3,5 mm gagne +1 °C toutes les 3 à 4 minutes sur les tapis inox. **Règle absolue : laminer et passer pâton par pâton** (ne jamais stocker 3 bandes d'avance à température ambiante).
+
+### 2.2 La Texture Idéale : Ferme, Soyeuse, Élastique & Non Collante
+* **Test tactile de l'opérateur (Le "Test du Pouce")** :
+  * Appuyer fermement le pouce sur la bande abaissée à 3,5 mm : l'empreinte doit marquer nettement, puis remonter lentement à environ 50 % de sa profondeur en 5 secondes.
+  * *Si elle remonte instantanément comme un élastique* : Pâte sous tension mécanique (manque de décompression libre). Les triangles vont se rétracter (*snapback*) après découpe.
+  * *Si l'empreinte reste figée sans remonter* : Pâte sans ténacité (gluten dégradé par protéolyse ou excès d'eau libre).
+* **Aspect visuel et état de surface** :
+  * La surface doit avoir un **aspect satiné/mat**, doux comme du cuir fin, et **rigoureusement sèche au toucher**.
+  * Si la surface brille ou poisse au doigt, c'est le signe d'un suintement d'eau libre provoqué par une fermentation précoce de nuit ou une lyse de levure (relargage de GSH).
+* **Réserve d'extensibilité ($L$)** :
+  * Saisir un triangle découpé par la base et la pointe : il doit s'allonger de 25 à 30 % sous une traction douce sans blanchir ni amorcer de micro-déchirure sur les chants.
+
+### 2.3 Le Farinage (Fleusage) Idéal : La Règle du "Voile Fantôme"
+Le farinage sur Croissomat est un exercice de haute précision. L'objectif est d'assurer le glissement sur les organes mécaniques sans jamais polluer l'intérieur du croissant.
+* **Nature du fleusage** : Utiliser exclusivement de la **Farine de Gruau T45 très sèche et tamisée** (ou un mélange 80 % T45 tamisée / 20 % fécule ou farine de riz micronisée pour un glissement ultra-fluide). Proscrire toute farine humide ou grumeleuse.
+* **Règle par zone machine** :
+  1. **Sous la bande (Face inférieure contre tapis)** : Fleuser d'un **voile ultra-fin et régulier** (aspect poussière/talc). Il empêche la pâte d'adhérer au tapis incliné et à la table centrale.
+  2. **Sur la bande (Face supérieure sous couteaux)** : **Zéro farine !** Les couteaux rotatifs tranchent avec une netteté chirurgicale sur une pâte nue. Une couche de farine supérieure encrasse les lames et crée des copeaux pâteux sous les racleurs.
+  3. **Station d'étirement axial** : Les rouleaux et tapis étireurs ont besoin d'une friction contrôlée pour agripper la pâte. Si le triangle est fariné sur le dessus, il patine et ne s'étire pas.
+  4. **Poste d'époussetage (Brosses avant enrouleur)** : Les brosses rotatives doivent être réglées en contact franc pour éliminer 100 % de la farine volante avant l'engagement sous le tablier à mailles inox.
+* **Le danger mortel du sur-farinage intérieur** :
+  * Si de la farine reste emprisonnée entre les spires lors de l'enroulement, elle forme une barrière physique anti-adhésive. Les couches ne fusionnent pas lors de la décongélation et de la pousse.
+  * **Conséquence en étuve et au four** : Le croissant se "débobine", la pointe s'échappe et les spires s'ouvrent en accordéon ou en tire-bouchon.
+
+---
+
+## 3. Le Bloc d'Enroulement Transversal : Maîtrise des 3 Manettes à Coulisses Rouges
 
 Le panneau latéral gauche est le centre nerveux du façonnage. Les trois manettes à poignée étoile noire coulissent dans des arcs de cercle munis de **réglettes graduées rouges**.
 
