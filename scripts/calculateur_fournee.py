@@ -114,8 +114,17 @@ def main():
     print("=" * 72)
     print(f"POIDS TOTAL PÂTON TOURÉ (12 films / 25-30 µm)  : {paton_toure_total_kg:7.2f} kg ({paton_toure_total_kg/args.bacs:.2f} kg / bac)")
     croissants = int((paton_toure_total_kg * 0.98) / 0.075)
-    pains_choc = int((paton_toure_total_kg * 0.98) / 0.085)
-    print(f"Rendements nets estimés (parage 2 %) : ~{croissants} croissants (75 g) OU ~{pains_choc} pains au chocolat (85 g)")
+    pains_choc = int((paton_toure_total_kg * 0.98) / 0.075) # 75 g de pâte crue par pièce
+    boites_160 = round(pains_choc / 160.0, 1)
+    chocolat_kg = pains_choc * 0.010
+    print("-" * 72)
+    print("RENDEMENTS D'ATELIER ESTIMÉS (après parage 2 %) :")
+    print(f"  > CROISSANTS D'EXCELLENCE (75 g cru) : ~{croissants} pièces")
+    print(f"  > PAINS AU CHOCOLAT 1 BARRE (85 g brut dont 75 g pâte + 10 g barre) :")
+    print(f"      - Nombre de pièces               : ~{pains_choc} pains au chocolat")
+    print(f"      - Besoin en barres calibre 160    : ~{pains_choc} barres ({chocolat_kg:.2f} kg de chocolat)")
+    print(f"      - Équivalent boîtes (160 barres)  : ~{boites_160} boîte(s)")
+    print("-" * 72)
     print(f"Diagnostic Thermique : {bilan_froid['remarque']}")
     print("=" * 72)
 

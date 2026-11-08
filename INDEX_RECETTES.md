@@ -8,13 +8,13 @@
 
 | Pôle de Fabrication | Nb Produits Recensés | Validés (`🟢`) | En Cours (`🔵`) | En Attente d'Audit (`🟡`) |
 | :--- | :---: | :---: | :---: | :---: |
-| **1. Viennoiseries Feuilletées (PLF & Tourage)** | 10 | 0 | 1 | 9 |
+| **1. Viennoiseries Feuilletées (PLF & Tourage)** | 10 | 2 | 0 | 8 |
 | **2. Viennoiserie Générale & Pâtes Levées** | 4 | 0 | 0 | 4 |
 | **3. Biscuiterie, Cakes & Pâtisserie Nomade** | 10 | 0 | 0 | 10 |
 | **4. Pâtisserie Boulangère Traditionnelle & Bases** | 4 | 0 | 0 | 4 |
 | **5. Pôle Girocrêpes & Traiteur Salé** | 5 | 0 | 0 | 5 |
 | **6. Référentiels d'Atelier & Documents Transverses** | 5 | 0 | 0 | 5 |
-| **TOTAL GÉNÉRAL** | **38** | **0** | **1** | **37** |
+| **TOTAL GÉNÉRAL** | **38** | **2** | **0** | **36** |
 
 ---
 
@@ -22,8 +22,8 @@
 
 | Code | Produit & Déclinaison | Calibre / Format | Procédé / Spécificité Atelier | Source Référence | Statut |
 | :--- | :--- | :---: | :--- | :--- | :---: |
-| `V-PLF-01` | **Croissant d'Excellence PAC** | 75 g | Poussé Surgelé (PAC), Ligne Rondo, Beurre 82/84% | `06_PLF_Pret_A_Cuire_PAC.pdf` | 🔵 En cours d'audit |
-| `V-PLF-02` | **Pain au Chocolat Équerré PAC** | 85 g | Poussé Surgelé (PAC), 2 barres chocolat 44% | `06_PLF_Pret_A_Cuire_PAC.pdf` | 🟡 En attente d'audit / Archive |
+| `V-PLF-01` | **Croissant d'Excellence PAC** | 75 g | Poussé Surgelé (PAC), Ligne Rondo, Beurre 82/84% | [Fiche](recettes/catalogue/croissant-pac-excellence.md) | 🟢 Validé Production |
+| `V-PLF-02` | **Pain au Chocolat Équerré PAC** | 85 g (75g pâte + 10g choco) | Poussé Surgelé (PAC), 1 grosse barre 160, Polyline | [Fiche](recettes/catalogue/pain-chocolat-equerre-pac.md) | 🟢 Validé Production |
 | `V-PLF-03` | **Pain aux Raisins (Escargot) PAC** | 90 g | Crème pâtissière à froid + raisins macérés | `06_PLF_Pret_A_Cuire_PAC.pdf` | 🟡 En attente d'audit / Archive |
 | `V-PLF-04` | **Pain Suisse (Chocolatines) PAC** | 120 g | Crème pâtissière + pépites chocolat 50% | `06_PLF_Pret_A_Cuire_PAC.pdf` | 🟡 En attente d'audit / Archive |
 | `V-PLF-05` | **Oranais aux Abricots PAC** | 100 g | Crème pâtissière + 2 demi-oreillons abricot | `06_PLF_Pret_A_Cuire_PAC.pdf` | 🟡 En attente d'audit / Archive |
