@@ -97,14 +97,23 @@ flowchart TD
 
 ---
 
-### Étape 3 : Façonnage Ligne Rondo Polyline & Croissomat J (07h30 – 10h30)
+### Étape 3 : Façonnage Ligne Rondo Polyline & Enrouleur Croissomat (07h30 – 10h30)
 1. **Laminage Progressif & Anti-Snapback** :
    - Pas de réduction Rondo $\le 20\text{--}25\text{ }\%$ par passe. Abaisse finale calibrée à **3,5 mm** (± 0,1 mm). Température de bande : **10 °C à 12 °C**.
-   - **Zone de décompression libre ($\ge 60\text{ secondes}$)** : Laisser flotter la bande sur le tapis convoyeur avant les couteaux rotatifs pour dissiper la mémoire élastique résiduelle.
-2. **Découpe & Enroulement Croissomat (Loi de Laplace $T = \Delta P \cdot r$)** :
-   - Réglage des couteaux rotatifs : Nettoyage et humidification nulle des lames pour éviter tout cisaillement ou micro-amorce de déchirure.
-   - **Réglage tablier Croissomat : Souple (3 à 4 spires lâches)**. Un serrage excessif augmente le rayon et la tension circonférentielle ($T$), provoquant l'éclatement de la spire externe en étuve de pousse.
-   - Poids cru cible : **75 g**. Pains au chocolat sur Polyline : **85 g**.
+   - **Zone de décompression libre ($\ge 60\text{ secondes}$)** : Laisser flotter la bande sur le tapis convoyeur avant les rouleaux découpeurs pour dissiper la mémoire élastique résiduelle.
+2. **Découpe & Géométrie Étalon du Triangle (Calibre 75 g)** :
+   - **Base** : 120 à 130 mm | **Hauteur brute** : 180 à 200 mm | **Poids net cru** : **75 g** (± 1 g).
+   - Entretien des couteaux rotatifs : Lames nettoyées à sec, tranchant rasoir sans bavure pour éliminer toute micro-fissure d'amorce sur les rives.
+3. **Réglage d'Étirement Axial sur Croissomat** :
+   - **Élongation cible** : Passer de **180–200 mm à 240–260 mm étirés** (gain d'allongement de +25 % à +30 %).
+   - **Rouleau étireur** : Pression douce d'entraînement sans écraser le feuilletage. Cet allongement est rendu docile par le coupage meunier (30 % T65 Tradition) qui maintient le $P/L \le 0,62$.
+4. **Fleusage & Époussetage Rigoureux** :
+   - Brosses rotatives supérieure et inférieure en action active pour balayer tout résidu de farine sur les deux faces du triangle avant l'enroulement (élimine le risque de débobinage en étuve ou de feuilletage qui s'ouvre en ressort au four).
+5. **Réglage du Tablier d'Enroulement (Mailles Inox Flexibles)** :
+   - **Entrefait d'amorce d'entrée** : Calibré à **5–6 mm** (1,5 fois l'épaisseur de pâte). La base accroche instantanément sans heurter ni plisser.
+   - **Élévation progressive** : Profil en coin divergent montant vers 28–32 mm en sortie pour accompagner la prise de diamètre du rouleau.
+   - **Lestage souple (Loi de Laplace $T = \Delta P \cdot r$)** : Alléger les barres de charge pour garantir **3 à 4 spires lâches**. L'opérateur doit pouvoir introduire l'extrémité du petit doigt dans les cavités latérales sans forcer.
+   - **Calage de la Clé (Pointe dessous)** : Translation du tablier ajustée pour que **la pointe du triangle termine rigoureusement plaquée sous le croissant (à 6 heures)** contre la plaque de cuisson, empêchant tout redressement en étuve ("langue de chat").
 
 ---
 
