@@ -1,0 +1,550 @@
+--- Page 8 ---
+Contents 
+Chapter Page 
+Section I. The Materials of Baking 
+1. Ingredients from wheat 1 
+2. Ingredients from other grains 23 
+3. Leaveners and yeast foods 53 
+4. Shortenings, emulsifiers, and antioxidants 77 
+5. Sweeteners and malt syrup 99 
+6. Water and salt 123 
+7. Ingredients from milk and eggs 151 
+8. Fruits, vegetables, and nuts 179 
+9. Spices, flavors, and colors 203 
+10. Other ingredients 229 
+Section II. Formulas and Processes 
+11. Unleavened bakery products 251 
+12. Products leavened with water vapor 283 
+13. Air-leavened products 303 
+14. Chemically leavened bread and rolls 321 
+15. Chemically leavened sweet goods 341 
+16. Yeast-leavened plain bread and rolls 361 
+17. Continuous, semi-continuous, and expedited doughs 387 
+18. Variety breads 403 
+19. Yeast-leavened sweet doughs 423 
+20. Other yeast-leavened products 443 
+21. Adjuncts: washes, glazes, icings, and marshmallow 463 
+22. Adjuncts: streusels, pastes, fillings, etc. 483 
+Section III. Equipment and Engineering 
+23. Bulk handling of ingredients 501 
+24. Weighing and metering equipment 525 
+25. Mixers and mixing 547 
+26. Dividing, rounding, sheeting, and laminating 569 
+27. Fermentation enclosures and brew equipment 589 
+28. Forming and molding bread-like products 609 
+29. Forming cookies and crackers 633 
+30. Forming other products 657 
+31. Ovens and baking 679 
+32. Fryers and frying 701 
+33. Pans, panhandling equipment, and slicers 717 
+34. Applicaters for adjuncts 737 
+35. Packaging materials and equipment 757 
+Section IV. Other Technical Considerations 
+36. Preservation methods 777 
+37. Computerization in plant and laboratory 795 
+38. Sanitation and safety 813 
+Index 833 --- Page 9 ---
+This Page is Intentionally Left Blank--- Page 10 ---
+INGREDIENTS MADE FROM WHEAT 
+chapter one 
+INTRODUCTION 
+Wheat flour is the ingredient that, more than any other, influences 
+the processing response of most doughs and batters and determines the 
+finished quality of most bakery products. Among the reasons for the strong 
+influence of flour are: (1) Unique proteins in wheat give most bakery 
+products a characteristic highly expanded structure; and (2) Wheat flour is 
+generally present in a larger proportion than any other ingredient. It 
+follows that bakers must be certain the flours they are using have 
+predictable and uniform properties appropriate to the products being made. 
+Many bakers do not have adequate facilities for testing their flour 
+and also have limited sources of supply. They must often procure flour in 
+bags from local distributors who sell a few types obtained from mills having 
+many other customers. Each type will be identified by a different brand 
+name. This situation forces the baker to depend heavily upon the reliability 
+of the miller. For satisfactory results, the flour must be uniform from bag to 
+bag and from shipment to shipment. Uniformity is nearly always preferable 
+to a so-called "improvement" that makes the ingredient less compatible with 
+the baker’s processing system. 
+Virtually all millers, large and small, will attempt to maintain unifor›
+mity in flour sold under a specific brand name or produced to meet a pub›
+lished set of specifications. Millers are, however, subject to certain 
+constraints in producing uniform products. Chief among these limitations is 
+an unavoidable variability in their raw material, wheat. Grain, even wheat 
+of a given variety grown in a specific area, will show differences in 
+composition from year to year, and this variability in raw material cannot 
+always be compensated for by adjustments in milling conditions. 
+The baker must, therefore, have a dependable supplier, preferably 
+one that will furnish technical assistance when problems arise. The miller 
+must be selected with care and the buyer must insist on receiving rapid and 
+complete input on expected changes in flour quality. Often defects in the 
+flour will not become apparent until items made with it come out of the 
+oven□or even later. These situations can be disastrous, since substandard 
+products can alienate customers or even be totally unsalable at any price to 
+any type of customer. By the time the defect is identified and corrective 
+action taken, the losses may be sufficient to put the baker out of business or, 
+at least, set back growth for many months. Price is important and must be 
+considered, of course, but no bargain can compensate for the harm that 
+results from delivery of inconsistent or defective ingredients. 
+In this chapter, characteristics of wheat important to the baker will --- Page 11 ---
+2 BAKERY TECHNOLOGY AND ENGINEERING 
+be described, followed by a review of flour tests and specifications as related 
+t^ 1 ked product quality. 
+WHEAT 
+It is generally agreed that wheat was one of the first cereal grains to 
+be cultivated. According to their traditions, the Chinese were growing wheat 
+as long ago as 2700 BC. It has been cultivated around the Eastern 
+Mediterranean and in Mesopotamia for at least 5,000-6,000 years. There is 
+abundant evidence that the ancient civilizations of Babylon, Egypt, Crete, 
+Greece, and Rome were dependent upon wheat as a principal food. Its use in 
+Abyssinia and India antedate written records. 
+The type of wheat for which we have the oldest records of cultivation 
+is emmer. It is true that durum wheat was found in Egypt in some tombs 
+dated to about 4000 BC, but emmer has been found in far greater abun›
+dance and at more sites. Emmer is not, however, cultivated anywhere in 
+Egypt at the present time, durum having totally displaced it. 
+Some primitive wheats are still grown to a limited extent in southern 
+Europe. These are einkorn, emmer, and spelt. They can be called primitive 
+because they share certain characteristics with the wild grasses of the 
+genus Tritcum to which they belong. Like these grasses, the primitive 
+wheats have a fragile, articulated head, which breaks into segments on 
+threshing, and the mature grain does not separate readily from its envel›
+oping structures. In other cultivated species, T. aestivum, for example, the 
+axis of the head is stout and not articulated, so that it resists breakage, 
+while the ripe kernel separates easily and cleanly from its husk. These 
+characteristics adapt the plant to efficient harvesting and threshing 
+procedures. 
+There are several different types of wheat grown in the U.S., and com›
+mercial production of the different types is usually fairly well separated by 
+regions. The principal wheat types by areas are hard spring wheat in the 
+northern Midwest states, hard winter wheat in the Southwest, hard and 
+soft wheat in the Pacific Northwest, soft wheat in the area east of the 
+Mississippi River, and durum wheat in North Dakota and South Dakota. Of 
+course, there is some overlapping and shifting of these types: for example, in 
+some of the northernmost states, hard red winter wheat may be planted, but 
+if winter kill is excessive, it may be replaced by durum in the same field the 
+following spring. 
+Commercial Wheat Varieties 
+Bread wheat, the grain formerly classified as T. vulgare but now 
+known as T. aestivum, consists of several varieties that have quite different 
+applications. Hard wheats yield flours that are particularly useful for bread, 
+bread rolls, pizza shells, and other products requiring a very elastic, exten›
+sible dough. Hard red spring wheat is normally higher in protein and has a --- Page 12 ---
+Wheat Ingredients 3 
+stronger gluten than hard red winter wheat. It normally sells at a premium 
+and is used for the very strong flours needed for multigrain breads, bagels, 
+and premium bread and rolls. Hard red winter wheat provides the raw ma›
+terial for most of the bread and bread roll flours sold in the U.S., as well as 
+for nearly all of the family or all-purpose flours. Soft wheats are milled into 
+flours used for a wide range of products□cakes, biscuits, cookies, pancakes, 
+quickbreads, etc., which do not require a highly extensible and tough gluten. 
+Club wheat, of which only a small amount is grown in the U.S., has many of 
+the same characteristics as other soft wheat varieties. Durum wheat, to be 
+discussed in more detail in the following chapter, is not a bread wheat and 
+is seldom, if ever, used in the U.S. as an ingredient in bakery products. 
+It is important for agronomists, grain buyers, millers, and other 
+persons involved in buying, selling, and processing wheat to be able to 
+determine the variety of a sample of the grain with a high degree of 
+confidence. Although identification of class□hard red, soft red, white, etc.□ 
+is routinely done to nearly everyone’s satisfaction by inspectors in the grain 
+trade, it is difficult or even impossible to identify every variety of wheat 
+within a class if reliance is placed only on visual and tactile clues. Field 
+appearance and many plant characteristics usually need to be studied 
+before identification can be clearly established. 
+It is important to be able to recognize by visual inspection certain 
+varieties that have doubtful baking quality. Identification is usually based 
+on kernel characteristics such as: color, texture, shape, and appearance of 
+the germ, back, crease, and brush. Other clues are wrinkling, depressions, 
+fine lines, or sharply outlined germ. In some cases, kernel characteristics 
+are sufficiently different to be recognizable by non-specialists who have had 
+some instruction in wheat kernel identification. Various instrumental 
+methods have been developed for determining hardness and other factors of 
+importance. 
+Table 1.1. RANGES OF MAJOR COMPONENTS IN U.S. WHEAT1 
+Range of Analytical Results, % 
+Determination Low High 
+Protein (N X 5.7) 7.0 18.0 
+Mineral matter (ash) 1.5 2.0 
+Lipids (fat) 1.5 2.0 
+Starch 60.0 68.0 
+Cellulose (crude fiber) 2.0 2.5 
+Moisture 8.0 18.0 
+1 Data assembled from several sources. 
+Varieties within the classes of hard red spring, hard red winter, or 
+hard white wheat can exhibit wide differences from the norm of gluten 
+quality for the class. To be of top quality, a variety of hard wheat should --- Page 13 ---
+4 BAKERY TECHNOLOGY AND ENGINEERING 
+yield flours that have high dough absorption and good tolerance to vari›
+ations in mixing and fermentation conditions, and that are capable of 
+producing bread of good volume, grain, and texture. Some wheat varieties 
+possess these neccessary attributes to a high degree while others do not. 
+The selection of satisfactory wheat for a specific purpose depends upon a 
+determination of the gluten characteristics essential to that purpose. 
+Composition of Wheat 
+Wheat composition can vary considerably from one area to another 
+as well as from year to year within any given area. A fairly typical range in 
+composition of wheat samples collected within the U.S. in one crop year is 
+indicated in Table 1.1. The samples represented many different varieties of 
+all commercial grades. The reader will understand that samples will be 
+found exhibiting values falling outside these ranges, but such lots would be 
+rather rare so far as material found in commercial channels is concerned. 
+In addition to publications on the proximate composition of wheat, 
+which indicate only broad classes of chemical constituents, a vast amount of 
+analytical data has been assembled on the amino acid content of wheat 
+proteins, the elements constituting the ash or mineral matter, enzyme 
+activity, vitamin content, and the properties of wheat starch and other 
+carbohydrate materials. Investigators caught up in the current enthusiasm 
+for knowledge about fiber components have expended considerable effort in 
+identifying and characterizing the indigestible materials in wheat kernels. 
+A short basic review of the current state of knowledge of wheat constituents 
+is given in the following discussion. 
+Table 1.2. WHEAT ENDOSPERM PROTEINS CLASSIFIED BY 
+OSBORNE'S METHOD1 
+Percentage 
+of total 
+Protein Class Solvent nitrogen 
+Globulin+albumin NaCl in water 12-18 
+Gliadins 70% ethanol 20-43 
+Glutenins Acetic acid 6-12 
+Glutenins HgCl 19-28 
+Glutenins 2-mercaptoethanol 10-27 
+Based on Blanco et al. (1988) 
+Proteins.□As a cereal plant develops and eventually forms seeds, 
+two basic metabolic processes are predominant□photosynthesis and forma›
+tion of proteins from smaller nitrogen-containing compounds. Photosyn›
+thesis leads to the formation of carbohydrates from carbon dioxide, water, 
+and energy. Protein is developed from simpler nitrogen-containing substan›
+ces extracted from the environment. The uniqueness of wheat among cereal --- Page 14 ---
+Wheat Ingredients 5 
+grains depends mostly upon the characteristics of its protein content. 
+The storage proteins in wheat kernels include gluten, which is the 
+complex mixture of nitrogenous compounds that gives wheat flour doughs 
+their cohesive and elastic properties. Gluten can be separated from wheat 
+flour by making a stiff dough from a mixture of flour and water, then wash›
+ing (manually or mechanically) this dough in an excess of water (as in a 
+stream of water) until the starch granules and all soluble materials have 
+been removed. Gluten appears to be a mixture of two major fractions called 
+glutenin and gliadin. The gliadin fraction is soluble in neutral 70% aqueous 
+ethanol. It consists mainly of monomelic proteins that associate by non-
+covalent hydrogen bonding and by hydrophobic interactions, but also con›
+tains polymeric molecules that are related structurally to some glutenin 
+subunits. Glutenins are essentially insoluble in 70% ethanol, and appear to 
+consist of proteins or subunits that are aggregated into high molecular 
+weight polymers by covalent disulfide bonds. See Shewry et al. (1987) for 
+more details. The solvent methods for separating gluten into fractions con›
+forming to Osborne’s well-known classification are shown in Table 1.2. The 
+albumins and globulins include enzymes. Structural details are shown in 
+Figure 1.1, slightly modified from Bietz (1979). 
+The protein of the wheat kernel is not a well balanced nutrient for the 
+human diet. It has a PER considerably below that of egg, milk, or soybean 
+protein, although it is superior to corn protein. The limiting amino acid is 
+lysine, as is the case with the proteins found in most other cereals. 
+Table 1.3 lists essential amino acids in various mill products. Gener›
+ally speaking, the more refined the product, the less lysine is present. Germ 
+contains the most. Various attempts have been made to develop strains of 
+wheat that have better than average protein quality, as by increasing the 
+content of lysine. Some success has been acliieved, but high lysine strains 
+often have defects, such as poor yield, reduced bread-making quality, etc. 
+Table 1.3. ESSENTIAL AMINO ACIDS IN WHEAT FRACTIONS1 
+Milled Fractions 
+Whole Patent Clear Red 
+Amino Acid grain flour flour Bran Germ Shorts dog 
+Isoleucine 3 8 3.9 4.0 3.5 3.5 3.5 3.8 
+Leucine 6 7 6.7 6.7 6.0 6.2 6.0 6.4 
+Lysine 2 7 1.9 2.0 4.0 5.4 4.4 3.9 
+Methionine 1 7 1.8 1.8 1.6 2.0 1.7 1.9 
+Cysteine 2 2 2.3 2.1 2.0 1.7 1.6 2.1 
+Phenylalanine 4 6 4.9 5.0 3.9 3.8 3.8 4.3 
+Tyrosine 3 1 2.9 3.2 2.8 2.8 2.7 2.9 
+Threonine 2 9 2.7 2.7 3.3 3.7 3.3 3.2 
+Tryptophan 1 2 1.0 1.0 1.6 1.1 1.4 1.3 
+Valine 4 7 4.3 4.5 5.0 5.1 5.0 5.0 
+Expressed as gm per 16 gm N; based on Pomeranz (1988). --- Page 15 ---
+6 BAKERY TECHNOLOGY AND ENGINEERING 
+Class Solubility Feature s 
+Albumins an d  Sal t solution s 
+Globulins 
+Gliadm 
+Residue 
+70% Alcoho l 
+Solution 
+Reducing Agent s 
+or Alkal i 
+Glutenin 1 %  Acetic Aci d  s-s - s-s - hs- s 
+Figure 1.1. Solubility and structural features of wheat proteins. 
+Carbohydrates.□Carbohydrates are formed from carbon dioxide 
+and water by the process of photosynthesis. They serve as some of the 
+supporting structures in the plant and seed, act as energy sources for many 
+of the plant’s reactions, and are deposited in the seed to furnish energy for 
+the early development stages of a new plant. 
+Mono- and di-saccharides can be found in the dormant wheat kernel, 
+but they are present in very small amounts. As percentages of dry matter, 
+the following values may be considered fairly representative: fructose 0.06, 
+glucose 0.08, galactose 0.02, sucrose 0.54, difructose 0.26, and maltose 0.05. 
+Sugars of higher molecular weight are found in very small amounts. For 
+example, about 0.19% raffinose has been reported as being present. Table 
+1.4 gives the results of a compilation by Cerning and Guilbot (1974) of 
+numerous analyses performed by several laboratories, investigating the 
+carbohydrate content of wheat. 
+Starch is the carbohydrate present in the greatest amount in the mat›
+ure wheat kernel. It is a polymer of D-glucose, most of the hexose units 
+being joined together by a-(l-4) bonds. There are varying proportions of 
+amylose and amylopectin, molecules of the former being essentially straight 
+chains of glucose residues with only a few branch points, while molecules of 
+the latter contain numerous side chains attached by 4% to 5% cc-(l-6)-D-
+glucosidic linkages and have a molecular weight greater than about 108 . --- Page 16 ---
+Wheat Ingredients 7 
+Table 1.4. SUGARS AND POLYSACCHARIDES IN WHEAT KERNELS 
+Component Content Component Content 
+Total alcohol Glucose 0.03-0.09 
+soluble sugars 2.15-3 96 Fructose 0.06-0.08 
+Glucofructosans 0.94-1 14 Galactose 0.02 
+Raffinose 0.19-0 68 Starch 62.9-75.0 
+Glucodifructose 0.26-0 41 Crude fiber 1.70-3.02 
+Maltose 0.01-0 18 Pentosans 5.57-9.00 
+Sucrose 0.54-1 55 
+Starch is deposited in plant cells as microscopic particles of varying 
+size and conformation. Many genes are involved in determining the shape, 
+crystalline pattern, and chemical properties of starch granules. In wheat 
+starch, the granules have a bimodal size distribution, with about 3% to 4% 
+(50% to 75% by weight) being lenticular and 15 to 40 microns in size while 
+the remainder are small granules, approximately spherical and ranging in 
+size from about 1 to 10 microns. In spite of the apparent bimodal distribu›
+tion, there is actually a continuous gradation in size of granules from smal›
+lest to largest, especially evident during development of the kernel, as 
+would be expected since the sudden appearance of large granules without 
+any intermediate growth stages would indeed be a curious phenomenon. In 
+the ripe kernel, the intermediate size granules are not numerous, constitu›
+ting in many cases only a fractional percentage of the total weight of starch. 
+Polysaccharides other than starch are found in cell walls of the paren›
+chymatous and lignified tissues of the wheat plant. In the cell wall paren›
+chymatous tissues, these compounds are present mainly as arabinoxylans 
+and soluble |3-D-glucans. Small amounts of cellulose and glucomannans may 
+be present, but pectins and pectic substances are absent. Wheat endosperm 
+is comparatively rich in arabinoxylan and very low in |3-D-glucans, unlike 
+the condition existing in barley and oats. Cell walls of the lignified bran 
+layers of the kernels contain appreciable amounts of cellulose. Arabinoxy›
+lans are present, but they are acidic rather than neutral, as in the 
+endosperm. Lignin and protein can be found in the isolated polysaccharide 
+fraction (Lineback and Rasper 1988). The starch-protein matrix and the size 
+of the starch granules in the wheat kernel are important considerations in 
+flour milling and in bakery processes. 
+Lipids 
+Among the lipids reported to have been found in wheat kernels are 
+free fatty acids, simple glycerides, galactosylglycerides, phosphoglycerides, 
+sterol lipids, sphingolipids, diol lipids, tocopherols, Jcarotenoids, wax esters, 
+and hydrocarbons. In amount, the principal ljjrfds are acyl lipids containing 
+the fatty acids palmitic, stearic, oleic, linoleic, and a-linolenic. Reports have 
+indicated minor amounts of many other fatty acids. Triglycerides predomi---- Page 17 ---
+8 BAKERY TECHNOLOGY AND ENGINEERING 
+nate, with minor amounts of diglyceride and monoglyceride. Table 1.5 
+(based on data from Lockhart and Nesheim 1978) summarizes the typical 
+distribution of fatty acids in wheat lipids, with the polyunsaturated fatty 
+acids being included in the unsaturated fatty acid figures. 
+Table 1.5. FATTY ACID COMPOSITION OF WHEAT AND PRODUCTS1 
+Saturated Unsat'd Poly-
+Total fatty fatty unsaturated 
+Material Analyzed lipid acids acids fatty acids 
+HRS wheat 2 .7 0. 37 1 56 1 .30 
+HRW wheat 2 .5 0. 35 1 47 1 .18 
+SRW wheat 2 .4 0. 35 1 40 1 .14 
+White wheat 2 .0 '0. 30 1 14 0 .95 
+HRSW flour 1 .5 0. 23 0 84 0 .72 
+HRWW flour 1 .5 0. 20 0 74 0 .67 
+SRWW flour 1 .4 0. 22 0 76 0 .68 
+All-purpose flour 1 .4 0. 23 0 72 0 .61 
+Bran 4 .6 0. 74 3 09 2 .36 
+Germ 10 .9 1. 88 8 18 6 .60 
+Durum wheat 3 .3 0. 54 1 88 1 .47 
+Durum semolina 1 .8 0. 33 0 90 0 .72 
+1 Values as grams of lipid per 100 g material. 14% MB 
+Minerals and vitamins.□Minerals form a small part of the wheat 
+kernel, and an even smaller proportion of the endosperm□less than 1%. 
+Major constituents of the mineral fraction are the phosphates and sulfates 
+of potassium, magnesium, and calcium. Some of the phosphate is present in 
+the form of phytic acid. There are significant quantities of iron, manganese, 
+zinc, and copper as well as trace amounts of many other elements. One 
+report shows the following ranges for wheat (in mg per kg): iron 18-31, zinc 
+21-63, copper 1.8-6.2, manganese 24-37, and selenium 0.04-0.71. Hard 
+wheat generally contains more of these elements than soft wheat. Potas›
+sium is present at about 0.37% in whole soft wheat (air dry basis), mag›
+nesium at 0.15%, phosphorus at 0.42%, and calcium at 335 ppm (ODell et 
+al. 1972). The sodium content of wheat is quite low. The results of one 
+extensive set of analyses is reproduced in Table 1.6. 
+Bioavailability of the wheat minerals must be considered in any 
+nutritional evaluation of the grain. Phytate, most of which is found in the 
+aleurone layer, forms insoluble complexes with some minerals, and these 
+complexes are poorly absorbed from the digestive tract. Zinc may be 
+rendered totally unavailable as a result of this chelation, and the 
+availability of other essential minerals may be adversely affected. Calcium 
+is said to increase the binding effect of phytin on zinc. --- Page 18 ---
+Wheat Ingredients 9 
+There are substantial variations in published figures for the vitamin 
+content of wheat, but the grain is known to be a significant source of thia›
+min, niacin, and B6. The vitamin content of 406 wheat cultivars from five 
+market classes was reported by Davis et al. (1981). Mean values, in mg per 
+kg, were thiamin 4.6, riboflavin 1.3, niacin 55, and pyridoxine 4.6. Ranges 
+were 3.3 to 6.5, 1.0 to 1.7, 38 to 93, and 1.6 to 7.9, respectively. 
+Table 1.6. MINERAL AND PHYTATE CONTENT OF WHEAT KERNELS1 
+Content in kernel or part 
+Element or 
+compound Whole 
+and unit kernel Germ Endosperm Aleurone Hull 
+Total P,% 0.42 1.66 0.11 1.39 0.08 
+Phytate P, % 0.32 1.10 0.001 1.16 0 
+Zn, ppm 40.4 222. 14 .1 119. 88.7 
+Fe, ppm 54.6 235. 21.5 186. 110. 
+Mn, ppm 56.4 402. 8.80 130. 182. 
+Cu, ppm 4.25 18. 2.80 12. 22.6 
+Ca, ppm 335. 1760. 173. 730. 2570. 
+Mg, % 0.15 0.54 0.02 0.58 0.13 
+K, % 0.37 0.91 0.12 1.10 0.24 
+1 O'Dell et al. (1972) . The kernel was composed of 3.5% 
+germ, 70 5% endosperm , 23% aleurone, and 3% hull . All 
+analyses reported on an air dry weight 
+Fiber.□In all discussions of dietary fiber, quantitative presentations 
+are clouded by the almost continual changes in definition and concept of this 
+category of substances which have occurred over the past decade, as well as 
+by the lack of standardization in test conditions which existed until quite 
+recently. It is very clear, however, that wheat endosperm contains only 
+minor amounts of substances which could be called fiber even by the most 
+liberal definition, and this condition carries through to white flour. "Wheat 
+flour" (containing some of the outer layers) and whole wheat flour (contain›
+ing all the fractions in the same proportion as in the kernel) are somewhat 
+better, but not superior, sources of dietary fiber. White flour, whole wheat 
+flour, and wheat bran contain, on the average, 2.78%, 12.57%, and 42.65% 
+dietary fiber (dry matter basis) according to Cummings and Englyst (1987). 
+Pigments.□Ripe wheat grain varies from light buff or yellow to red-
+brown, according to the concentration of red pigments in the seed coat. The 
+color will vary little in true breeding cultivars, allowing wheat varieties to 
+be reliably classified as red or white. Red pigmentation is controlled by 
+three genetic loci, with the result that depth of color can differ between vari›
+eties classified as red. The amber color of some durum wheats results from 
+endosperm pigments seen through the translucent exterior layers. Nearly --- Page 19 ---
+10 BAKERY TECHNOLOGY AND ENGINEERING 
+all bread wheat grown in the U.S. is red, but Australia produces white bread 
+wheat exclusively. Canadian wheat is all, or nearly all, of the red type. In 
+some emmer wheats, a purplish kernel color has been observed. Soft, chalky 
+endosperm increases the paleness of white wheats and decreases the color 
+of red wheats, while hard, vitreous endosperm has the opposite effect. 
+The endosperm of wheat has a pale yellow color that is slightly dar›
+ker in hard wheat, as compared to soft wheat, and durum endosperm has 
+even more color. The outer layers of wheat have a slight red to dark brown 
+color, depending on the cultivar. These pigments are not considered desir›
+able in white bread, but the yellow color is much less objectionable than the 
+grayish effect given by bran particles. The yellow color is highly desirable in 
+pasta, and therefore is a quality factor in durum semolina. Bran specks are 
+at least as objectionable in pasta as in bread, and probably more so. 
+The yellow pigments are primarily carotenoids, hydroxylated xantho-
+phylls (lutein), mono- and di-esters of lutein, and flavones (primarily tricin). 
+Very small amounts of other xanthine compounds and chlorophyll decompo›
+sition products have also been reported. The bleaching agents added by 
+millers to some types of flour oxidize carotene; nutritionally this is not 
+important since there is not enough provitamin A in flour for it to be a 
+significant source for humans. Xanthophylls are easily oxidized to colorless 
+compounds. Both carotenes and xanthophylls are’ insoluble in water but 
+readily dissolve in many organic solvents. Tricin is the major flavone in 
+wheat. The flavone pigments range in color from yellow to brown. 
+A preparation of the enzyme(s) called lipoxygenase is commercially 
+available for use as a bleaching agent in bread doughs. In a rather complex 
+series of reactions, carotene is oxidized by this enzyme preparation, so that 
+a lighter-colored bread crumb is obtained. 
+Enzymes.□There are certainly hundreds, perhaps thousands, of 
+different enzymes in wheat. Virtually all of the reactions that make up the 
+metabolic activities of the plant are expedited and guided by these organic 
+catalysts. In the intact, dry, ungerminated grain, the total enzyme activity 
+appears to be very slight, but this picture changes dramatically when 
+germination begins. Then, activity becomes pronounced as new enzymes are 
+generated and preformed but hindered enzymes are released. The enzymes 
+that have received the most attention from investigators are the amylases, 
+or starch-digesting enzymes, primarily because the effects of these enzymes 
+are so important in baking and, particularly, in malting and brewing. 
+Among the carbohydrases in cereals are oc-amylases, p-amylases, 
+debranching enzymes, cellulases, p-glucanases, and many glucosidases. 
+Alpha-amylase appears to be the most important carbohydrase. Wheat also 
+contains a large number of proteolytic enzymes, such as endoproteolytic 
+enzymes (cleaving peptide bonds some distance from the ends of protein 
+molecules) and exoproteolytic enzymes (attacking either the carboxyl or 
+amino termination of a protein molecule). The acid carboxypeptidases, 
+which are exoproteolytic enzymes reacting at the carboxyl termination, are --- Page 20 ---
+Wheat Ingredients 11 
+relatively abundant. Ester hydrolases include enzymes such as lipases, 
+esterases, and phosphatases; the first two are differentiated by their ability 
+to break ester linkages from water-insoluble esters and soluble carboxylic 
+acid esters, respectively. Phosphatases act primarily on esters of 
+orthophosphoric acid. 
+Phytase catalyzes the hydrolysis of phytic acid to inositol and free 
+orthophosphate. Lipoxygenase, which catalyzes the peroxidation of certain 
+polyunsaturated fatty acids by molecular oxygen, is found in wheat. Poly›
+phenol oxidases (catechol oxidase, tyrosinase, etc.) oxidize phenols to 
+quinones and are evidently more concentrated in the bran than in the endo›
+sperm; some of their reaction products are colored. Peroxidases and catalase 
+are classed as hydroperoxidases that catalyze the oxidation of certain 
+aromatic amines and phenols by hydrogen peroxide; they are also more 
+active in bran than in the endosperm. All of these, and other enzymes, are 
+discussed in much detail in the recent review by Kruger and Reed (1988). 
+Utilization of Wheat 
+Most wheat grown in the U.S. is milled into flour. The amount of the 
+unmilled grain used as animal feed depends on its price relative to other 
+feed grains such as corn and sorghum, but is usually fairly small. A 
+comparatively constant amount is used as seed, and some is used in break›
+fast cereals, distilled spirits, etc. 
+When wheat is milled, those portions of the kernel not used for flour 
+go into some combination of bran, shorts, red dog, germ meal, and mixed 
+feed. The nutritional attributes of such products have been studied exten›
+sively, but a difficulty with comparisons is that these materials vary widely 
+in composition from one lot to another. The raw materials themselves vary: 
+wheat, for example, can vary in protein content from 7% to 18%. Obviously, 
+the by-products obtained from milling wheats of different composition will 
+themselves vary. And, the efficiency of the milling operation and the way 
+the operator combines the millstreams affects the quality of the millfeed. 
+Products that can be produced by roller mills of conventional design and 
+operation are shown in Figure 1.2. 
+A fairly large amount of gluten, both "vital" and denatured, is pro›
+duced. Quite a lot is made in Australia. The U.S. gluten industry seems to 
+be increasing. Vital gluten is being increasingly used for supplementing 
+weak flours and for giving adequate structure to health breads loaded with 
+non-wheat grains and other ingredients that give no gas-retaining proper›
+ties to the dough. A considerable amount of the undenatured gluten is also 
+being used in hamburger bun and hot dog roll formulas to give the desired 
+low density and a texture that stands up to the abuse given these products. 
+Small amounts of gluten are processed into liquid dietary supplements and 
+flavoring hydrolysates. --- Page 21 ---
+12 BAKERY TECHNOLOGY AND ENGINEERING 
+100 POUND S O F WHEA T 
+72 % o f Whea t =  1  00 % Straight , Al l Stream s 28 % o f Whea l =  Fee d 
+Medium Paten t Flou r 
+Straight Flou r 
+Extra Shor t o r 
+Fancy Paten t Flou r 
+Short o r 
+First Paten t Flou r 
+Long Paten t Flou r 
+Short Paten t Flou r 
+40 % 14 % Bra n 
+1 6 % Bra n 
+1 4 % Short s 
+1 2 % Shorts 
+Figure 1.2. Products produced by conventional milling of wheat. 
+Applications specific to soft wheat□According to Finney (1989), 
+soft wheats are a preferred source of flour for four product categories and at 
+least 25 product types. He names the product categories of chemically-
+leavened and yeast leavened baked products, non-baked confectionery, and 
+industrial uses. Most authorities would probably not agree that soft wheat 
+is preferred for yeast-leavened bakery products. He lists the following yeast-
+leavened products as often being made with soft wheat flour: saltines, 
+pretzels, French-type bread, Chinese steamed bread, and many flat breads. 
+Non-baked products include soups, batters, breadings, gravies, and various 
+noodle types. Of course, it is well known that many chemically-leavened 
+products, such as cakes, cookies, doughnuts, biscuits, and pancakes are 
+most often made with soft wheat flour, and so are many non-leavened 
+products such as cream wafers, pie crusts, and ice cream cones. 
+When milled, the endosperm of soft wheat breaks yields smaller flour 
+particles than does hard wheat endosperm. The bran usually separates 
+readily from the endosperm, and the latter is easily disintegrated to flour 
+particle size by the reduction rolls. This means the mill requires less energy 
+to grind a given amount of flour, and often the number of steps (roll stands) 
+is reduced. 
+Applications specific to hard wheats.□The market price of hard 
+wheat is usually slightly higher than the price of soft wheat, so hard wheat 
+products are generally restricted to those uses for which they are 
+particularly well suited. For all practical purposes, this means applications 

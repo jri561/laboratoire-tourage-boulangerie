@@ -1,0 +1,748 @@
+
+=== PAGE 826 ===
+30
+Frozen	Dough	and	Par-baked	Products
+Stanley	P.	Cauvain
+BakeTran,	Witney,	Oxford,	UK
+Introduction
+Definitions	and	technologies
+Refrigerated	or	retarded	dough
+Un-proved	frozen	dough
+Pre-proved	frozen	dough
+Par-baked	products
+Dough	gas	retention	properties
+Yeast	in	frozen	and	refrigerated	dough
+Formulation	and	production	of	frozen	dough
+Dough	temperature
+Flour	and	improvers
+Yeast	level
+Freezing	and	storage
+Defrosting	and	proving
+Pre-proved	frozen	dough
+Formulation	and	production	of	refrigerated	dough
+Dough	making	and	processing
+Ingredients	and	formulation
+Refrigeration	and	storage
+Proving	and	baking
+The	manufacture	of	par-baked	products
+Ingredients	and	formulations
+Proving	and	first	bake
+Cooling	and	storage
+Impact	of	re-heating	(bake-off)
+Frozen	par-baked	products
+Conclusions
+References
+=== PAGE 827 ===
+Introduction
+Milling	and	baking	are	among	the	oldest	technologies	known	to	humankind.	Bread
+represents	one	of	the	oldest	“convenience”	foods	and	its	production	and	consumption	has
+spread	to	most	parts	of	the	world.	Bread	making	has	moved	from	small-scale,	local
+production	to	large-scale	industrial	production.	In	part	this	change	has	arisen	to	cope	with
+the	increasing	demand	for	bread	and	other	bakery	products.	While	per	capita	consumption	of
+bread	in	highly	industrial	countries	has	continued	to	slowly	decline	(Rosell	2003)	the
+position	in	developing	countries	is	
+commonly	one	of	increasing	consumption	with
+“traditional”	westernized	bread	products	becoming	the	“new”	products	in	developing	regions.
+A	key	quality	driver	for	the	purchase	and	consumption	of	bread	is	its	“freshness”.	This
+concept	is	not	an	easy	one	to	define	since	it	requires	consideration	of	both	crumb	and	crusts
+properties.	What	is	perhaps	easier	to	define	is	the	concept	of	bread	“staling”,	that	is	the	loss
+of	those	“just-baked”	qualities	of	bread	which	commonly	include	a	soft	and	slightly	chewy
+crumb	texture	(Cauvain	and	Young	2006a).	Unfortunately	the	nature	of	bread	crumb	(and
+crust)	changes	once	bread	has	left	the	oven	and	begun	to	cool.	The	main	changes	in	character
+are	associated	with	increasing	firmness	and	progressive	increase	in	fragility	of	the	crumb.
+Such	changes	are	related	to	moisture	loss	from	the	product,	for	example	when	unwrapped,
+but	are	also	associated	with	moisture	migration	from	crumb	to	crust,	for	example	moisture
+equilibration	if	wrapped	in	a	moisture	impermeable	film,	and	microscopic	changes	to	the
+starch	and	gluten	structures.
+When	baking	and	shopping	purchases	are	carried	out	locally	and	consumption	is	within	24–
+48	h	after	production,	these	changes	do	not	leave	the	product	inedible.	However,	if	the
+product	is	to	retain	its	edibility	for	longer,	then	the	introduction	of	strategies	which	extend
+the	product	shelf-life	are	called	for.	An	alternative	to	introducing	shelf-life	extension
+strategies	is	to	use	technology	to	interrupt	standard	industrial	bread	processes	and	use	the
+intermediates	as	the	basis	for	bake-off	production	at	local	sites	such	as	village	bakeries,
+railway	and	gas	stations,	and	in	retail	baking	environments.	Freezing,	refrigeration,	and	par-
+baking	represent	the	two	most	common	means	of	achieving	such	aims.	However,	a	major
+challenge	for	the	primary	manufacturer	of	frozen	dough	and	par-baked	products	is	that	the
+ultimate	product	is	only	determined	at	final	bake-off	and	commonly	the	conditions	and
+practices	used	at	that	moment	in	time	are	not	within	the	primary	manufacturer’s	control.
+=== PAGE 828 ===
+Definitions	and	technologies
+There	is	no	clearly	defined	line	between	refrigeration	and	freezing	conditions	when	applied	to
+baked	products.	This	is	because	the	formulation	of	baked	products	has	a	profound	effect	on
+the	“freezing	point”.	In	particular	it	is	the	level	of	soluble	solids	which	has	the	greatest
+influence,	with	the	main	ones	being	salt	and	sugars.	Thus	the	freezing	point	for	bread	dough
+which	is	low	in	sugar	is	much	higher	than	that	of	an	unbaked	cake	batter	for	example.	The
+range	of	temperatures	concerned	start	at	around	−5
+ 
+°C	for	bread	and	falls	to	around	−18
+ 
+°C
+for	cake	batters.	For	the	purposes	of	discussion	in	this	chapter,	the	dividing	line	between
+refrigeration	and	freezing	will	be	taken	as	−5
+ 
+°C.
+In	the	discussions	which	follow,	the	relatively	poor	conductivity	of	dough	and	baked	products
+plays	a	major	role	in	determining	the	application	of	freezing	and	par-baking	technologies.
+Heat	can	only	be	removed	or	introduced	into	a	dough	unit	through	its	surface,	thereafter
+conduction	is	the	main	mechanism	for	heat	to	flow	through	the	dough	piece	to	its	centre.
+Temperature	differentials	between	the	product	and	the	ambient	air	clearly	play	a	significant
+role	in	determining	the	rate	of	heat	flow	but	the	temperature	gradient	that	is	set	up	through
+the	dough	piece	is	equally	important.	A	practical	consequence	of	this	–	and	factors	such	as
+yeast	activity	–	are	key	determinants	of	final	product	quality	and	so	freezing	and	warming
+conditions	tend	to	be	relatively	lengthy,	often	taking	hours	rather	than	minutes	(
+Table	30.1
+).
+Because	of	these	circumstances,	both	freezing	and	par-baking	are	most	successfully	
+applied
+to	smaller	units	like	pastries,	rolls,	and	breads	where	the	dough	diameter	is	relatively	small
+compared	with	their	surface	areas,	for	example	French	sticks.
+Table	30.1
+	Typical	freezing	times	and	rates	for	frozen	dough
+Core	temperature
+achieved	(°C)
+Time	taken	to	cool	from	30
+ 
+°C	(min)
+Average	freezing	rate
+(°C/min)
+  
+0
+ 
+47
+0.62
+−10
+ 
+86
+0.44
+−20
+110
+0.44
+Refrigerated	or	retarded	dough
+Refrigeration	is	used	to	reduce	the	activity	of	yeast	in	fermented	dough	thereby	prolonging
+the	storage	life	of	the	unbaked	dough.	Bakers	most	commonly	refer	to	the	application	of
+refrigeration	as	
+retarding
+	and	the	equipment	in	which	the	dough	is	held	as	a	
+retarder
+.	The
+main	distinction	between	a	refrigerator	and	a	retarder	is	that	the	refrigeration	coils	in	the
+latter	are	designed	with	a	larger	surface	area	to	maintain	a	higher	cabinet	relative	humidity
+than	would	otherwise	be	possible	with	a	standard	refrigerator.	This	design	change	is
+necessary	to	reduce	the	likelihood	that	the	stored	dough	will	lose	moisture	(skin)	and
+consequently	yield	inferior	products.	Typically	the	dough	pieces	are	stored	at	temperatures
+between	−5	and	+8
+ 
+°C.	The	lower	the	temperature,	the	lower	the	rate	of	gas	production	by	the
+yeast,	but	even	at	−5
+ 
+°C	measurable	gas	production	can	occur	over	the	1–3	days	that	are
+typical	for	retarded	products.
+The	retarder	may	be	used	alone	or	be	part	of	an	integrated	unit	known	as	a	
+retarder-prover
+=== PAGE 829 ===
+which	combines	cooling,	chilled	storage,	and	warming	operations.	The	aim	of	retarding	is	to
+”time-shift”	production	so	that	dough	may	be	prepared	in	advance	of	the	requirement	for
+baking.	Retarding	is	most	often	seen	in	smaller	and	retail	bakeries	since	it	allows	for	dough
+pieces	to	be	ready	for	baking	when	the	bakery	or	store	first	opens.	For	the	reasons	described
+earlier,	retarding	is	best	suited	to	the	manufacture	of	rolls,	buns,	and	fermented	pastries.
+Un-proved	frozen	dough
+If	longer-term	storage	of	unbaked	dough	is	required	then	it	is	necessary	to	hold	it	at
+temperatures	which	slow	down	(effectively	stop)	yeast	activity	and	other	physicochemical
+changes.	This	commonly	means	storing	the	product	at	temperatures	around	−20
+ 
+°C.	It	is	not
+necessary	to	have	the	whole	of	the	dough	unit	at	the	final	temperature	before	storage	but	it	is
+important	that	all	areas	of	the	dough	unit	are	“frozen”.	Common	practice	is	to	use	a	blast
+freezer	to	lower	the	core	temperature	of	the	dough	pieces	to	around	−10
+ 
+°C	using	air
+temperatures	around	−30
+ 
+°C.	Lower	air	temperatures	are	not	desirable	because	of	the	adverse
+impact	on	the	yeast	(see	later,	Yeast	in	frozen	and	refrigerated	dough).
+Thus	when	the	products	enter	the	storage	freezer	there	is	a	temperature	gradient	in	the
+dough	pieces	but	provided	the	temperature	is	not	allowed	to	rise,	the	final	stages	of	freezing
+can	take	place	in	the	storage	unit	without	significant	loss	of	quality.
+Frozen,	non-fermented	dough	pieces	require	defrosting	and	proving	before	they	are	baked.
+These	stages	have	to	be	carried	out	gradually	to	minimize	the	temperature	gradient	in	the
+defrosting	product	in	order	to	optimize	final	product	quality.	Defrosting	times	can	be	very
+long	and	the	process	is	best	achieved	using	specialized	equipment.	Retarder-provers	with	a
+special	defrosting	stage	are	often	used	for	the	purpose.	Once	again	small	products	like	rolls
+and	buns	and	small	diameter	breads	are	better	suited	to	frozen	dough	technology.
+Pre-proved	frozen	dough
+There	are	some	bakery	products	which	can	be	proved	before	being	frozen.	The	objective	of
+the	technology	is	to	provide	units	which	can	be	taken	straight	from	the	freezer	and	placed	in
+the	oven	for	baking,	or	which	only	require	a	short	acclimatization	period	between	the	freezer
+and	the	oven.	The	application	of	the	technology	is	currently	limited	to	small	items	and	is
+especially	successful	with	laminated	products	as	discussed	below.	Storage	time	in	the	deep
+freeze	tends	to	be	limited	because	the	carbon	dioxide	gas	trapped	in	the	dough	is	prone	to
+leak	out	and	products	often	collapse	in	the	freezer.	Since	the	temperatures	in	the	freezer	will
+inactivate	the	yeast	in	the	dough	(see	later,	Yeast	in	frozen	and	
+refrigerated	dough)	there	is
+no	new	carbon	dioxide	gas	available	to	contribute	to	dough	expansion	on	baking.
+Par-baked	products
+The	manufacture	of	par-	or	part-baked	products	is	based	on	the	premise	of	setting	the
+product	structure	in	the	oven	while	minimizing	the	formation	of	crust	color	(
+Figure	30.1
+).
+After	storage,	the	par-baked	products	are	reheated,	which	refreshens	the	product	and
+provides	the	final	coloration.	Par-baking	is	often	used	to	deliver	a	pale,	almost	white	crust
+color	though	increasingly	for	food	service	environments	the	products	will	already	be	colored,
+in	some	cases	par-baked	products	are	described	as	“90%	baked”	(Bent	2007).	Small	diameter
+=== PAGE 830 ===
+products	are	best	suited	to	par-baking	though	larger	units	can	be	produced.	The	main
+challenge	is	ensure	that	sufficient	heat	reaches	the	centre	of	the	product	to	achieve
+refreshening	(see	later,	Impact	of	reheating	(bake-off)).	Par-baked	products	may	be	stored
+under	ambient	conditions	but	this	tends	to	limit	their	practical	shelf-life	because	of	mold
+growth	and	so	gas-packed	or	frozen	units	are	more	common.
+Figure	30.1
+	Example	of	a	par-baked	product.
+=== PAGE 831 ===
+Dough	gas	retention	properties
+Key	to	expanding	bread	dough	during	proof	and	the	early	stages	of	baking	is	the	improvement
+of	the	gas	retaining	potential	of	the	gluten-forming	proteins	in	the	dough	before	the	later
+stages	of	processing.	The	basic	mechanism	by	which	this	is	achieved	is	commonly	referred	to
+as	“dough	development”	(Cauvain	and	Young	2008).	This	is	an	ill-defined	and	all-embracing
+term	which	describes	the	desirable,	composite	properties	of	the	gluten	network	in	the	dough.
+Detailed	descriptions	of	dough	development	and	the	processes	which	affect	the	degree	of
+development	can	be	found	elsewhere	but	a	key	change	is	the	increase	in	the	strength	and
+extensibility	of	the	gluten	network	so	that	it	is	more	able	to	contain	the	pressures	in	the
+dough	which	arise	from	the	expansion	of	the	trapped	gas	bubbles.	In	the	oven,	the	control	of
+gas	bubble	coalescence	is	a	key	contributor	to	final	bread	quality	and	in	this	context	the	role
+of	the	gluten	network	is	critical.
+Modification	of	the	gluten	network,	or	dough	development	in	baker’s	parlance,	can	be
+achieved	in	a	number	of	ways.	The	most	common	is	by	leaving	the	dough	after	mixing	to	rest
+for	a	period	of	time,	often	many	hours.	This	approach	is	commonly	referred	to	as	“bulk
+fermentation”	(Cauvain	2007a)	and	relies	mainly	on	the	natural	changes	which	occur	in
+yeasted	dough.	An	alternative	is	to	use	high	levels	of	energy	input	during	mixing	to	enhance
+the	development	of	the	gluten	network,	such	as	practiced	in	the	Chorleywood	Bread	Process
+(Cauvain	and	Young	2006b)	and	other	no-time	dough	making	processes	which	use
+mechanical	mixing	(Cauvain	2007a);	in	these	cases	a	period	of	bulk	fermentation	is
+unnecessary	and	processing	of	the	dough	can	proceed	as	soon	as	mixing	is	finished.	Whatever
+the	process	used	for	dough	preparation,	the	underlying	principle	is	that	higher	levels	of	flour
+protein	with	appropriate	quality	will	yield	better	dough	gas	retention	and	therefore	lead	to
+bread	of	larger	volume	and	improved	crumb	softness.
+In	a	number	of	bread	making	environments,	functional	ingredients	are	added	to	increase	the
+gas	retention	properties	of	dough;	the	most	common	term	for	these	ingredients	is
+“improvers”	(Williams	and	Pullen	2007).	The	use	of	improvers	has	become	common	practice
+in	the	production	of	many	forms	of	bread	and	fermented	goods	and	is	particularly	important
+in	the	context	of	this	chapter	as	many	of	the	chemicophysical	changes	which	
+take	place	in
+frozen	dough	processes	tend	to	reduce	the	ability	of	the	dough	to	retain	gas	when	it	is
+defrosted	ready	for	baking.	As	will	be	discussed,	dough	processes	which	rely	on	extended
+fermentation	periods	for	dough	development	are	not	best	suited	for	freezing	though	they	may
+be	used	for	refrigerated	and	par-baked	products.
+A	number	of	different	functional	ingredients	may	be	used	to	improve	the	gas	retention
+properties	of	dough.	They	may	be	broadly	considered	under	three	headings:	chemical
+oxidizing	agents,	fats	and	emulsifiers,	and	enzymes.	Details	of	the	associated	chemistry	of
+these	functional	ingredients	and	their	uses	in	bread	making	may	be	found	elsewhere	(for
+example	
+Chapters	10
+,	
+12
+,	
+15
+,	and	
+16
+)	but	references	to	their	application	in	the	manufacture	of
+frozen	and	par-baked	products	will	be	included	in	the	sections	which	follow.
+An	understanding	of	the	impact	of	dough	development	and	the	addition	of	functional
+ingredients	on	dough	gas	retention	in	refrigerated	and	frozen	dough	is	vital	for	ensuring	final
+product	quality.	Once	the	dough	has	entered	the	freezer	nothing	can	be	done	to	add	to	its	gas
+retention	properties,	but	a	number	of	changes	can	occur	which	could	reduce	them.	The
+=== PAGE 832 ===
+technology	of	refrigerated	and	frozen	dough	in	particular	is	intended	to	deliver	the	dough
+units	for	baking	without	further	processing,	so	it	is	especially	important	that	the	“right”	gas
+retention	properties	are	built	into	the	dough	before	it	is	frozen.
+=== PAGE 833 ===
+Yeast	in	frozen	and	refrigerated	dough
+Yeast	is	a	living	microorganism	used	by	bakers	for	the	production	of	carbon	dioxide	gas	which
+contributes	to	the	expansion	of	dough.	In	dough,	yeast	is	able	to	produce	carbon	dioxide	gas
+over	a	wide	range	of	temperature;	peak	gas	production	is	at	around	40–45
+ 
+°C	and	the	cells	are
+killed	at	around	55
+ 
+°C	(Wiggins	and	Cauvain	2007).	As	the	temperatures	approaches	0
+ 
+°C	gas
+production	slows	down.	Yeast	cell	viability	is	affected	when	dough	is	frozen	and	the	loss	of
+gas	production	which	occurs	as	a	result	is	considerable.	In	addition	to	loss	of	gas	production,
+the	act	of	freezing	yeast	cells	in	dough	induces	other	important	changes	which	have	potential
+impacts	of	dough	gas	retention.
+While	the	freezing	point	of	a	yeast	cell’s	cytoplasm	is	about	−1
+ 
+°C,	generally	it	remains
+unfrozen	and	therefore	super	cooled	to	−10	or	−15
+ 
+°C,	even	when	ice	is	present	in	the
+surrounding	dough	(Mazur	1965).	Mazur	(1970)	considered	that	this	indicated	that	the	cell
+membrane	provided	an	effective	barrier	against	the	growth	of	ice	crystals	outside	of	the	cell.
+However,	the	under-cooled	water	in	the	cytoplasm	has	a	higher	vapor	pressure	than	the
+surrounding	ice	and	cells	begin	to	equilibrate	with	the	surrounding	dough	by	losing	water
+through	the	membrane.	At	around	−15
+ 
+°C	equilibrium	is	reached	and	ice	crystals	begin	to
+form	in	the	cytoplasmic	space.	Thus	yeast	damage	induced	by	freezing	depends	on	the
+manner	in	which	the	cells	equilibrate	their	content	during	freezing	and	so	depends	on	the
+rate	of	cooling.	If	the	cells	are	cooled	slowly,	water	can	leave	the	cell	due	to	vapor	pressure
+differential	with	external	ice,	but	with	rapid	cooling	the	water	does	not	leave	the	cell.
+Dehydration	of	the	cells’	contents	as	ice	forms	will	concentrate	the	cell	solutes	which	can,	in
+turn,	damage	the	cell	membrane.	Even	if	the	ice	crystals	formed	during	freezing	do	not
+rupture	the	cell	membrane,	there	is	a	significant	risk	to	membrane	integrity	when	the	dough
+is	once	again	warmed	and	the	ice	crystals	which	have	been	formed	melt.	A	number	of	studies
+have	shown	that	a	slow	freezing	rate	is	preferable	for	preserving	yeast	activity	(Lorenz	1974;
+Neyreneuf	and	Delpuech	1993;	Casey	and	Foy	1955;	El-Hady	and	others	1996;	Harvet	and
+others	2000).	However,	slow	freezing	rates	increase	the	exposure	of	the	cells	to	high	solute
+concentrations	with	consequent	negative	effects	and	so	the	optimum	freezing	rate	will	be	one
+which	strikes	a	balance	between	the	two	negative	effects;	that	is,	rapid	enough	to	minimize
+exposure	to	the	high	solute	concentration	effects	but	slow	enough	to	limit	intracellular	ice
+formation.	Disrupted	yeast	cells	release	proteolytic	enzymes	and	reducing	agents,	particularly
+glutathione,	which	have	negative	effects	on	dough	gas	retention	properties	
+(Ribotta	2003).
+These	changes	reinforce	the	need	for	limiting	freezer	damage.
+Yeast	stability	in	frozen	dough	is	significantly	affected	by	the	degree	of	pre-freezing	activity
+which	has	taken	place.	Hino	and	others	(1987)	showed	that	stability	was	inversely	related	to
+the	time	of	active	yeast	fermentation	before	freezing.	Pre-freezing	fermentation	makes	yeast
+more	susceptible	to	freeze–thaw	damage,	not	least	because	cells	in	active	fermentation	have
+a	thinner	cell	membrane	(Stauffer	1993).	The	practical	consequence	of	increased
+susceptibility	of	fermenting	yeast	to	freezer	damage	is	that	better	results	are	obtained	by
+limiting	yeast	activity	prior	to	freezing	by	using	no-time	dough-making	processes	and
+reducing	processing	times.	Today,	specific	yeasts	are	available	which	are	more	resistant	to
+freezing	and	thawing	and	are	therefore	more	suited	to	frozen	dough	production.
+In	refrigerated	(retarded)	dough,	storage	temperatures	are	not	usually	low	enough	to	freeze
+=== PAGE 834 ===
+the	dough.	It	is	possible	to	use	refrigerated	temperatures	a	little	below	0
+ 
+°C	because
+concentration	of	solutes	in	the	dough,	especially	salt,	depress	its	freezing	point;	this	means
+that	the	yeast	cells	should	not	be	susceptible	to	freezer	damage	and	so	should	retain	their
+viability	throughout	the	storage	period.
+=== PAGE 835 ===
+Formulation	and	production	of	frozen	dough
+Dough	temperature
+For	the	reasons	discussed	earlier,	the	production	of	dough	for	freezing	needs	to	limit	yeast
+activity	prior	to	freezing.	In	practice	this	means	that	bulk	fermentation	of	dough	as	a	means
+of	developing	the	gluten	network	has	limited	or	no	potential.	Straight	or	no-time	dough
+making	processes,	or	sponge	and	dough	where	the	final	dough	is	given	no	”floortime”	seem	to
+be	best	suited	to	frozen	dough	production	(Cauvain	and	Young	2006b;	Cauvain	2007b).
+While	some	benefit	in	terms	of	reducing	yeast	activity	prior	to	freezing	may	be	gained	by
+lowering	the	final	dough	temperature	for	frozen	dough	production,	it	is	worth	bearing	in
+mind	that	a	lower	a	dough	temperature	will	also	reduce	the	activity	of	added	functional
+ingredients	such	as	ascorbic	acid,	and	this	can	itself	lead	to	a	loss	of	dough	gas	retention.
+Nevertheless,	it	has	become	common	practice	in	manufacturing	environments	to	use	a	lower
+final	dough	temperature	the	in	dough	preparation	stages.
+Flour	and	improvers
+Flour	protein	levels	may	be	raised	in	the	manufacture	of	frozen	dough	products	to	improve
+the	gas	retention	properties	of	the	dough.	This	may	be	achieved	through	the	use	of	higher
+protein	wheats	in	the	miller’s	grist	or	by	the	addition	of	dried,	vital	wheat	gluten.	Typically
+protein	contents	will	be	13%	or	more	(on	a	dry	weight	basis).
+It	is	common	practice	in	the	manufacture	of	frozen	dough	to	use	some	form	of	improver	to
+aid	dough	gas	retention.	This	practice	is	especially	useful	in	that	such	additions	can	be	used
+to	combat	some	of	the	negative	effects	which	arise	from	changes	occurring	in	the	dough
+during	storage	and	from	the	negative	effects	of	disrupted	yeast	cells.	Often	the	practice	is	to
+increase	the	level	of	improver	additions,	either	alone	or	in	combination	above	that	used	for
+scratch	production.	Ingredients	which	make	positive	contributions	to	frozen	dough	quality
+include	ascorbic	acid	(or	other	dough	oxidizing	agents)	and	emulsifiers.	The	former	improves
+dough	gas	retention	through	improved	dough	oxidation	and	the	latter	by	reducing	gas	bubble
+coalescence	in	proof	and	the	early	stages	of	baking.	The	addition	of	a	high	melting	point	fat
+has	benefits	for	gas	retention	similar	to	those	of	emulsifiers	(Williams	and	Pullen	2007).
+While	enzyme	additions	have	many	beneficial	effects	for	scratch	and	par-baked	bread
+production,	their	use	in	frozen	dough	may	require	more	careful	thought.	One	of	the	reasons
+for	caution	is	that	defrosting	times	for	frozen	dough	pieces	can	last	many	hours	and	even
+though	enzyme	activity	will	be	reduced	at	lower	temperatures,	some	negative	effects	may	be
+observed	because	of	the	relatively	long	processing	times	involved.	
+Improvers	may	be
+specifically	formulated	with	different	combinations	of	enzymes	for	frozen	dough	production
+to	deliver	enhanced	gas	retention	properties.
+Yeast	level
+Defrosted	frozen	dough	will	take	longer	to	reach	a	given	proof	height	than	scratch
+production,	or	be	smaller	in	size	at	the	end	of	a	given	proof	time.	In	part	this	is	because	of	the
+loss	of	yeast	activity	which	results	from	the	freeze–thaw	processes	and	this	means	that	in
+=== PAGE 836 ===
+practice	it	is	usual	to	increase	the	level	of	yeast	used	in	the	initial	dough	formulation.	Such
+actions	can	restore	dough	proof	volumes	(
+Figure	30.2
+)	and	times	to	similar	levels	as	fresh
+dough	(Cauvain	2007b),	but	increase	the	risk	of	excess	yeast	activity	prior	to	freezing	and	the
+risk	of	greater	impact	from	de-vitalized	yeast	cells	when	the	dough	is	defrosted.	The	level	of
+increase	depends	on	the	length	of	the	frozen	storage	time	and	the	strain	of	yeast	which	is
+being	used.	For	frozen	storage	times	of	1–2	weeks	it	may	not	be	necessary	for	any	increase,
+while	for	up	to	3	months	around	50%	extra	yeast	may	be	required,	and	beyond	3	months	it
+may	be	necessary	to	double	the	standard	recipe	yeast	level.	Yeast	level	increases	with	strains
+which	are	intended	for	frozen	dough	production	will	be	somewhat	lower	than	the	quoted
+numbers.
+Figure	30.2
+	Effect	of	yeast	level	in	frozen	dough	(stored	at	−20
+ 
+°C)	to	constant	proof	height
+after	defrosting.
+Freezing	and	storage
+Key	determinants	of	the	rate	at	which	dough	pieces	will	freeze	are	the	temperature
+differential	between	the	dough	and	the	air	in	the	freezer	unit	and	the	dimensions	of	the	unit
+pieces.	As	noted	earlier,	the	relatively	poor	conductivity	of	dough	plays	a	significant	role	in
+determining	how	long	the	dough	units	remain	in	the	freezer	and	what	internal	temperature
+they	should	achieve	before	they	are	transferred	to	the	storage	freezer.	The	impact	of	low
+temperatures	on	yeast	cells	and	their	subsequent	activity	are	also	important	and	it	is
+commonly	recommended	that	air	temperatures	below	−35
+ 
+°C	are	avoided	(Cauvain	2007b).
+The	limiting	factor	is	the	impact	on	the	yeast	cells	which	are	significantly	greater	when	the
+dough	temperature	is	lower	than	−35
+ 
+°C.	In	practice	this	means	that	liquid	carbon	dioxide
+and	nitrogen	tunnels	have	limited	applications	in	the	manufacture	of	frozen	dough.	Low
+freezing	rates	–	such	as	those	experienced	when	using	a	domestic-style	freezer	–	should	also
+be	avoided	to	limit	the	potential	for	any	gas	production	in	the	dough.
+A	common	practice	in	the	production	of	frozen	dough	is	to	leave	the	units	in	the	freezer	until
+they	have	achieved	a	core	temperature	of	around	−10
+ 
+°C	before	transferring	them	to	storage
+at	−20
+ 
+°C.	This	practice	does	not	usually	have	any	deleterious	effects	on	the	performance	of
+the	dough	on	defrosting,	but	holding	dough	units	at	higher	storage	temperatures	may	result
+in	adverse	dough	quality	changes,	for	example	a	lengthening	of	final	proof	times	to	reach	the
+required	dough	height	(
+Figure	30.3
+).	Cauvain	(2007b)	provides	graphs	to	show	the	rate	at
+=== PAGE 837 ===
+which	the	core	temperature	of	different	weights	and	sizes	of	dough	pieces	freeze	(core
+temperature	−10
+ 
+°C	in	a	blast	freezer	with	an	air	temperature	of	−30
+ 
+°C);	the	times	concerned
+ranged	from	15	to	120	min	for	small	rolls	(60	g)	to	large	pan	dough	units	(910	g),	respectively.
+Figure	30.3
+	Effect	of	frozen	storage	temperature	(°C)	on	dough	piece	final	proof	time	to	a
+given	height.
+Freezer	damage	and	subsequent	loss	of	product	quality	are	exacerbated	by	fluctuations	in
+freezer	storage	conditions,	especially	at	temperatures	close	to	the	freezing	point	of	the	dough.
+Thus,	once	frozen,	the	temperature	of	dough	pieces	should	be	kept	below	−15
+ 
+°C	(Brummer
+1995)	and	partial	defrosting	and	refreezing	should	be	avoided.
+Defrosting	and	proving
+To	defrost	and	prove	frozen	dough	pieces,	the	input	of	heat	and	humidity	are	required.	Once
+again	the	relatively	poor	conductivity	of	dough	plays	a	significant	role	and	to	optimize	final
+product	quality,	the	temperature	differential	between	the	surface	and	the	centre	of	the	dough
+piece	entering	the	oven	should	be	minimized.	Cauvain	(2007b)	provides	curves	which	show
+the	progressive	increase	of	the	core	temperature	of	different	sized	dough	pieces	when	held	at
+21
+ 
+°C.	The	time	required	to	reach	a	core	temperature	of	5
+ 
+°C	(high	enough	to	allow	transfer	to
+a	prover)	ranged	from	30	to	180	min	for	rolls	(60	g)	and	pan	bread	(910
+ 
+g),	respectively.
+Typically,	defrosting	would	be	followed	by	a	period	of	proving	which	may	add	30–120	min	to
+the	processing	times	required	for	the	dough	pieces	to	be	ready	for	baking.
+=== PAGE 838 ===
+Pre-proved	frozen	dough
+The	long	defrosting	and	proving	times	typically	required	for	frozen	dough	units	have	led	to
+interest	in	freezing	fully	or	pre-proved	dough	pieces.	The	intention	is	for	the	dough	pieces	to
+be	taken	from	the	freezer	and	transferred	to	the	oven	with	very	short	or	no	resting	(recovery)
+time.	Frozen	dough	units	using	this	approach	are	available	although	the	application	the
+relevant	technology	does	not	cover	the	full	range	of	fermented	products	which	would	be
+available	from	scratch	or	par-baking.	The	fermentation	which	occurs	in	proof	increases	the
+susceptibility	of	the	yeast	to	freezer	damage	and	in	practice,	it	is	likely	that	few,	if	any	yeast
+cells	survive	the	freezing	and	storage	cycles	in	a	viable	condition.	This	limits	the	potential	for
+the	generation	of	any	carbon	dioxide	gas	post-frozen	storage.
+In	proved	dough,	the	gas	bubbles	are	inflated	by	mostly	a	mixture	of	nitrogen	and	carbon
+dioxide,	any	oxygen	which	was	entrained	in	the	dough	is	usually	scavenged	by	the	yeast	cells
+(Cauvain	and	Young	2008).	At	the	warm	temperatures	experienced	during	proof,	the	carbon
+dioxide	gas	goes	into	solution	in	the	dough	liquor	before	diffusing	into	the	nitrogen	gas
+bubbles.	When	the	dough	is	cooled	the	diffusion	process	is	reversed	because	of	the	higher
+solubility	of	carbon	dioxide	at	low	temperatures	compared	with	that	of	nitrogen.	Without	the
+carbon	dioxide	gas	the	
+nitrogen	gas	bubbles	shrink	and	some	of	them	diffuse	out	of	the
+dough.	During	storage,	the	diffusion	processes	may	manifest	themselves	as	progressive
+collapse	or	shrinkage	of	the	dough	pieces.	Since	there	is	not	likely	to	be	any	“new”	carbon
+dioxide	generated	post-freezing,	then	dough	expansion	and	final	product	quality	may	be
+severely	affected	unless	the	dough	layers	remain	intact.
+For	the	reasons	outlined	earlier,	the	use	of	pre-proved	frozen	dough	is	limited	in	terms	of
+storage	times	and	range	of	suitable	products.	Pre-proved	frozen	dough	technology	has	been
+applied	to	one	group	of	products,	namely	fermented	laminated	products	such	as	croissant	and
+Danish	pastries.	The	reason	for	this	successful	application	is	that	a	significant	part	of	the	lift
+obtained	with	such	products	comes	from	the	steam	pressure	generated	during	baking	which
+forces	the	dough	layers	apart	as	they	are	heated	(Cauvain	and	Young	2001).	This	lift
+mechanism	means	that	there	is	less	reliance	on	the	generation	of	carbon	dioxide	in	the	post-
+freezer	phase.
+=== PAGE 839 ===
+Formulation	and	productionof	refrigerated	dough
+Dough	making	and	processing
+With	refrigerated	(retarded)	dough,	the	storage	temperatures	are	not	usually	low	enough	for
+the	dough	to	freeze	and	the	yeast	cells	should	largely	remain	viable	and	active.	This	means
+that	all	the	common	methods	employed	for	dough	making	may	be	used;	however,	best	results
+are	obtained	when	using	no-time	dough	making	processes.
+As	with	frozen	dough,	there	is	sometimes	a	temptation	to	use	lower	than	normal	final	dough
+temperatures	in	the	production	of	refrigerated	dough	as	a	means	of	limiting	yeast	activity
+before	cooling	and	storage.	This	should	be	avoided	whenever	possible	as	it	can	have	adverse
+effects	on	final	product	quality,	as	discussed	earlier.
+Ingredients	and	formulation
+Usually	it	is	not	necessary	to	change	ingredients	or	formulation	for	the	production	of
+refrigerated	dough.	The	maxim	should	be	”if	the	ingredients	and	formulation	make	good
+standard	bread	with	scratch	production,	they	should	make	good	products	using	the
+appropriate	retarding	conditions”.	The	key	is	to	choose	the	most	appropriate	refrigerated
+storage	and	proving	conditions	for	the	chosen	products,	and	this	is	discussed	later.	Composite
+improver	formulations	are	available	for	refrigerated	dough	production	and	these	may	be
+similar	to	those	used	for	frozen	dough.
+The	only	ingredient	change	that	might	be	required	is	to	the	level	of	yeast	in	the	recipe.	For
+refrigerated	no-time	dough,	the	change	is	commonly	to	reduce	the	yeast	level	to	compensate
+for	the	continuing	gas	production	during	storage	rather	than	to	increase	yeast	levels	to
+compensate	for	the	loss	of	cell	viability	with	freezing.	The	other	benefit	in	reducing	yeast
+level	is	that	it	can	contribute	to	more	uniform	proof	after	storage	as	discussed	later.
+Refrigeration	and	storage
+Refrigerated	dough	is	typically	stored	at	temperatures	between	−5	and	3
+ 
+°C	and	better
+product	quality	is	normally	obtained	by	using	as	low	a	storage	temperature	as	possible
+without	freezing	the	dough	pieces.	As	would	be	expected,	small	dough	pieces	cool	more
+rapidly	than	large	ones.	This	means	that	lower	refrigeration	and	storage	temperatures	are
+more	important	with	larger	units	in	order	to	reduce	the	core	temperature	more	rapidly	and
+thereby	limit	gas	production.	If	refrigerated	dough	pieces	are	cooled	too	slowly	then	there	is	a
+tendency	for	the	formation	of	small	white,	almost	translucent	spots	on	the	baked	product
+surface	(
+Figure	30.4
+)	(Cauvain	2007b).
+=== PAGE 840 ===
+Figure	30.4
+	Formation	of	white	spots	(left)	on	retarded	rolls,	standard	products	right.
+A	particular	problem	with	refrigerated	dough	is	the	potential	for	dehydration	during	storage,
+which	causes	a	grey-white	discoloration	of	the	product	surface	(
+Figure	30.5
+)	and	gives	the
+crust	
+a	rough,	gritty	feel.	The	design	of	the	equipment	is	intended	to	reduce	the	risk	of	these
+problems	but	with	storage	potentially	lasting	several	days,	the	risk	of	dehydration	(known	as
+skinning	to	bakers)	is	significant.	In	this	context,	storage	temperature,	time,	and	surface	area
+of	the	dough	piece	are	important.	Lower	temperatures	tend	to	reduce	the	potential	for
+dehydration	especially	with	longer	storage	times.	Cauvain	(2007b)	showed	that	weight	loss
+(dehydration)	was	reduced	if	the	recipe	yeast	level	or	the	storage	temperature	(or	both)	were
+reduced	because	there	was	less	expansion	during	storage	and	therefore	less	surface	area	from
+which	moisture	could	be	removed.
+Figure	30.5
+	Retarded	products	showing	the	effects	of	skinning	(surface	dehydration).
+Storage	times	for	refrigerated	(retarded)	dough	are	commonly	up	to	72	h,	depending	on
+temperature	and	unit	size.	Longer	storage	periods	are	obtained	with	lower	temperatures	and
+small	units	are	better	suited	to	longer	storage	times.
+=== PAGE 841 ===
+Proving	and	baking
+The	warming	and	proving	of	refrigerated	dough	in	preparation	for	baking	may	be	carried	out
+in	conventional	provers	or	automatically	in	a	pre-programmed	retarder-prover.	Whatever	the
+choice	of	equipment,	a	key	requirement	is	to	deliver	the	dough	to	the	oven	without	major
+temperature	differentials	between	the	surface	and	the	core.	For	small	units	such	as	rolls,	this
+is	relatively	easy	but	with	larger	units	longer	times	
+and	lower	proving	temperatures	are
+necessary.	All	refrigerated	dough	products	benefit	from	using	lower	prover	temperatures,
+typically	in	the	range	20–32
+ 
+°C.	A	longer	proof	time	is	required	at	these	lower	temperatures
+but	when	the	dough	is	being	held	in	an	automatic	retarder-prover,	the	timing	of	the	change
+from	cold	to	warm	conditions	matters	little.
+Usually	there	is	no	need	to	adjust	baking	conditions	when	using	refrigerated	dough.
+However,	in	some	cases	the	extended	storage	period	allows	increased	enzymic	activity	in	the
+dough	with	a	subsequent	increase	in	the	levels	of	residual	sugars.	These	can	take	part	in	the
+Maillard	browning	reactions	and	may	deliver	an	excessively	dark	crust	color	with	some	baked
+products.	A	slight	reduction	in	baking	temperature	may	help	alleviate	this	problem	or	it	may
+be	necessary	to	use	an	improver	system	with	lower	enzymic	activity.
+=== PAGE 842 ===
+The	manufactureof	par-baked	products
+Par-baked	products	present	ready-to-use	bakery	products	in	a	relatively	convenient	form.	In
+essence,	par	baking	forms	the	required	product	structure	but	does	not	“complete”	the	baking
+process,	which	in	most	cases	means	that	the	product	needs	to	be	re-heated	to	deliver	the
+required	product	color,	crust	characteristics,	and	crumb	softness.	The	technology	was
+developed	in	1949	reputedly	by	a	Florida-based	fireman	whose	roll	baking	expertise	was
+interrupted	by	the	fire	alarm	and	he	ended	up	re-baking	incompletely	baked	products
+(
+www.forumsforums.com/3_9/archive/index.php/t-51814.html
+).	The	idea	was	taken	up	by
+companies	such	as	General	Mills	and	by	the	1950s	products	being	described	as	“Brown	‘n
+Serve”	reached	the	market	place	in	the	United	States	and	the	United	Kingdom.
+One	advantage	for	par-baked	products	is	that	they	can	be	held	at	ambient	temperatures
+between	manufacture	and	ultimate	bake-off.	However,	one	disadvantage	is	that	the	high
+water	activity	means	that	the	product	is	susceptible	to	mold	growth	and	they	often	have	to	be
+treated	with	preservatives	or	packed	in	a	modified	atmosphere,	or	both.	Another	way	in	which
+longer	shelf-lives	may	be	achieved	is	by	refrigerating	or	freezing	the	par-baked	product
+though	such	approaches	reduce	the	immediacy	of	availability	for	bake-off	associated	with
+ambient	stored	products.	In	addition	to	microbial	shelf-life	limitations,	the	characteristics	of
+par-baked	products	change	during	storage	as	the	result	of	bread	”staling”.	Re-heating	the
+product	at	the		point	of	bake-off	should	reverse	the	changes	which	are	the	result	of	staling,
+provided	it	is	carried	out	in	an	appropriate	manner,	see	discussion	later.
+Ingredients	and	formulations
+Major	changes	to	the	choice	of	ingredients	and	formulations	are	not	usually	required	for	the
+successful	production	of	par-baked	products.	Bread	improvers	for	par-baked	products	are
+usually	formulated	with	ingredients	which	will	contribute	to	dough	stability,	especially
+towards	the	end	of	proof,	so	the	inclusion	of	emulsifiers	and	enzymes	such	as	lipase	is
+common.	Stear	(1990)	suggests	a	small	reduction	in	yeast	and	yeast	foods	to	avoid	excessive
+oven	spring,	in	part	because	of	the	lower	baking	temperatures	which	are	employed	for	the
+first	bake.	A	reduction	in	the	level	of	water	used	in	the	dough	formulation	to	preserve	the
+shape	of	free-standing	breads	is	sometimes	recommended	(Stear	1990).	A	common	practice
+with	stick-shaped	products	is	to	support	them	in	nets	or	slings	for	processing	through	to
+cooling.
+Proving	and	first	bake
+Par-baked	and	scratch-baked	products	differ	in	the	processes	of	proving	and	baking.	The	aim
+in	the	manufacture	of	both	types	of	products	is	to	create	the	required	structure,	though	for
+par-baking,	crust	color	formation	will	be	less;	to	achieve	these	twin	objectives,	some
+adjustments	to	processing	times	and	temperatures	need	to	be	made.	Brown	(1993)
+considered	two	baking	
+methods	to	achieve	minimum	crust	formation	and	color;	the	first
+being	based	on	a	low	temperature	for	the	normal	baking	time.	This	requires	a	reduction	in
+proof	time	(or	a	reduction	of	yeast	level)	to	take	account	of	the	resultant	increase	in	loaf
+volume	caused	by	the	delay	in	the	dough	piece	“setting”.	The	second	option	was	to	use	a
+=== PAGE 843 ===
+higher	temperature	bake	to	set	the	dough	structure	quickly,	followed	by	removal	from	the
+oven	before	the	crust	has	set	or	colored.	The	choice	will	depend	in	part	on	the	product
+diameter,	with	large	diameter	products	being	better	suited	to	the	first	option.	A	less	aerated,
+lower	volume	dough	piece	is	found	to	favor	the	maintenance	of	the	part-baked	bread
+structure.	Longer	final	proof	times	produce	part-baked	breads	with	higher	volumes	and	lower
+stability.	It	is	often	recommended	that	the	top	surface	cutting	of	dough	pieces	made	from
+dough	with	less	added	water	and	shorter	final	proof	times	should	be	a	little	deeper.
+Par-baked	products	tend	to	be	rather	delicate	after	baking	and	are	prone	to	shrinkage	on
+cooling	which	often	leaves	behind	a	wrinkled	surface.	Pyler	(1988)	considered	that	to	avoid
+such	shrinkage	and	collapse,	the	internal	product	temperature	ex-oven	should	exceed	77
+ 
+°C
+and	preferably	reach	82
+ 
+°C,	which	would	require	products	to	be	baked	at	between	120	and
+150
+ 
+°C	for	as	long	as	possible	without	the	formation	of	crust	color.	However,	more	recently
+the	move	has	been	to	achieve	product	core	temperatures	approaching	90–92
+ 
+°C	to	ensure
+greater	par-baked	product	stability.	The	oven	conditions	required	to	achieve	such	higher	core
+temperatures	may	lead	to	the	formation	of	more	crust	color	but	this	has	become	more
+acceptable	for	some	markets,	such	as	food	service	and	catering.
+Cooling	and	storage
+Because	of	the	relatively	delicate	nature	of	par-baked	products	when	they	leave	the	oven	after
+first	bake,	methods	have	been	sought	to	reduce	shrinkage	and	collapse;	one	approach	is	to
+subject	the	par-baked	units	to	vacuum	cooling.	This	involves	moving	the	hot	units	into	a
+separate	chamber	after	baking	and	reducing	the	atmospheric	pressure.	Whatever	the	method
+used	for	cooling	par-baked	products	the	core	temperatures	needs	to	be	lowered	to	around
+30	°C	to	avoid	condensation	in	the	pack	which	could	encourage	the	growth	of	molds	with
+products	stored	at	ambient	temperatures.
+It	is	a	common	practice	with	par-baked	product	to	include	suitable	anti-microbial	agents	in
+the	dough	formulation,	especially	if	the	products	are	to	be	held	at	ambient	temperatures	for
+any	length	of	time.	As	an	alternative,	or	sometimes	in	addition,	the	product	surface	may	be
+sprayed	with	a	solution	of	a	suitable	mold	inhibitor,	for	example	sorbic	acid	or	potassium
+sorbate,	before	packing.	The	other	main	technology	used	for	extending	the	mold-free	shelf
+life	of	par-baked	products	is	to	use	gas	flushing.	In	this	case	the	air	from	the	pack	is
+commonly	replaced	with	a	mixture	of	nitrogen	and	carbon	dioxide	(Pateras	2007).	Gas
+flushing	may	be	used	instead	of	ant-microbial	agents	but	may	also	be	used	in	conjunction
+with	them	to	deliver	a	significantly	extended	mold-free	shelf-life.
+Impact	of	re-heating	(bake-off)
+Bread	staling	is	a	term	used	to	encompass	various	unwanted	changes	in	the	organoleptic
+qualities	of	bread	products	and	there	are	several	processes	which	contribute	to	staling.	A	key
+underlying	reason	for	bread	staling	is	the	time	and	temperature-dependent	retrogradation	or
+recrystallization	of	the	starch	component	of	the	wheat	flour	(Chinachoti	2003).	The	main
+physical	manifestation	of	this	retrogradation	is	the	firming	of	the	bread	crumb.	This	firming
+starts	as	soon	as	the	product	leaves	the	oven	and	begins	to	cool.	In	the	model	proposed	by
+Schoch	and	French	(1947),	in	the	first	minutes	of	cooling	it	is	the	retrogradation	of	the
+amylose	component	of	the	wheat	starch	that	is	involved	in	this	initial	firming,	while	much	of
+=== PAGE 844 ===
+the	longer-term	staling	involves	recrystallization	of	the	amylopectin.	It	is	the	later	changes
+that	are	most	commonly	
+referred	to	as	staling.	The	maximum	staling	rate	for	bread	is
+considered	to	take	place	at	refrigerated	temperatures.
+It	is	well	known	that	when	stale	bread	is	re-heated	the	crumb	once	again	softens.	In	practice
+this	means	that	par-baked	breads	are	effectively	refreshened	at	bake-off.	However,	after	the
+second	bake	the	rate	at	which	subsequent	staling	takes	place	is	greater	than	after	the	first
+bake.	In	this	context	the	temperature	achieved	in	the	second	bake	becomes	critical	as	is	it
+important	that	all	starch	crystalline	structures	are	melted.	This	is	because	any	remaining
+crystals	which	have	not	been	melted	during	the	second	bake	act	as	seeds	for	the	subsequent
+recrystallization	process.	In	practice	this	means	that	the	core	temperature	of	par-baked
+products	at	bake-off	should	reach	65
+ 
+°C	(Cauvain	and	Young,	2009).	A	further	factor	in
+determining	the	final	quality	of	par-baked	products	is	their	moisture	content.	Having
+undergone	two	baking	stages,	the	final	moisture	content	can	be	lower	than	would	normally
+be	achieved	in	scratch	baking.	As	well	as	contributing	to	drier,	firmer	crumb	eating	quality,
+the	lower	moisture	itself	contributes	to	a	faster	rate	of	staling	in	the	product	after	bake-off.
+In	addition	to	changes	in	the	quality	of	the	product	crumb,	there	may	be	changes	in	the
+character	of	the	product	crust.	Many	of	the	products	chosen	for	par-baking	are	expected	to
+have	a	crispy	crust	when	consumed	and	so	careful	control	of	bake-off	conditions	is	critical	to
+final	product	quality	(Le-Bail	2012).	Typical	bake-off	temperatures	are	quoted	as	being	in	the
+region	210–220
+ 
+°C.
+Frozen	par-baked	products
+Freezing	par-baked	products	avoids	the	risks	associated	with	short	microbial	shelf-life	and
+bread	staling.	However,	there	are	risks	and	disadvantages	associated	with	this	approach.	One
+disadvantage	is	that	a	period	of	defrosting	is	required	before	the	products	are	transferred	to
+the	oven	for	bake-off.	Care	needs	to	be	taken	during	this	period	to	achieve	thorough
+defrosting	so	that	the	product	core	temperature	reaches	the	required	target	temperature	at
+bake-off.	Failure	to	do	so	will	yield	a	firm	bread	crumb	which	rapidly	stales.	The	process	of
+freezing	and	defrosting	of	a	par-baked	or	baked	product	is	generally	considered	to	be
+equivalent	to	24	h	storage	under	ambient	conditions	(Pence	and	Standridge	1995)	because
+the	product	must	pass	twice	through	the	temperature	range	over	which	bread	staling	is	at	its
+maximum.
+Periods	of	partial	defrosting	and	refreezing	of	the	products	should	be	avoided	as	this	may	lead
+to	loss	of	quality	through	the	formation	of	opaque,	harsh-eating	patches	in	the	crumb.	The
+phenomenon	is	commonly	referred	to	as	“freezer-burn”	(Cauvain	and	Young,	2008)	and	is
+often	found	a	few	millimeters	under	the	crust.	If	the	first	baking	conditions	are	not	optimized
+then	the	crust	of	frozen	par-baked	products	may	become	detached,	usually	after	the	second
+baking	(Cauvain	and	Young	2009)	and,	if	combined	with	poorly	controlled	frozen	storage
+conditions,	may	even	occur	in	the	freezer	before	products	can	be	baked-off.
+=== PAGE 845 ===
+Conclusions
+Refrigerated	and	frozen	dough	and	par-baking	technologies	are	all	designed	to	enable	the
+interruption	of	the	scratch	baking	process	and	deliver	units	to	a	bake-off	facility	at	some
+distance	from	the	original	bakery.	Each	of	the	technologies	employed	is	intended	to	provide
+convenience	and	ease-of-use	at	the	bake-off	point.	In	many	cases	the	products	may
+supplement	scratch	production	of	other	bread	products.	All	of	the	technologies	are	relatively
+mature	having	been	in	use	since	the	1950s.	Though	new	developments	and	applications
+continue	to	be	introduced,	the	basic	principles	of	the	technologies	remain	the	same	as	when
+they	were	first	introduced.
+Convenience	is	often	cited	as	the	reason	for	implementing	these	technologies	yet,	in	the
+earlier	discussions,	various	relatively	“inconvenient”	product	changes	have	been	identified.	In
+addition,	
+a	number	of	practical	problems	in	implementing	these	technologies	have	been
+highlighted	showing	that	they	are	not	always	as	easy-to-use	as	they	are	presented.	In	the
+production	of	all	bakery	products,	careful	choice	of	the	appropriate	raw	materials	and
+formulation	must	be	coupled	with	appropriate	and	controlled	processing	methods.	The
+technologies	discussed	in	this	chapter	are	no	exception;	indeed,	with	the	introduction	of	extra
+processing	steps	it	might	be	argued	that	greater	control	is	needed	than	with	scratch
+production.
+None	of	the	technologies	outlined	is	likely	to	provide	a	product	which	is	superior	to	scratch
+baking	but	this	does	not	mean	that	they	do	not	play	an	important	role	in	the	manufacture	and
+availability	of	baked	products.
+=== PAGE 846 ===
+References
+Bent	A.	2007.	Speciality	fermented	goods.	In:	Cauvain	SP,	Young	LS,	editors.	Technology
+of	breadmaking.	2nd	ed.	New	York:	Springer	Science+Business	Media.	p.	245–74.
+Brown	J.	1993.	Advance	in	breadmaking	technology.	In:	Kamel	BS,	Stauffer	CE,	editors.
+Advances	in	baking	technology.	Glasgow,	UK:	Blackie	Academic	&	Professional.	p.	38–87.
+Brummer	J	M.	1995.	Bread	and	rolls	from	frozen	dough	in	Europe.	In:	Kulp	K,	Lorenz	K,
+Brummer	J,	editors.	Frozen	and	refrigerated	doughs	and	batter.	St.	Paul,	MN:	AACC.	p.
+155–65.
+Casey	GP,	Foy	JJ.	1995.	Yeast	performance	in	frozen	doughs	and	strategies	for
+improvement.	In:	Kulp	K,	Lorenz	K,	Brummer	J,	editors.	Frozen	and	refrigerated	doughs
+and	batter.	St.	Paul,	MN:	AACC.	p.	19–51.
+Cauvain	SP.	2007a.	Breadmaking	processes.	In:	Cauvain	SP,	Young	LS,	editors.
+Technology	of	breadmaking.	2nd	ed.	New	York:	Springer	Science+Business	Media.	p.	21–
+50.
+Cauvain	SP.	2007b.	Dough	retarding	and	freezing.	In:	Cauvain	SP,	Young	LS,	editors.
+Technology	of	breadmaking.	2nd	ed.	New	York:	Springer	Science+Business	Media.	p.
+175–222.
+Cauvain	SP,	Young	LS.	2001.	Baking	problems	solved.	Cambridge,	UK:	Woodhead.	p.
+124–5.
+Cauvain	SP,	Young	LS.	2006a.	Baked	products:	Science,	technology	&	practice.	Oxford,
+UK:	Blackwell.
+Cauvain	SP,	Young	LS.	2006b.	The	Chorleywood	Bread	Process.	Cambridge,	UK:
+Woodhead.
+Cauvain	SP,	Young	LS.	2008.	Bakery	food	manufacture	and	quality:	Water	control	and
+effects.	2nd	ed.	Oxford,	UK:	Wiley-Blackwell.
+Cauvain	SP,	Young	LS.	2009.	More	baking	problems	solved.	Cambridge,	UK:	Woodhead.
+Chinachoti	P.	2003.	Preventing	bread	staling.	In:	Cauvain	SP,	editor.	Bread	making:
+Improving	quality.	Cambridge,	UK:	Woodhead.	p.	562–74.
+El-Hady	EA,	El-Samahy	SK,	Siebel	W,	Brummer	J-M.	1996.	Changes	in	gas	production
+and	retention	in	non-prefermented	frozen	wheat	doughs.	Cereal	Chem	73:472–77.
+Harvet	M,	Mankai	M,	LeBail	A.	2000.	Influence	of	the	freezing	condition	on	the	baking
+performances	of	French	frozen	dough.	J	Food	Eng	45:139–45.
+Hino	A,	Takano	H,	Tanaka	Y.	1987.	New	freeze-tolerant	yeast	from	frozen	dough
+preparations.	Cereal	Chem	64:269–75.
+Le-Bail	A.	2012.	Improving	the	quality	of	bread	made	from	par-baked,	refrigerated	and

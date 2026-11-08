@@ -1,0 +1,303 @@
+
+=== PAGE 390 ===
+shaped,	and	typical	and	regular	spherulites	were	formed.	For	a	system	containing	disaturated
+long	chains,	although	the	elementary	crystals	were	still	needle-shaped,	irregular	spherulites
+and	flocs	of	these	spherulites	were	created	from	these	elementary	crystals.
+=== PAGE 391 ===
+12.1
+Rheology	of	fat	crystal	networks
+Small	deformation	rheology
+Many	plastic	fats	exhibit	a	linear	viscoelastic	region	(LVR)	at	low	levels	of	stress	or	strain.
+In	fat	networks,	the	strain	typically	does	not	exceed	0.1%	before	the	LVR	ends	(Rohm	and
+Weidinger	1993;	Wright	and	others	2001).	Within	the	LVR,	fat	networks	behave	as	a
+Hookean	solid	where	the	strain	is	proportional	to	the	stress	(Rohm	and	Weidinger	1993).
+Beyond	the	LVR,	strain	no	longer	increases	in	a	linear	fashion	and	the	network	deforms
+irreversibly.
+There	are	several	useful	parameters	that	may	be	obtained	to	describe	a	material	when	using
+small	deformation	rheology:	the	complex	modulus	(G*),	shear	storage	modulus	(G′),	shear
+loss	modulus	(G′′)	and	the	tangent	of	the	phase	shift	or	phase	angle	(tan	δ).	These	values
+must	be	taken	from	within	the	LVR,	and	are	obtained	by	using	a	dynamic	oscillatory
+rheometer	(Rao	1999).	Outside	the	LVR,	important	information	may	be	obtained	such	as	the
+yield	stress	and	yield	strain.
+This	instrument	operates	by	applying	an	oscillatory,	sinusoidal	stress	and	records	the	strain
+(
+Figure	12.4
+).	The	solid	line	corresponds	to	the	applied	stress,	controlled	by	the	instrument,
+and	
+the	sample’s	response	strain	appears	as	the	dotted	line.	The	rheometer	measures	the
+variation	in	strain	as	a	function	of	applied	stress	and	reports	the	magnitude	of	strain	and	the
+phase	angle	(δ)	is	the	difference	between	two	waves.	If	the	sample	is	in-phase	(δ	= 	0°),
+meaning	that	the	applied	stress	and	samples	response	overlap	(see	
+Figure	12.4
+),	then	it
+indicates	that	the	sample	is	a	solid	and	all	the	energy	is	stored	in	the	sample.	However,	if	they
+are	completely	out-of-phase	(δ	= 	90°),	then	all	the	energy	is	lost	as	viscous	dissipation	of	heat
+during	the	deformation	cycle.	Viscoelastic	materials,	which	fat	networks	are	commonly
+referred	to,	will	have	a	δ	between	0	and	90°,	meaning	that	the	samples	contain	both	a	viscous
+and	elastic	component.	The	storage	modulus	(G′)	is	derived	from	the	in-phase	component	of
+the	stress	while	the	loss	modulus	(G′′)	is	derived	from	the	out-of-phase	component.	The	ratio
+of	the	loss	and	storage	moduli	may	be	expressed	as	the	tangent	of	the	phase	angle	(tan	δ)
+(
+Equation	12.1
+):
+
+=== PAGE 392 ===
+Figure	12.4
+	Oscillatory	strain	(γ)	curve	and	the	resulting	oscillating	stress	(σ)	as	functions
+of	time.	Three	different	phase	angle	lags	are	shown.
+Tan	δ	represents	the	relative	balance	of	the	viscous	to	elastic	components	of	a	material.
+Narine	and	Marangoni	(2001)	have	shown	these	rheological	measurements	are	associated
+with	the	hardness	and	spreadability	of	fat	crystal	networks.	The	value	of	tan	δ	becomes	an
+excellent	indicator	of	structural	integrity	for	intermediate	values	of	the	phase	angle.	This
+indicates	the	proportion	of	the	material’s	structure	attributable	to	the	crystal	network	and	to
+the	liquid	phase.
+The	elastic	behavior	of	fats	may	be	explained	by	an	intermolecular	bonding	mechanism,
+which	provides	coherence	to	the	sample.	The	application	of	the	oscillatory	stress	will	cause	a
+spatial	displacement	of	structural	elements.	The	mechanical	properties	of	the	material	are
+influenced	by	the	geometry	of	the	network,	as	well	as	by	the	intermolecular,	inter-
+nanostructural	and	inter-microstructural	interactions.	When	the	external	force	is	removed,
+=== PAGE 393 ===
+the	solid	component	has	an	increased	energy	stored	in	the	inter-	or	intra-microstructural
+bonds	that	may	then	restore	the	sample	to	its	original	structure.
+Large	deformation	rheology
+Bulk	fat	products	are	considered	plastic	materials	that	are	elastic	when	the	stress	or	strain	is
+below	the	yield	stress	or	yield	point,	respectively.	Above	the	yield	stress,	a	plastic	material	is
+considered	a	fluid.	In	large	deformation	tests,	the	applied	force	is	sufficient	to	induce
+permanent	deformation	or	fracture	in	the	sample.	This	measure	is	used	to	determine
+hardness,	spreadability,	cutting	force	and/or	yield	force	(Wright	and	others	2001).	There	are
+several	different	instrumental	setups	to	carry	out	a	large	deformation	test.	One	common
+method	is	to	compress	a	sample	between	two	parallel	plates	and	measure	the	yield	force.	The
+force	required	to	exceed	the	yield	stress	of	the	network	is	a	reliable	indicator	of	hardness.	A
+study	using	large	deformation	rheology	indicates	that	samples	with	more	saturated	FA	from
+anhydrous	milk	fat	will	have	a	higher	solid	fat	content	due	to	the	elevated	melting	point	of
+the	species	present	(Narine	andMarangoni	2001).	As	well,	as	solid	fat	content	increases,	so
+does	the	yield	force	(Rye	and	others	2005).	Large	deformation	tests	for	fat	samples	correlate
+well	with	sensory	tests	(Rousseau	and	Marangoni	1998).	It	is,	however,	difficult	to	relate	the
+large	deformation	experiments	to	fundamental	characteristics	of	the	microstructure	of	the	fat
+crystal	network	because	the	networks	are	destroyed	during	testing.
+=== PAGE 394 ===
+Microstructure
+The	hierarchies	in	the	structure	of	a	fat	crystal	network	are	shown	in	
+Figure	12.5
+.	Past	work
+has	focused	on	lipid	composition,	polymorphism,	and	solid	fat	content	to	interpret	the
+mechanical	strength	of	the	network	(Payne	1964;	Papenhuijzen	1971,	1972;	Kamphuis	and
+Jongschapp	1985).	The	microstructural	level	of	a	fat	crystal	network	will	vary	from	0.25	to
+200
+ 
+μm.	It	was	first	noted	by	van	den	Tempel	(1961)	that	this	level	of	structure	has	a	large
+effect	on	the	macroscopic	rheological	properties	of	the	fat	network.	deMan	(1964)	as	well	as
+de	Man	and	Beers	(1987)	furthered	the	understanding	of	the	effect	of	microstructure	on
+macroscopic	hardness	when	examining	milk	fat.	Marangoni’s	group	demonstrated	the
+importance	of	microstructure	on	the	spreadablility	of	chemically	IE	and	enzymatically	IE
+milk	fat	and	milk	fat–canola	oil	blends	(Marangoni	and	Rousseau	1996).
+Figure	12.5
+	Structural	hierarchy	in	fat	crystal	networks,	from	molecular	lamellae	to	bulk	fat
+through	the	nanoscale	and	mesoscale	length	scales.
+The	macroscopic	properties	of	a	fat	crystal	network	are	influenced	by	all	levels	of	structural
+hierarchy.	This	includes	the	structure	of	the	individual	TAG	and	the	possible	FA
+combinations	and	arrangements,	the	crystalline	structure	and	polymorphism	of	the
+individual	crystalline	units,	and	the	morphology	and	agglomeration	of	the	individual	crystals,
+=== PAGE 395 ===
+as	well	as	the	interactions	between	structural	elements	that	comprise	the	microstructure	of
+the	material.
+An	important	question	in	the	field	of	fat	materials	is	that	of	the	link	between	the
+microstructure	and	the	observed	macroscopic	properties	(that	is,	how	does	microstructure
+affect	the	macroscopic	performance	of	the	fat	material	such	as	rheology?).	While	it	is	obvious
+that	the	microstructure	does	have	an	effect	on	the	macroscopic	performance,	the	link
+between	the	two	is	relatively	poorly	understood.	One	of	the	many	models	that	can	be	used	to
+theoretically	draw	a	link	between	the	microstructure	and	the	mechanical	properties	of	a	fat	is
+the	fractal	model.	A	consecutive	aggregation	process	forms	fat	crystal	networks.	As	described
+previously,	TAGs	in	the	melt	come	together	and	form	nuclei.	Stable	nuclei	then	grow	and
+develop	primary	crystallites.	Crystallites	will	then	aggregate	and	form	clusters.	Further
+agglomeration	of	these	clusters	results	in	the	formation	of	fractal	aggregates,	which	form	a
+three-dimensional	network	(Narine	and	Marangoni	1999a;	Marangoni	2000,	2002;	Walstra
+2003).	The	resulting	fat	crystal	network	is	then	
+the	product	of	fractal	aggregation	as	it	has	a
+disordered	spatial	mass	distribution	and	has	statistical	self-similarity.	For	fat	crystal
+networks,	fractal	scaling	is	found	between	the	size	of	a	primary	colloidal	particle	and	a	floc	of
+primary	particles	(Marangoni	2005b).
+=== PAGE 396 ===
+Processing	conditions	and	fat	crystal	network	formation
+The	functional	properties	of	fat	containing	products	are	dictated	by	the	characteristics	of	the
+fat	crystal	network	formed	by	its	constituent	lipid	species	(Narine	and	Marangoni	2002).
+Processing	conditions	directly	affect	the	nature	of	the	fat	crystal	network	formed	as
+processing	conditions	influence	heat	and	mass	transfer	and	thus	structure	formation	(deMan
+1999;	Hartel	2001).	A	review	of	the	effects	of	different	processing	conditions	(i.e.,
+crystallization	temperature,	cooling	rate,	and	shear)	on	the	solidification	of	different	natural
+edible	fats	is	given	here.
+Crystallization	temperature
+Crystallization	temperature	has	a	dramatic	effect	on	the	overall	crystallization	process,	as	it
+determines	the	Δ
+T
+	to	which	a	liquid	fat	is	subjected.	As	mentioned	earlier,	Δ
+T
+	will	provide	the
+thermodynamic	driving	force	necessary	to	overcome	the	energy	barrier	for	a	phase	transition.
+A	large	Δ
+T
+	leads	to	lower	free	energies	of	nucleation,	hence	shorter	induction	times	and
+higher	crystallization	rates	(Campos	and	others	2003).
+Crystallization	temperatures	impact	the	packing	of	TAG	molecules.	Stable	polymorphic	forms
+take	a	considerably	longer	time	to	form	than	metastable	forms.	When	milk	fat	is	crystallized
+at	higher	temperatures	(low	Δ
+T
+	values),	more	stable	polymorphic	forms	are	observed	(ten
+Grotenhuis	and	others	1999).	van	Malssen	and	others	(1999)	and	Marangoni	and	McGauley
+(2003)	constructed	time–temperature	state	diagrams	of	the	polymorphic	forms	found	in
+cocoa	butter	from	−20	to	26
+ 
+°C.	Their	results	demonstrate	that	as	the	temperature	of
+crystallization	increases,	more	stable	polymorphic	forms	crystallize	from	the	melt.
+Additionally,	longer	times	are	required	for	crystallization	at	higher	temperatures,	revealing
+that	Δ
+T
+	is	critical	for	nucleation	events.
+Δ
+T
+	also	affects	the	microstructure	of	crystallized	fats.	Crystallization	of	a	model	milk	fat
+system	(Herrera	and	Hartel	2000c),	cocoa	butter	(McGauley	2001),	anhydrous	milk	fat,	and
+lard	(Campos	and	others	2002)	at	high	Δ
+T
+	leads	to	the	formation	of	numerous	small	crystals,
+whereas	fewer	large	crystals	are	observed	at	low	Δ
+T
+.	This	translates	into	a	granular
+microstructure	at	high	Δ
+T
+,	and	the	presence	of	spherulites	at	low	Δ
+T
+.
+Cooling	rate
+As	early	as	1964,	deMan	(1964)	reported	the	effects	of	cooling	procedures	on	the	solid	fat
+content,	consistency,	and	crystal	structure	of	milk	fat.	deMan	(1964)	compared	the	properties
+of	milk	fat	subjected	to	fast,	stepwise,	and	tempered	cooling	regimes.	He	reported	that	a
+slower	crystallization	process	led	to	a	decrease	in	solid	fat	content	and	hardness,	as	well	as
+the	aggregation	of	small	crystalline	particles	into	larger	ones.	Similar	results	have	been
+reported	elsewhere.	Herrera	and	Hartel	(2000a,	2000b,	2000c)	observed	the	effect	of	cooling
+rate	on	the	microstructure	and	elasticity	of	a	model	milk	fat	system.	When	cooled	rapidly,	a
+uniform	size	distribution	of	numerous	small	crystals	and	lower	elasticity	of	the	crystal
+network	was	observed,	compared	to	the	broad	size	distribution	of	large	crystalline	particles
+observed	at	slow	cooling	rates.	Campos	and	others	(2002)	observed	numerous	small
+crystallites	under	rapid	cooling	regimes,	whereas	slow	cooling	led	to	a	lower	number	of	large
+=== PAGE 397 ===
+crystals	formed	in	milk	fat	and	lard.	Rye	(2003)	observed	that	upon	slow	cooling	of	milk	fat,
+the	resulting	fat	crystal	network	was	characterized	by	a	small	number	of	large	crystals,	lower
+SFC,	and	lower	yield	forces	relative	to	those	formed	by	fast	cooling	rates.	The	changes	in
+mechanical	properties	are	caused	by	differences	in	microstructure	between	different	cooling
+rates.	The	decrease	in	the	number	of	crystals	which	are	larger	in	size	(upon	slow	cooling	of
+milk	fat)	
+result	in	fewer	interparticle	interactions	and	a	larger	amount	of	void	spaces,	leading
+to	softer	crystal	networks.
+The	rate	at	which	a	liquid	fat	is	cooled	to	a	predetermined	temperature	will	affect	nucleation
+and	polymorphism.	At	high	cooling	rates,	TAG	molecules	have	limited	time	to	attain	order	in
+the	liquid	state	as	nucleation	and	growth	are	forced	to	take	place	on	a	relatively	shorter	time
+scale.	Consequently,	shorter	induction	times	have	been	observed	at	higher	cooling	rates	for
+cocoa	butter	(Rousset	and	Rappaz	2001),	milk	fat	(Rye	2003;	Rye	and	others	2005),	and	lard
+(Campos	and	others	2002).	Higher	crystallization	rates	have	been	observed	under	fast
+cooling	regimes	as	the	driving	force	for	crystallization	is	higher.	This	translates	into
+solidification	processes	taking	place	in	a	shorter	time	(Campos	and	others	2002).	As	a	result,
+higher	cooling	rates	lead	to	metastable	polymorphs,	while	lower	cooling	rates	lead	to	higher
+stability	polymorphs	in	milk	fat	(ten	Grotenhuis	and	others	1999;	Rye	and	others	2005),
+cocoa	butter	(Rousset	and	others	2001),	and	lard	(Campos	and	others	2002).
+Shear
+Shear	accelerates	the	crystallization	of	synthetic	polymers	(Lagasse	and	Maxwell	1976)	as	it
+affects	mass	and	heat	transfer	in	the	melt.	Industrially,	fats	are	sheared	using	scraped	surface
+heat	exchangers	in	the	production	of	butter,	margarine,	shortenings,	and	chocolate,	in	which
+the	fat-containing	systems	are	crystallized	while	being	simultaneously	mixed	(Walstra	and
+others	2001,	Mazzanti	and	others	2005).	Shear	enhances	molecular	diffusion	and	favors	the
+rearrangement	of	molecules	in	the	melt,	which	helps	to	overcome	the	kinetic	barriers	for
+nucleation	and	growth	(Rousset	and	Rappaz	2001;	Mazzanti,	2004).	After	primary	nucleation
+has	taken	place,	shear	promotes	secondary	nucleation	by	breaking	protuberances	from	newly
+formed	crystals,	or	by	sweeping	off	clusters	of	oriented	molecules	from	growing	crystal
+surfaces,	which	serve	as	nucleation	sites	(Hartel	2001;	Walstra	2003).	Growth	of	newly
+formed	stable	nuclei	is	affected	by	shear	as	the	aliphatic	chains	of	TAG	molecules	rotate
+faster	and	can	therefore	incorporate	into	the	growing	crystal	surfaces	more	easily	(Rousset
+and	Rappaz	2001).	Additionally,	shear	prevents	sedimentation	and	aggregation	of	crystals	by
+enhancing	TAG	mobility	from	the	melt	to	the	growing	crystal	surfaces.	Moreover,	shear	aids
+in	the	removal	of	the	heat	of	fusion,	which	can	increase	the	temperature	of	the	system	and
+thus	affect	crystal	growth	(Walstra	2003).	Shear	affects	the	crystallization	process	as	a	whole
+by	enhancing	mass	and	heat	transfer;	promoting	nucleation	events;	breaking	clusters	of
+crystallites,	leading	to	the	modification	of	the	interaction	between	crystallites	and	their
+surroundings,	which	results	in	their	orientation;	and	consequently	affecting	the
+characteristics	of	the	formed	fat	crystal	networks	(Mazzanti	2004).
+The	effect	of	shear	has	been	studied	in	different	fat	systems.	When	shear	was	applied	to	milk
+fat	and	milk	fat	fractions,	Breitschuh	and	Windhab	(1998)	observed	higher	crystallization
+rates	and	a	narrow	size	distribution	of	small	crystallites,	which	indicated	that	crystallization
+kinetics	and	microstructure	were	affected.	Herrera	and	Hartel	(2000a,	2000c)	found	that
+agitation	enhanced	the	nucleation	of	a	model	milk	fat	system,	which	led	to	the	formation	of
+=== PAGE 398 ===
+numerous	small	crystals.	The	crystallization	of	the	studied	fat	system	under	agitation
+resulted	in	different	mechanical	properties	for	the	fat	crystal	network	obtained.	This	was
+observed	as	a	softening	of	the	material	(Herrera	and	Hartel	2000b).
+Similar	behavior	has	been	observed	in	cocoa	butter.	Rousset	and	Rappaz	(2001)	observed
+faster	crystallization	kinetics	when	shear	was	applied	to	cocoa	butter	melts	via	two	concentric
+cylinders.	In	the	presence	of	shear,	the	stable	polymorphic	Form	V	was	formed,	whereas	the
+metastable	Form	IV	was	obtained	under	static	conditions.	Mazzanti	and	others	(2005)	also
+reported	a	reduction	of	phase	transition	times	(both	solid–solid,	as	well	as	melt	mediated)	as
+a	function	of	shear	not	only	for	cocoa	butter,	but	also	for	milk	fat	and	palm	oil.	In	the
+manufacture	of	chocolate	and	confections,	shear	is	applied	to	the	melt	prior	to	crystallization
+to	
+promote	the	formation	of	numerous	small	crystals.	Smaller	crystals	are	preferred	for
+organoleptic	reasons.	Moreover,	heat	generated	during	the	process	aids	in	the	transformation
+of	metastable	polymorphic	forms	to	the	desired	Form	V	(Beckett	2000).
+=== PAGE 399 ===
+Fat	replacers
+Following	well-documented	reports	on	the	negative	cardiovascular	and	metabolic	health
+effects	associated	with	trans	and	saturated	fat	intake,	there	is	increasing	interest	in
+developing	novel	semiplastic	structures	which	do	not	contain	undesirable	hydrogenated	or
+saturated	fats	for	food	applications.	These	alternatives	should	successfully	mimic	the
+functionality	of	fat	crystal	networks	that	contain	trans	and	saturated	fats.
+A	strategy	that	has	shown	great	promise	is	the	structuring	of	liquid	oil	utilizing	the	properties
+of	lyotropic	liquid	crystalline	phases	of	long-chain	saturated	monoglycerides	(Marangoni	and
+others	2007).	Utilizing	this	strategy,	a	shortening	alternative	consisting	of	a	monoglyceride
+gel,	which	encapsulates	high-volume	fractions	of	liquid	oil	in	a	water	matrix	that	is	stabilized
+by	multilamellar	monostearin	multilayers,	has	been	developed	(Batte	and	others	2007).	The
+low	saturated	fat	monoglyceride	gel	contains	only	55%	fat.	When	comparing	the	structured
+monoglyceride	emulsion	to	other	commercial	lipids,	it	was	determined	that	gluten
+aggregation	kinetics	were	similar	between	IE	soy	shortening	and	the	monoglyceride
+emulsion,	and	that	it	maintained	different	functional	attributes	than	IE	soy	and	liquid	oil	as
+determined	through	Farinograph,	Gluten	Peak	Tester,	and	Micro	Visco	Amylo	Graph	analysis
+(Huschka	and	others	2011).	Goldstein	and	Seetharaman	(2011)	reported	on	functional
+differences	observed	in	wire	cut	cookie	prepared	with	traditional	all-purpose	shortening
+compared	to	formulations	containing	the	monoglyceride	gel	shortening	alternative.	Although
+traditional	shortening	displayed	superior	functionality	in	a	low-moisture	cookie	system,
+knowledge	of	the	functional	gap	between	the	shortenings	can	be	used	to	develop	further
+strategies	to	create	healthier	baked	products	with	appealing	quality	attributes.
+Organogelation	is	another	novel	structuring	method	which	has	been	received	much	interest
+over	the	past	decade	(Co	and	Marangoni	2012).	An	organogel	may	be	defined	as	organic	liquid
+that	has	been	entrapped	within	a	thermoreversible,	three-dimensional	network	(Stortz	and
+others	2012).	Network-forming	structurants	may	be	classified	as	low	molecular	weight
+organogelators,	or	as	polymers	(Stortz	and	others	2012).	The	addition	of	ethylcellulose	(EC),
+an	organogelator	which	is	a	modified	biopolymer	consisting	of	a	cellulose	backbone	with
+ethoxyl	substitutions	at	the	hydroxyl	groups	of	carbons	2,	3,	or	6,	was	studied	in	cookies.
+Cookies	were	prepared	incorporating	3	or	5%	by	weight	EC	with	the	wet	ingredients	of	a
+traditional	cookie	recipe	containing	a	low	saturated	fat	shortening.	Utilizing	low	saturated	fat
+shortening	in	cookies	may	result	in	unwanted	oil	migration.	The	addition	of	EC	reduced	the
+amount	of	oil	leakage	compared	to	control	cookies	containing	a	low	saturated	fat	shortening
+alternative.	Oil	leakage	is	unwanted	in	cookies	as	migrated	oil	may	contribute	to	fat	bloom	in
+cookie	recipes	containing	chocolate	(Stortz	and	others	2012).	Cookies	prepared	with	EC	and	a
+low	saturated	fat	shortening	were	reported	to	be	low	in	total	fat,	low	in	saturated	fat,	and
+offered	good	functionality.
+The	complete	removal	of	the	fats	or	oils	from	a	baked	product	is	not	possible	due	to	drastic
+altering	of	the	products	original	attributes,	although	the	partial	replacement	it	feasible	with
+other	ingredients	such	as	certain	carbohydrates	(Grigelmo-Miguel	and	others	2001).	Zoulias
+and	others	(2002)	studied	the	use	of	polydextrose,	maltodextrin,	inulin,	and	a	blend	of	whey
+protein	and	emulsifiers	to	partially	replaced	fat	in	cookies.	Partial	fat	replacement	of	up	to
+50%	was	achieved	with	the	incorporation	of	inulin,	maltodextrin,	or	the	whey	protein	blend
+=== PAGE 400 ===
+although	resulting	cookies	were	hard,	brittle,	and	did	not	expand	adequately.	The	effect	of	fat
+replacement	on	cookie	dough	rheology	and	baked	product	attributes	with	polydextrose	or
+maltodextrin	was	studied	by	Sudha	and	others	(2007).	They	reported	increases	in	
+dough
+hardness	with	fat	replacement,	and	significantly	improved	baked	texture	with	maltodextrin
+replacement.	Recently,	it	was	reported	that	shortening	may	be	replaced	partially,	up	to	20%
+with	inulin	(Rodriguez-Garcia	and	others	2012)	to	create	cookies	similar	to	control	cookies
+with	additional	health	benefits	from	the	presence	of	inulin.
+=== PAGE 401 ===
+Conclusions
+Lipids	play	a	significant	role	in	baked	products.	Their	functional	properties	contribute
+positively	to	many	quality	attributes	consumers	expect	in	baked	goods.	Furthermore,	the
+physical	and	structural	properties	of	lipids	have	a	significant	impact	on	product	attributes.
+Careful	consideration,	therefore,	must	be	used	in	the	production	of	fats	and	oils	as	the
+attributes	of	these	lipids	will	drive	their	functionality	within	a	particular	product	matrix.

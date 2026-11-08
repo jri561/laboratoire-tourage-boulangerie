@@ -1,0 +1,478 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Registre Général des Barèmes de Cuisson — RÉFÉRENTIEL CUISSONS 16</title>
+<style>
+@page {
+  size: A4 portrait;
+  margin: 7mm 8mm;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+body {
+  color: #0f172a;
+  background: #ffffff;
+  letter-spacing: 0.15px;
+}
+
+.sheet-page {
+  width: 100%;
+  height: 282mm;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  page-break-after: always;
+  break-after: page;
+}
+.sheet-page:last-child {
+  page-break-after: auto;
+  break-after: auto;
+}
+
+/* EN-TÊTE ÉPURÉ HAUTE LISIBILITÉ */
+.header-banner {
+  background: #f8fafc;
+  border: 1.5px solid #cbd5e1;
+  border-left: 8px solid #0284c7;
+  border-radius: 7px;
+  padding: 10px 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.header-titles h1 {
+  font-size: 21px;
+  font-weight: 900;
+  color: #0f172a;
+  letter-spacing: -0.2px;
+  line-height: 1.15;
+}
+.header-titles .subtitle {
+  font-size: 11.5px;
+  font-weight: 700;
+  color: #475569;
+  margin-top: 3px;
+  line-height: 1.25;
+}
+.header-right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 3px;
+}
+.header-badge {
+  background: #0369a1;
+  color: #ffffff;
+  padding: 6px 12px;
+  border-radius: 5px;
+  font-weight: 900;
+  font-size: 12.5px;
+  letter-spacing: 0.5px;
+  white-space: nowrap;
+}
+.page-indicator {
+  font-size: 10px;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  color: #0284c7;
+}
+
+/* BANDEAU FLASH GÉANT */
+.flash-row {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 9px;
+  margin-bottom: 10px;
+}
+.flash-card {
+  background: #f8fafc;
+  border: 1.5px solid #cbd5e1;
+  border-left: 5.5px solid #0284c7;
+  padding: 7px 10px;
+  border-radius: 6px;
+}
+.flash-card.alert {
+  border-left-color: #dc2626;
+  background: #fff5f5;
+  border-color: #fecaca;
+}
+.flash-card.amber {
+  border-left-color: #d97706;
+  background: #fffbeb;
+  border-color: #fde68a;
+}
+.flash-card.green {
+  border-left-color: #059669;
+  background: #f0fdf4;
+  border-color: #bbf7d0;
+}
+.flash-card .lbl {
+  font-size: 9.5px;
+  font-weight: 800;
+  color: #475569;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+  margin-bottom: 3px;
+}
+.flash-card .val {
+  font-size: 14px;
+  font-weight: 900;
+  color: #0f172a;
+  line-height: 1.15;
+}
+
+/* TABLEAUX DES PESÉES GRAND CONFORT (PAGE GAUCHE) */
+.tables-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  flex-grow: 1;
+  justify-content: flex-start;
+}
+table.giant-table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1.5px solid #94a3b8;
+  border-radius: 6px;
+  overflow: hidden;
+}
+table.giant-table th {
+  background: #f1f5f9;
+  color: #0f172a;
+  padding: 7px 7px;
+  font-size: 10.5px;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+  border-bottom: 2.2px solid #0f172a;
+  border-right: 1px solid #cbd5e1;
+}
+table.giant-table th:last-child { border-right: none; }
+table.giant-table th.left, table.giant-table td.left { text-align: left; }
+table.giant-table th.right, table.giant-table td.right { text-align: right; }
+table.giant-table th.center, table.giant-table td.center { text-align: center; }
+
+table.giant-table td {
+  padding: 6.5px 7px;
+  border-bottom: 1px solid #cbd5e1;
+  border-right: 1px solid #e2e8f0;
+  font-size: 11.5px;
+  font-weight: 700;
+  color: #1e293b;
+}
+table.giant-table td:last-child { border-right: none; }
+table.giant-table tr:nth-child(even) td {
+  background-color: #f8fafc;
+}
+
+/* Indicateur couleur gauche selon l'étape */
+table.giant-table tr.step-row-1 td:first-child { border-left: 5.5px solid #0284c7; }
+table.giant-table tr.step-row-2 td:first-child { border-left: 5.5px solid #d97706; }
+table.giant-table tr.step-row-3 td:first-child { border-left: 5.5px solid #059669; }
+table.giant-table tr.step-row-4 td:first-child { border-left: 5.5px solid #7c3aed; }
+
+table.giant-table td.ing-name {
+  font-size: 12px;
+  font-weight: 800;
+  color: #0f172a;
+}
+.ing-note {
+  font-weight: 600;
+  color: #475569;
+  font-size: 0.88em;
+}
+
+/* Pastilles d'étapes numérotées */
+.step-pill {
+  display: inline-block;
+  padding: 1.5px 7px;
+  border-radius: 4px;
+  font-weight: 900;
+  font-size: 0.86em;
+  color: #ffffff;
+  margin-right: 6px;
+  vertical-align: baseline;
+  letter-spacing: 0.25px;
+}
+.step-pill.s1 { background: #0284c7; }
+.step-pill.s2 { background: #d97706; }
+.step-pill.s3 { background: #059669; }
+.step-pill.s4 { background: #7c3aed; }
+
+table.giant-table td.weight-cell {
+  font-size: 12px;
+  font-weight: 900;
+  color: #000000;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.35px;
+}
+table.giant-table tr.subtotal td {
+  background: #f0f9ff;
+  font-size: 11.5px;
+  font-weight: 900;
+  color: #0f172a;
+  border-top: 1.8px solid #475569;
+  border-bottom: 1.8px solid #475569;
+}
+table.giant-table tr.total-final td {
+  background: #e0f2fe;
+  font-size: 12px;
+  font-weight: 900;
+  color: #000000;
+  border-top: 2.2px solid #0f172a;
+  border-bottom: 2.2px solid #0f172a;
+}
+
+/* PAGE DE DROITE : PROTOCOLE PLEINE LARGEUR EN GROS CARACTÈRES */
+.right-content {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  flex-grow: 1;
+  justify-content: flex-start;
+}
+.proto-block {
+  background: #ffffff;
+  border: 1.5px solid #cbd5e1;
+  border-left: 7px solid #0284c7;
+  border-radius: 7px;
+  padding: 12px 16px;
+}
+.proto-block.b2 {
+  border-left-color: #d97706;
+}
+.proto-block h2 {
+  font-size: 14.5px;
+  font-weight: 900;
+  color: #0f172a;
+  text-transform: uppercase;
+  border-bottom: 1.5px solid #e2e8f0;
+  padding-bottom: 6px;
+  margin-bottom: 10px;
+  letter-spacing: 0.25px;
+}
+.proto-list {
+  list-style: none;
+  font-size: 13.5px;
+  line-height: 1.45;
+  color: #1e293b;
+}
+.proto-list li {
+  margin-bottom: 6px;
+  padding-left: 14px;
+  position: relative;
+}
+.proto-list li::before {
+  content: "▪";
+  position: absolute;
+  left: 0;
+  color: #0284c7;
+  font-weight: 900;
+}
+.proto-list strong {
+  color: #000000;
+  font-weight: 900;
+}
+
+/* Encadré Récapitulatif de Sécurité & Contrôle (Bas de Page Droite) */
+.summary-box {
+  background: #f0f9ff;
+  border: 1.5px solid #bae6fd;
+  border-left: 7px solid #0284c7;
+  border-radius: 7px;
+  padding: 12px 16px;
+}
+.summary-box h3 {
+  font-size: 13px;
+  font-weight: 900;
+  text-transform: uppercase;
+  color: #0f172a;
+  margin-bottom: 8px;
+  letter-spacing: 0.3px;
+}
+.summary-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px 16px;
+  font-size: 13px;
+  line-height: 1.35;
+}
+.summary-item strong {
+  color: #000000;
+  font-weight: 900;
+}
+
+/* PIED DE PAGE */
+.footer {
+  border-top: 1.8px solid #cbd5e1;
+  padding-top: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 10px;
+  color: #334155;
+  font-weight: 800;
+}
+.legend-inline {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+.legend-dot {
+  display: inline-block;
+  width: 9px;
+  height: 9px;
+  border-radius: 2px;
+  margin-right: 4px;
+}
+</style>
+</head>
+<body>
+
+  <!-- ===================================================================== -->
+  <!-- PAGE 1 (GAUCHE) : POSTE DE PESÉE & TABLEAUX EN GROS CARACTÈRES        -->
+  <!-- ===================================================================== -->
+  <div class="sheet-page">
+    <div>
+      <div class="header-banner">
+        <div class="header-titles">
+          <h1>Registre Général des Barèmes de Cuisson</h1>
+          <div class="subtitle">Grand Four Ventilé (Programmes) & Repères Recuissons Après-Midi (Températures fixes & Temps approximatifs)</div>
+        </div>
+        <div class="header-right">
+          <div class="header-badge">RÉFÉRENTIEL CUISSONS 16 • GAUCHE</div>
+          <div class="page-indicator">PAGE 1/2 • POSTE DE PESÉE</div>
+        </div>
+      </div>
+
+      <div class="flash-row">
+        
+        <div class="flash-card green">
+          <div class="lbl">Grand Four Ventilé</div>
+          <div class="val">Lancer Programme Produit</div>
+        </div>
+        
+
+        <div class="flash-card amber">
+          <div class="lbl">Recuissons Après-Midi</div>
+          <div class="val">T° fixe + Temps approx. (~)</div>
+        </div>
+        
+
+        <div class="flash-card alert">
+          <div class="lbl">Préchauffage PAC</div>
+          <div class="val">+15 °C au-dessus consigne</div>
+        </div>
+        
+
+        <div class="flash-card ">
+          <div class="lbl">Lustrage</div>
+          <div class="val">Sirop 44° froid sur chaud</div>
+        </div>
+        
+      </div>
+
+      <div class="tables-container">
+        
+        
+    <table class="giant-table">
+      <thead><tr><th class='left'>1. Viennoiserie & Pâtes Tourées</th><th class='left'>Support</th><th class='center'>Départ</th><th class='center'>T° Fixe</th><th class='center'>Temps Approx.</th><th class='left'>Ouras</th><th class='left'>Finition</th></tr></thead>
+      <tbody>
+        <tr ><td class='left ing-name'>Croissant <span class='ing-note'>(75 g)</span></td><td class='left'>Plaque Silpat</td><td class='center'>Congelé PAC</td><td class='center'>165 °C</td><td class='center'>~ 14 min</td><td class='left'>Ouvrir fin</td><td class='left'>Dorure végétale</td></tr>
+<tr ><td class='left ing-name'>Pain au Chocolat <span class='ing-note'>(85 g)</span></td><td class='left'>Plaque Silpat</td><td class='center'>Congelé PAC</td><td class='center'>165 °C</td><td class='center'>~ 14 min</td><td class='left'>Ouvrir fin</td><td class='left'>Dorure végétale</td></tr>
+<tr ><td class='left ing-name'>Viennoise Nature <span class='ing-note'>(285 g)</span></td><td class='left'>Plaque Silpat</td><td class='center'>Congelé PAC</td><td class='center'>165 °C</td><td class='center'>~ 11 min</td><td class='left'>Fermé</td><td class='left'>Dorure végétale</td></tr>
+<tr ><td class='left ing-name'>Viennoise Choc <span class='ing-note'>(142 g)</span></td><td class='left'>Plaque Silpat</td><td class='center'>Congelé PAC</td><td class='center'>165 °C</td><td class='center'>~ 9 min</td><td class='left'>Fermé</td><td class='left'>Dorure végétale</td></tr>
+<tr ><td class='left ing-name'>Chausson aux Pommes</td><td class='left'>Plaque Silpat</td><td class='center'>Congelé / Frais</td><td class='center'>165 °C</td><td class='center'>~ 30 min</td><td class='left'>Ouvrir fin</td><td class='left'>Sirop / Dorure</td></tr>
+<tr ><td class='left ing-name'>Croissant aux Amandes</td><td class='left'>Plaque Silpat</td><td class='center'>Garni amande</td><td class='center'>165 °C</td><td class='center'>~ 30 min</td><td class='left'>Fermé</td><td class='left'>Sucre glace froid</td></tr>
+<tr ><td class='left ing-name'>Kouign-Amann <span class='ing-note'>(Décong. four)</span></td><td class='left'>Plaque</td><td class='center'>Sortie congél.</td><td class='center'>165 °C</td><td class='center'>~ 4 min</td><td class='left'>Fermé</td><td class='left'>Remise en T° rapide</td></tr>
+<tr ><td class='left ing-name'>Kouign-Amann <span class='ing-note'>(Cuisson crue)</span></td><td class='left'>Moule / Cercle</td><td class='center'>Pousse 24 °C</td><td class='center'>160 °C</td><td class='center'>~ 28–37 min</td><td class='left'>Ouvrir fin</td><td class='left'>Retourné à froid</td></tr>
+<tr ><td class='left ing-name'>Brioche au Sucre <span class='ing-note'>(60 g)</span></td><td class='left'>Plaque (24 pcs)</td><td class='center'>Congelé PAC</td><td class='center'>165 °C</td><td class='center'>~ 11–13 min</td><td class='left'>Ouverts continu</td><td class='left'>Dorure vég. + Grain 10</td></tr>
+<tr ><td class='left ing-name'>Raisins / Suisse / Oranais</td><td class='left'>Plaque Silpat</td><td class='center'>Congelé PAC</td><td class='center'>165 °C</td><td class='center'>~ 15–17 min</td><td class='left'>Ouvrir fin</td><td class='left'>Sirop 44° (Rais./Oran.)</td></tr>
+<tr ><td class='left ing-name'>Feuilletage Inversé</td><td class='left'>Plaque Silpat</td><td class='center'>Repos 1h +4°C</td><td class='center'>170–175 °C</td><td class='center'>~ 25–30 min</td><td class='left'>Ouvrir fin</td><td class='left'>Dorure pinceau</td></tr>
+        <tr class='total-final'><td class='left'>CUISSON PAC</td><td class='right'>Zéro décongélation</td><td class='right'>-10 °C cœur</td><td class='right'>T° Fixe</td><td class='right'>Temps indicatif</td><td class='right'>Sécher vapeur</td><td class='right'>Ressuage grille</td></tr>
+      </tbody>
+    </table>
+    
+        <div class="proto-block" style="margin-top: 8px;">
+          <h2>1. Grand Four Ventilé & Recuissons d'Après-Midi</h2>
+          <ul class="proto-list"><li><strong>Fournées sur le grand four ventilé :</strong> Sélectionner directement le <strong>programme de cuisson</strong> correspondant au produit.</li>
+<li><strong>Recuissons de l'après-midi (petites quantités) :</strong> Respecter la <strong>température fixe</strong> du tableau. Les temps de cuisson sont donnés <strong>à titre approximatif (~)</strong> car quelques plaques cuisent plus rapidement qu'un chariot complet : toujours contrôler la coloration à l'œil.</li>
+<li><strong>Préchauffage & Ouras :</strong> Monter le four 15 °C au-dessus de la consigne avant d'enfourner les pièces congelées, et ouvrir l'oura en fin de cuisson pour évacuer l'humidité.</li></ul>
+        </div>
+        
+      </div>
+    </div>
+
+    <div class="footer">
+      <span>RÉFÉRENTIEL CUISSONS 16 • RÉFÉRENTIEL TECHNIQUE</span>
+      <span class="legend-inline">
+        <span><i class="legend-dot" style="background:#0284c7;"></i>1. Base / Frasage</span>
+        <span><i class="legend-dot" style="background:#d97706;"></i>2. Incorp. / Liquides</span>
+        <span><i class="legend-dot" style="background:#059669;"></i>3. Poudres / Tourage</span>
+        <span><i class="legend-dot" style="background:#7c3aed;"></i>4. Inclusions / Finition</span>
+      </span>
+      <span>PAGE GAUCHE (1/2)</span>
+    </div>
+  </div>
+
+  <!-- ===================================================================== -->
+  <!-- PAGE 2 (DROITE) : PROTOCOLE PAS À PAS, FAÇONNAGE & CUISSON            -->
+  <!-- ===================================================================== -->
+  <div class="sheet-page">
+    <div>
+      <div class="header-banner">
+        <div class="header-titles">
+          <h1>Registre Général des Barèmes de Cuisson — Marche à Suivre</h1>
+          <div class="subtitle">Protocole chronologique étape par étape, conduite machine et barème de cuisson</div>
+        </div>
+        <div class="header-right">
+          <div class="header-badge">RÉFÉRENTIEL CUISSONS 16 • DROITE</div>
+          <div class="page-indicator">PAGE 2/2 • PROTOCOLE &amp; FOUR</div>
+        </div>
+      </div>
+
+      <div class="right-content">
+        
+        
+    <table class="giant-table">
+      <thead><tr><th class='left'>2. Pâtisserie, Biscuiterie & Traiteur</th><th class='left'>Support</th><th class='center'>Départ</th><th class='center'>T° Fixe</th><th class='center'>Temps Approx.</th><th class='left'>Ouras</th><th class='left'>Finition</th></tr></thead>
+      <tbody>
+        <tr ><td class='left ing-name'>Brookie <span class='ing-note'>(3 460 g)</span></td><td class='left'>Cadre 56x36</td><td class='center'>Frais (+4 °C)</td><td class='center'>160–165 °C</td><td class='center'>~ 24–26 min</td><td class='left'>Ouvrir à 18 min</td><td class='left'>Découpe +4 °C (30 p.)</td></tr>
+<tr ><td class='left ing-name'>Brownie <span class='ing-note'>(3 000 g)</span></td><td class='left'>Cadre 56x36</td><td class='center'>Frais coulé</td><td class='center'>160 °C</td><td class='center'>~ 22–25 min</td><td class='left'>Fermé</td><td class='left'>Découpe +4 °C (35 p.)</td></tr>
+<tr ><td class='left ing-name'>Cookies <span class='ing-note'>(80 g)</span></td><td class='left'>Plaque Silpat</td><td class='center'>Congelé PAC</td><td class='center'>165 °C</td><td class='center'>~ 13–14 min</td><td class='left'>Ouverts continu</td><td class='left'>Garnis Gourmet à froid</td></tr>
+<tr ><td class='left ing-name'>Muffins <span class='ing-note'>(120 g)</span></td><td class='left'>Plaque 24 m.</td><td class='center'>Frais poché</td><td class='center'>165 °C</td><td class='center'>~ 22 min</td><td class='left'>Fermé</td><td class='left'>Puits chaud + Nutolade</td></tr>
+<tr ><td class='left ing-name'>Cakes <span class='ing-note'>(3 060 g)</span></td><td class='left'>Moule 3 kg</td><td class='center'>Frais coulé</td><td class='center'>155 °C</td><td class='center'>~ 75 min</td><td class='left'>Fermé 60 min</td><td class='left'>Cheminée à l'huile</td></tr>
+<tr ><td class='left ing-name'>Gâteau Nantais</td><td class='left'>Moule métal</td><td class='center'>Frais poché</td><td class='center'>165 °C</td><td class='center'>~ 25–30 / 40–45m</td><td class='left'>Fermé</td><td class='left'>Glaçage rhum à froid</td></tr>
+<tr ><td class='left ing-name'>Quiches <span class='ing-note'>(140–160 g)</span></td><td class='left'>Tartelette</td><td class='center'>Légumes cong.</td><td class='center'>170 °C</td><td class='center'>~ 30–35 min</td><td class='left'>Fermé</td><td class='left'>Ressuage grille</td></tr>
+<tr ><td class='left ing-name'>Crêpes Froment</td><td class='left'>Girocrêpes</td><td class='center'>Chinoisé</td><td class='center'>215 °C</td><td class='center'>16 secondes</td><td class='left'>Continu</td><td class='left'>Sans repos</td></tr>
+<tr ><td class='left ing-name'>Galettes Blé Noir</td><td class='left'>Girocrêpes</td><td class='center'>Appareil lisse</td><td class='center'>230 °C</td><td class='center'>32 secondes</td><td class='left'>Continu</td><td class='left'>Coup de fouet / 30 min</td></tr>
+        <tr class='total-final'><td class='left'>RECUISSONS</td><td class='right'>Température fixe</td><td class='right'>Temps approx.</td><td class='right'>Ventilé</td><td class='right'>Surveiller œil</td><td class='right'>Vérifier tirage</td><td class='right'>Ressuage grille</td></tr>
+      </tbody>
+    </table>
+    
+        <div class="proto-block b2" style="margin-top: 8px;">
+          <h2>2. Gestes en Sortie de Four</h2>
+          <ul class="proto-list"><li><strong>Muffins :</strong> Former le puits central au pilon dès la sortie du four, tant que le cœur est bien chaud.</li>
+<li><strong>Kouign-Amann :</strong> Laisser figer au froid avant de démouler et de retourner les pièces sur grille.</li>
+<li><strong>Cadres Brownie & Brookie :</strong> Décadrer à chaud 10 min après sortie du four, puis raffermir 1 h à +4 °C avant de détailler au couteau.</li></ul>
+        </div>
+        
+      </div>
+    </div>
+
+    <div class="footer">
+      <span>RÉFÉRENTIEL CUISSONS 16 • Registre Général des Barèmes de Cuisson</span>
+      <span>Lire de gauche à droite classeur ouvert (Pesées à gauche ↔ Protocole à droite)</span>
+      <span>PAGE DROITE (2/2)</span>
+    </div>
+  </div>
+
+</body>
+</html>

@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Repères Cuissons Après-Midi — Four 165 °C</title>
+<style>
+@page { size: A4 portrait; margin: 8mm 9mm; }
+* { box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+body { width: 100%; color: #0f172a; background: #fff; }
+.toolbar-no-print {
+  background: #1e293b;
+  color: #fff;
+  padding: 10px 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+  border-radius: 6px;
+}
+.toolbar-no-print .hint { font-size: 13px; font-weight: 700; color: #fde68a; }
+.toolbar-no-print button {
+  background: #f59e0b;
+  color: #0f172a;
+  border: none;
+  padding: 7px 13px;
+  border-radius: 5px;
+  font-weight: 900;
+  font-size: 12.5px;
+  cursor: pointer;
+  margin-left: 8px;
+}
+.toolbar-no-print button.secondary { background: #e2e8f0; color: #0f172a; }
+@media print {
+  .toolbar-no-print { display: none !important; }
+}
+.sheet-page {
+  width: 100%;
+  height: 280mm;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.header-banner {
+  background: #0f172a;
+  color: #ffffff;
+  border-left: 10px solid #ef4444;
+  border-radius: 7px;
+  padding: 12px 18px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.header-banner h1 { font-size: 21px; font-weight: 900; text-transform: uppercase; letter-spacing: 0.3px; }
+.header-banner .sub { font-size: 12px; color: #cbd5e1; font-weight: 700; margin-top: 3px; }
+.badge-four {
+  background: #ef4444;
+  color: #ffffff;
+  padding: 7px 14px;
+  border-radius: 5px;
+  font-weight: 900;
+  font-size: 15px;
+  text-transform: uppercase;
+}
+table.cuisson-table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 2px solid #0f172a;
+  margin-bottom: 10px;
+}
+table.cuisson-table th {
+  background: #1e293b;
+  color: #ffffff;
+  padding: 8px 10px;
+  font-size: 12px;
+  font-weight: 900;
+  text-transform: uppercase;
+  border: 1.5px solid #334155;
+  text-align: left;
+}
+table.cuisson-table th.center, table.cuisson-table td.center { text-align: center; }
+table.cuisson-table td {
+  padding: 7px 10px;
+  height: 36px;
+  border: 1.5px solid #64748b;
+  font-size: 13.5px;
+  font-weight: 800;
+  color: #0f172a;
+  vertical-align: middle;
+}
+table.cuisson-table tr:nth-child(even) td { background: #f8fafc; }
+table.cuisson-table td.temp-col {
+  font-size: 15px;
+  font-weight: 900;
+  color: #0369a1;
+  background: #f0f9ff !important;
+}
+table.cuisson-table td.time-col {
+  font-size: 16px;
+  font-weight: 900;
+  color: #b91c1c;
+  background: #fef2f2 !important;
+}
+.note-box {
+  background: #fffbeb;
+  border: 1.5px solid #fde68a;
+  border-left: 6px solid #f59e0b;
+  border-radius: 5px;
+  padding: 9px 12px;
+  font-size: 12px;
+  font-weight: 700;
+  color: #92400e;
+  line-height: 1.4;
+  margin-bottom: 6px;
+}
+.footer {
+  border-top: 2px solid #cbd5e1;
+  padding-top: 5px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 11px;
+  font-weight: 800;
+  color: #334155;
+}
+</style>
+</head>
+<body>
+  <div class="toolbar-no-print">
+    <div class="hint">✏️ Cliquez directement dans n'importe quelle case pour modifier un temps ou ajouter un produit, puis cliquez sur Imprimer.</div>
+    <div>
+      <button type="button" onclick="addRow()">+ Ajouter une ligne</button>
+      <button type="button" class="secondary" onclick="removeRow()">- Supprimer dernière ligne</button>
+      <button type="button" onclick="window.print()">🖨️ Imprimer / Enregistrer en PDF</button>
+    </div>
+  </div>
+
+  <div class="sheet-page">
+    <div>
+      <div class="header-banner">
+        <div>
+          <h1 contenteditable="true">Cuissons &amp; Recuissons d'Après-Midi — Four 165 °C</h1>
+          <div class="sub" contenteditable="true">REPÈRES RAPIDES POUR PETITES FOURNÉES • TOUS PRODUITS AU FOUR VENTILÉ À 165 °C</div>
+        </div>
+        <div class="badge-four" contenteditable="true">165 °C STRICT</div>
+      </div>
+
+      <table class="cuisson-table" id="afternoon-table">
+        <thead>
+          <tr>
+            <th style="width: 28%;">Produit</th>
+            <th class="center" style="width: 17%;">État au Départ</th>
+            <th class="center" style="width: 14%;">Température</th>
+            <th class="center" style="width: 17%;">Temps Four</th>
+            <th style="width: 24%;">Consigne &amp; Finition</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td contenteditable="true"><strong>Croissant</strong></td>
+            <td class="center" contenteditable="true">Congelé direct (PAC)</td>
+            <td class="center temp-col" contenteditable="true">165 °C</td>
+            <td class="center time-col" contenteditable="true">14 min</td>
+            <td contenteditable="true">Dorure végétale • Ouvrir oura fin</td>
+          </tr>
+          <tr>
+            <td contenteditable="true"><strong>Pain au Chocolat</strong></td>
+            <td class="center" contenteditable="true">Congelé direct (PAC)</td>
+            <td class="center temp-col" contenteditable="true">165 °C</td>
+            <td class="center time-col" contenteditable="true">14 min</td>
+            <td contenteditable="true">Dorure végétale • Ouvrir oura fin</td>
+          </tr>
+          <tr>
+            <td contenteditable="true"><strong>Viennoise Chocolat</strong> (142 g)</td>
+            <td class="center" contenteditable="true">Congelé direct (PAC)</td>
+            <td class="center temp-col" contenteditable="true">165 °C</td>
+            <td class="center time-col" contenteditable="true">9 min</td>
+            <td contenteditable="true">Dorure végétale • Oura fermé</td>
+          </tr>
+          <tr>
+            <td contenteditable="true"><strong>Viennoise Nature</strong> (285 g)</td>
+            <td class="center" contenteditable="true">Congelé direct (PAC)</td>
+            <td class="center temp-col" contenteditable="true">165 °C</td>
+            <td class="center time-col" contenteditable="true">11 min</td>
+            <td contenteditable="true">Dorure végétale • Oura fermé</td>
+          </tr>
+          <tr>
+            <td contenteditable="true"><strong>Kouign-Amann (Décongélation)</strong></td>
+            <td class="center" contenteditable="true">Ressorti congélateur</td>
+            <td class="center temp-col" contenteditable="true">165 °C</td>
+            <td class="center time-col" contenteditable="true">4 min</td>
+            <td contenteditable="true">Remise en T° rapide • Ne pas recuire</td>
+          </tr>
+          <tr>
+            <td contenteditable="true"><strong>Chausson aux Pommes</strong></td>
+            <td class="center" contenteditable="true">Congelé ou Frais</td>
+            <td class="center temp-col" contenteditable="true">165 °C</td>
+            <td class="center time-col" contenteditable="true">30 min</td>
+            <td contenteditable="true">Dorure pinceau • Bien sécher fin</td>
+          </tr>
+          <tr>
+            <td contenteditable="true"><strong>Croissant aux Amandes</strong></td>
+            <td class="center" contenteditable="true">Garni crème amande</td>
+            <td class="center temp-col" contenteditable="true">165 °C</td>
+            <td class="center time-col" contenteditable="true">30 min</td>
+            <td contenteditable="true">Sucre glace après refroidissement</td>
+          </tr>
+          <tr>
+            <td contenteditable="true"><strong>Petite Brioche au Sucre</strong> (60 g)</td>
+            <td class="center" contenteditable="true">Congelé direct (PAC)</td>
+            <td class="center temp-col" contenteditable="true">165 °C</td>
+            <td class="center time-col" contenteditable="true">11 à 13 min</td>
+            <td contenteditable="true">Dorure vég. + Sucre Grain 10</td>
+          </tr>
+          <tr>
+            <td contenteditable="true"><strong>Cookies</strong> (80 g)</td>
+            <td class="center" contenteditable="true">Congelé direct</td>
+            <td class="center temp-col" contenteditable="true">165 °C</td>
+            <td class="center time-col" contenteditable="true">13 à 14 min</td>
+            <td contenteditable="true">Ouras ouverts en continu</td>
+          </tr>
+          <tr>
+            <td contenteditable="true"><strong>Pain Raisins / Suisse / Oranais</strong></td>
+            <td class="center" contenteditable="true">Congelé direct (PAC)</td>
+            <td class="center temp-col" contenteditable="true">165 °C</td>
+            <td class="center time-col" contenteditable="true">15 à 16 min</td>
+            <td contenteditable="true">Sirop 44° chaud (Raisins / Oranais)</td>
+          </tr>
+          <tr>
+            <td contenteditable="true"></td>
+            <td class="center" contenteditable="true"></td>
+            <td class="center temp-col" contenteditable="true">165 °C</td>
+            <td class="center time-col" contenteditable="true"></td>
+            <td contenteditable="true"></td>
+          </tr>
+          <tr>
+            <td contenteditable="true"></td>
+            <td class="center" contenteditable="true"></td>
+            <td class="center temp-col" contenteditable="true">165 °C</td>
+            <td class="center time-col" contenteditable="true"></td>
+            <td contenteditable="true"></td>
+          </tr>
+          <tr>
+            <td contenteditable="true"></td>
+            <td class="center" contenteditable="true"></td>
+            <td class="center temp-col" contenteditable="true">165 °C</td>
+            <td class="center time-col" contenteditable="true"></td>
+            <td contenteditable="true"></td>
+          </tr>
+          <tr>
+            <td contenteditable="true"></td>
+            <td class="center" contenteditable="true"></td>
+            <td class="center temp-col" contenteditable="true">165 °C</td>
+            <td class="center time-col" contenteditable="true"></td>
+            <td contenteditable="true"></td>
+          </tr>
+        </tbody>
+      </table>
+
+      <div class="note-box">
+        💡 <strong>Règle d'or de l'après-midi :</strong> Une petite fournée (1 ou 2 plaques) cuit plus vite qu'un chariot plein du matin. Les temps sont indicatifs : <strong>toujours contrôler la coloration à l'œil sur les 2 dernières minutes</strong>. Tous les produits viennoiserie PAC s'enfournent directement congelés.
+      </div>
+    </div>
+
+    <div class="footer">
+      <span>FICHE ATELIER • RECUISSONS APRÈS-MIDI</span>
+      <span>Poste Four Ventilé • Température Unique 165 °C</span>
+      <span>1 PAGE A4</span>
+    </div>
+  </div>
+
+<script>
+function addRow() {
+  const tbody = document.querySelector('#afternoon-table tbody');
+  const tr = document.createElement('tr');
+  tr.innerHTML = `
+    <td contenteditable="true"></td>
+    <td class="center" contenteditable="true">Congelé direct (PAC)</td>
+    <td class="center temp-col" contenteditable="true">165 °C</td>
+    <td class="center time-col" contenteditable="true"></td>
+    <td contenteditable="true"></td>
+  `;
+  tbody.appendChild(tr);
+}
+function removeRow() {
+  const tbody = document.querySelector('#afternoon-table tbody');
+  if (tbody.rows.length > 1) {
+    tbody.deleteRow(tbody.rows.length - 1);
+  }
+}
+</script>
+</body>
+</html>

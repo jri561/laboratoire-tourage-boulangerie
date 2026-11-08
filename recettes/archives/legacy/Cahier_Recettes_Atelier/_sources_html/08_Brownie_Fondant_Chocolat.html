@@ -1,0 +1,473 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Brownie Fondant Chocolat (Cadres 56x36 cm) — FICHE ATELIER 08</title>
+<style>
+@page {
+  size: A4 portrait;
+  margin: 7mm 8mm;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+body {
+  color: #0f172a;
+  background: #ffffff;
+  letter-spacing: 0.15px;
+}
+
+.sheet-page {
+  width: 100%;
+  height: 282mm;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  page-break-after: always;
+  break-after: page;
+}
+.sheet-page:last-child {
+  page-break-after: auto;
+  break-after: auto;
+}
+
+/* EN-TÊTE ÉPURÉ HAUTE LISIBILITÉ */
+.header-banner {
+  background: #f8fafc;
+  border: 1.5px solid #cbd5e1;
+  border-left: 8px solid #be185d;
+  border-radius: 7px;
+  padding: 10px 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+.header-titles h1 {
+  font-size: 23px;
+  font-weight: 900;
+  color: #0f172a;
+  letter-spacing: -0.2px;
+  line-height: 1.15;
+}
+.header-titles .subtitle {
+  font-size: 12.5px;
+  font-weight: 700;
+  color: #475569;
+  margin-top: 3px;
+  line-height: 1.25;
+}
+.header-right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 3px;
+}
+.header-badge {
+  background: #9d174d;
+  color: #ffffff;
+  padding: 6px 12px;
+  border-radius: 5px;
+  font-weight: 900;
+  font-size: 12.5px;
+  letter-spacing: 0.5px;
+  white-space: nowrap;
+}
+.page-indicator {
+  font-size: 10px;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  color: #be185d;
+}
+
+/* BANDEAU FLASH GÉANT */
+.flash-row {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 9px;
+  margin-bottom: 14px;
+}
+.flash-card {
+  background: #f8fafc;
+  border: 1.5px solid #cbd5e1;
+  border-left: 5.5px solid #0284c7;
+  padding: 9px 11px;
+  border-radius: 6px;
+}
+.flash-card.alert {
+  border-left-color: #dc2626;
+  background: #fff5f5;
+  border-color: #fecaca;
+}
+.flash-card.amber {
+  border-left-color: #d97706;
+  background: #fffbeb;
+  border-color: #fde68a;
+}
+.flash-card.green {
+  border-left-color: #059669;
+  background: #f0fdf4;
+  border-color: #bbf7d0;
+}
+.flash-card .lbl {
+  font-size: 10.5px;
+  font-weight: 800;
+  color: #475569;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+  margin-bottom: 3px;
+}
+.flash-card .val {
+  font-size: 15.5px;
+  font-weight: 900;
+  color: #0f172a;
+  line-height: 1.15;
+}
+
+/* TABLEAUX DES PESÉES GRAND CONFORT (PAGE GAUCHE) */
+.tables-container {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  flex-grow: 1;
+  justify-content: flex-start;
+}
+table.giant-table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1.5px solid #94a3b8;
+  border-radius: 6px;
+  overflow: hidden;
+}
+table.giant-table th {
+  background: #f1f5f9;
+  color: #0f172a;
+  padding: 10px 12px;
+  font-size: 13px;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+  border-bottom: 2.2px solid #0f172a;
+  border-right: 1px solid #cbd5e1;
+}
+table.giant-table th:last-child { border-right: none; }
+table.giant-table th.left, table.giant-table td.left { text-align: left; }
+table.giant-table th.right, table.giant-table td.right { text-align: right; }
+table.giant-table th.center, table.giant-table td.center { text-align: center; }
+
+table.giant-table td {
+  padding: 10px 12px;
+  border-bottom: 1px solid #cbd5e1;
+  border-right: 1px solid #e2e8f0;
+  font-size: 15px;
+  font-weight: 700;
+  color: #1e293b;
+}
+table.giant-table td:last-child { border-right: none; }
+table.giant-table tr:nth-child(even) td {
+  background-color: #f8fafc;
+}
+
+/* Indicateur couleur gauche selon l'étape */
+table.giant-table tr.step-row-1 td:first-child { border-left: 5.5px solid #0284c7; }
+table.giant-table tr.step-row-2 td:first-child { border-left: 5.5px solid #d97706; }
+table.giant-table tr.step-row-3 td:first-child { border-left: 5.5px solid #059669; }
+table.giant-table tr.step-row-4 td:first-child { border-left: 5.5px solid #7c3aed; }
+
+table.giant-table td.ing-name {
+  font-size: 15.5px;
+  font-weight: 800;
+  color: #0f172a;
+}
+.ing-note {
+  font-weight: 600;
+  color: #475569;
+  font-size: 0.88em;
+}
+
+/* Pastilles d'étapes numérotées */
+.step-pill {
+  display: inline-block;
+  padding: 1.5px 7px;
+  border-radius: 4px;
+  font-weight: 900;
+  font-size: 0.86em;
+  color: #ffffff;
+  margin-right: 6px;
+  vertical-align: baseline;
+  letter-spacing: 0.25px;
+}
+.step-pill.s1 { background: #0284c7; }
+.step-pill.s2 { background: #d97706; }
+.step-pill.s3 { background: #059669; }
+.step-pill.s4 { background: #7c3aed; }
+
+table.giant-table td.weight-cell {
+  font-size: 18px;
+  font-weight: 900;
+  color: #000000;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.35px;
+}
+table.giant-table tr.subtotal td {
+  background: #fdf2f8;
+  font-size: 15.5px;
+  font-weight: 900;
+  color: #0f172a;
+  border-top: 1.8px solid #475569;
+  border-bottom: 1.8px solid #475569;
+}
+table.giant-table tr.total-final td {
+  background: #fce7f3;
+  font-size: 16.5px;
+  font-weight: 900;
+  color: #000000;
+  border-top: 2.2px solid #0f172a;
+  border-bottom: 2.2px solid #0f172a;
+}
+
+/* PAGE DE DROITE : PROTOCOLE PLEINE LARGEUR EN GROS CARACTÈRES */
+.right-content {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  flex-grow: 1;
+  justify-content: flex-start;
+}
+.proto-block {
+  background: #ffffff;
+  border: 1.5px solid #cbd5e1;
+  border-left: 7px solid #0284c7;
+  border-radius: 7px;
+  padding: 16px 20px;
+}
+.proto-block.b2 {
+  border-left-color: #d97706;
+}
+.proto-block h2 {
+  font-size: 16.5px;
+  font-weight: 900;
+  color: #0f172a;
+  text-transform: uppercase;
+  border-bottom: 1.5px solid #e2e8f0;
+  padding-bottom: 6px;
+  margin-bottom: 10px;
+  letter-spacing: 0.25px;
+}
+.proto-list {
+  list-style: none;
+  font-size: 15px;
+  line-height: 1.55;
+  color: #1e293b;
+}
+.proto-list li {
+  margin-bottom: 10px;
+  padding-left: 14px;
+  position: relative;
+}
+.proto-list li::before {
+  content: "▪";
+  position: absolute;
+  left: 0;
+  color: #be185d;
+  font-weight: 900;
+}
+.proto-list strong {
+  color: #000000;
+  font-weight: 900;
+}
+
+/* Encadré Récapitulatif de Sécurité & Contrôle (Bas de Page Droite) */
+.summary-box {
+  background: #fdf2f8;
+  border: 1.5px solid #fbcfe8;
+  border-left: 7px solid #be185d;
+  border-radius: 7px;
+  padding: 12px 16px;
+}
+.summary-box h3 {
+  font-size: 13px;
+  font-weight: 900;
+  text-transform: uppercase;
+  color: #0f172a;
+  margin-bottom: 8px;
+  letter-spacing: 0.3px;
+}
+.summary-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px 16px;
+  font-size: 13px;
+  line-height: 1.35;
+}
+.summary-item strong {
+  color: #000000;
+  font-weight: 900;
+}
+
+/* PIED DE PAGE */
+.footer {
+  border-top: 1.8px solid #cbd5e1;
+  padding-top: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 10px;
+  color: #334155;
+  font-weight: 800;
+}
+.legend-inline {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+.legend-dot {
+  display: inline-block;
+  width: 9px;
+  height: 9px;
+  border-radius: 2px;
+  margin-right: 4px;
+}
+</style>
+</head>
+<body>
+
+  <!-- ===================================================================== -->
+  <!-- PAGE 1 (GAUCHE) : POSTE DE PESÉE & TABLEAUX EN GROS CARACTÈRES        -->
+  <!-- ===================================================================== -->
+  <div class="sheet-page">
+    <div>
+      <div class="header-banner">
+        <div class="header-titles">
+          <h1>Brownie Fondant Chocolat (Cadres 56x36 cm)</h1>
+          <div class="subtitle">Appareil Brownie en cadres 56x36 cm — Découpe en 35 carrés épais</div>
+        </div>
+        <div class="header-right">
+          <div class="header-badge">FICHE ATELIER 08 • GAUCHE</div>
+          <div class="page-indicator">PAGE 1/2 • POSTE DE PESÉE</div>
+        </div>
+      </div>
+
+      <div class="flash-row">
+        
+        <div class="flash-card ">
+          <div class="lbl">Programme</div>
+          <div class="val">Prog. [BROWNIE] (Feuille)</div>
+        </div>
+        
+
+        <div class="flash-card amber">
+          <div class="lbl">Poids / Cadre</div>
+          <div class="val">3 000 g (+400 g Pécan)</div>
+        </div>
+        
+
+        <div class="flash-card green">
+          <div class="lbl">Découpe</div>
+          <div class="val">35 carrés 8x7,2 cm (85g)</div>
+        </div>
+        
+
+        <div class="flash-card alert">
+          <div class="lbl">Cuisson Four</div>
+          <div class="val">160 °C (22 à 25 min)</div>
+        </div>
+        
+      </div>
+
+      <div class="tables-container">
+        
+    <table class="giant-table">
+      <thead><tr><th class='left'>Ingrédients</th><th class='right'>1 Cadre (3,0 kg)</th><th class='right'>10 Cadres (30 kg)</th><th class='right'>15 Cadres (45 kg)</th></tr></thead>
+      <tbody>
+        <tr class='step-row-1'><td class='left ing-name'><span class='step-pill s1'>1</span>Chocolat noir 55 %</td><td class='right weight-cell'>600 g</td><td class='right weight-cell'>6 000 g</td><td class='right weight-cell'>9 000 g</td></tr>
+<tr class='step-row-1'><td class='left ing-name'><span class='step-pill s1'>1</span>Huile de colza</td><td class='right weight-cell'>600 g</td><td class='right weight-cell'>6 000 g</td><td class='right weight-cell'>9 000 g</td></tr>
+<tr class='step-row-2'><td class='left ing-name'><span class='step-pill s2'>2</span>Œufs entiers liquides</td><td class='right weight-cell'>660 g</td><td class='right weight-cell'>6 600 g</td><td class='right weight-cell'>9 900 g</td></tr>
+<tr class='step-row-2'><td class='left ing-name'><span class='step-pill s2'>2</span>Extrait de café Trablit</td><td class='right weight-cell'>5 g</td><td class='right weight-cell'>50 g</td><td class='right weight-cell'>75 g</td></tr>
+<tr class='step-row-2'><td class='left ing-name'><span class='step-pill s2'>2</span>Sucre semoule</td><td class='right weight-cell'>800 g</td><td class='right weight-cell'>8 000 g</td><td class='right weight-cell'>12 000 g</td></tr>
+<tr class='step-row-3'><td class='left ing-name'><span class='step-pill s3'>3</span>Farine T55</td><td class='right weight-cell'>235 g</td><td class='right weight-cell'>2 350 g</td><td class='right weight-cell'>3 525 g</td></tr>
+<tr class='step-row-3'><td class='left ing-name'><span class='step-pill s3'>3</span>Cacao en poudre 100 %</td><td class='right weight-cell'>90 g</td><td class='right weight-cell'>900 g</td><td class='right weight-cell'>1 350 g</td></tr>
+<tr class='step-row-3'><td class='left ing-name'><span class='step-pill s3'>3</span>Sel fin</td><td class='right weight-cell'>5 g</td><td class='right weight-cell'>50 g</td><td class='right weight-cell'>75 g</td></tr>
+<tr class='step-row-3'><td class='left ing-name'><span class='step-pill s3'>3</span>Levure chimique</td><td class='right weight-cell'>5 g</td><td class='right weight-cell'>50 g</td><td class='right weight-cell'>75 g</td></tr>
+<tr class='subtotal'><td class='left ing-name'>SOUS-TOTAL BROWNIE NATURE</td><td class='right weight-cell'>3 000 g</td><td class='right weight-cell'>30 000 g</td><td class='right weight-cell'>45 000 g</td></tr>
+<tr class='step-row-4'><td class='left ing-name'><span class='step-pill s4'>4</span>Option : Noix de pécan</td><td class='right weight-cell'>+ 400 g</td><td class='right weight-cell'>+ 4 000 g</td><td class='right weight-cell'>+ 6 000 g</td></tr>
+        <tr class='total-final'><td class='left'>POIDS TOTAL (NATURE / PÉCAN)</td><td class='right'>3,0 kg / 3,4 kg</td><td class='right'>30 kg / 34 kg</td><td class='right'>45 kg / 51 kg</td></tr>
+      </tbody>
+    </table>
+    
+      </div>
+    </div>
+
+    <div class="footer">
+      <span>FICHE ATELIER 08 • PÂTISSERIE & BISCUITERIE</span>
+      <span class="legend-inline">
+        <span><i class="legend-dot" style="background:#0284c7;"></i>1. Base / Frasage</span>
+        <span><i class="legend-dot" style="background:#d97706;"></i>2. Incorp. / Liquides</span>
+        <span><i class="legend-dot" style="background:#059669;"></i>3. Poudres / Tourage</span>
+        <span><i class="legend-dot" style="background:#7c3aed;"></i>4. Inclusions / Finition</span>
+      </span>
+      <span>PAGE GAUCHE (1/2)</span>
+    </div>
+  </div>
+
+  <!-- ===================================================================== -->
+  <!-- PAGE 2 (DROITE) : PROTOCOLE PAS À PAS, FAÇONNAGE & CUISSON            -->
+  <!-- ===================================================================== -->
+  <div class="sheet-page">
+    <div>
+      <div class="header-banner">
+        <div class="header-titles">
+          <h1>Brownie Fondant Chocolat (Cadres 56x36 cm) — Marche à Suivre</h1>
+          <div class="subtitle">Protocole chronologique étape par étape, conduite machine et barème de cuisson</div>
+        </div>
+        <div class="header-right">
+          <div class="header-badge">FICHE ATELIER 08 • DROITE</div>
+          <div class="page-indicator">PAGE 2/2 • PROTOCOLE &amp; FOUR</div>
+        </div>
+      </div>
+
+      <div class="right-content">
+        
+        <div class="proto-block">
+          <h2>1. Fabrication au Batteur (Feuille)</h2>
+          <ul class="proto-list">
+            <li><strong><span class='step-pill s1'>ÉTAPE 1</span> Fonte :</strong> Faire fondre le chocolat noir entre 45 et 50 °C, puis incorporer l'huile de colza au fouet pour obtenir une émulsion lisse.</li>
+<li><strong><span class='step-pill s2'>ÉTAPE 2</span> Liaison :</strong> Réunir les œufs, l'extrait de café et le sucre <strong>(2)</strong> dans la cuve. Lancer le <strong>Programme [BROWNIE]</strong> à la feuille en 1ʳᵉ vitesse sans incorporer d'air, puis verser le mélange chocolat-huile.</li>
+<li><strong><span class='step-pill s3'>ÉTAPE 3</span> Poudres :</strong> Ajouter la farine, le cacao, le sel et la levure tamisés <strong>(3)</strong> et mélanger juste le temps de lisser l'appareil.</li>
+<li><strong><span class='step-pill s4'>ÉTAPE 4</span> Coulage :</strong> Couler <strong>3 000 g d'appareil par cadre</strong> sur toile Silpat, et parsemer les noix de pécan <strong>(4)</strong> en surface pour la version Pécan.</li>
+          </ul>
+        </div>
+        <div class="proto-block b2">
+          <h2>2. Cuisson & Découpe (35 carrés)</h2>
+          <ul class="proto-list">
+            <li><strong>Cuisson (160 °C) :</strong> Cuire pendant <strong>22 à 25 minutes</strong> oura fermé : le dessus doit former une fine croûte satinée tout en gardant un cœur fondant.</li>
+<li><strong>Décadrage & Refroidissement :</strong> Décadrer à chaud 10 min après la sortie du four, puis passer <strong>1 heure en chambre froide à +4 °C</strong> pour figer le cœur avant la coupe.</li>
+<li><strong>Découpe (35 carrés) :</strong> Au couteau chaud et réglet inox, couper 7 bandes dans la longueur (8,0 cm) par 5 bandes dans la largeur (7,2 cm) pour obtenir <strong>35 carrés sans chute</strong>.</li>
+          </ul>
+        </div>
+        <div class="summary-box">
+          <h3>Repères de Contrôle Rapide au Poste (FICHE ATELIER 08)</h3>
+          <div class="summary-grid">
+            <div class='summary-item'>• Programme : <strong>Prog. [BROWNIE] (Feuille)</strong></div>
+<div class='summary-item'>• Poids / Cadre : <strong>3 000 g (+400 g Pécan)</strong></div>
+<div class='summary-item'>• Découpe : <strong>35 carrés 8x7,2 cm (85g)</strong></div>
+<div class='summary-item'>• Cuisson Four : <strong>160 °C (22 à 25 min)</strong></div>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+
+    <div class="footer">
+      <span>FICHE ATELIER 08 • Brownie Fondant Chocolat (Cadres 56x36 cm)</span>
+      <span>Lire de gauche à droite classeur ouvert (Pesées à gauche ↔ Protocole à droite)</span>
+      <span>PAGE DROITE (2/2)</span>
+    </div>
+  </div>
+
+</body>
+</html>

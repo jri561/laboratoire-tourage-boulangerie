@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Crêpes de Froment (Girocrêpes) — FICHE ATELIER 01</title>
+<style>
+@page {
+  size: A4 portrait;
+  margin: 7mm 8mm;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+body {
+  color: #0f172a;
+  background: #ffffff;
+  letter-spacing: 0.15px;
+}
+
+.sheet-page {
+  width: 100%;
+  height: 282mm;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  page-break-after: always;
+  break-after: page;
+}
+.sheet-page:last-child {
+  page-break-after: auto;
+  break-after: auto;
+}
+
+/* EN-TÊTE ÉPURÉ HAUTE LISIBILITÉ */
+.header-banner {
+  background: #f8fafc;
+  border: 1.5px solid #cbd5e1;
+  border-left: 8px solid #059669;
+  border-radius: 7px;
+  padding: 10px 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 11px;
+}
+.header-titles h1 {
+  font-size: 22px;
+  font-weight: 900;
+  color: #0f172a;
+  letter-spacing: -0.2px;
+  line-height: 1.15;
+}
+.header-titles .subtitle {
+  font-size: 12px;
+  font-weight: 700;
+  color: #475569;
+  margin-top: 3px;
+  line-height: 1.25;
+}
+.header-right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 3px;
+}
+.header-badge {
+  background: #047857;
+  color: #ffffff;
+  padding: 6px 12px;
+  border-radius: 5px;
+  font-weight: 900;
+  font-size: 12.5px;
+  letter-spacing: 0.5px;
+  white-space: nowrap;
+}
+.page-indicator {
+  font-size: 10px;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  color: #059669;
+}
+
+/* BANDEAU FLASH GÉANT */
+.flash-row {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 9px;
+  margin-bottom: 12px;
+}
+.flash-card {
+  background: #f8fafc;
+  border: 1.5px solid #cbd5e1;
+  border-left: 5.5px solid #0284c7;
+  padding: 8px 10px;
+  border-radius: 6px;
+}
+.flash-card.alert {
+  border-left-color: #dc2626;
+  background: #fff5f5;
+  border-color: #fecaca;
+}
+.flash-card.amber {
+  border-left-color: #d97706;
+  background: #fffbeb;
+  border-color: #fde68a;
+}
+.flash-card.green {
+  border-left-color: #059669;
+  background: #f0fdf4;
+  border-color: #bbf7d0;
+}
+.flash-card .lbl {
+  font-size: 10px;
+  font-weight: 800;
+  color: #475569;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+  margin-bottom: 3px;
+}
+.flash-card .val {
+  font-size: 15px;
+  font-weight: 900;
+  color: #0f172a;
+  line-height: 1.15;
+}
+
+/* TABLEAUX DES PESÉES GRAND CONFORT (PAGE GAUCHE) */
+.tables-container {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  flex-grow: 1;
+  justify-content: flex-start;
+}
+table.giant-table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1.5px solid #94a3b8;
+  border-radius: 6px;
+  overflow: hidden;
+}
+table.giant-table th {
+  background: #f1f5f9;
+  color: #0f172a;
+  padding: 8px 10px;
+  font-size: 10.8px;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+  border-bottom: 2.2px solid #0f172a;
+  border-right: 1px solid #cbd5e1;
+}
+table.giant-table th:last-child { border-right: none; }
+table.giant-table th.left, table.giant-table td.left { text-align: left; }
+table.giant-table th.right, table.giant-table td.right { text-align: right; }
+table.giant-table th.center, table.giant-table td.center { text-align: center; }
+
+table.giant-table td {
+  padding: 8.5px 7px;
+  border-bottom: 1px solid #cbd5e1;
+  border-right: 1px solid #e2e8f0;
+  font-size: 12.8px;
+  font-weight: 700;
+  color: #1e293b;
+}
+table.giant-table td:last-child { border-right: none; }
+table.giant-table tr:nth-child(even) td {
+  background-color: #f8fafc;
+}
+
+/* Indicateur couleur gauche selon l'étape */
+table.giant-table tr.step-row-1 td:first-child { border-left: 5.5px solid #0284c7; }
+table.giant-table tr.step-row-2 td:first-child { border-left: 5.5px solid #d97706; }
+table.giant-table tr.step-row-3 td:first-child { border-left: 5.5px solid #059669; }
+table.giant-table tr.step-row-4 td:first-child { border-left: 5.5px solid #7c3aed; }
+
+table.giant-table td.ing-name {
+  font-size: 13.2px;
+  font-weight: 800;
+  color: #0f172a;
+}
+.ing-note {
+  font-weight: 600;
+  color: #475569;
+  font-size: 0.88em;
+}
+
+/* Pastilles d'étapes numérotées */
+.step-pill {
+  display: inline-block;
+  padding: 1.5px 7px;
+  border-radius: 4px;
+  font-weight: 900;
+  font-size: 0.86em;
+  color: #ffffff;
+  margin-right: 6px;
+  vertical-align: baseline;
+  letter-spacing: 0.25px;
+}
+.step-pill.s1 { background: #0284c7; }
+.step-pill.s2 { background: #d97706; }
+.step-pill.s3 { background: #059669; }
+.step-pill.s4 { background: #7c3aed; }
+
+table.giant-table td.weight-cell {
+  font-size: 14.5px;
+  font-weight: 900;
+  color: #000000;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.35px;
+}
+table.giant-table tr.subtotal td {
+  background: #ecfdf5;
+  font-size: 14.5px;
+  font-weight: 900;
+  color: #0f172a;
+  border-top: 1.8px solid #475569;
+  border-bottom: 1.8px solid #475569;
+}
+table.giant-table tr.total-final td {
+  background: #d1fae5;
+  font-size: 15.5px;
+  font-weight: 900;
+  color: #000000;
+  border-top: 2.2px solid #0f172a;
+  border-bottom: 2.2px solid #0f172a;
+}
+
+/* PAGE DE DROITE : PROTOCOLE PLEINE LARGEUR EN GROS CARACTÈRES */
+.right-content {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  flex-grow: 1;
+  justify-content: flex-start;
+}
+.proto-block {
+  background: #ffffff;
+  border: 1.5px solid #cbd5e1;
+  border-left: 7px solid #0284c7;
+  border-radius: 7px;
+  padding: 16px 20px;
+}
+.proto-block.b2 {
+  border-left-color: #d97706;
+}
+.proto-block h2 {
+  font-size: 16.5px;
+  font-weight: 900;
+  color: #0f172a;
+  text-transform: uppercase;
+  border-bottom: 1.5px solid #e2e8f0;
+  padding-bottom: 6px;
+  margin-bottom: 10px;
+  letter-spacing: 0.25px;
+}
+.proto-list {
+  list-style: none;
+  font-size: 15px;
+  line-height: 1.55;
+  color: #1e293b;
+}
+.proto-list li {
+  margin-bottom: 10px;
+  padding-left: 14px;
+  position: relative;
+}
+.proto-list li::before {
+  content: "▪";
+  position: absolute;
+  left: 0;
+  color: #059669;
+  font-weight: 900;
+}
+.proto-list strong {
+  color: #000000;
+  font-weight: 900;
+}
+
+/* Encadré Récapitulatif de Sécurité & Contrôle (Bas de Page Droite) */
+.summary-box {
+  background: #ecfdf5;
+  border: 1.5px solid #a7f3d0;
+  border-left: 7px solid #059669;
+  border-radius: 7px;
+  padding: 12px 16px;
+}
+.summary-box h3 {
+  font-size: 13px;
+  font-weight: 900;
+  text-transform: uppercase;
+  color: #0f172a;
+  margin-bottom: 8px;
+  letter-spacing: 0.3px;
+}
+.summary-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px 16px;
+  font-size: 13px;
+  line-height: 1.35;
+}
+.summary-item strong {
+  color: #000000;
+  font-weight: 900;
+}
+
+/* PIED DE PAGE */
+.footer {
+  border-top: 1.8px solid #cbd5e1;
+  padding-top: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 10px;
+  color: #334155;
+  font-weight: 800;
+}
+.legend-inline {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+.legend-dot {
+  display: inline-block;
+  width: 9px;
+  height: 9px;
+  border-radius: 2px;
+  margin-right: 4px;
+}
+</style>
+</head>
+<body>
+
+  <!-- ===================================================================== -->
+  <!-- PAGE 1 (GAUCHE) : POSTE DE PESÉE & TABLEAUX EN GROS CARACTÈRES        -->
+  <!-- ===================================================================== -->
+  <div class="sheet-page">
+    <div>
+      <div class="header-banner">
+        <div class="header-titles">
+          <h1>Crêpes de Froment (Girocrêpes)</h1>
+          <div class="subtitle">Pâte à crêpes sur machine Girocrêpes — Pesée en 2 temps (1. Frasage → 2. Allongement)</div>
+        </div>
+        <div class="header-right">
+          <div class="header-badge">FICHE ATELIER 01 • GAUCHE</div>
+          <div class="page-indicator">PAGE 1/2 • POSTE DE PESÉE</div>
+        </div>
+      </div>
+
+      <div class="flash-row">
+        
+        <div class="flash-card alert">
+          <div class="lbl">T° Tambour</div>
+          <div class="val">215 °C</div>
+        </div>
+        
+
+        <div class="flash-card amber">
+          <div class="lbl">Temps Passage</div>
+          <div class="val">16 Secondes</div>
+        </div>
+        
+
+        <div class="flash-card ">
+          <div class="lbl">Programme</div>
+          <div class="val">Prog. [CRÊPES] (Fouet)</div>
+        </div>
+        
+
+        <div class="flash-card green">
+          <div class="lbl">Filtration</div>
+          <div class="val">Chinois étamine</div>
+        </div>
+        
+      </div>
+
+      <div class="tables-container">
+        
+    <table class="giant-table">
+      <thead><tr><th class='left'>Ingrédients</th><th class='right'>12 Pqts (2kg)</th><th class='right'>25 Pqts (4kg)</th><th class='right'>37 Pqts (6kg)</th><th class='right'>50 Pqts (8kg)</th><th class='right'>65 Pqts (10kg)</th><th class='right'>75 Pqts (12kg)</th><th class='right'>85 Pqts (14kg)</th><th class='right'>100 Pqts (16kg)</th></tr></thead>
+      <tbody>
+        <tr class='step-row-1'><td class='left ing-name'><span class='step-pill s1'>1</span>Eau <span class='ing-note'>(1ʳᵉ partie)</span></td><td class='right weight-cell'>1 650 g</td><td class='right weight-cell'>2 900 g</td><td class='right weight-cell'>4 550 g</td><td class='right weight-cell'>5 800 g</td><td class='right weight-cell'>7 300 g</td><td class='right weight-cell'>8 750 g</td><td class='right weight-cell'>10 200 g</td><td class='right weight-cell'>11 650 g</td></tr>
+<tr class='step-row-1'><td class='left ing-name'><span class='step-pill s1'>1</span>Œufs entiers liquides</td><td class='right weight-cell'>1 300 g</td><td class='right weight-cell'>2 600 g</td><td class='right weight-cell'>3 900 g</td><td class='right weight-cell'>5 200 g</td><td class='right weight-cell'>6 500 g</td><td class='right weight-cell'>7 800 g</td><td class='right weight-cell'>9 100 g</td><td class='right weight-cell'>10 400 g</td></tr>
+<tr class='step-row-1'><td class='left ing-name'><span class='step-pill s1'>1</span>Sucre semoule</td><td class='right weight-cell'>600 g</td><td class='right weight-cell'>1 200 g</td><td class='right weight-cell'>1 800 g</td><td class='right weight-cell'>2 400 g</td><td class='right weight-cell'>3 000 g</td><td class='right weight-cell'>3 600 g</td><td class='right weight-cell'>4 200 g</td><td class='right weight-cell'>4 800 g</td></tr>
+<tr class='step-row-1'><td class='left ing-name'><span class='step-pill s1'>1</span>Poudre de lait entier</td><td class='right weight-cell'>300 g</td><td class='right weight-cell'>600 g</td><td class='right weight-cell'>900 g</td><td class='right weight-cell'>1 200 g</td><td class='right weight-cell'>1 500 g</td><td class='right weight-cell'>1 800 g</td><td class='right weight-cell'>2 100 g</td><td class='right weight-cell'>2 400 g</td></tr>
+<tr class='step-row-1'><td class='left ing-name'><span class='step-pill s1'>1</span>Sel fin</td><td class='right weight-cell'>30 g</td><td class='right weight-cell'>55 g</td><td class='right weight-cell'>85 g</td><td class='right weight-cell'>110 g</td><td class='right weight-cell'>140 g</td><td class='right weight-cell'>165 g</td><td class='right weight-cell'>195 g</td><td class='right weight-cell'>220 g</td></tr>
+<tr class='step-row-1'><td class='left ing-name'><span class='step-pill s1'>1</span>Farine T55</td><td class='right weight-cell'>2 000 g</td><td class='right weight-cell'>4 000 g</td><td class='right weight-cell'>6 000 g</td><td class='right weight-cell'>8 000 g</td><td class='right weight-cell'>10 000 g</td><td class='right weight-cell'>12 000 g</td><td class='right weight-cell'>14 000 g</td><td class='right weight-cell'>16 000 g</td></tr>
+<tr class='step-row-2'><td class='left ing-name'><span class='step-pill s2'>2</span>Eau <span class='ing-note'>(2ᵉ partie)</span></td><td class='right weight-cell'>1 050 g</td><td class='right weight-cell'>2 100 g</td><td class='right weight-cell'>3 150 g</td><td class='right weight-cell'>4 200 g</td><td class='right weight-cell'>5 250 g</td><td class='right weight-cell'>6 300 g</td><td class='right weight-cell'>7 350 g</td><td class='right weight-cell'>8 400 g</td></tr>
+<tr class='step-row-2'><td class='left ing-name'><span class='step-pill s2'>2</span>Huile de colza</td><td class='right weight-cell'>210 g</td><td class='right weight-cell'>420 g</td><td class='right weight-cell'>630 g</td><td class='right weight-cell'>840 g</td><td class='right weight-cell'>1 050 g</td><td class='right weight-cell'>1 260 g</td><td class='right weight-cell'>1 470 g</td><td class='right weight-cell'>1 680 g</td></tr>
+        <tr class='total-final'><td class='left'>POIDS TOTAL APPAREIL</td><td class='right'>7 140 g</td><td class='right'>13 875 g</td><td class='right'>21 015 g</td><td class='right'>27 750 g</td><td class='right'>34 740 g</td><td class='right'>41 675 g</td><td class='right'>48 615 g</td><td class='right'>55 550 g</td></tr>
+      </tbody>
+    </table>
+    
+      </div>
+    </div>
+
+    <div class="footer">
+      <span>FICHE ATELIER 01 • TRAITEUR & GIROCRÊPES</span>
+      <span class="legend-inline">
+        <span><i class="legend-dot" style="background:#0284c7;"></i>1. Base / Frasage</span>
+        <span><i class="legend-dot" style="background:#d97706;"></i>2. Incorp. / Liquides</span>
+        <span><i class="legend-dot" style="background:#059669;"></i>3. Poudres / Tourage</span>
+        <span><i class="legend-dot" style="background:#7c3aed;"></i>4. Inclusions / Finition</span>
+      </span>
+      <span>PAGE GAUCHE (1/2)</span>
+    </div>
+  </div>
+
+  <!-- ===================================================================== -->
+  <!-- PAGE 2 (DROITE) : PROTOCOLE PAS À PAS, FAÇONNAGE & CUISSON            -->
+  <!-- ===================================================================== -->
+  <div class="sheet-page">
+    <div>
+      <div class="header-banner">
+        <div class="header-titles">
+          <h1>Crêpes de Froment (Girocrêpes) — Marche à Suivre</h1>
+          <div class="subtitle">Protocole chronologique étape par étape, conduite machine et barème de cuisson</div>
+        </div>
+        <div class="header-right">
+          <div class="header-badge">FICHE ATELIER 01 • DROITE</div>
+          <div class="page-indicator">PAGE 2/2 • PROTOCOLE &amp; FOUR</div>
+        </div>
+      </div>
+
+      <div class="right-content">
+        
+        <div class="proto-block">
+          <h2>1. Préparation au Batteur (Fouet)</h2>
+          <ul class="proto-list">
+            <li><strong><span class='step-pill s1'>ÉTAPE 1</span> Frasage :</strong> Verser dans la cuve tous les ingrédients <strong>(1)</strong> et lancer le <strong>Programme [CRÊPES] — Phase 1</strong> jusqu'à obtenir une pâte bien lisse et sans grumeaux.</li>
+<li><strong><span class='step-pill s2'>ÉTAPE 2</span> Allongement :</strong> Ajouter la seconde partie d'eau et l'huile de colza <strong>(2)</strong> en <strong>Phase 2</strong> pour détendre l'appareil.</li>
+<li><strong><span class='step-pill s3'>ÉTAPE 3</span> Filtration :</strong> Passer systématiquement l'appareil au chinois étamine avant de garnir la trémie.</li>
+          </ul>
+        </div>
+        <div class="proto-block b2">
+          <h2>2. Conduite de la Girocrêpes</h2>
+          <ul class="proto-list">
+            <li><strong>Réglage du tambour :</strong> Chauffer et réguler le tambour à <strong>215 °C</strong>.</li>
+<li><strong>Temps de cuisson :</strong> Régler la rotation entre <strong>16 et 18 secondes</strong> selon la coloration désirée.</li>
+<li><strong>Conduite en continu :</strong> Utiliser la pâte immédiatement sans temps de repos et maintenir un niveau régulier dans la trémie.</li>
+          </ul>
+        </div>
+        <div class="summary-box">
+          <h3>Repères de Contrôle Rapide au Poste (FICHE ATELIER 01)</h3>
+          <div class="summary-grid">
+            <div class='summary-item'>• T° Tambour : <strong>215 °C</strong></div>
+<div class='summary-item'>• Temps Passage : <strong>16 Secondes</strong></div>
+<div class='summary-item'>• Programme : <strong>Prog. [CRÊPES] (Fouet)</strong></div>
+<div class='summary-item'>• Filtration : <strong>Chinois étamine</strong></div>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+
+    <div class="footer">
+      <span>FICHE ATELIER 01 • Crêpes de Froment (Girocrêpes)</span>
+      <span>Lire de gauche à droite classeur ouvert (Pesées à gauche ↔ Protocole à droite)</span>
+      <span>PAGE DROITE (2/2)</span>
+    </div>
+  </div>
+
+</body>
+</html>

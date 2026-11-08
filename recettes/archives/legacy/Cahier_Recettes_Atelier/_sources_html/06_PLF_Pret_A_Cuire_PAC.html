@@ -1,0 +1,474 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>PLF (Croissants & Pains au Chocolat) — PAC — FICHE ATELIER 06</title>
+<style>
+@page {
+  size: A4 portrait;
+  margin: 7mm 8mm;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+body {
+  color: #0f172a;
+  background: #ffffff;
+  letter-spacing: 0.15px;
+}
+
+.sheet-page {
+  width: 100%;
+  height: 282mm;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  page-break-after: always;
+  break-after: page;
+}
+.sheet-page:last-child {
+  page-break-after: auto;
+  break-after: auto;
+}
+
+/* EN-TÊTE ÉPURÉ HAUTE LISIBILITÉ */
+.header-banner {
+  background: #f8fafc;
+  border: 1.5px solid #cbd5e1;
+  border-left: 8px solid #d97706;
+  border-radius: 7px;
+  padding: 10px 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 11px;
+}
+.header-titles h1 {
+  font-size: 22px;
+  font-weight: 900;
+  color: #0f172a;
+  letter-spacing: -0.2px;
+  line-height: 1.15;
+}
+.header-titles .subtitle {
+  font-size: 12px;
+  font-weight: 700;
+  color: #475569;
+  margin-top: 3px;
+  line-height: 1.25;
+}
+.header-right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 3px;
+}
+.header-badge {
+  background: #b45309;
+  color: #ffffff;
+  padding: 6px 12px;
+  border-radius: 5px;
+  font-weight: 900;
+  font-size: 12.5px;
+  letter-spacing: 0.5px;
+  white-space: nowrap;
+}
+.page-indicator {
+  font-size: 10px;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  color: #d97706;
+}
+
+/* BANDEAU FLASH GÉANT */
+.flash-row {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 9px;
+  margin-bottom: 12px;
+}
+.flash-card {
+  background: #f8fafc;
+  border: 1.5px solid #cbd5e1;
+  border-left: 5.5px solid #0284c7;
+  padding: 8px 10px;
+  border-radius: 6px;
+}
+.flash-card.alert {
+  border-left-color: #dc2626;
+  background: #fff5f5;
+  border-color: #fecaca;
+}
+.flash-card.amber {
+  border-left-color: #d97706;
+  background: #fffbeb;
+  border-color: #fde68a;
+}
+.flash-card.green {
+  border-left-color: #059669;
+  background: #f0fdf4;
+  border-color: #bbf7d0;
+}
+.flash-card .lbl {
+  font-size: 10px;
+  font-weight: 800;
+  color: #475569;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+  margin-bottom: 3px;
+}
+.flash-card .val {
+  font-size: 15px;
+  font-weight: 900;
+  color: #0f172a;
+  line-height: 1.15;
+}
+
+/* TABLEAUX DES PESÉES GRAND CONFORT (PAGE GAUCHE) */
+.tables-container {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  flex-grow: 1;
+  justify-content: flex-start;
+}
+table.giant-table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1.5px solid #94a3b8;
+  border-radius: 6px;
+  overflow: hidden;
+}
+table.giant-table th {
+  background: #f1f5f9;
+  color: #0f172a;
+  padding: 8px 10px;
+  font-size: 12px;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+  border-bottom: 2.2px solid #0f172a;
+  border-right: 1px solid #cbd5e1;
+}
+table.giant-table th:last-child { border-right: none; }
+table.giant-table th.left, table.giant-table td.left { text-align: left; }
+table.giant-table th.right, table.giant-table td.right { text-align: right; }
+table.giant-table th.center, table.giant-table td.center { text-align: center; }
+
+table.giant-table td {
+  padding: 7.8px 10px;
+  border-bottom: 1px solid #cbd5e1;
+  border-right: 1px solid #e2e8f0;
+  font-size: 14px;
+  font-weight: 700;
+  color: #1e293b;
+}
+table.giant-table td:last-child { border-right: none; }
+table.giant-table tr:nth-child(even) td {
+  background-color: #f8fafc;
+}
+
+/* Indicateur couleur gauche selon l'étape */
+table.giant-table tr.step-row-1 td:first-child { border-left: 5.5px solid #0284c7; }
+table.giant-table tr.step-row-2 td:first-child { border-left: 5.5px solid #d97706; }
+table.giant-table tr.step-row-3 td:first-child { border-left: 5.5px solid #059669; }
+table.giant-table tr.step-row-4 td:first-child { border-left: 5.5px solid #7c3aed; }
+
+table.giant-table td.ing-name {
+  font-size: 14.5px;
+  font-weight: 800;
+  color: #0f172a;
+}
+.ing-note {
+  font-weight: 600;
+  color: #475569;
+  font-size: 0.88em;
+}
+
+/* Pastilles d'étapes numérotées */
+.step-pill {
+  display: inline-block;
+  padding: 1.5px 7px;
+  border-radius: 4px;
+  font-weight: 900;
+  font-size: 0.86em;
+  color: #ffffff;
+  margin-right: 6px;
+  vertical-align: baseline;
+  letter-spacing: 0.25px;
+}
+.step-pill.s1 { background: #0284c7; }
+.step-pill.s2 { background: #d97706; }
+.step-pill.s3 { background: #059669; }
+.step-pill.s4 { background: #7c3aed; }
+
+table.giant-table td.weight-cell {
+  font-size: 16.5px;
+  font-weight: 900;
+  color: #000000;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.35px;
+}
+table.giant-table tr.subtotal td {
+  background: #fff7ed;
+  font-size: 14.5px;
+  font-weight: 900;
+  color: #0f172a;
+  border-top: 1.8px solid #475569;
+  border-bottom: 1.8px solid #475569;
+}
+table.giant-table tr.total-final td {
+  background: #ffedd5;
+  font-size: 15.5px;
+  font-weight: 900;
+  color: #000000;
+  border-top: 2.2px solid #0f172a;
+  border-bottom: 2.2px solid #0f172a;
+}
+
+/* PAGE DE DROITE : PROTOCOLE PLEINE LARGEUR EN GROS CARACTÈRES */
+.right-content {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  flex-grow: 1;
+  justify-content: flex-start;
+}
+.proto-block {
+  background: #ffffff;
+  border: 1.5px solid #cbd5e1;
+  border-left: 7px solid #0284c7;
+  border-radius: 7px;
+  padding: 16px 20px;
+}
+.proto-block.b2 {
+  border-left-color: #d97706;
+}
+.proto-block h2 {
+  font-size: 16.5px;
+  font-weight: 900;
+  color: #0f172a;
+  text-transform: uppercase;
+  border-bottom: 1.5px solid #e2e8f0;
+  padding-bottom: 6px;
+  margin-bottom: 10px;
+  letter-spacing: 0.25px;
+}
+.proto-list {
+  list-style: none;
+  font-size: 15px;
+  line-height: 1.55;
+  color: #1e293b;
+}
+.proto-list li {
+  margin-bottom: 10px;
+  padding-left: 14px;
+  position: relative;
+}
+.proto-list li::before {
+  content: "▪";
+  position: absolute;
+  left: 0;
+  color: #d97706;
+  font-weight: 900;
+}
+.proto-list strong {
+  color: #000000;
+  font-weight: 900;
+}
+
+/* Encadré Récapitulatif de Sécurité & Contrôle (Bas de Page Droite) */
+.summary-box {
+  background: #fffbeb;
+  border: 1.5px solid #fde68a;
+  border-left: 7px solid #d97706;
+  border-radius: 7px;
+  padding: 12px 16px;
+}
+.summary-box h3 {
+  font-size: 13px;
+  font-weight: 900;
+  text-transform: uppercase;
+  color: #0f172a;
+  margin-bottom: 8px;
+  letter-spacing: 0.3px;
+}
+.summary-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px 16px;
+  font-size: 13px;
+  line-height: 1.35;
+}
+.summary-item strong {
+  color: #000000;
+  font-weight: 900;
+}
+
+/* PIED DE PAGE */
+.footer {
+  border-top: 1.8px solid #cbd5e1;
+  padding-top: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 10px;
+  color: #334155;
+  font-weight: 800;
+}
+.legend-inline {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+.legend-dot {
+  display: inline-block;
+  width: 9px;
+  height: 9px;
+  border-radius: 2px;
+  margin-right: 4px;
+}
+</style>
+</head>
+<body>
+
+  <!-- ===================================================================== -->
+  <!-- PAGE 1 (GAUCHE) : POSTE DE PESÉE & TABLEAUX EN GROS CARACTÈRES        -->
+  <!-- ===================================================================== -->
+  <div class="sheet-page">
+    <div>
+      <div class="header-banner">
+        <div class="header-titles">
+          <h1>PLF (Croissants & Pains au Chocolat) — PAC</h1>
+          <div class="subtitle">Pâte Levée Feuilletée en bacs de 8 kg — Processus Prêt-à-Cuire (PAC)</div>
+        </div>
+        <div class="header-right">
+          <div class="header-badge">FICHE ATELIER 06 • GAUCHE</div>
+          <div class="page-indicator">PAGE 1/2 • POSTE DE PESÉE</div>
+        </div>
+      </div>
+
+      <div class="flash-row">
+        
+        <div class="flash-card green">
+          <div class="lbl">Détrempe / Bac</div>
+          <div class="val">8,00 kg pile / bac</div>
+        </div>
+        
+
+        <div class="flash-card amber">
+          <div class="lbl">Programme Pétrin</div>
+          <div class="val">Prog. [PLF] (18–20 °C)</div>
+        </div>
+        
+
+        <div class="flash-card ">
+          <div class="lbl">Dorure Pistolet</div>
+          <div class="val">Dorure Végétale (1 L)</div>
+        </div>
+        
+
+        <div class="flash-card alert">
+          <div class="lbl">Cuisson PAC</div>
+          <div class="val">160–165 °C direct congelé</div>
+        </div>
+        
+      </div>
+
+      <div class="tables-container">
+        
+    <table class="giant-table">
+      <thead><tr><th class='left'>Ingrédients</th><th class='right'>1 Bac (8,0 kg)</th><th class='right'>10 Bacs (80 kg)</th><th class='right'>20 Bacs (160 kg)</th></tr></thead>
+      <tbody>
+        <tr class='step-row-1'><td class='left ing-name'><span class='step-pill s1'>1</span>Farine de Gruau T45</td><td class='right weight-cell'>4 400 g</td><td class='right weight-cell'>44 000 g</td><td class='right weight-cell'>88 000 g</td></tr>
+<tr class='step-row-1'><td class='left ing-name'><span class='step-pill s1'>1</span>Eau froide <span class='ing-note'>(+1 °C)</span></td><td class='right weight-cell'>1 950 g</td><td class='right weight-cell'>19 500 g</td><td class='right weight-cell'>39 000 g</td></tr>
+<tr class='step-row-1'><td class='left ing-name'><span class='step-pill s1'>1</span>Sucre semoule</td><td class='right weight-cell'>400 g</td><td class='right weight-cell'>4 000 g</td><td class='right weight-cell'>8 000 g</td></tr>
+<tr class='step-row-1'><td class='left ing-name'><span class='step-pill s1'>1</span>Poudre de lait entier</td><td class='right weight-cell'>180 g</td><td class='right weight-cell'>1 800 g</td><td class='right weight-cell'>3 600 g</td></tr>
+<tr class='step-row-1'><td class='left ing-name'><span class='step-pill s1'>1</span>Trimoline</td><td class='right weight-cell'>160 g</td><td class='right weight-cell'>1 600 g</td><td class='right weight-cell'>3 200 g</td></tr>
+<tr class='step-row-1'><td class='left ing-name'><span class='step-pill s1'>1</span>Améliorant Kimo Short</td><td class='right weight-cell'>130 g</td><td class='right weight-cell'>1 300 g</td><td class='right weight-cell'>2 600 g</td></tr>
+<tr class='step-row-1'><td class='left ing-name'><span class='step-pill s1'>1</span>Sel fin</td><td class='right weight-cell'>90 g</td><td class='right weight-cell'>900 g</td><td class='right weight-cell'>1 800 g</td></tr>
+<tr class='step-row-1'><td class='left ing-name'><span class='step-pill s1'>1</span>Vinaigre blanc</td><td class='right weight-cell'>40 g</td><td class='right weight-cell'>400 g</td><td class='right weight-cell'>800 g</td></tr>
+<tr class='step-row-1'><td class='left ing-name'><span class='step-pill s1'>1</span>Levure fraîche Or</td><td class='right weight-cell'>250 g</td><td class='right weight-cell'>2 500 g</td><td class='right weight-cell'>5 000 g</td></tr>
+<tr class='step-row-2'><td class='left ing-name'><span class='step-pill s2'>2</span>Margarine OPALE</td><td class='right weight-cell'>400 g</td><td class='right weight-cell'>4 000 g</td><td class='right weight-cell'>8 000 g</td></tr>
+<tr class='subtotal'><td class='left ing-name'>SOUS-TOTAL DÉTREMPE AU BAC</td><td class='right weight-cell'>8 000 g</td><td class='right weight-cell'>80 000 g</td><td class='right weight-cell'>160 000 g</td></tr>
+<tr class='step-row-3'><td class='left ing-name'><span class='step-pill s3'>3</span>Beurre de tourage <span class='ing-note'>(Plaque 2 kg)</span></td><td class='right weight-cell'>2 000 g</td><td class='right weight-cell'>20 000 g</td><td class='right weight-cell'>40 000 g</td></tr>
+        <tr class='total-final'><td class='left'>POIDS TOTAL PÂTON TOURÉ</td><td class='right'>10 000 g</td><td class='right'>100 000 g</td><td class='right'>200 000 g</td></tr>
+      </tbody>
+    </table>
+    
+      </div>
+    </div>
+
+    <div class="footer">
+      <span>FICHE ATELIER 06 • VIENNOISERIE & TOURAGE</span>
+      <span class="legend-inline">
+        <span><i class="legend-dot" style="background:#0284c7;"></i>1. Base / Frasage</span>
+        <span><i class="legend-dot" style="background:#d97706;"></i>2. Incorp. / Liquides</span>
+        <span><i class="legend-dot" style="background:#059669;"></i>3. Poudres / Tourage</span>
+        <span><i class="legend-dot" style="background:#7c3aed;"></i>4. Inclusions / Finition</span>
+      </span>
+      <span>PAGE GAUCHE (1/2)</span>
+    </div>
+  </div>
+
+  <!-- ===================================================================== -->
+  <!-- PAGE 2 (DROITE) : PROTOCOLE PAS À PAS, FAÇONNAGE & CUISSON            -->
+  <!-- ===================================================================== -->
+  <div class="sheet-page">
+    <div>
+      <div class="header-banner">
+        <div class="header-titles">
+          <h1>PLF (Croissants & Pains au Chocolat) — PAC — Marche à Suivre</h1>
+          <div class="subtitle">Protocole chronologique étape par étape, conduite machine et barème de cuisson</div>
+        </div>
+        <div class="header-right">
+          <div class="header-badge">FICHE ATELIER 06 • DROITE</div>
+          <div class="page-indicator">PAGE 2/2 • PROTOCOLE &amp; FOUR</div>
+        </div>
+      </div>
+
+      <div class="right-content">
+        
+        <div class="proto-block">
+          <h2>1. Pétrissage & Pointage Retardé (J-1)</h2>
+          <ul class="proto-list">
+            <li><strong><span class='step-pill s1'>ÉTAPE 1</span> Frasage :</strong> Réunir dans la cuve tous les ingrédients <strong>(1)</strong> et lancer le <strong>Programme [PLF]</strong>.</li>
+<li><strong><span class='step-pill s2'>ÉTAPE 2</span> Incorporation :</strong> Au passage en 2ᵉ vitesse, ajouter la margarine Opale <strong>(2)</strong> et laisser pétrir jusqu'au décollement complet du bassin (sortie entre <strong>18 et 20 °C</strong>).</li>
+<li><strong>Mise en bacs :</strong> Peser des pâtons de <strong>8,00 kg par bac</strong>, passer 30 min en cellule à -35 °C puis laisser pointer 12 à 15 h en chambre froide (+2 à +4 °C).</li>
+          </ul>
+        </div>
+        <div class="proto-block b2">
+          <h2>2. Tourage, Dorure Végétale & Cuisson PAC</h2>
+          <ul class="proto-list">
+            <li><strong><span class='step-pill s3'>ÉTAPE 3</span> Tourage (2 Tours Doubles) :</strong> Enchâsser la plaque de beurre de 2 kg <strong>(3)</strong> dans le pâton de 8 kg et donner <strong>2 tours doubles</strong> au laminoir. Laisser détendre 1 h au froid avant façonnage sur la ligne Rondo.</li>
+<li><strong>Façonnage & 1ʳᵉ Surgélation :</strong> Détailler et façonner les pièces sur la ligne Rondo, puis surgeler à -35 °C et stocker à -18 °C.</li>
+<li><strong>Pousse & Blocage PAC :</strong> Pousser à 26–27 °C (80 % HR) jusqu'à <strong>70 à 75 % du volume final</strong>. Raffermir 15 min à +4 °C, pulvériser la <strong>Dorure Végétale</strong>, bloquer en cellule à <strong>-10 °C à cœur (sonde)</strong> et housser à -18 °C.</li>
+<li><strong>Cuisson directe congelé (165 °C) :</strong> Enfourner sans décongélation au programme Grand Four (ou environ <strong>14 min à 165 °C</strong> pour une recuisson d'après-midi).</li>
+          </ul>
+        </div>
+        <div class="summary-box">
+          <h3>Repères de Contrôle Rapide au Poste (FICHE ATELIER 06)</h3>
+          <div class="summary-grid">
+            <div class='summary-item'>• Détrempe / Bac : <strong>8,00 kg pile / bac</strong></div>
+<div class='summary-item'>• Programme Pétrin : <strong>Prog. [PLF] (18–20 °C)</strong></div>
+<div class='summary-item'>• Dorure Pistolet : <strong>Dorure Végétale (1 L)</strong></div>
+<div class='summary-item'>• Cuisson PAC : <strong>160–165 °C direct congelé</strong></div>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+
+    <div class="footer">
+      <span>FICHE ATELIER 06 • PLF (Croissants & Pains au Chocolat) — PAC</span>
+      <span>Lire de gauche à droite classeur ouvert (Pesées à gauche ↔ Protocole à droite)</span>
+      <span>PAGE DROITE (2/2)</span>
+    </div>
+  </div>
+
+</body>
+</html>

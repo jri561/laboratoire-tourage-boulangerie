@@ -1,0 +1,645 @@
+
+=== PAGE 940 ===
+Wade	P.	1988.	Preparation	of	biscuit	doughs.	Biscuits,	cookies	and	crackers.	The
+principles	of	the	craft,	1,	18.
+Yamazaki	W,	Lord	D.	1971.	Soft	wheat	products.	In:	Wheat	chemistry	and	technology.
+2nd	ed.	St	Paul,	MN:	American	Association	of	Cereal	Chemists.	p.	749.
+Yeh	JCH,	Hamey	LGC,	Westcott	T,	Sung	SKY.	1995.	Colour	bake	inspection	system	using
+hybrid	artificial	neural	networks.	IEEE	1:37–42.
+Zandonadi	RP,	Botelho	RBA,	Araújo	WMC.	2009.	Psyllium	as	a	substitute	for	gluten	in
+bread.	J	Am	Dietetic	Assoc	109:1781–4.
+Zoulias	EI,	Piknis	S,	Oreopoulou	V.	2000.	Effect	of	sugar	replacement	by	polyols	and
+acesulfame-K	on	properties	of	low-fat	cookies.	J	Sci	Food	Agric	80:2049–56.
+Zucco	F,	Borsuk	Y,	Arntfield	SD.	2011.	Physical	and	nutritional	evaluation	of	wheat
+cookies	supplemented	with	pulse	flours	of	different	particle	sizes.	LWT-Food	Sci	Technol
+44:2070–6.
+=== PAGE 941 ===
+34
+Pastries
+Noël	Haegens
+Classo	Foods,	Vrasene,	Belgium
+Introduction
+Raw	materials	and	recipes
+Flour
+Fat
+Whole	eggs
+Sugar
+Processing
+Dough	mixing
+Lamination
+Make-up
+Fillings
+Proofing
+Baking
+Troubleshooting
+Bibliography
+=== PAGE 942 ===
+Introduction
+The	origin	of	puff	pastry	and	Danish	pastry	is	thought	to	be	the	Turkish	
+baklava
+.	Baklava	is	a
+rich,	sweet	pastry	made	of	layers	of	phyllo	pastry	filled	with	chopped	nuts	and	sweetened
+with	syrup	or	honey.	It	is	characteristic	of	the	cuisines	of	the	former	Ottoman	Empire.	Phyllo
+dough	is	a	paper-thin	sheet	of	unleavened	flour	dough	used	for	making	pastries.	By	adding
+yeast	to	the	dough,	puff	pastry	becomes	Danish	pastry.
+In	Scandinavia	and	in	Denmark	in	particular,	the	term	
+Danish
+	pastry	is	not	used.	In	these
+countries	bakers	talk	about	
+wienerbrot
+	which	literally	means	“bread	from	Vienna”.	In	French
+the	term	used	for	Danish	pastry	is	
+viennoiserie
+,	again	referring	to	Vienna	as	the	origin	of
+these	products.	In	Austria	itself	it	is	called	
+Plunder
+.
+It	is	generally	thought	that	the	croissant	originated	in	France.	While	traditionally	ascribed	to
+the	French	painter	and	cook	Claude	Gelée	who	lived	in	the	17th	century	(the	story	goes	that
+Gelée	was	making	a	type	of	very	buttery	bread	for	his	sick	father	and	the	process	of	rolling
+the	butter	into	the	bread	dough	created	a	croissant-like	finished	product),	the	origin	of	the
+croissant	lies	in	Vienna.	The	shape	of	the	croissant	is	a	crescent	moon	and	was	first	made	by
+the	bakers	of	Vienna	during	the	1683	siege	of	their	beloved	city	by	the	Ottoman	Empire.	They
+made	a	
+Plundergebäck
+	in	the	shape	of	a	crescent	moon	to	betray	the	position	of	the	Ottoman
+army.	Years	later	when	the	French	queen	Marie-Antoinette	(1755–1793)	visited	Vienna,	she
+fell	in	love	with	the	product	in	the	shape	of	a	half	moon	or	
+lune	croissant
+	in	French,	hence
+the	name	
+croissant
+	in	French.
+It	is	important	to	understand	that	all	these	types	of	products	(puff	pastry,	croissant,	Danish
+pastry)	are	made	by	creating	alternating	layers	of	dough	and	fat	by	folding	and	rolling	the
+dough.
+=== PAGE 943 ===
+Raw	materials	and	recipes
+As	with	most	bakery	products,	there	are	as	many	recipes	as	there	are	bakers.	Therefore	the
+following	recipe	is	just	an	illustration	of	a	possible	–	but	excellent	–	recipe	for	Danish	pastry
+(
+Table	34.1
+)	and	for	puff	pastry	(
+Table	34.2
+).
+Table	34.1
+	Recipe	for	danish	pastry
+Ingredient
+Quantity	(kg)
+%	of	flour
+%	of	total
+Flour
+5.000
+100
+49.7
+Water
+1.500
+30
+14.9
+Whole	eggs
+0.500
+10
+5.0
+Milk
+0.500
+10
+5.0
+Yeast
+0.250
+5
+2.0
+Sugar
+0.200
+4
+2.0
+Salt
+0.100
+2
+1.0
+Subtotal
+8.050
+–
+–
+Roll-in	fat
+2.000
+40
+19.9
+Total
+10.050
+–
+100.0
+Table	34.2
+	Recipe	for	puff	pastry
+Ingredient
+Quantity	(kg)
+%	of	flour
+%	of	total
+Flour
+5.000
+100.00
+43.5
+Water
+2.500
+50.00
+23.5
+Salt
+0.050
+1.00
+0.4
+Subtotal
+7.750
+–
+–
+Roll-in	fat
+3.750
+75.0
+32.6
+Total
+11.500
+–
+100.0
+Levels	of	ingredients	may	vary	slightly	due	to	the	richness	desired	for	the	finished	product.
+The	amount	of	roll-in	shortening	used	in	relation	to	dough	is	important	to	the	richness	of	the
+dough.	Some	of	the	standard	amounts	of	roll-in	shortening	used	per	kilogram	of	dough	are:
+lean	Danish:	12.5–17%	(i.e.	125–170
+ 
+g/kg	dough);
+medium	Danish:	18–25%;
+rich	Danish:	26–35%.
+Flour
+Quality,	like	beauty,	is	in	the	eye	of	the	beholder.	One	doesn’t	look	at	the	different	strokes	the
+artist	has	put	on	the	canvas	when	looking	at	a	painting,	or	listen	to	the	separate	notes	when
+=== PAGE 944 ===
+one	listens	to	a	piece	of	music.	No,	one	enjoys	the	ensemble	of	the	work.	One	cannot	discuss
+quality	without	defining	quality	for	what	purpose.	This	is	particularly	true	for	biological
+materials	such	as	wheat	flour.	A	quality	flour	that	is	good	for	producing	white	pan	bread	is
+not	necessarily	good	for	producing	a	sugar-snap	cookie.	Yet	to	the	layman	or	casual	observer,
+all	wheat	flours	look	alike.
+There	large	differences	found	in	the	quality	of	wheat	flour	between	bread,	cake,	pastry,	and
+cookie	flours,	but	differences	are	also	found	within	each	of	those	types.	Taking	pastry	flour	as
+an	example,	good-quality	flour	for	producing	puff	pastry	is	certainly	different	from	that
+intended	to	produce	croissants	or	Danish	pastry.	It	is	also	true	that	a	good-quality	pastry
+flour	for	line	1	in	plant	A	is	not	necessarily	a	good	quality	flour	for	line	2	in	the	same	plant.
+Differences	in	the	equipment	that	make	up	the	line,	or	even	the	physical	layout	of	the	line,
+will	demand	that	the	flour	be	different	to	perform	at	its	optimum.	The	same	would	certainly
+hold	for	different	plants.	The	variation	can	be	true	even	if	the	plants	contain	the	same
+equipment	and	have	essentially	the	same	layout.	The	rheological	properties	of	dough	are
+greatly	affected	by	their	temperatures.	Thus,	a	plant	in	a	tropical	country	may	need	
+different
+flour	than	a	similar	plant	in	Scandinavia	or	northern	Canada.	It	is	also	true	that	the	relative
+humidity	of	the	location	is	important	as	it	controls	how	much	water	is	lost	from	the	doughs
+during	processing.
+Bread	flour	with	protein	content	of	11.5–12.5%	is	normally	acceptable	for	the	production	of
+pastries.	If	the	protein	content	is	too	high,	the	Danish	will	be	tough	to	eat.	Strong	flour	can	be
+blended	with	30%	pastry	flour	to	improve	extensibility	of	dough	during	laminating.
+During	lamination,	the	flour	must	provide	the	gluten	structure	to	form	a	strong	dough	film
+that	is	able	to	entrap	the	water	vapour	as	it	is	formed	during	baking.	Good	bread	flour	with	a
+protein	content	of	11.5–12.5	%	and	an	ash	content	of	not	more	than	0.5%	will	usually	produce
+puff	pastries	of	good	volume	and	with	a	very	flaky	texture.	Flours	with	a	higher	ash	content
+often	lack	extensibility	during	sheeting	and	make-up.	Higher	protein	levels	tolerate	slightly
+more	lamination,	but	may	not	produce	a	better	pastry.
+Fat
+A	distinction	has	to	be	made	between	roll-in	fat	and	the	fat	that	is	sometimes	added	to	the
+dough	as	such.
+The	roll-in	fat	can	be	butter	or	margarine	at	a	dosage	level	of	as	much	as	50%	of	flour	weight.
+Fat	contributes	significantly	to	the	flavour	and	colour.	Butter	is	preferred	but	cost	and
+limitations	with	processing	temperature	range	mean	margarine	is	frequently	used.
+Butter	is	an	excellent	roll-in	fat.	It	is	functional	and	contributes	a	pleasant	taste,	aroma,	and
+mouthfeel	to	the	pasty.	For	good	performance,	however,	butter	must	be	processed	within	the
+relatively	narrow	temperature	range	of	15–20
+ 
+°C.	When	butter	warms	to	21–22
+ 
+°C	or	more,	it
+becomes	soft	and	is	absorbed	by	the	dough	during	lamination.
+The	fat	added	to	the	dough	improves	dough	handling	properties	and	the	tenderness	of	the
+pastry	crumb.	The	added	fat	can	be	butter	in	butter	dough	or	margarine	or	vegetable
+shortening	in	regular	pastry	dough.	Amounts	can	range	from	8%	(lean	dough)	to	20%	(very
+rich	dough).	While	the	major	amount	of	fat	used	in	puff	pastry	is	the	fat	“rolled”	into	the
+dough	(discussed	later),	a	lesser	amount	(0–20%,	flour	basis)	is	usually	added	directly	to	the
+=== PAGE 945 ===
+dough.	Dough	fat	serves	to	lubricate	the	gluten	structure	and	facilitates	the	laminating
+process.	However,	good-quality	pastries	can	be	produced	without	dough	fat.	When	butter	is
+used	as	a	roll-in	fat,	then	butter	is	usually	also	used	as	dough	fat.	However,	doughs	made
+with	a	salted	margarine	or	butter	may	require	a	slightly	longer	mixing	time	than	doughs
+made	with	regular	shortening	since	salt	retards	gluten	development.
+In	many	bakery	products,	fat	is	layered	between	sheets	of	dough,	and	this	is	manipulated	to
+make	a	dough	sheet	consisting	of	up	to	100	alternating	layers	of	dough	and	fat.	Such	roll-in
+doughs	include	Danish	pastry,	puff	pastry,	and	croissants.	The	dough	is	mixed,	divided	into
+pieces	of	about	10
+ 
+kg	each,	and	then	cooled	to	5–10
+ 
+°C	in	a	retarder.	The	cooled	dough	is
+rolled	out,	2–3
+ 
+kg	of	fat	is	spread	over	part	of	the	sheet,	and	the	dough	is	folded	over	to	cover
+the	fat.	The	“sandwich”	is	then	rolled	out	and	folded;	this	is	repeated	several	times,	often	with
+a	retarding	step	included	to	keep	the	dough/fat	mass	cool.
+The	primary	goal	during	the	roll-in	process	is	to	preserve	the	structure	of	alternate	layers	of
+dough	and	fat.	There	are	several	important	factors	to	consider	in	selecting	the	correct
+shortening	or	margarine	for	such	a	process.	Some	of	them	are:	solid	fat	index	(SFI)	and
+plasticity	of	the	fat;	complete	melting	point	of	the	fat;	consistency	(softness)	of	the	dough;
+retarder	temperature;	number	of	folds	given	to	the	dough	before	returning	it	to	the	retarder;
+and	proofing	temperature.	Many	of	these	factors	are	unique	to	a	given	product	in	a	particular
+bakery,	and	they	influence	the	specification	for	the	roll-in	fat	which	gives	the	best	final
+product	in	that	bakery.
+The	dough	for	Danish	pastry	contains	higher	levels	of	sugar	and	water	than	a	bread	dough,
+making	it	quite	soft	at	the	usual	mixing	temperature	of	around	20
+ 
+°C.	After	it	is	mixed	(the
+gluten	matrix	is	fully	developed),	it	is	divided	and	cooled	as	described	earlier.	The	cooling	and
+rest	time	(during	which	some	fermentation	occurs)	makes	
+the	dough	cohesive	enough	to
+handle,	but	if	it	is	over-worked	or	allowed	to	warm	up	too	much	during	the	roll-in	step,	it
+again	becomes	soft,	sticky,	and	easily	torn.	The	plastic	range	of	the	roll-in	fat	must	be	rather
+broad.	The	consistency	of	the	fat	should	nearly	match	that	of	the	dough	across	the
+temperature	range,	which	usually	includes	the	temperature	of	the	retarder	(on	the	cool	end)
+to	room	temperature	or	above.	If	the	fat	is	significantly	harder	than	the	dough	at	the	cool
+temperature,	then	when	retarded	dough	is	rolled	out,	the	fat	does	not	spread	into	a	uniform
+layer	between	the	dough	layers,	but	is	likely	to	tear	holes	in	the	dough	sheet.
+If	the	fat	is	softer	than	the	dough	at	room	temperature,	then	as	the	dough	mass	warms	up
+(during	rolling	and	folding),	the	shortening	soaks	into	the	dough,	the	adjacent	dough	layers
+knit	together,	and	the	layering	effect	is	lost.	The	proper	plasticity	of	roll-in	fat	requires	a
+relatively	shallow	SFI	profile	and	stabilization	in	the	β	crystal	phase.	The	latter	is	particularly
+important.	If	the	shortening	has	begun	to	transform	to	the	more	solid	β	phase,	the	additional
+hardness	due	to	β	crystals	will	cause	excessive	tearing	during	roll-in.	The	melting	point	of	the
+fat	must	be	higher	than	the	proofing	temperature	for	the	Danish.	If	the	proof	box
+temperature	is	above	the	fat	melting	point,	the	fat	layers	turn	to	oil.	This	allows	the	dough
+layers	to	knit	together	to	some	extent	during	proofing,	and	the	final	product	is	less	flaky	than
+desired.	As	a	general	rule,	the	complete	melting	point	should	be	at	least	5
+ 
+°C	higher	than
+proof	box	temperatures.
+A	standard	all-purpose	shortening	having	a	complete	melting	point	of	about	45
+ 
+°C	usually
+works	well	in	most	Danish	pastry	production	lines.	This	gives	a	flaky	finished	product.	Some
+manufacturers	use	an	emulsified	shortening	containing	3%	monoglycerides,	but	with	similar
+=== PAGE 946 ===
+SFI	and	melting	point	specifications.	This	produces	a	Danish	having	a	somewhat	gummier
+mouthfeel,	which	is	preferred	in	some	parts	of	the	country.
+Croissant	dough	is	similar	to	Danish	dough,	although	it	generally	contains	less	sugar	and
+water,	so	it	is	firmer	at	the	optimum	mixed	dough	temperature	of	20
+ 
+°C.	As	with	Danish,	the
+dough	pieces	are	usually	retarded	before	roll-in	is	begun.	The	best	quality	croissants	are
+produced	using	unsalted	butter	for	roll-in.	The	amount	used	varies	from	20	to	35%	of	dough
+weight;	higher	levels	give	a	product	that	has	less	volume	and	flakiness,	and	is	often	perceived
+as	greasy	in	the	mouth.	The	optimum	is	usually	about	25%	roll-in	fat.
+The	factors	involved	in	successful	processing	of	croissants	are	similar	to	those	discussed
+earlier	for	Danish	pastry.	Because	butter	has	a	steeper	SFI	curve	than	all-purpose	shortening
+(it	is	much	harder	at	retarder	temperatures),	more	care	is	required	to	prevent	tearing	the
+dough	as	it	is	being	rolled.	The	melting	point	is	lower	than	that	of	shortening,	so	proofing
+temperatures	are	lower	than	for	Danish.	Puff	pastry	margarine	is	an	acceptable	substitute,
+although	it	does	not	contribute	as	much	flavour	as	butter.	Since	puff	pastry	margarine	has	a
+higher	melting	point,	the	proofing	may	be	done	at	a	higher	temperature	(and	for	shorter
+times)	if	time	is	a	factor.
+Rolled-in	doughs	that	contain	no	yeast	(puff	pastry)	depend	upon	steam	generation	in	the
+oven	for	their	leavening.	Usually	margarine	(which	contains	about	17–20%	water)	is	used	for
+the	roll-in	fat	for	these	doughs.	The	water	is	trapped	and	held	in	the	fat	layers	in	the	dough.	It
+evaporates	and	expands	in	the	oven,	giving	an	expanded	structure	to	the	final	product.	If	the
+fat	portion	of	the	margarine	is	too	soft,	the	water	migrates	into	the	dough	during	the	roll-in
+step,	and	the	leavening	action	in	the	oven	is	decreased.	Puff	pastry	margarine	has	a	higher
+SFI	curve	than	all-purpose	shortening,	and	it	is	slightly	more	brittle	during	roll-in.	In	this
+case	a	smooth,	continuous	layer	of	fat	between	dough	layers	is	not	particularly	desirable.	The
+roll-in	process	is	adjusted	to	achieve	numerous	discrete	particles	of	margarine	between	the
+dough	layers.	These	produce	larger	voids	in	the	finished	product,	which	is	desirable	in	a	puff
+pastry.
+Whole	eggs
+Liquid	whole	eggs	not	only	add	liquids	to	the	dough	and	strength	to	the	baked	product,	but
+also	contribute	to	crust	colour.	Dried	whole	eggs	
+function	as	well.	Puff	pastries	prepared	with
+10%	(flour	basis)	liquid	whole	eggs	develop	a	better	crust	colour	and	require	a	slightly	lower
+baking	temperature	than	the	same	products	containing	no	eggs.	The	egg	protein	participates
+in	the	browning	(Maillard)	reaction	that	produces	the	attractive	golden-brown	crust	color.
+The	crust	color	also	helps	to	mask	the	greying	effect	caused	by	fat	crystallization	(fat	bloom)
+as	the	pasty	ages.
+If	higher	levels	of	sugar	and	shortening	are	used,	the	eggs	should	also	be	used	at	higher	levels
+to	carry	their	weight.	Eggs	are	primarily	used	for	structural	strength	in	Danish	and	may	be
+fortified	with	whites	for	added	strength	or	yolks	for	added	tenderness.
+Sugar
+In	this	application,	sugar	comprises	granulated	sugar	(sucrose)	and	high-fructose	corn	syrup
+(HFCS).	Dextrose	(glucose)	may	be	used	at	levels	not	exceeding	10%	of	the	flour	weight.
+=== PAGE 947 ===
+Higher	levels	of	dextrose	crystallize	as	monohydrates,	causing	the	product	to	become	dry	and
+crumbly.	However,	sucrose	and	HFCS	may	be	used	interchangeably	as	long	as	adjustments
+are	made	for	the	29%	moisture	content	in	HFCS.
+Sugar	affects	the	dough	water	absorption.	Rich	doughs	(high	sugar	content)	tend	to	absorb
+less	water	than	lean	doughs,	but	they	also	slow	down	yeast	activity.	To	off-set	this	effect,	the
+yeast	is	normally	increased	as	more	sugar	is	added	to	the	dough.	Generally,	the	amount	of
+compressed	yeast	added	to	sweet	doughs	is	about	one-third	the	amount	of	sugar	solids	in	the
+formula.
+=== PAGE 948 ===
+Processing
+The	puffing	action	in	puff	pastries	involves	neither	a	chemical	leavening	agent,	nor
+microbiological	fermentation	as	occurs	in	yeast-raised	bread	doughs.	The	puffing	depends
+solely	on	the	significant	increase	in	volume	when	moisture,	turning	into	steam,	becomes
+trapped	between	dough	layers	separated	by	thin	films	of	fat	resulting	from	the	laminating
+process.
+The	ability	of	the	“roll-in-fat”	to	keep	dough	layers	separated,	primarily	determines	the
+quality	of	puff	pastry.	During	the	laminating	process,	dough	layers	are	reduced	to	an	average
+thickness	of	about	0.015
+ 
+mm.	At	this	thickness,	the	gluten	structure	in	the	dough	assumes	a
+two-dimensional	orientation,	as	compared	to	the	three-dimensional	cell	structure	in	most
+other	doughs	and	batters.
+The	two-dimensional	orientation	of	the	gluten	structure	resembles	that	of	a	film	and	is	able
+to	entrap	steam	during	the	baking	process.	This	process	finally	produces	the	flaky	structure
+in	the	pastry	during	the	baking	process.
+Danish	pastry	on	the	other	hand	is	a	combination	of	puffing	action	and	fermentation.
+The	processing	is	composed	of	the	following	steps:
+dough	mixing
+dividing	of	the	dough	in	pieces	or	dough	sheets	in	the	case	of	automated	equipment
+laminating
+make-up
+filling	and/or	decoration:	can	happen	before	or	after	proofing
+proofing	in	the	case	of	danish	pastry	or	croissant
+topping
+baking
+cooling
+icing.
+Some	of	these	steps	are	discussed	in	detail.
+Dough	mixing
+The	dough	ingredients	are	all	combined	and	mixed	in	one	stage.	As	there	is	still	further
+gluten	development	during	the	lamination	stage,	the	mixing	of	the	dough	should	not	be
+overdone.	Doughs	are	usually	mixed	until	the	gluten	structure	is	partially	developed;	full
+gluten	development	occurs	when	the	dough	is	sheeted	for	laminating.
+Depending	on	the	type	of	make-up	used,	production	facilities	may	be	confronted	with	a	large
+amount	of	scrap	dough.	The	scrap	goes	into	
+special	baked	snack	items,	or	they	may	get
+incorporated	in	fresh	doughs.	Large	operations	with	automated	laminating	equipment	prefer
+to	add	their	scrap	to	new	doughs	near	the	end	of	the	mixing	cycle.	Since	scraps	already
+=== PAGE 949 ===
+contain	the	full	amount	of	roll-in	fat,	there	is	usually	no	additional	puff	paste	added	for	this
+dough	portion.	Care	must	also	be	taken	that	the	scrap	dough	contains	no	traces	of	fillings
+because	remnants	of	a	pasty	filling	may	cause	dark	spots	to	form	on	new	pasty	during	baking.
+The	basic	recipes	given	earlier	should	be	adjusted	for	fat	and	sugar	according	to	the	amount
+of	scrap	used	in	a	fresh	dough.
+Alternatively,	the	scrap	dough	can	be	made	into	some	kind	of	sourdough	by	adding	water	and
+leaving	the	mixture	for	24
+ 
+h	in	controlled	temperature	conditions.	This	procedure	improves
+the	taste	and	the	shelf-life	of	Danish	pastry.
+Lamination
+There	are	basically	three	methods	to	make	puff	pastry	and	Danish	pastry:	French	method,
+Dutch	method,	and	the	extruder	system.
+For	the	French	method,	the	roll-in	fat	is	spread	or	spotted	over	two-thirds	of	the	dough	which
+has	previously	been	weighed	and	sheeted	into	a	rectangular	shape.	The	uncovered	portion	of
+the	dough	sheet	is	folded	over	half	of	the	fat	covered	portion	and	the	other	half	is	then	folded
+over	the	doubled	up	dough	portion.	This	results	in	three	layers	of	dough	with	two	layers	of	fat
+sandwiched	between	them.	After	20–30
+ 
+min	rest	in	the	retarder,	the	layered	dough	is	sheeted
+to	an	uniformed	thickness	of	1.5–2.0
+ 
+cm.	The	reduction	of	the	thickness	should	happen
+slowly	and	smoothly	by	using	a	roller	table	and	should	not	be	too	abrupt.
+The	dough	rest	allows	the	dough	to	relax	and	gives	the	yeast	the	opportunity	to	adapt	to	its
+new	environment.
+The	dough	piece	is	then	given	a	three-fold	by	folding	one-third	of	the	dough	over	the	centre
+section	and	then	the	third	section	of	the	dough	is	folded	over	the	doubled	up	section.	The
+dough	should	rest	again	in	a	retarder	for	about	20–30
+ 
+min.	This	process	is	repeated	a	number
+of	times	to	create	more	layers.	The	number	of	folds	varies	based	on	the	amount	of	roll-in	fat
+and	can	be	as	much	as	264	layers	for	puff	pastry	(
+Table	34.3
+).	For	Danish	pastry	48–64	layers
+are	normally	sufficient.
+Table	34.3
+	Folds	and	fat	layers	in	laminated	dough
+Number	of	folds
+Number	of	layers
+2	×	3	×	3
+18
+2	×	3	×	4
+24
+2	×	3	×	3	×	2
+36
+2	×	3	×	3	×	3
+54
+2	×	3	×	3	×	4
+72
+2	×	3	×	4	×	4
+96
+2	×	3	×	3	×	3	×	2
+108
+2	×	3	×	3	×	3	×	3
+162
+2	×	3	×	3	×	3	×	4
+216
+In	a	second	method,	the	“Dutch	system”	(also	sometimes	called	the	Scottish	method),	a
+higher	melt	point	roll-in	shortening	is	combined	in	the	mixer	with	a	semi	mixed	dough.	This
+=== PAGE 950 ===
+method	utilizes	the	same	technology	as	used	for	mixing	pie	doughs.	The	roll-in	fat	must	be
+firm	and	is	cut	into	small	cubes	measuring	about	3
+ 
+cm	on	each	side.	These	chunks	are
+dispersed	in	the	flour	before	the	liquids	are	added.	After	all	the	ingredients	are	combined,
+water	and	eggs	included,	they	are	blended	together	without	significant	gluten	development.
+The	dough	is	then	allowed	to	hydrate	properly	for	about	30
+ 
+min	before	lamination.	Then,	the
+dough	is	sheeted	out	to	the	desired	sizes,	folded,	and	retarded.	From	here	a	manual	or	semi-
+automated	system	is	used	for	the	remaining	process.
+A	third	method,	the	“extruder	system,”	has	arisen	with	the	use	of	high	speed	sheeters.	In	this
+system,	the	roll-in	shortening	is	applied	to	the	dough	piece	by	a	shortening	extruder.	The
+dough	is	cut,	folded	into	a	three-fold	or	four-fold	unit,	quarter	turned,	and	sheeted	again.	The
+dough	is	retarded	for	up	to	6
+ 
+h,	and	then	it	is	returned	to	the	make-up	line	where	it	is	sheeted
+and	folded	again.	From	here	the	dough	is	retarded	for	an	additional	period	of	time	before	the
+make-up	process.
+Equipment	is	available	to	laminate	pastry	dough	on	a	continuous	basis.	There	are	essentially
+two	different	systems	used	for	incorporating	the	roll-in	fat	and	two	systems	for	laminating.
+The	products	manufactured	with	this	type	of	equipment	are	generally	intended	for	wholesale
+distribution,	and	their	flakiness	and	size	are	limited	to	reduce	breakage	during	shipment.
+Since	puff	pastry	doughs	become	less	extensible	with	increased	lamination,	most	automated
+laminating	lines	utilize	two	reduction	(sheeting)	and	laminating	stations	positioned	in	a	90°
+angle	to	each	other	to	equalize	directional	stress	in	the	dough.
+The	roll-in	fat	is	either	co-extruded	on	the	inside	of	a	hollow	tube	of	extruded	dough	or
+deposited	as	a	continuous	layer	of	fat	on	top	of	a	continuous	layer	of	dough	which	is	then
+covered	with	a	second	layer	of	dough.	After	some	sheeting	and	cross-sheeting	the	laminated
+dough	is	folded	in	a	back-and-forth	motion	on	the	slowly	moving	stacking	table.	The	speed	of
+the	stacking	table	conveyor	determines	how	much	each	layer	overlaps	the	previous	layer	and
+the	degree	of	lamination.	The	dough	can	be	stacked	as	high	as	15
+ 
+cm	without	causing
+problems	at	the	reduction	station,	where	a	multiple	roller	system	reduces	the	stacked	dough
+to	the	desired	thickness	of	about	1.5
+ 
+cm.	Since	these	rotating	rollers	move	with	the	dough	and
+the	gap	between	them	and	the	take-away	conveyer	section	is	gradually	narrowing	from	roller
+to	roller,	this	reduction	in	dough	thickness	is	fairly	stress-free	and	allows	products	with	a
+regular	shape	to	be	obtained.
+Make-up
+After	retarding	the	dough	for	several	hours	(or	even	overnight),	the	dough	is	ready	for	make-
+up.	This	happens	best	at	a	low	temperature	(±	15
+ 
+°C).	It	is	again	important	to	reduce	the
+thickness	of	the	dough	gradually	using	a	sheeter	to	avoid	rupture	of	the	layers.	The	flakiness
+can	be	adversely	affected	if	the	dough	is	reduced	too	quickly.	Once	sheeted	to	the	final
+thickness	(2–3
+ 
+mm)	there	are	a	number	of	ways	in	which	the	dough	can	be	made	up,
+including	crimping,	curling,	filling,	folding,	and	twisting	depending	on	the	desired	end
+product.
+Fillings
+Important	is	to	remember	that	the	water	activity	of	the	filling	has	to	be	studied	as	a	function
+=== PAGE 951 ===
+of	the	type	of	product,	the	expected	shelf-life,	stability	during	baking,	packaging,	and	so	on.
+Water	migration	from	the	filling	to	the	dough	has	to	be	considered.
+The	filling	should	contain	sufficient	sugar	to	avoid	boiling	(out)	during	baking.
+Proofing
+Proofing	is	a	crucial	step	in	the	process.	If	the	dough	gets	proofed	when	the	temperature	is
+too	high,	the	roll-in	fat	may	melt	and	bleed	out	of	the	product,	resulting	in	a	poor	puff.	Over-
+proofing	can	cause	collapse	of	the	product	in	the	oven.	Danish	should	be	proofed	at	26–29
+ 
+°C
+with	a	relative	humidity	of	65–70%	for	60–75
+ 
+min.	They	should	be	proofed	until	2–2.5	times
+their	original	size.
+Baking
+As	for	all	bakery	products,	baking	time	and	temperatures	are	dependent	on	the	type	of	oven,
+the	size	and	shape	of	the	product,	and	the	type	and	quantity	of	the	filling.
+Danish	pastries	are	usually	baked	at	slightly	lower	temperatures	than	equivalent	products
+made	from	regular	sweet	doughs.	Also,	leaner	doughs	are	baked	slightly	hotter	than	rich,
+high-sugar	doughs.	The	baking	temperature	also	varies	with	different	oven	types.	For	the
+same	temperature	settings,	rack	and	other	convection	ovens	tend	to	bake	hotter	than	regular
+gas	ovens	(reel	and	traveling	tray).	Electric	deck	ovens	often	bake	cooler	and	require	longer
+baking	times.
+Danish	sweet	rolls	may	be	baked	at	200–210
+ 
+°C	in	a	gas-fired	reel	oven.	Coffee	cakes	should
+be	baked	a	little	cooler,	at	185–200
+ 
+°C.	Some	toppings	tend	to	char	easily	and	require	lower
+temperatures.	The	baking	times	vary	not	only	
+with	the	baking	temperature,	but	also	with	the
+size	of	the	baked	food.	A	50
+ 
+g	Danish	pastry	is	usually	baked	for	15–17
+ 
+min	at	200
+ 
+°C.
+=== PAGE 952 ===
+Troubleshooting
+An	overview	of	a	series	of	possible	problems	that	may	arise	during	processing	of	pastries,
+with	their	remedies,	is	given	in	
+Table	34.4
+.
+Table	34.4
+	Troubleshooting
+Problem
+Probable	cause
+Remedy
+Butter	breaks	through
+the	dough
+Butter	too	cold
+Dough	too	soft
+Abrupt	sheeting
+Condition	the	butter	before	use	to	14–16
+ 
+°C
+Reduce	the	water	content	of	the	dough	to
+obtain	the	same	consistency	of	the	butter
+use	gradual	and	even	sheeting	reduction
+Butter	oozes	out	from
+dough
+Butter	too	warm
+Dough	too	warm
+Dough	too	tight
+Condition	the	butter	before	use	to	14–16
+ 
+°C
+Chill	the	dough
+Increase	water	content
+Butter	melts	during
+proof
+Proofer	too	warm
+Insufficiently
+laminated
+Reduce	proofer	temperature
+Laminate	and	fold	more	to	obtain	more	layers
+Baked	pastries	have
+odd	shape
+Irregular	lamination
+Butter	too	hard
+Oven	too	hot
+Dough	rolled	out	too
+thinly
+Condition	the	butter	before	use	to	14–16
+ 
+°C
+Bake	at	200–210
+ 
+°C
+Use	gradual	and	even	sheeting	reduction
+Bakes	pastries	show
+fatty	patches	inside
+Insufficient
+lamination
+Excess	roll-butter
+Laminate	and	fold	more	to	obtain	more	layers
+Reduce	roll-in	butter
+Pastry	sticks	to	the
+sheeting	rollers
+Insufficient	dusting
+Bakery	too	warm
+Use	more	dusting	flour	during	sheeting
+Work	in	an	air-conditioned	room	at	18–20
+ 
+°C
+Tough	end	product
+Too	little	fat	(roll-in
+and/or	dough	fat)
+Baking	temperature
+too	low
+Increase	the	butter	content
+Bake	at	200–210
+ 
+°C
+=== PAGE 953 ===
+Bibliography
+Barrett	I.	1991.	Room	for	improvement.	Bakers	Rev	1:	3–6.
+Blyth	W.	1976.	Danish	–	a	much	misunderstood	line.	Baking	Ind	J	Sept	1976.
+Cleven	F,	Fluckinger	W.	1980.	Danish	pastry.	CCB	Rev	Choc	Confec	Bakery	5(2).
+Doerry	W.	1997.	Technology	of	producing	Danish	pastries	(sweet	rolls	and	coffee	cakes).
+AIB	Res	Dep	Tech	Bull	Vol	XIX(10):1–9.
+Goodsell	GR.	1985.	Making	Danish	basics	that	determine	quality	results.	Bakers	Dig
+59(1):16–21.
+Pajin	B,	Soronja-Simovic	D,	Seres	Z,	Gyura	J,	Radujko	I,	Sakac	M.	2011.	Physicochemical
+and	textural	properties	of	puff	pastry	margarines.	Eur	J	Lipid	Sci	Technol	113:262–8.
+Sliwinski	EL,	Kolster	P,	Van	Vliet	T.	2004.	On	the	relationship	between	large-
+deformation	properties	of	wheat	flour	and	baking	properties.	J	Cereal	Sci	39:231–45.
+Suas	M.	2009.	Viennoiserie.	In:	Suas	M.	editor.	Advanced	bread	and	pastry,	a
+professional	approach.	New	York:	Delmar	Cengage	Learning.
+Vey	JE.	1986.	Danish.	Proceedings	American	Society	of	Bakery	Engineers,	p.	111–120.
+Wulf	D.	1997.	Technical	Bulletin	AIB,	volume	XX(2):	1–8.
+=== PAGE 954 ===
+35
+Pretzel	Production	and	Quality	Control
+Koushik	Seetharaman
+Department	of	Food	Science,	University	of	Guelph,	Guelph,	Ontario,	Canada
+Introduction
+Structure	and	formulation
+Structural	description	of	pretzels
+Formulation
+Flour	quality
+Pretzel	processing
+Dough	mixing	and	resting
+Dough	forming	and	shaping
+Cooking
+Salting
+Baking	and	drying
+Finished	product	conveying	and	packaging
+Quality	assurance	critical	control	points
+Pretzel	breakage
+New	product	development
+Soft	pretzels
+Introduction
+Production
+References

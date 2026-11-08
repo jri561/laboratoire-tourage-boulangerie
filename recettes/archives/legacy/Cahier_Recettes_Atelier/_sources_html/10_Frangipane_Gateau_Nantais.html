@@ -1,0 +1,493 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Frangipane & Gâteau Nantais — FICHE ATELIER 10</title>
+<style>
+@page {
+  size: A4 portrait;
+  margin: 7mm 8mm;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+body {
+  color: #0f172a;
+  background: #ffffff;
+  letter-spacing: 0.15px;
+}
+
+.sheet-page {
+  width: 100%;
+  height: 282mm;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  page-break-after: always;
+  break-after: page;
+}
+.sheet-page:last-child {
+  page-break-after: auto;
+  break-after: auto;
+}
+
+/* EN-TÊTE ÉPURÉ HAUTE LISIBILITÉ */
+.header-banner {
+  background: #f8fafc;
+  border: 1.5px solid #cbd5e1;
+  border-left: 8px solid #be185d;
+  border-radius: 7px;
+  padding: 10px 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 9px;
+}
+.header-titles h1 {
+  font-size: 21px;
+  font-weight: 900;
+  color: #0f172a;
+  letter-spacing: -0.2px;
+  line-height: 1.15;
+}
+.header-titles .subtitle {
+  font-size: 11.5px;
+  font-weight: 700;
+  color: #475569;
+  margin-top: 3px;
+  line-height: 1.25;
+}
+.header-right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 3px;
+}
+.header-badge {
+  background: #9d174d;
+  color: #ffffff;
+  padding: 6px 12px;
+  border-radius: 5px;
+  font-weight: 900;
+  font-size: 12.5px;
+  letter-spacing: 0.5px;
+  white-space: nowrap;
+}
+.page-indicator {
+  font-size: 10px;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  color: #be185d;
+}
+
+/* BANDEAU FLASH GÉANT */
+.flash-row {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 9px;
+  margin-bottom: 10px;
+}
+.flash-card {
+  background: #f8fafc;
+  border: 1.5px solid #cbd5e1;
+  border-left: 5.5px solid #0284c7;
+  padding: 6.5px 9px;
+  border-radius: 6px;
+}
+.flash-card.alert {
+  border-left-color: #dc2626;
+  background: #fff5f5;
+  border-color: #fecaca;
+}
+.flash-card.amber {
+  border-left-color: #d97706;
+  background: #fffbeb;
+  border-color: #fde68a;
+}
+.flash-card.green {
+  border-left-color: #059669;
+  background: #f0fdf4;
+  border-color: #bbf7d0;
+}
+.flash-card .lbl {
+  font-size: 9.5px;
+  font-weight: 800;
+  color: #475569;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+  margin-bottom: 3px;
+}
+.flash-card .val {
+  font-size: 14.5px;
+  font-weight: 900;
+  color: #0f172a;
+  line-height: 1.15;
+}
+
+/* TABLEAUX DES PESÉES GRAND CONFORT (PAGE GAUCHE) */
+.tables-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  flex-grow: 1;
+  justify-content: flex-start;
+}
+table.giant-table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1.5px solid #94a3b8;
+  border-radius: 6px;
+  overflow: hidden;
+}
+table.giant-table th {
+  background: #f1f5f9;
+  color: #0f172a;
+  padding: 6.5px 9px;
+  font-size: 11.5px;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+  border-bottom: 2.2px solid #0f172a;
+  border-right: 1px solid #cbd5e1;
+}
+table.giant-table th:last-child { border-right: none; }
+table.giant-table th.left, table.giant-table td.left { text-align: left; }
+table.giant-table th.right, table.giant-table td.right { text-align: right; }
+table.giant-table th.center, table.giant-table td.center { text-align: center; }
+
+table.giant-table td {
+  padding: 5.8px 9px;
+  border-bottom: 1px solid #cbd5e1;
+  border-right: 1px solid #e2e8f0;
+  font-size: 13px;
+  font-weight: 700;
+  color: #1e293b;
+}
+table.giant-table td:last-child { border-right: none; }
+table.giant-table tr:nth-child(even) td {
+  background-color: #f8fafc;
+}
+
+/* Indicateur couleur gauche selon l'étape */
+table.giant-table tr.step-row-1 td:first-child { border-left: 5.5px solid #0284c7; }
+table.giant-table tr.step-row-2 td:first-child { border-left: 5.5px solid #d97706; }
+table.giant-table tr.step-row-3 td:first-child { border-left: 5.5px solid #059669; }
+table.giant-table tr.step-row-4 td:first-child { border-left: 5.5px solid #7c3aed; }
+
+table.giant-table td.ing-name {
+  font-size: 13.5px;
+  font-weight: 800;
+  color: #0f172a;
+}
+.ing-note {
+  font-weight: 600;
+  color: #475569;
+  font-size: 0.88em;
+}
+
+/* Pastilles d'étapes numérotées */
+.step-pill {
+  display: inline-block;
+  padding: 1.5px 7px;
+  border-radius: 4px;
+  font-weight: 900;
+  font-size: 0.86em;
+  color: #ffffff;
+  margin-right: 6px;
+  vertical-align: baseline;
+  letter-spacing: 0.25px;
+}
+.step-pill.s1 { background: #0284c7; }
+.step-pill.s2 { background: #d97706; }
+.step-pill.s3 { background: #059669; }
+.step-pill.s4 { background: #7c3aed; }
+
+table.giant-table td.weight-cell {
+  font-size: 15px;
+  font-weight: 900;
+  color: #000000;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.35px;
+}
+table.giant-table tr.subtotal td {
+  background: #fdf2f8;
+  font-size: 13.5px;
+  font-weight: 900;
+  color: #0f172a;
+  border-top: 1.8px solid #475569;
+  border-bottom: 1.8px solid #475569;
+}
+table.giant-table tr.total-final td {
+  background: #fce7f3;
+  font-size: 14.5px;
+  font-weight: 900;
+  color: #000000;
+  border-top: 2.2px solid #0f172a;
+  border-bottom: 2.2px solid #0f172a;
+}
+
+/* PAGE DE DROITE : PROTOCOLE PLEINE LARGEUR EN GROS CARACTÈRES */
+.right-content {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  flex-grow: 1;
+  justify-content: flex-start;
+}
+.proto-block {
+  background: #ffffff;
+  border: 1.5px solid #cbd5e1;
+  border-left: 7px solid #0284c7;
+  border-radius: 7px;
+  padding: 16px 20px;
+}
+.proto-block.b2 {
+  border-left-color: #d97706;
+}
+.proto-block h2 {
+  font-size: 16.5px;
+  font-weight: 900;
+  color: #0f172a;
+  text-transform: uppercase;
+  border-bottom: 1.5px solid #e2e8f0;
+  padding-bottom: 6px;
+  margin-bottom: 10px;
+  letter-spacing: 0.25px;
+}
+.proto-list {
+  list-style: none;
+  font-size: 15px;
+  line-height: 1.55;
+  color: #1e293b;
+}
+.proto-list li {
+  margin-bottom: 10px;
+  padding-left: 14px;
+  position: relative;
+}
+.proto-list li::before {
+  content: "▪";
+  position: absolute;
+  left: 0;
+  color: #be185d;
+  font-weight: 900;
+}
+.proto-list strong {
+  color: #000000;
+  font-weight: 900;
+}
+
+/* Encadré Récapitulatif de Sécurité & Contrôle (Bas de Page Droite) */
+.summary-box {
+  background: #fdf2f8;
+  border: 1.5px solid #fbcfe8;
+  border-left: 7px solid #be185d;
+  border-radius: 7px;
+  padding: 12px 16px;
+}
+.summary-box h3 {
+  font-size: 13px;
+  font-weight: 900;
+  text-transform: uppercase;
+  color: #0f172a;
+  margin-bottom: 8px;
+  letter-spacing: 0.3px;
+}
+.summary-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px 16px;
+  font-size: 13px;
+  line-height: 1.35;
+}
+.summary-item strong {
+  color: #000000;
+  font-weight: 900;
+}
+
+/* PIED DE PAGE */
+.footer {
+  border-top: 1.8px solid #cbd5e1;
+  padding-top: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 10px;
+  color: #334155;
+  font-weight: 800;
+}
+.legend-inline {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+.legend-dot {
+  display: inline-block;
+  width: 9px;
+  height: 9px;
+  border-radius: 2px;
+  margin-right: 4px;
+}
+</style>
+</head>
+<body>
+
+  <!-- ===================================================================== -->
+  <!-- PAGE 1 (GAUCHE) : POSTE DE PESÉE & TABLEAUX EN GROS CARACTÈRES        -->
+  <!-- ===================================================================== -->
+  <div class="sheet-page">
+    <div>
+      <div class="header-banner">
+        <div class="header-titles">
+          <h1>Frangipane & Gâteau Nantais</h1>
+          <div class="subtitle">1. Frangipane 80/20 • 2. Appareil Gâteau Nantais au Rhum • 3. Glaçage Royal</div>
+        </div>
+        <div class="header-right">
+          <div class="header-badge">FICHE ATELIER 10 • GAUCHE</div>
+          <div class="page-indicator">PAGE 1/2 • POSTE DE PESÉE</div>
+        </div>
+      </div>
+
+      <div class="flash-row">
+        
+        <div class="flash-card ">
+          <div class="lbl">Programme</div>
+          <div class="val">Prog. [FRANGIPANE] (Feuille)</div>
+        </div>
+        
+
+        <div class="flash-card amber">
+          <div class="lbl">Ratio Base</div>
+          <div class="val">80 % Amande / 20 % Pâtiss.</div>
+        </div>
+        
+
+        <div class="flash-card green">
+          <div class="lbl">Calibres Nantais</div>
+          <div class="val">Indiv 100 g / Grand 450 g</div>
+        </div>
+        
+
+        <div class="flash-card alert">
+          <div class="lbl">Glaçage</div>
+          <div class="val">Sur gâteaux froids</div>
+        </div>
+        
+      </div>
+
+      <div class="tables-container">
+        
+    <table class="giant-table">
+      <thead><tr><th class='left'>1. Crème Pâtissière & Frangipane</th><th class='right'>Lot Standard</th><th class='right'>Double Lot</th><th class='left'>Consigne</th></tr></thead>
+      <tbody>
+        <tr class='step-row-1'><td class='left ing-name'><span class='step-pill s1'>1</span>Eau froide</td><td class='right weight-cell'>1 500 g</td><td class='right weight-cell'>3 000 g</td><td class='left'>Fouetter avec la poudre</td></tr>
+<tr class='step-row-1'><td class='left ing-name'><span class='step-pill s1'>1</span>Poudre pâtissière à froid</td><td class='right weight-cell'>600 g</td><td class='right weight-cell'>1 200 g</td><td class='left'>Laisser épaissir 5 min</td></tr>
+<tr class='subtotal'><td class='left ing-name'>SOUS-TOTAL 1 • CRÈME PÂTISSIÈRE</td><td class='right weight-cell'>2 100 g</td><td class='right weight-cell'>4 200 g</td><td class='left'>Ajoutée en fin de mélange</td></tr>
+<tr class='step-row-2'><td class='left ing-name'><span class='step-pill s2'>2</span>Beurre pommade</td><td class='right weight-cell'>2 000 g</td><td class='right weight-cell'>4 000 g</td><td class='left'>Crémer avec le sucre</td></tr>
+<tr class='step-row-2'><td class='left ing-name'><span class='step-pill s2'>2</span>Sucre semoule</td><td class='right weight-cell'>2 000 g</td><td class='right weight-cell'>4 000 g</td><td class='left'>Sans chauffer</td></tr>
+<tr class='step-row-3'><td class='left ing-name'><span class='step-pill s3'>3</span>Œufs entiers liquides</td><td class='right weight-cell'>1 600 g</td><td class='right weight-cell'>3 200 g</td><td class='left'>En filet en V1</td></tr>
+<tr class='step-row-3'><td class='left ing-name'><span class='step-pill s3'>3</span>Poudre d'amande blanche</td><td class='right weight-cell'>2 000 g</td><td class='right weight-cell'>4 000 g</td><td class='left'>Incorporer en V1</td></tr>
+<tr class='step-row-3'><td class='left ing-name'><span class='step-pill s3'>3</span>Farine T55</td><td class='right weight-cell'>600 g</td><td class='right weight-cell'>1 200 g</td><td class='left'>Incorporer en V1</td></tr>
+        <tr class='total-final'><td class='left'>TOTAL FRANGIPANE FINIE</td><td class='right'>10 300 g</td><td class='right'>20 600 g</td><td class='right'>Mélanger pâtissière + amande</td></tr>
+      </tbody>
+    </table>
+    
+
+    <table class="giant-table">
+      <thead><tr><th class='left'>2. Appareil Gâteau Nantais</th><th class='right'>Petit Lot</th><th class='right'>Grand Lot</th><th class='left'>Consigne</th></tr></thead>
+      <tbody>
+        <tr class='step-row-1'><td class='left ing-name'><span class='step-pill s1'>1</span>Frangipane finie <span class='ing-note'>(Tableau 1)</span></td><td class='right weight-cell'>1 000 g</td><td class='right weight-cell'>10 300 g</td><td class='left'>À la feuille en V1</td></tr>
+<tr class='step-row-1'><td class='left ing-name'><span class='step-pill s1'>1</span>Levure chimique</td><td class='right weight-cell'>10 g</td><td class='right weight-cell'>100 g</td><td class='left'>Mélanger à la frangipane</td></tr>
+<tr class='step-row-2'><td class='left ing-name'><span class='step-pill s2'>2</span>Rhum ambré 45°</td><td class='right weight-cell'>120 g</td><td class='right weight-cell'>1 250 g</td><td class='left'>Verser en filet en V1</td></tr>
+        <tr class='total-final'><td class='left'>TOTAL GÂTEAU NANTAIS</td><td class='right'>1 130 g</td><td class='right'>11 650 g</td><td class='right'>Indiv. 100 g / 4 pers. 450 g</td></tr>
+      </tbody>
+    </table>
+    
+
+    <table class="giant-table">
+      <thead><tr><th class='left'>3. Glaçage Royal au Rhum</th><th class='right'>Petit Lot</th><th class='right'>Grand Lot (x4)</th><th class='left'>Consigne</th></tr></thead>
+      <tbody>
+        <tr class='step-row-1'><td class='left ing-name'><span class='step-pill s1'>1</span>Gélatine <span class='ing-note'>(feuilles)</span></td><td class='right weight-cell'>4 g (2 f.)</td><td class='right weight-cell'>16 g (8 f.)</td><td class='left'>Ramollir à l'eau froide</td></tr>
+<tr class='step-row-2'><td class='left ing-name'><span class='step-pill s2'>2</span>Rhum ambré 45°</td><td class='right weight-cell'>80 g</td><td class='right weight-cell'>320 g</td><td class='left'>Tiédir à 50 °C avec trimoline</td></tr>
+<tr class='step-row-2'><td class='left ing-name'><span class='step-pill s2'>2</span>Trimoline</td><td class='right weight-cell'>50 g</td><td class='right weight-cell'>200 g</td><td class='left'>Y fondre la gélatine</td></tr>
+<tr class='step-row-3'><td class='left ing-name'><span class='step-pill s3'>3</span>Sucre glace tamisé</td><td class='right weight-cell'>500 g</td><td class='right weight-cell'>2 000 g</td><td class='left'>Lisser sans bulles</td></tr>
+        <tr class='total-final'><td class='left'>TOTAL GLAÇAGE ROYAL</td><td class='right'>634 g</td><td class='right'>2 536 g</td><td class='right'>Glacer à la palette à froid</td></tr>
+      </tbody>
+    </table>
+    
+      </div>
+    </div>
+
+    <div class="footer">
+      <span>FICHE ATELIER 10 • PÂTISSERIE & BISCUITERIE</span>
+      <span class="legend-inline">
+        <span><i class="legend-dot" style="background:#0284c7;"></i>1. Base / Frasage</span>
+        <span><i class="legend-dot" style="background:#d97706;"></i>2. Incorp. / Liquides</span>
+        <span><i class="legend-dot" style="background:#059669;"></i>3. Poudres / Tourage</span>
+        <span><i class="legend-dot" style="background:#7c3aed;"></i>4. Inclusions / Finition</span>
+      </span>
+      <span>PAGE GAUCHE (1/2)</span>
+    </div>
+  </div>
+
+  <!-- ===================================================================== -->
+  <!-- PAGE 2 (DROITE) : PROTOCOLE PAS À PAS, FAÇONNAGE & CUISSON            -->
+  <!-- ===================================================================== -->
+  <div class="sheet-page">
+    <div>
+      <div class="header-banner">
+        <div class="header-titles">
+          <h1>Frangipane & Gâteau Nantais — Marche à Suivre</h1>
+          <div class="subtitle">Protocole chronologique étape par étape, conduite machine et barème de cuisson</div>
+        </div>
+        <div class="header-right">
+          <div class="header-badge">FICHE ATELIER 10 • DROITE</div>
+          <div class="page-indicator">PAGE 2/2 • PROTOCOLE &amp; FOUR</div>
+        </div>
+      </div>
+
+      <div class="right-content">
+        
+        <div class="proto-block">
+          <h2>1. Frangipane & Gâteau Nantais</h2>
+          <ul class="proto-list">
+            <li><strong><span class='step-pill s1'>ÉTAPE 1</span> Crème pâtissière :</strong> Fouetter vivement l'eau froide et la poudre à crème <strong>(1)</strong>, puis laisser épaissir 5 minutes.</li>
+<li><strong><span class='step-pill s2'>ÉTAPES 2 & 3</span> Crème d'amande :</strong> Lancer le <strong>Programme [FRANGIPANE]</strong> à la feuille : crémer le beurre pommade et le sucre <strong>(2)</strong> sans chauffer, verser les œufs en filet, puis incorporer la poudre d'amande et la farine <strong>(3)</strong> en 1ʳᵉ vitesse.</li>
+<li><strong><span class='step-pill s4'>ÉTAPE 4</span> Frangipane :</strong> Incorporer la crème pâtissière réservée en fin de mélange pour obtenir une frangipane bien lisse.</li>
+<li><strong>Gâteau Nantais (Tableau 2) :</strong> Détendre la frangipane avec la levure chimique et le rhum ambré en 1ʳᵉ vitesse. Cuire à <strong>165 °C</strong> : compter <strong>25 à 30 min</strong> en individuel (100 g) et <strong>40 à 45 min</strong> en format partage (450 g).</li>
+          </ul>
+        </div>
+        <div class="proto-block b2">
+          <h2>2. Glaçage Royal au Rhum</h2>
+          <ul class="proto-list">
+            <li><strong>Préparation du glaçage (Tableau 3) :</strong> Faire ramollir la gélatine dans l'eau froide, puis la dissoudre dans le rhum et la trimoline tiédis à 50 °C.</li>
+<li><strong>Mise au point :</strong> Verser ce liquide tiède sur le sucre glace tamisé et mélanger doucement au fouet sans incorporer de bulles d'air.</li>
+<li><strong>Finition :</strong> Étaler une fine couche régulière de glaçage à la palette sur les gâteaux complètement refroidis.</li>
+          </ul>
+        </div>
+        <div class="summary-box">
+          <h3>Repères de Contrôle Rapide au Poste (FICHE ATELIER 10)</h3>
+          <div class="summary-grid">
+            <div class='summary-item'>• Programme : <strong>Prog. [FRANGIPANE] (Feuille)</strong></div>
+<div class='summary-item'>• Ratio Base : <strong>80 % Amande / 20 % Pâtiss.</strong></div>
+<div class='summary-item'>• Calibres Nantais : <strong>Indiv 100 g / Grand 450 g</strong></div>
+<div class='summary-item'>• Glaçage : <strong>Sur gâteaux froids</strong></div>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+
+    <div class="footer">
+      <span>FICHE ATELIER 10 • Frangipane & Gâteau Nantais</span>
+      <span>Lire de gauche à droite classeur ouvert (Pesées à gauche ↔ Protocole à droite)</span>
+      <span>PAGE DROITE (2/2)</span>
+    </div>
+  </div>
+
+</body>
+</html>

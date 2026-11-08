@@ -1,0 +1,1382 @@
+
+=== PAGE 569 ===
+660 BAKERY TECHNOLOGY AND ENGINEERING 
+short period is so intense, however, that the dough emerges in a 
+homogeneous, full developed condition. 
+An important advantage claimed for systems using continuous mixers 
+is that more accurate scaling of dough pieces is obtained, as compared to 
+batch systems. This results from all the dough being of precisely the same 
+age as it passes through the extruder cut-off slot. There is no change from 
+old, gassy dough to fresh dough, as in dividers operating on a succession of 
+batches. Another advantage is a labor saving of at least two operators. 
+Characteristics’ of continuously processed bread that were at first 
+regarded as important advantages but later came to be regarded as possible 
+disadvantages were the more uniform grain, finer texture, and whiter 
+crumb. These features can be understood as among the results of the mixing 
+action in the continuous developer. The extremely intense, very efficient 
+agitation produces a more uniform mix of all components, including air and 
+carbon dioxide. Since the air is distributed in finer bubbles and there are 
+more bubbles, the total area of the cell walls will be greater and the cell 
+walls themselves will be thinner, that is, the same amount of dough will be 
+spread over a larger area. Therefore, the bread crumb will appear smoother, 
+silkier, and softer. The finer grain is responsible for the whiter-appearing 
+crumb. Finer-grained products always appear whiter, other conditions being 
+equal, because the cells on the cut surface are relatively small and shallow, 
+thus reflecting and refracting liqht more efficiently. 
+Aside from efficient mixing, an additional cause of grain uniformity in 
+continuously mixed dough is that these mixers process only one physical 
+phase whereas the batch mixer operates throughout its mixing cycle on two 
+phases□the plastic dough phase and the gaseous phase. Continuous mixers 
+function at 50- or 60-lb pressure and are kept hydrostatically full. Since the 
+chamber contains no gas-filled space, new gas is not incorporated into the 
+dough. Therefore, all existing bubbles receive the same dividing and 
+dispersing action in the mixing cycle and are more uniformy distributed at 
+the finish. Much more carbon dioxide is dissolved in the dough’s liquid 
+phase at 60 psi than at the atmospheric pressure existing in the batch 
+mixer. In the latter, the agitator constantly draws new, and often large, gas 
+air bubbles into the dough during mixing, and the bubbles enfolded near the 
+end of the process will not be completely dispersed. One result is that bread 
+from batch-mixed dough is generally coarser in grain and the crumb is less 
+uniform that it is in bread made from continuously mixed dough. 
+The continuous mixing systems discussed above were designed to 
+produce commercial white American bread, which is relatively high in spe›
+cific volume due to efficient incorporation of gas in the dough and efficient 
+retention of gas in the baking process. In the European market, there is less 
+demand for light, fluffy white bread and, consequently, less need for highly 
+refined gluten development equipment. Continuous bread dough mixers of 
+relatively simple design were developed in Europe to meet their particular 
+needs. Among these were the Strahmann and the Ivarsson mixers. 
+The Strahmann machine combines premixer and mixer-developer in 
+=== PAGE 570 ===
+Mixers and Mixing 561 
+one unit. The shaft has a plurality of screw-type, paddle-bladed units that 
+are rotated to drive ingredients from the inlet port to the discharge port at 
+the other end. Near the discharge end, the paddle blades are separated 
+along the shaft by perforated baffle plates, mounted concentrically with the 
+shaft but rotating in a direction opposite to the shaft’s rotation. The baffles 
+may be provided with a variety of perforations to give the desired 
+developing effect. This mixer gives an intense shearing, cutting, mixing 
+action. The Ivarsson device uses an ingeniously modified horizontal screw 
+agitator to mix, knead, and propel the dough through the cylindrical 
+housing. After it is discharged from the mixer, the dough is proofed and sent 
+through conventional make-up equipment. 
+Ration development technologists of the U.S. armed forces have, from 
+time to time, tried to develop a portable continuous baking plant that can be 
+used to supply fresh bread to troops in the field. When the author was Chief 
+of the Cereal and General Products Branch of the Quartermaster Food and 
+Container Institute, a continuous mixer was designed for use with a 
+chemically-leavened white bread mix. The mixer was light, compact, and 
+simple so as to better fit it for field use. The dry mix metering feeder was 
+volumetric, and had sufficient accuracy to keep the finished dough within 
+acceptable limits. The premixer was a auger-fed machine that led to a Wau›
+kesha type metering pump, and it delivered the roughly mixed dough to the 
+developer-mixer, a device that had many similarities to the developer used 
+in commercial continuous bread plants and operated under 40 to 60 psig 
+pressure. Dough was extruded from the discharge end through a rubber 
+hose directly into pans. Because there was no conventional dough make-up 
+equipment in the military process, variations in the absorption rate were 
+not as critical as they would otherwise have been, so the volumetric dry 
+feeder gave satisfactory accuracy. There were no provisions for cooling the 
+developer chamber, and the dough was delivered much warmer than in a 
+commercial plant. This shortened the baking time, however, and was not a 
+source of major difficulties in the absence of the usual make-up procedures. 
+MIXERS FOR BATTERS 
+The mixers that have been discussed up to this point are particularly 
+suitable for mixing yeast-raised doughs made from relatively strong, high 
+gluten content flours. Efficient mixing of cake batters and the like requires 
+an altogether different kind of agitator action. Less energy is needed to mix 
+batters, their viscosity is less than that of the usual dough, and they do not 
+require development, in the sense that a bread dough must be developed. 
+They do require enfolding of air and the subdividing of it into small bubbles. 
+Horizontal dough mixers do not function at all well in mixing fluids of this 
+type. Many unleavened doughs present a still different set of problems, 
+needing to be kept cool and to be mixed without any development. 
+From the standpoint of their response to mixing, cake batters can be 
+divided into two types: (1) "Shortening" cakes such as layer cakes, pound 
+=== PAGE 571 ===
+562 BAKERY TECHNOLOGY AND ENGINEERING 
+cakes, etc., and (2) Sponge cakes, inluding conventional sponges, chiffons, 
+and angel food cakes. Generally, the same mixers can can be used for both 
+types; if somewhat different agitation is needed, it can be obtained by using 
+specialized agitators and different speeds. Both batch and continuous 
+mixers can be used for nearly all types of cake batters. 
+Batch Mixers for Batters 
+Vertical dough mixers, a class identified by the perpendicular orien›
+tation of the mixer shaft, are widely used in the food industry. They are 
+relatively inexpensive, fairly versatile, and can be constructed in a wide 
+range of sizes. A feature common to most vertical mixers is the use of remo›
+vable bowls. Their other characteristics may be quite diverse□there may be 
+one or more beater shafts, the beater shafts may move in a planetary action 
+or remain stationary, and the designs of the agitators can be varied over a 
+wide range. The types of vertical mixers of chief interest are the planetary 
+mixers capable of preparing most batters and some doughs and often used 
+for adjuncts such as icings, and the spindle mixers commonly found in 
+cookie and cracker factories. 
+Vertical planetary mixers with removable bowls are used universally 
+for the batch mixing of all types of cake batters. The agitator action is 
+described at "planetary" because the beater has two types of movement: it 
+revolves on its vertical axis at a relatively high speed while this axis is being 
+moved around the inside of the bowl at a relatively slow speed. The latter, or 
+planetary, action is in the opposite direction of the agitator rotation. The 
+combination of motions is very effective in stirring all parts of the bowl’s 
+contents and reducing dead spots. When a rubber-edged beater is used, the 
+entire inside surface of the bowl is wiped progressively as the planetary 
+cycle is made. A small area at the bottom of the bowl may remain out of 
+contact with the beater blades, but material in this area is generally picked 
+up as the batter increases in viscosity. 
+This general type of mixer is produced by several U.S. companies and 
+by manufacturers in several foreign countries. It may be obtained in bowl 
+sizes of 20, 40, 80, 120, 140, 160, and 340 quarts. Even smaller sizes are 
+available for home kitchens, bakery laboratories, etc. Using the usual two-
+stage addition method for layer cake batters, a 340-qt mixer can complete 
+four 400 to 550 lb batches in an hour. The amount per batch depends largely 
+on the specific volume reached. Whipped type cakes prepared with wire 
+whips (sponge, chiffon, angel food), which may require specific gravities as 
+low as 0.30, require smaller batches. 
+The larger units can raise the bowls and mixing heads automatically 
+with an auxiliary motor. Bowl hoisting and dumping equipment is available 
+for the largest mixers. Some of these mixers have four geared speeds from 
+low to high, while others have infinitely variable speeds. On a 340-qt mixer 
+of the latter type, the beater speed is continuously variable from 45 rpm to 
+325 rpm. The planetary action is only 25% as fast as the beater rotation 
+=== PAGE 572 ===
+Mixers and Mixing 563 
+(called a 4:1 precession ratio) in the standard single ration machine. In the 
+dual ratio machine, a selection can be made between 4:1 and 2:1, or the 
+planetary action can be stopped completely to create a vortex facilitating the 
+addition of dry ingredients. Figure 25.6 shows an example of a 340-qt 
+capacity vertical planetary mixer with removal bowl on dolly (Source AMF). 
+Figure 25.6. Vertical planetary dough mixer 
+A convenient feature of most planetary mixers is the easy removal 
+and replacement of the agitator element. A large selection of agitators is 
+available, making this machine the most versatile of all mixers in terms of 
+mixing action. The most commonly used mixer elements are probably the 
+dough hook, the wirewhip, and the batter beater. The wirewhip is an assem›
+bly of wires, wide at the top and coming to a rounded point at the bottom, 
+designed to give maximum air incorporation and bubble dividing action. The 
+wires are 0.125 to 0.1875 inches in diameter and are set in a pattern 
+designed to give the maximum turbulence. Batter beaters are generally of 
+cast aluminum, though large ones may be formed of stainless steel bars 
+attached to a frame, and they have a shield-shaped outline. Batter beaters 
+
+=== PAGE 573 ===
+564 BAKERY TECHNOLOGY AND ENGINEERING 
+used for shortening-type cakes are of either the two-wing or the less 
+common four-wing design. The outer edges of the wings are shaped to match 
+the curvature of the bowl side wall and may have a white rubber insert 
+along their edges for wiping the inside of the bowl. Their construction is 
+strong enough to withstand high starting torque. 
+Bowls made be fitted with baffles to restrict the swirling motion of 
+batters. This problem is greatest in the large mixers where very thin batters 
+tend to swirl freely unless ridges are placed in the bowl to restrict or 
+redirect the rotation of the liquid. Tinned baffles are available from stock for 
+the largest mixers, along with the smaller diameter whips that are required 
+when baffles are installed. Using a lower planetary ratio, say 2:1, is another 
+way to prevent, or at least minimize, swirling. Bowl covers are available to 
+cut down on ejection of liquids and powders from the bowl. 
+Old-style horizontal cake mixers, with kneader blades for shortening 
+type cakes and a squirrel cage whip for foam batters have been all but 
+completely replaced by the more efficient and versatile vertical planetary 
+mixers. A batch mixer that gained some popularity for whipping cake 
+batters, especially angel cake batters, is the air pressure whisk. They are 
+comprised essentially of a vertical tank with a pressure-tight lid, and three 
+rows of rod-shaped beaters, two of them powered and one stationary. Their 
+mixing action is intense; the drive unit for a 200-qt bowl is 10 hp. In making 
+angel food cake batter in this device, flour is charged to the mixer from an 
+auxiliary tank, other ingredients are added, the tank is closed, and pressure 
+raised to 5 to 22 psig. A batch of angel food cake batter can reportedly be 
+mixed in 2.5 minutes, or pound cake batter in 1.5 minutes. Superior 
+aeration and better uniformity are claimed. The batter is delivered to the 
+depositer under slight pressure, through a plastic hose. 
+Wilkinson (1987) points out there are still some types of cakes best 
+made by batch mixing, in spite of the advances in continuous mixing 
+technology. He enumerated the previously known problems of planetary 
+mixers: (1) Scaling of ingredients is not consistently accurate; (2) Mix speeds 
+cannot be controlled accurately; (3) A stagnant film is always left on the side 
+of the bowl, requiring the operator to scrape down the bowl regularly; (4) 
+Design of the mixing bowl leaves an unmixed or poorly mixed residue in the 
+bottom, often resulting in variable top-to-bottom quality; (5) Batch sizes are 
+too small for large-scale production; (6) Sanitation and clean-up are 
+constant problems; (7) Operator safety is a concern; and (8) The entire 
+mixing process is operator dependent. 
+Wilkinson described a new type of mixer based on traditional 
+planetary mixer principles but with features that give greater control over: 
+(1) Variations in quality of the ingredients; (2) Accuracy in scaling the 
+formula; (3) Time in the mix cycle; (4) Completeness of mixing the batch; (5) 
+Temperature of the final mix; and (6) Attention and skill of the operator. 
+The system includes "complex planetary mixing" together with electronic 
+control systems. Complex planetary mixing refers to (among other changes) 
+the addition of a second tool in the planetary head to give versatility that 
+=== PAGE 574 ===
+Mixers and Mixing 565 
+can’t be achieved in simple planetary mixers. For example, a wire whip for 
+foaming can be combined with a cross-beater for development. A tool for 
+constantly scraping the sides is added. 
+Traditional open-bowl mixing depends on the incorporation of air at 
+atmospheric pressure, making the time and speed of mixing and the type of 
+agitator controlling factors determining the specific gravity of the finished 
+batter. Much greater control over specific gravity can be obtained if the bowl 
+can be pressurized. Achieving this requires some fairly elaborate modifica›
+tions, but is being done routinely in many plants. The usual practice is to 
+raise the pressure in the bowl to about two atmospheres, or say, 15 psig, 
+during as much of the mix cycle as is necessary to get the predetermined 
+specific volume. 
+Consideration must be given to the expansion that occurs when 
+pressure is released. In these mixers, the batter would normally be 
+conducted through tubes from the bottom of the pressurized bowl to a 
+depositer. As the batter emerges into an atmospheric pressure environment, 
+whether at the depositer or elsewhere, the higher pressure gas in the 
+bubbles will cause the bubbles to expand very significantly. Some of the 
+bubbles will coalesce or burst, and it is conceivable that the final specific 
+volume could decrease because of these phenomena. The systems having 
+complex planetary agitators, sealed pressurized bowl, and automatically fed 
+ingredients are said to be applicable to sponge cakes, variety cakes of any 
+kind, cremes and fillings, wire-cut cookie doughs, rotary molded cookie 
+doughs, and light pastry doughs. Typical mix time is about one-third to one-
+half that required in a regular planetary mixer. From 5 to 8 batches per 
+hour can be produced with most formulas. These systems can be automated 
+for: (1) Delivery of ingredients according to a programmed formula and 
+sequence; (2) Mixing for a predetermined time at a predetermined speed; (3) 
+Adding pressurized air at a given time; and (4) Discharge to the depositer 
+when the mixing cycle is complete. 
+Continuous Mixers for Batters 
+Semi-continuous mixing of cake batters was introduced in the U.S. in 
+the mid-1940s. One of the first commercial continuous cake mixing systems 
+was designed around a Votator scraped-surface mixer based on an ice cream 
+freezer machine. Another early system used a modified Oakes marshmallow 
+mixer. In both plants, the mixer operated continuously but was fed with a 
+premix prepared batch wise in a standard batter mixer. About 1950, a truly 
+continuous cake mixing plant based on the Oakes mixer was designed and 
+installed. Since then, other manufacturers have introduced similar mixers. 
+The Votator mixer consists of one or more horizontal stainless steel 
+cylinders containing axially mounted beater bars that can be set to scrape 
+the inner wall of the cylinder. An outer cylinder is placed concentrically 
+with the mixer tube so that a heat transfer fluid can be circulated through 
+the annular space to heat or cool the batter as it is being mixed. Mixing 
+=== PAGE 575 ===
+566 BAKERY TECHNOLOGY AND ENGINEERING 
+action is intense, and the machine has the advantage of being operable 
+under relatively high pressures. 
+The Oakes mixer has a stainless steel mixing chamber consisting of 
+front and back stator halves, round in shape, and a circular rotor mounted 
+between them. Concentric teeth on both inwardly facing stator surfaces 
+mesh with teeth on the rotor. Premix batter is pumped in at the center of 
+the back stator, and is sheared repeatedly as it is forced out around the 
+rotor and from back to the center of the front stator, where it exits. 
+Diameter of the rotor in the largest machine is 14 inches. Rotor speed is 
+continuously variable over a fairly wide range. Only about 3 qt of batter is 
+present in the chamber of the largest mixer at any one time, so that dwell 
+time is very short and power requirements are low. 
+Air, or other gas, may be injected into the mixer with the other 
+ingredients and distributed uniformly throughout the mass as very small 
+bubbles. The stators are jacketed, allowing coolants to be circulated. 
+Machines with capacities up to 6,000 lb per hr have been offered. There is a 
+lab model with a nominal production rate of 30 to 200 lb per hr. 
+Figure 25.7. Complete system for continuous mixing of cake batter 
+The AMF mixer is similar in external appearance to the Oakes, but 
+the mixing head is considerably different. Instead of splitting axially for 
+dismantling, the stator separates radially. The rotor has several rows of 
+teeth on its periphery; these mesh with rows of teeth on the inside of the 
+stator wall. Rotor speed is continuously variable. These mixers are equipped 
+with batter metering pump, air meter, and speed controls. A photo of a 
+
+=== PAGE 576 ===
+Mixers and Mixing 567 
+system including this mixer is reproduced as Figure 25.7. On the right is a 
+vertical mixer for premixing; from it, premix is fed through a sanitary pump 
+and a surge tank (middle of figure) to the AMF continuous mixer on the left. 
+The Goodway mixer/foamer has a slightly conical mixing chamber, 
+pyramidal teeth, thermal jackets, and a working pressure of 150 psi. The 
+Fedco mixer has a cylindrical chamber several inches long with hundreds of 
+square-tipped teeth; it incloses a cylindrical rotor having many teeth on its 
+periphery. Flow of product is straight through the annular space. 
+The intense shear applied to batter in mixing heads of this design is 
+sufficient to emulsify air and shortening in a complete formula blend. 
+Conventional batch mixers often require that the water be kept back until 
+the shortening has been creamed with some of the dry ingredients. Their 
+principal advantage, however, lies in the continuous mixer’s unique ability 
+to produce highly aerated batters such as angel cake batter from a rough 
+premix. Air or inert gas is metered into the mixer head at a calculated rate. 
+If the goal is to produce a foamed batter with a final specific gravity of about 
+0.25, the proportion would be three standard volumes of air to one of batter. 
+Continuous batter mixers can be incorporated into completely 
+continuous systems if production schedules warrant, as in plants making a 
+only a few varieties, and these in long unbroken runs. In such plants, liquid 
+ingredients and plasticized shortening are premixed in vertical tanks 
+equipped with high speed propeller agitators. The resultant emulsion is 
+metered into an open vortex-type premixer to which the flour is fed by a 
+gravimetric feeder. The premixer forms a slurry which is metered into the 
+continuous mixer along with a stream of air. 
+Cake batter is much easier than bread dough to transfer through 
+pumps, pipes, valves, and meters so that engineering for continuous produc›
+tion is easier for a cake plant than for a bread bakery. The economics of cake 
+manufacture is such that expenditure of a large amount of money for con›
+tinuous mixing equipment may not be warranted, however, particularly for 
+small- to medium-size plants handling a large number of different formulas. 
+An example of a continuous mixing plant for cake batter was 
+described by Shannon (1971). A slurry is prepared in a planetary mixer 
+equipped with a valved mixing bowl of 340 qt capacity. When the batch is 
+completely mixed, the valve is opened so the slurry can be pumped into a 
+holding tank. From the holding tank, the slurry is fed to the continuous 
+mixer at the desired rate. The continuous mixer (in this case, a rotor-stator 
+unit) is provided with a valve that admits compressed air at the rate 
+necessary to achieve a predetermined specific volume. A back pressure 
+valve is adjusted to retain the batter in the continuous mixer chamber until 
+it has been fully processed, as measured by specific volume or some other 
+property. From the continuous mixer, finished batter is fed to the depositor. 
+Particulate ingredients such as nut pieces, chocolate chips, and 
+raisins cause severe difficulties in continuous mix systems. The usual 
+solution is to by-pass the continuous mixer and feed particles into the tube 
+leading to the depositor at a rate consistent with formula requirements. 
+=== PAGE 577 ===
+568 BAKERY TECHNOLOGY AND ENGINEERING 
+BIBLIOGRAPHY 
+AHLERT, D., BOERT, K., and MAISS, A. 1988. Method and apparatus for preparing 
+dough. U.S. Pat. 4,766,766 
+ANON. 1987A Mrs. Baird’s bread and buns. DFI News 9, No. 2, 2-6 
+ANON. 1987B. The Basics of Scraped Surface Heat Exchange. APV Crepaco, Chicago, IL 
+BARON, D. 1983. Dough temperature control systems. Proc. Am. Soc. Bakery Engineers 
+1983, 100-105 
+BONAVIA, W. 1967. Techniques, operation, and engineering aspects of continuous 
+production of cake batter. Proc. Am. Soc. Bakery Engineers 1967, 301-307 
+BOOTH, M. D. 1987. Automated high volume dough mixing. Proc. Am. Soc. Bakery 
+Engineers 1987, 132-144 
+BROADDUS, M. R., JR. 1978. Soft roll equipment. Proc. Am. Soc. Bakery Engineers 1978, 
+122-132 
+□ CAMPBELL, S. P. 1979. Mechanical dough conditioning□new systems. Proc. Am. Soc. 
+Bakery Engineers 1979, 175-185 
+CHEN, T-A 1990. Cake manufacturing machine. U.S. Pat. 4,955,288 
+FISH, A R. 1982. High speed dough development. Proc. Am. Soc. Bakery Engineers 1982, 
+130-142 
+FISCHER, H. A, and GRUTTER, W. G. 1988. Mixer for baking doughs and the like. U.S. 
+Pat. 4,767,214 
+JACKEL, S. S. 1975. Directions for future continuous mix. Cereal Foods World 20, 314-
+316, 328 
+MATZ, S. A. 1989. Equipment for Bakers. Pan-Tech International, Inc., McAllen, TX 
+OLDSHUE, J. Y. 1983. Fluid Mixing Technology. McGraw-Hill Publications, New York 
+PIERCE, W. L. 1974. Pumping of bread and bun doughs. Proc. Am. Soc. Bakery 
+Engineers 1974, 92-99 
+SHANNON, T. A. 1971. A look at cake production by the continuous mixing 
+process□equipment, procedures, and formulas. Proc. Am. Soc. Bakery Engineers 1971, 138-
+144 
+SHIMAMURA, A. 1989. Process for preparing yeast raised doughnuts. U.S. Pat. 4,882,178 
+SPOONER, T. F. 1989. New approaches to continuous mixing. Baking & Snack Systems 
+11, No. 8, 32, 34, 36, 39-40 
+SPOONER, T. F. 1991. Focus on mixing. Baking & Snack 13, No. 1, 26-29 
+VALENTINO, F., BETTS, D. E., and ALESCH, E. A. 1989. Dough processing apparatus. 
+U.S. Pat. 4,883,361 
+VALENTYNE, P. H. 1959. Practical aspects of heat balance in dough mixing. Bakers 
+Digest 33, No. 1, 40-44 
+WILKINSON, G. 1987. Cake mixing technology. Proc. Am. Soc. Bakery Engineers 1987, 
+100-106 
+=== PAGE 578 ===
+chapter twenty-six 
+DIVIDING, ROUNDING, SHEETING, AND LAMINATING 
+INTRODUCTION 
+This chapter will include discussions of the equipment involved in 
+manipulating doughs after they leave the mixer and before they begin the 
+forming process that defines the final product. The devices in question cut 
+the dough mass into pieces that will become one unit of the final product, 
+they round those pieces into balls that can retain gas and form an internal 
+structure leading to good crumb and texture in the finished product, they 
+form sheets that can be cut, rolled up, or otherwise subjected to shaping 
+operations, and they can, if necessary, laminate the sheets with interlea-
+vings of fat or other material so as to further improve the internal structure 
+of the baked item. Devices that form the final shape are, with a few excep›
+tions, not included here but will be covered in a later chapter. 
+DIVIDERS 
+The function of dividers is to separate a dough mass of variable or 
+indeterminate size into many smaller pieces of identical weight. In most, 
+but not all, cases, the dough piece emerging from a divider will be carried 
+through all subsequent processing steps as a single unit until it finally 
+emerges from the oven as one finished product. Of course, the weight of the 
+finished product will not be the same as the weight of the raw dough 
+because volatile substances are lost through evolution of gases formed in 
+fermentation reactions and evaporation of water and other liquids in the 
+oven and elsewhere. This weight loss is offset to a slight extent by the 
+accumulation of dusting flour picked up by the dough pieces as they travel 
+through the make-up equipment. 
+Separating bread and roll dough into pieces of uniform weight is an 
+operation that presents unusually difficult problems. Because of the elastic, 
+sticky, cohesive nature of dough, it is unsuitable for metering by gravimetric 
+procedures, and the constantly varying density resulting from fermentation 
+interferes with accurate volumetric measurements. Of the two approaches, 
+volumetric measuring has proven to be the more practical and economical. 
+Campbell (1981) describes the four commonly used techniques of dough divi›
+ding as hand scaling, die or press methods, ram/shear/block dividers, and 
+vacuum-assisted rotating drum and piston dividers. An additional method, 
+extrusion dividing, has been developed and is being used commercially. 
+=== PAGE 579 ===
+570 BAKERY TECHNOLOGY AND ENGINEERING 
+How Dividers Work 
+At the present time, all commercial dough dividers use some form of 
+volumetric scaling. The principle is not much different from that used by the 
+master baker working at the bench when he rolls a large chunk of dough 
+into a long cylinder of uniform diameter and then cuts off pieces of uniform 
+length so as to get multiple dough pieces of the desired weight. Experienced 
+bakers can achieve a remarkable degree of accuracy with this type of 
+scaling. The same volumetric principle is relied upon when the baker sheets 
+out a dough, by means of a rolling pin or other device, to form a strip of 
+uniform thickness, perhaps using rails to hold the rolling pin at a 
+predetermined distance above the table, and then cuts the sheet with a 
+device having one or more cavities of known (or at least, uniform) 
+dimensions. Using a doughnut cutter on a sheet of dough is an example of 
+the latter process. 
+The simplest type of automatic divider is the bench-top roll divider 
+which separates a large dough piece into, typically, 18 or 36 portions of more 
+or less equal weight, by pressing the dough into a disc of uniform thickness 
+and then forcing through the dough a cutting head actuated by a spring and 
+lever assembly. In brief, the process is to place a weighed amount of dough, 
+more or less flattened out, onto the divider platen, lower a slotted pressure 
+plate that forces the dough lump into a disc of uniform thickness, then 
+release the knives which by spring action cut through the sheet. The knives 
+have been so placed by the manufacturer that they cut out equal areas (and 
+equal volumes) of the dough. More elaborate models are powered by a 
+hydraulic system that receives its energy from a motorized pump. These 
+bun dividers have the advantage that they quickly process all the dough in 
+one small batch so that variations in density due to fermentation are not 
+much of a problem. If the mixer delivers a quantity of dough requiring many 
+divider operations to completely process it, this advantage no longer exists. 
+Some models of these bun dividers have a rounding mechanism built 
+into the equipment. After the pieces are cut, the molding table or platen is 
+driven by eccentrically-mounted wheels which give it a combined spiral and 
+circular motion. Each dough piece remains in the chamber formed by the 
+lowered cutter blades. As the table rotates, the upper or dividing disc is 
+simultaneously lifted to the limit setting so that enough space is allowed for 
+the height increase as the dough pieces become rounded. A recent invention 
+(Beatty 1991) improves the ease of disassembly, making it simpler to clean 
+these divider-rounders. 
+In traditional large-scale methods of bread manufacture, a mixer load 
+of dough is placed in a trough that is transported to the divider area or to 
+the floor above the divider. If a trough elevator is present, the trough is 
+rolled into its brackets, then the elevator motor is started, first raising the 
+trough above the divider then turning it through an angle of more than 90□ 
+to dump the dough into a hopper above the divider. If the troughs are on the 
+floor above the divider room, a chute opening i fhe floor allows the dough 
+=== PAGE 580 ===
+Dividing, Rounding, Sheeting, and Laminating 571 
+to drop into the hopper. Doughs can also be pumped from the trough or from 
+a post-mixer developer to the hopper. 
+Bread dough dividers currently available from equipment suppliers 
+are based on one of the following systems: (1) Dough is forced into a pocket 
+of known dimensions and the excess dough is sheared off, or (2) A cylinder 
+of dough is extruded from an orifice at a steady rate and pieces of uniform 
+length are cut off. The first method is the basis for most of the bread dough 
+dividers in use today (see Figure 26.1), while the extrusion method is used 
+in continuous bread plants and is also the basis of a few recently developed 
+machines suitable for batch plants. 
+VARIABLE SPEED ORIVE PUllEY 
+Figure 26.1. Schematic diagram of a common type of dough divider 
+In one of the most common dividers, the force of atmospheric pressure 
+and the weight of the overlying dough mass force dough from a hopper into 
+a compression chamber. At the start of the cycle, a knife moves horizontally 
+to cut off a piece of dough near the hopper bottom. Next the ram, or piston, 
+moves forward, pressing the severed dough piece into one or more chambers 
+contained in a rotatable cylinder. At the end of the ram stroke, the cylinder 
+turns, cutting off the excess dough. Each cavity will then be filled with a 
+predetermined volume of dough that should weigh within the limits desired 
+for the piece. Finally, the discharge lever ejects the measured dough piece 
+on to a conveyor leading to the rounder. In the return cycle, the emptied 
+cylinder is rotated back to its original position so that the now empty 
+=== PAGE 581 ===
+572 BAKERY TECHNOLOGY AND ENGINEERING 
+cavities face the compression chamber. The knife and compression piston 
+withdraw, allow more dough to be drawn into the cavity by suction and 
+gravity, and the cycle continues as before. 
+Commercial models have from two to eight pockets and operate at 
+speeds up to 25 strokes per minute. The scaling range is from about 6 to 36 
+oz, and motors up to 7.5 hp are used. 
+In some dividers, a reciprocating division box replaces the rotating 
+cylinder. In these machines, the box containing the pockets is forced 
+downward after they are filled, shearing off the excess dough as a result of 
+the movement of the pockets past the chamber edge. A recent invention 
+(Schiek 1988) establishes a vacuum in the dough measuring area by means 
+of an externally located air pump. 
+The volume of the pocket that establishes the size of the dough piece 
+is adjustable to permit varying the weight of the finished loaf or roll and to 
+allow the operator to compensate for changes in dough density. Volume 
+adjustment is made by trial and error changes of the piston depth in each 
+individual pocket. Pistons are adjusted by different mechanisms in different 
+models; lock nuts or shims are the usual means. A variable speed drive is 
+provided on all dividers to allow changes in the cycle timing by adjusting a 
+wheel or lever. The ram and the knife control the amount of dough that 
+enters the dough box, and they can be adjusted. 
+Dough dividers have a special lubrication system for dough 
+contacting areas. Rate of application can be varied by simple controls. 
+Because some of this divider oil is taken up by the dough and appears in 
+small quantities in the finished loaves, it falls under certain provisions of 
+federal regulations governing food additives. 
+A single-pocket high speed divider operating on novel principles was 
+described by Campbell (1983). In this system, dough is automatically 
+pumped to a stainless steel hopper having at its bottom two interfering 
+augers made from a copolymer plastic. A vacuum degassing system assists 
+in loading dough uniformly into the auger mechanism. By using electronics 
+to control functions that were previously controlled mechanically, a 
+degassed dough of consistent density is fed by a metering device to an orifice 
+where a knife severs a portion. The basic principle is the familiar 
+combination of extrusion at a fixed rate and cut-off at fixed (but variable) 
+intervals which is so widely used in the plastics and snack food industries. 
+Scaling accuracy is said to be in the range of plus or minus 3 grams. Dough 
+piece sizes of 6 to 52 oz are said to be feasible. This divider uses neither 
+dusting flour nor divider oil, and it incorporates a clean-in-place system. 
+Cummins (1990) describes an extrusion-type divider pumps dough 
+through a manifold leading to several orifices. The output from each orifice 
+can be controlled by a separate throttling valve so the rate can be kept very 
+uniform at all ports. The cut-off mechanism uses a plastic knife mounted on 
+a link mechanism driven by a continuous constant speed drive shaft. 
+Figure 26.2 is a process diagram for a rotary (extrusion) dough 
+divider (Source: AMF). 
+=== PAGE 582 ===
+Dividing, Rounding, Sheeting, and laminating 573 
+HOPPE R 
+Figure 26.2. Process diagram of rotary dough divider 
+A new design of positive pressure dough divider has been patented by 
+Jones et al. (1985). This machine consists of a dough hopper, a pair of 
+sheeting rolls beneath the hopper, and a transfer chute through which the 
+dough passes to a measuring chamber in a rotating metal wheel. The metal 
+wheel, containing the cylindrical chamber, rotates slowly while the dough is 
+entering the chamber, then rapidly moves to the discharge position. The 
+measuring chamber is provided with a piston, that, in the usual fashion for 
+dividers, moves downward to create suction when it is brought into contact 
+with the dough, then moves in the opposite direction to discharge the dough 
+piece as the wheel turns about 180□. The powered sheeting, or pressurizing, 
+rollers are of relatively large diameter to provide adequate flow of dough 
+through the passage to the measuring chamber while at the same time 
+maintaining good dough quality. 
+ROUNDERS 
+When dough pieces leave the divider, they are irregular in shape with 
+cut surfaces that are sticky and from which gas can readily diffuse. Their 
+gluten structure is somewhat disoriented and so is not in suitable condition 
+for molding. It is the function of the rounder to close these cut surfaces, 
+giving the dough piece a smooth and dry exterior and forming a relatively 
+thick and continuous skin around the piece. The rounder also re-orients the 
+gluten structure and forms the dough into a ball for easier handling in 
+=== PAGE 583 ===
+574 BAKERY TECHNOLOGY AND ENGINEERING 
+subsequent steps. It performs these functions by rolling well-floured dough 
+pieces along the surface of a drum or cone while controlling their upward or 
+downward movement by a spiral track. As a result of these actions, the 
+surface is dried by an even distribution of dusting flour as well as by the 
+dehydration occurring from exposure to the atmosphere, the gas cells near 
+the surface of the ball are collapsed forming a condensed layer that inhibits 
+the diffusion of gases from the dough, and the dough piece assumes an 
+approximately spherical shape. After this processing step, the dough ball 
+will pass to the intermediate proofer. 
+Rounders have proved to be indispensable parts of conventional loaf 
+and roll forming lines. They are not required in continuous forming plants of 
+various types in which the dough is extruded from a homogeneous bulk in 
+the form of a long piece that is the unbaked forerunner of the loaf. 
+Figure 26.3 is the schematic diagram of one type of rounder. 
+•USTU BOX 
+Figure 26.3. Schematic diagram of a bowl-type rounder 
+Types of Rounders 
+There are several models of rounders being offered for retail bakeries. 
+Some of these are combined with simple, small dividers. One example is 
+described in the divider section. Another is the Eberhardt rounding system, 
+said to have outputs up to 1,000 lb per hr of pieces from 4 oz to 5 lb in 
+weight. The rounder consists of a rotating center portion, circular in shape 
+but having sides slanted inward, and an outer portion slanted slightly 
+outward. These two parts create a circular channel that is about twice as 
+=== PAGE 584 ===
+Dividing, Rounding, Sheeting, and Laminating 575 
+wide at the top as at the bottom. The inner drum rotates off-center so that a 
+dough piece placed in the channel is rolled and kneaded until it forms a ball. 
+Belt-type rounders are used in some of the most successful designs of 
+roll and bun forming equipment. These rounders consist essentially of a 
+fabric conveyor belt that moves small dough pieces under long metal guides 
+having a rounded under surface. The guides are slanted with respect to the 
+direction of belt travel. The combination of the forward motion imparted by 
+the belt and the sidewise force exerted by the stationary guide causes the 
+dough piece to roll. Because the dough adheres slightly to the belt, the 
+surface of the dough is pulled into a relatively smooth outer layer. As a 
+result of these combined actions, a piece of approximately ball shape is 
+formed, very suitable for later molding into some sort of fancy bread roll or 
+for proofing and baking without further forming to yield plain hamburger 
+rolls or the like. These systems are rather sensitive to dough consistency, 
+but when the formula is properly adjusted, they are very efficient. 
+Registering the dough pieces as they come onto the belt is necessary to 
+avoid doubles, which are very disruptive to efficient processing. This type of 
+equipment has generally been regarded as being more suitable for dough 
+pieces smaller than about 9 oz in weight and 4 inches in diameter than for 
+loaf sizes, but there are now being offered belt-type rounders that can 
+process pieces from 13 to 29 oz. They use tunnels constructed of Teflon, 
+instead of the simple guides used on roll machines, and these channels are 
+capable of being changed in curvature in two dimensions. 
+A type of rounder said to uniformly round large dough pieces and 
+greatly improve registration of the emerging balls was invented by Voegtlin 
+(1988). The rounding action is performed by a belt mechanism with a 
+shaping channel not unlike the bun rounders described above. 
+Other types of rounders more suitable for buns than for loaves are 
+based on cups that are moved in a circular motion above a fabric conveyor 
+belt. The hand action used by bakers for rounding dough pieces on a bench 
+top is duplicated quite closely by these machines. The cups are roughly 
+hemispherical and may be made of Teflon or lined with Teflon to prevent 
+sticking. They often have ridges radiating from the top center of the inside 
+to the edge to give the cup a better grasp of the dough piece. Several cups 
+are attached to a support extending across the belt, and several of these 
+supports are attached to a power source that moves the whole assemblage 
+in a circular pattern. Such rounders must be closely coordinated with the 
+divider or with some other registering system so that the dough pieces are 
+deposited on the conveyor belt in the exact positions which will later be 
+covered by the cups. This need for precise positioning is the main drawback 
+to the method, since the rounding itself is a gentle, non-destructive action 
+applicable to doughs having a wide range of rheological properties. 
+Rounders used in medium to large commercial bakeries with 
+conventional loaf bread equipment may conveniently be classified as bowl-, 
+umbrella-, or drum-type. The bowl variety consists of a rota table cone-
+shaped bowl around the interior of which is placed a stationary spiral track 
+=== PAGE 585 ===
+576 BAKERY TECHNOLOGY AND ENGINEERING 
+or "race." Dough pieces on the conveyor leading from the divider fall into the 
+feed hopper of the rounder and then drop to the bottom of the rotating bowl. 
+The chunks of dough are tumbled and rolled along the race as they attempt 
+to follow the rotation of the bowl. Finally, the rounded pieces emerge from 
+the top of the bowl and are discharged onto the belt leading to the 
+intermediate proofer. 
+A second widely used type of rounder is the umbrella or inverted cone 
+style (see Figure 26.4). These machines differ from the preceding kind in 
+that the dough piece is carried around the outside surface of a cone that has 
+its apex facing upwards. Because the dough first contacts the rounder cone 
+at its largest diameter, its initial movement is more rapid than it would be 
+in a bowl-type rounder. Opinions vary as to the relative merits of the two 
+designs, but it can be said with certainty that many examples of both types 
+have been performing satisfactorily for many years. 
+Figure 26.4. Race and molding surface of an umbrella-type rounder 
+A third type of rounder differs from the bowl and umbrella designs in 
+that the cone segment has very little slope to its sides, i.e., the sides are 
+almost vertical. Dough pieces enter a curved raceway near the bottom of the 
+drum. It is obvious that the ball travels at a more uniform rate in these 
+machines than in the other two types. This may or may not be a good thing. 
+Among the advantages claimed for the drum rounders are that they require 
+less floor space, allowing greater latitude in positioning the machine with 
+respect to other make-up equipment. Not as many of these units as of the 
+other two varieties are to be seen in bakeries. 
+
+=== PAGE 586 ===
+Dividing, Rounding, Sheeting, and Laminating 577 
+A fourth style of rounder has concave sides. The round dough race is 
+constructed in two or more sections on different planes. The dough pieces 
+are fed in at the top, move through the sections of the dough race, and 
+finally are discharged into the feed chute of the intermediate proofer. 
+In addition to their shape, rounding machines may vary in the 
+texture or composition of the rotating surface, in the means provided for 
+adjusting the relationship of the dough race to the drum or cone, in the 
+method of applying dusting flour, etc. The rotating surface is usually 
+corrugated vertically or horizontally to give it a better grip on the dough 
+piece, but the design and size of the ribs varies considerably among 
+manufacturers. The surface may be waxed or it may be coated with a plastic 
+such as Teflon to reduce sticking. A device to shunt aside oversize dough 
+pieces (doubles) is frequently positioned at the exit chute. 
+Still another type of rounder, usually combined with divider means 
+for making bun-size dough shapes, is the drum rounder (sometimes the 
+"third type" described above is also called a drum rounder, but its action is 
+quite different). This consists of two drums arranged concentrically, one 
+within the other and turnable about a common horizontal axis. The outer 
+drum contains cavities for the dough pieces and the inner drum acts as the 
+working surface by performing revolving movements. Generally, the circular 
+recesses are formed as step-like concentric rings with a saw-tooth profile for 
+securing adherence of the dough. The entire surface of the inner drum is 
+fluted or corrugated. Even so, firm dough pieces with relatively dry surfaces 
+may not be rounded properly on these devices, though they perform 
+adequately with soft, moist dough pieces. Muller (1988) described an 
+improved design for the circular cavity, consisting of a broken irregular 
+formation in the working surface of the group of recesses, said to give 
+improved rounding of firm, dry doughs. 
+SHEETERS 
+There are many operations in bakeries that require dough to be 
+reduced in thickness and/or shaped into a sheet, web, or strip of relatively 
+uniform thickness, either for the purpose of cutting from the sheet many 
+pieces of constant linear dimensions and weight or for preparing the sheet 
+for further manipulations, such as interleaving with fat, topping with some 
+sort of adjunct, or curling into a cylinder. The machines performing these 
+operations are called dough brakes, sheeting rollers, or gauge rolls and 
+always consist of some combination of rollers designed for pressing dough 
+pieces into thinner layers without tearing them. Sheeters and gauge rolls 
+have more similarities than differences, and will be discussed together in 
+this section. Pizza presses and the like, which compress dough pieces 
+without using rollers, will be treated in the chapter on dough forming 
+equipment. 
+=== PAGE 587 ===
+578 BAKERY TECHNOLOGY AND ENGINEERING 
+Dough Brakes 
+Many doughs processed in bakeries and cracker plants go through 
+multiple sheeting and folding steps before being made up into the final 
+product shapes. In smaller factories, this can be done on manually-operated 
+dough brakes. These machines are quite simple in principle, being a set of 
+horizontal steel cylinders with provisions made for adjusting the clearance 
+between them, and a return conveying means (belt or roller) for bringing the 
+sheeted dough back to the operator. Dough brakes are generally stronger in 
+construction than the usual sheeting rolls. They have been used for condi›
+tioning (developing) bread dough as well as for laminating puff pastry and 
+cracker doughs. Their action can be characterized as "rough," and not 
+suitable for preparing strips of uniform thickness and width. Figure 26.5 
+shows the working parts of one type of dough brake. 
+Figure 26.5. Working parts of one kind of dough brake 
+The cylinders of dough brakes rotate rapidly compared to regular 
+types of reduction rolls and may be, for example, of 8 inches diameter and 
+20 or 26 inches wide. They are mounted on strong springs. A set of plates 
+and chutes (and sometimes belts) is provided for guiding the dough into and 
+out of the rolls. The brakes in most cases include automatic return devices 
+that bring the dough back in front of the operator for the next pass. In one 
+design, a revolving plate in front of the operator simplifies the tasks of 
+folding the strip and turning it 90□ for the next sheeting step. The job of 
+operating a dough brake is both arduous and dangerous. Guard rails in 
+DOUGH SHEET RETURNING TO OPERATOR 
+SQUARE TABLE WHICH CAN BE 
+ROTATED BY THE OPERATOR 
+=== PAGE 588 ===
+Dividing, Rounding, Sheeting, and Laminating 579 
+front of the rolls as well as braking or reversing switches and other safety 
+devices are essential parts of this equipment. 
+Sheeting Rollers 
+Sheeting rollers are used to change the dimensions of a dough sheet, 
+making it thinner, wider, and longer. They can also be used to laminate 
+dough, with or without the addition of interleaving material. Sheeting is 
+also useful for combining strips of dough from end to end, so that a 
+continuous web is presented to the next processing equipment. Their action 
+is slower and more gentle than that of the dough brake. In the simplest 
+form, sheeting rollers and gauge rollers consist of a pair of metal cylinders, 
+either horizontally or vertically aligned, with provisions made for adjusting 
+the separation ("gap") between them. Their axles are always parallel. A 
+conveyor belt brings the dough piece into the nip of the rollers at a constant, 
+usually adjustable, rate and a take-away conveyor removes the sheeted 
+dough at a faster rate consistent with the amount of extension resulting 
+from the rollers’ stretching action. Dusting flour is often applied just before 
+the dough enters the gap. 
+Cylinders may be made of stainless steel, chrome-plated metal, or 
+other metals, and they may be Teflon-coated or covered with Teflon sleeves 
+to improve their handling of sticky doughs. They may be chilled or warmed 
+by fluids circulated internally, although this is not often done in 
+conventional dough handling systems. 
+The web of dough is almost always delivered to the gap by a conveyor 
+belt and the thinned down sheet is taken away by another belt. It is 
+preferable to have the speeds of the rollers and delivery and receiving belts 
+synchronized, though, of course, this does not mean their surfaces should 
+move at the same velocity. Whether preset or manually adjusted, the 
+absolute and relative speeds of these pieces of equipment are critical to 
+proper performance. Usually, the sheeted dough web falls free a few inches 
+before it contacts the offtake belt, and the dough is allowed to form wrinkles 
+across its width at this point so it can relax somewhat from the punishment 
+of reduction. If too much relaxation is permitted, however, there is some 
+risk the dough will be carried under the roller with very messy conse›
+quences. In other cases, the offtake conveyor may be speeded up slightly to 
+stretch the dough, preventing unwanted contraction and thickening. 
+Large diameter roll sets require smaller gaps than smaller rolls to 
+achieve the same thickness reduction; they reduce the dough more gradu›
+ally and so abuse the dough less (Levine 1985). Production-size rolls also 
+impart much more energy to the dough than do the smaller diameter rolls 
+commonly used in the pilot plant or laboratory. Dough rheological behavior 
+is best regarded as that of a very viscous liquid instead of a solid. The 
+primary mechanism associated with deformation of dough between rollers is 
+shear development, and the main factor affecting performance is not the 
+absolute compression ratio, but the length of dough contact and spacing and 
+=== PAGE 589 ===
+580 BAKERY TECHNOLOGY AND ENGINEERING 
+speed of the rolls. When sheeting lines are being designed, it is important to 
+take into account the deflection of the mechanical components (rollers, 
+shafts, bearings, and frames), which can be very significant to results when 
+dealing with very thin products such as flatbreads and tortillas. 
+Efficiency of sheeter performance is related to roller speed relative to 
+dough velocity, diameter of the rollers, surface texture of the rollers, width 
+of the gap between them, rheology of the formula being processed, and the 
+amount of dusting flour that is applied. 
+Sheeting rollers tend to develop the dough by causing a rearrange›
+ment of the gluten molecules (Levine 1985 and 1987; Feillet et al. 1975) that 
+increases with the number of passes and with reduction in roll clearance. 
+The desirability of this change depends on the state of the dough as it enters 
+the sheeting system. Dough that is already well conditioned may be overde›
+veloped by repeated sheeting and folding, and will then start to break down, 
+tearing at the edges and top surface and becoming sticky. Stenvert et al. 
+(1979) describe the use of dough rollers for development and point out that 
+sheeting equipment is very efficient in terms of energy consumption, requir›
+ing only 10% to 15% of the net energy consumed by a high speed mixer. 
+Dough developed by sheeting can produce bread comparable to that pro›
+duced by the Chorleywood bread process using a Tweedy intensive mixer. 
+When used as the principal means of dough development, roller 
+processing can yield bread of exceptionally fine texture. In passing dough 
+through rollers, one aim is to remove all large gas bubbles. This requires 
+repeated sheeting and folding steps. Only doughs with good resistance to 
+overdevelopment are able to tolerate the work input required to remove 
+excess fermentation gases and still produce satisfactory bread. 
+The strip coming from the sheeting roller may be carried by a straight 
+line conveyor leading to the next operation or it may be folded or rolled into 
+a piece of size convenient for hand carrying to the next machine or to a 
+retarding room. Simple devices are available for rolling strips on a cylinder 
+of small diameter which may be picked up and carried to the next station 
+(Siegenthaler 1990). Where multiple sheeting steps are required, with or 
+without intervening folding steps, reversible sheeters may be used to avcid 
+transferring the dough between each step. 
+Their versatility makes reversible sheeters practical for medium-
+sized shops that produce several different kinds of laminated products such 
+as Danish, puff pastry, and snack crackers. Medium-duty equipment with 
+automatic programming of the reduction steps can be obtained. A large 
+conveyor surface permits folding and turning of the dough piece without 
+removing it from the machine. Two operators can process 1,000 lb of dough 
+per hour, giving each piece 3 or 4 three-folds. By proper adjustment of piece 
+dimensions and the folding procedure, pieces can be finished off as long 
+thick strips suitable for feeding through the reduction rollers on a forming 
+line. For mass production of puff pastry and Danish doughs, and for the 
+efficient running of all sal tine lines, automatic laminaters are required. 
+These will be discussed in a subsequent section. 
+=== PAGE 590 ===
+Dividing, Rounding, Sheeting, and Laminating 581 
+Other Sheeting Devices 
+Cross-rollers.□Sheeting rolls are disposed transversely with 
+respect to the movement of the strip of dough, consequently they stretch the 
+dough mainly in a lengthwise direction. Of course, some sidewise extension 
+also takes place, but this is relatively minor and is restricted by the width of 
+the rollers. The repeated lengthwise stretching tends to introduce tension 
+that may cause failure of the dough structure or distortion of the dough 
+piece when it is baked. A device that may, in some cases, alleviate this 
+problem is the cross-roller. It consists of a relatively small cylinder having 
+its axle parallel to the movement of the dough, and associated machinery for 
+carrying the roller back and forth fairly rapidly over the dough piece. As a 
+result, the strip of dough is thinned and widened. The thinning is generally 
+not as effective as sheeting rollers because the bottom thinning surface is 
+the conveyor belt and the pressure that can be exerted is much less than 
+achievable with sheeting rollers. 
+Dough "stretchers".□Dough stretchers or sheeters of the general 
+type described by Hayashi (1986, also Anon. 1987) have come into use in 
+recent years as a means of obtaining rapid thinning of dough without 
+subjecting the sheet to excessive stress. These devices consist of groups of 
+rollers of small diameter which rotate on their axes while simultaneously 
+being carried on an oval or circular path above the dough while the dough is 
+carried on a series of conveyors operating at increasing speeds. At the 
+bottom of their circuit, they contact the dough and "massage" it to a thinner 
+dimension by their repeated wiping and rolling action which is accentuated 
+by the differential conveyor speeds. The manufacturers state that a device 
+of this type only "500 mm long accomplishes the work done by a machine 10 
+meters or more in length and equipped with rollers 100 mm long and 
+combined parallel in 70 stages." There is probably a natural excess of 
+parental enthusiasm in this comparison, but it is generally agreed that such 
+devices do accomplish rapid reduction in thickness of certain types of 
+doughs. They have been combined with a laminator to form puff pastry 
+doughs. 
+The beater sheeter□ A device patented by Vinas I Nigueroles 
+(1989) combines dough lumps into a continuous strip and reduces the 
+thickness of the strip, in part by a beating action applied to the strip by a 
+short conveyor belt affixed to a reciprocating carriage above the strip. This 
+device is said to be suitable for sheeting puff pastry doughs. 
+LAMINATERS 
+For many years, the standard equipment for laminating doughs was 
+the hand-fed high-speed dough brake. A given quantity of dough, usually 40 
+lb or more, was formed into a thick strip on the brake and then folded into 
+=== PAGE 591 ===
+582 BAKERY TECHNOLOGY AND ENGINEERING 
+two, three, or four layers. If desired, an interleaving material such as 
+shortening could be applied to the strip by hand and the dough folded to 
+inclose it before additional folding and sheeting steps were applied. 
+Additional materials were not applied to soda cracker doughs, the layer 
+effect observed in the finished product being obtained solely from the 
+orientation established in the dough by braking, plus some effect from the 
+dusting flour. On the other hand, cream cracker procedures called for the 
+application of a flour-shortening mixture between the layers. 
+The labor intensive and somewhat dangerous dough brake operation 
+has been superseded almost everywhere in the world by automatic lamina›
+tion, with resultant lowered costs, improved safety, and greater control. 
+Cracker factories use highly specialized laminating equipment integrated 
+into the production line, while Danish pastry, puff pastry, and croissant 
+manufacturers can choose more versatile but somewhat less efficient 
+machines for performing the shortening application and laminating steps. 
+Laminating Danish and Puff Pastry Doughs 
+If a layered dough or roll-in dough is to be prepared, as for puff pastry 
+or Danish pastry, repeated sheeting and folding of the dough and fat 
+combination is required. Dough brakes and reversible sheeters, which have 
+been used for preparing dough and fat laminations for many years, have 
+been described previously. Large scale operations will, however, generally 
+use automatic laminators, which eliminate practically all the manual labor 
+needed for operating dough brakes and reversible sheeters. To briefly 
+recapitulate the laminating process used to make Danish and puff pastry, 
+the following steps are required: (1) A dough, preferably undermixed but of 
+good stability (resistant to breakdown when overmixed) is sheeted out to 
+give a fairly thick layer; (2) fat, in either sheets or chunks, is applied to part 
+of the dough layer; (3) the part of the dough sheet that is not covered with 
+fat is folded over the fat; (4) the folded fat and dough combination is again 
+sheeted out and folded (usually in three or four layers); and (5) the folded 
+fat and dough combination is again sheeted out and folded, often after a rest 
+period. Step 5 is repeated any number of times as necessary to yield the 
+type and quality of product wanted by the baker. Usually, a rest period in 
+the refrigerator is given to the dough piece after each sheeting and folding 
+operation so that the dough can relax and the fat can congeal. 
+Three types of automatic laminators are used for quantity production 
+of Danish pastry. In one version, dough is extruded in two continuous belts 
+with a layer of shortening extruded between them. This three-layer sand›
+wich is reduced in thickness by one or more roll stands, and the thinned 
+sheet is cut into pieces about 18 inches long. Cut pieces are transferred in a 
+shingled, or partially overlapping, fashion to a belt running at right angles 
+to the original conveyor. After passing along a conveyor for a time sufficient 
+to allow the dough to relax, the shingled sheets are pressed into a contin›
+uous strip by another reducing roller, or set of rollers. The strip is cut and 
+=== PAGE 592 ===
+Dividing, Rounding, Sheeting, and Laminating 583 
+shingled again before being reduced to about one-inch in thickness. This 
+dough strip is cut to pan size and chilled for make-up 12 to 16 hr later. 
+In a more recently developed type of equipment, the dough strip is 
+not cut but kept in continuous layers and overlapped upon itself in a 
+diagonal pattern before it is reduced in thickness. The original dough-fat-
+dough sandwich described in the preceding paragraph is formed either by 
+the same three layer extrusion method or by extruding a cylinder of dough 
+inside of which is a cylinder of fat. In the latter case, the cylinder is 
+flattened to make the three layer complex that starts the whole laminating 
+process (Spooner 1988). Several different devices have been developed for 
+making the overlapping layers. 
+Danish products can also be made by a continuous flow system that 
+starts with extruding dough in a strip onto a conveyor belt. The dough strip 
+is thinned out and widened by one or more pairs of reduction rollers. When 
+the desired thickness is reached, several narrow bands of shortening, cover›
+ing perhaps one-half of the dough’s surface, are extruded onto the dough 
+strip. This roll-in fat should equal at least 25% of the dough weight. A curl›
+ing roller forms the dough and fat into a cylinder which is then flattened out 
+by other sets of rollers. Results are similar to those from a three-fold oper›
+ation done manually. A cutting wheel, or perhaps a guillotine, divides the 
+strip of dough into lengths that will fit a bun pan. The dough is rested for a 
+few hours in a 34□ to 38□F room, then the sheets are folded to give four 
+layers, sheeted out, folded again, and sheeted again. The dough can now be 
+cut and shaped immediately, or retarded until make-up is scheduled. 
+Machines for coating sheets of dough with fat have been described, as 
+in the invention of Siegenthaler and Zwahlen (1990), in which a conveyor 
+roller with large saw-shaped teeth shaves cubes of fat from the contents of a 
+packed hopper. The fat is conveyed along a cylindrical housing to a nozzle 
+from the orifice of which a homogeneous strip of fat is discharged. It is 
+claimed that uniform sheets of fat as thin as 2 mm can be formed, and that 
+very little heat is generated during the operation. 
+Once the laminated structures have been formed, Danish dough can 
+be made into sweet rolls and coffee cakes by the same kinds of equipment 
+described elsewhere. The laminating process used for puff pastry and 
+croissants differs little from that for Danish, although, of course, the doughs 
+are very different in composition. 
+Laminating Machines for Cookie and Cracker Doughs 
+In cracker bakeries, combination machines for sheeting bulk dough 
+and then lapping and cross-rolling it to form the structure that is 
+characteristic of saltines are widely used. No interleaving of fat or other 
+material is required for these products, and so the process is somewhat 
+simpler than puff pastry preparation. Several ingenious methods have been 
+developed for forming laminations. Two of these methods are diagrammed 
+in Figure 26.6. 
+=== PAGE 593 ===
+584 BAKERY TECHNOLOGY AND ENGINEERING 
+"8" 
+A. GREEN LAMINATOR; ELEVATION 
+B. GREEN LAMINATOR; PLAN C. PETERS LAMINATOR: ELEVATION 
+Figure 26.6. How the Peters laminater and the Green laminater work 
+A Werner-Lehara "laminator-three roll head" is described as follows. 
+Bulk dough is fed to a sheeter head, which is a 3-roll sheeter with tubular 
+steel rolls of 10-inch diameter. One of the rolls is corrugated, the other rolls 
+are smooth, and they can be adjusted to give a roll gap of one-eighth to one-
+half inch. Sheeter hopper and rolls are 800 mm wide. The layering (lamina›
+ting) carriage is composed of a main transport conveyor and a secondary 
+compensating conveyor. These belts are arranged so as to lay the dough 
+sheet across the supply conveyor for the subsequent stages. The action of 
+the two layering conveyors is to continuously deliver the sheet of dough in a 
+back and forth motion with the secondary compensating conveyor acting to 
+control any slack that develops in the dough sheet during this back and 
+forth motion. The layering carriage can be modified to supply 800, 1,000, or 
+1,200 mm wide dough sheets made up of 2 to 10 layers, with a maximum 
+height of two inches. Options include gap gauges, turn counters, pick off 
+rolls instead of fixed dough transfer knives, various conveyor materials, 
+different number of layers, and modified drive systems. If the laminator is 
+to be fed with pre-sheeted dough, a two-roll head machine can be supplied. 
+One design of combination sheeter-laminator includes a housing 
+supporting two sets of primary feed-in rollers and two sets of secondary 
+rollers. The initial dough sheet will be 2 to 3 mm in thickness. A 
+reciprocating sheeting device is located between the secondary rollers and 
+above the transport conveyor. This oscillating device grasps the dough sheet 
+between two sets of endless belts mechanized so as to move the emerging 
+sheet back and forth across the width of the transport conveyor, approxi›
+mately at right angles to the conveyor belt motion. By adjusting the relative 
+speeds of the sheeting device and the take-off conveyor, piles of any 
+thickness up to 3.81 cm and consisting of any number of dough sheets can 
+=== PAGE 594 ===
+Dividing, Rounding, Sheeting, and Laminating 585 
+be made. The folded sheets are carried through gauge rollers and then to a 
+rotary cutter or stamping machine. 
+Hydropneumatic laminators of Vicars design accept the sheeted 
+dough, cut it into rectangles of appropriate dimensions, and deposit them in 
+an overlapping stack on a belt moving transversely to the depositing 
+conveyor. These devices use a hydropneumatic drive, enabling them to dis›
+pense with complicated cam-and-gear arrangements so they can achieve 
+high operating speeds. Up to 15 laminations per minute can be made and a 
+full range of adjustments is available to modify speed, length, and position 
+of the dough sheet. Straight-out or cross laminating can be performed. 
+The semi-automatic compact laminator of Rykaart allows outputs of 
+from 440 to 3,500 lb per hr, and is recommended mostly for medium-sized 
+bakeries. The double lamination and double reduction of the dough in one 
+section is claimed to be unique. By using the double-functioning twin 
+multiroller (2x reduction 10:1) with 12 reducing rollers and a special 
+relaxing device, optimal dough quality is said to be achieved. 
+Albrecht and Stanley (1974) described equipment consisting of a 
+vertically-oriented horizontally-oscillating conveyor that delivers a strip of 
+dough onto a horizontally travelling belt. Since the belt is concave, its upper 
+surface forms a trough. Because the radius of the concavity is designed to 
+equal the arc moved through by the bottom of the vertical conveyor, the 
+dough strip travels an equal distance regardless of whether it is deposited 
+on the center or the edge of the belt. This avoids the uneven stretching that 
+would occur if the dough strip were deposited on a flat belt. 
+Morgenthaler and Seewer (1976) patented equipment consisting of a 
+set of reversible conveyors adjustable in angle so that a piece of dough can 
+be folded and lapped automatically in a predetermined sequence of steps. 
+The three-layer dough piece formed in this operation is said to be less 
+subject to breakage at the edges and to exhibit less squeezing out of the fat 
+ii. subsequent sheeting steps. 
+Gugler (1975) described a method for forming folded dough sections. 
+A relatively thin sheet of dough is severed into sections on a conveyor belt. 
+Periodically, a part of the conveyor belt system is swung upward and to the 
+rear, then forward and down to fold a forward portion of each dough section 
+back over the following portion. 
+Swanson (1989) disclosed an in-line dough laminator, in which the 
+strip supplied to the take-away conveyor is moved back and forth in a 
+reciprocating fashion so as to form linear laps rather than cross-wise laps. 
+This machine also has provisions for modifying the number of laps. 
+Currants or raisins can be rolled between two sheets of dough in a 
+final step preceding the cutting of the cracker shape in order to form 
+Garibaldi biscuits and the like (for example, see Chen 1987). 
+A totally different method of forming .dough-fat layers and laminating 
+them to form multiple layers is shown in Figure 26.7 (Source: Rheon). 
+=== PAGE 595 ===
+586 BAKERY TECHNOLOGY AND ENGINEERING 
+ALBRECHT, R. J., and STANLEY, A. J. 1974. Method for laminating sheet dough. U.S. 
+Pat. 3,851,088 
+ALWES, M. 1985. A Quick Guide to Pumping Viscous Products. APV Crepaco, Chicago, II 
+ANON. 1985. Hot air on rounder. Am. Soc. Bakery Engineers EIS Report 72 
+ANON. 1987. MM Line System and the Products. Rheon U.S.A., Irvine, CA 
+BEATTY, D. E. 1991. Divider head assembly. U.S. Pat. 4,984,978 
+CAMPBELL, G. P. 1983. Dough dividing. Proc. Am. Soc. Bakery Engineers 1983, 106-112 
+CAMPBELL, S. P. 1979. Mechanical dough conditioning□new systems. Proc. Am. Soc. 
+Bakery Engineers 1979, 1175-186 
+CHEN, T. A. 1987. Automatic machine for making stone fruit biscuit. U.S. Pat. 4,711,166 
+CUMMINS, D. L. 1990. Method for dividing and cutting dough and the like. U.S. Pat. 
+4,949,611 
+FEILLET, P., FEVRE, E., and KOBREHEL, K. 1977. Modification in durum wheat 
+properties during pasta dough sheeting. Cereal Chem. 54, 580-587 
+GUGLER, V. F. 1975. Method for folding dough. U.S. Pat. 3,865,963 
+HARRIS, R. W. 1985. Degassing and texturizing doughs. Proc. Am. Soc. Bakery 
+Engineers 1985, 57-64 
+HAYASHI, T. 1986. Apparatus for producing strip of dough having constant dimensions 
+and flow rate. U.S. Pat. 4,583,930 
+HAYASHI, T. 1988. Apparatus for continuously stretching a strip of dough. U.S. Pat. 
+4,731,008 
+
+=== PAGE 596 ===
+Dividing, Rounding, Sheeting, and Laminating 587 
+JONES, D. A., WAWRA, G. F., and MOSS, W. R. 1986. Positive pressure dough divider. 
+U.S. Pat. 4,573,898 
+JONSSON, O. T., and CARLSSON, S. R. 1989. Equipment for portioning out pieces of a 
+doughy product. U.S. Pat. 4,813,860 
+KESSLER, H., and SPECTOR, G. 1990. Automatic apparatus for making strudel type 
+pastry. U.S. 4,955,801 
+LEVINE, L. 1985. Thoughput and power consumption of dough sheeting rolls. J. Food 
+Process Engineering 7, 223-238 
+LEVINE, L. 1987. Sheeting of doughs. Cereal Foods World 32, No. 5, 397 
+MISTRETTA, J. L. 1990. Sheeting head stripper wire adjuster. U.S. Pat. 4,966,641 
+MORGENTHALER, E., and SEEWER, R. 1976. Method of and apparatus for the 
+transverse folding of dough band sections. U.S. Pat. 3,953,613 
+MULLER, G. 1988. Dough-rounding apparatus. U.S. Pat. 4,793,789 
+SCHIEK, R. J. 1988. Dough feeding assembly. U.S. Pat. 4,731,007 
+SIEGENTHALER, P. 1990. Apparatus for winding sheets of dough on a dough reel and 
+dough sheeter equipped with a dough sheeter winder. U.S. Pat. 4,954,064 
+SIEGENTHALER, P., and ZWAHLEN, A. 1990. Apparatus for coating sheets of dough 
+with fat. U.S. Pat. 4,942,842 
+SPINELLI, L. A., and JENNIGES, J. M. 1989. Method of machining doughy material. 
+U.S. Pat. 4,849,234 
+SPINNELLI, L. A., and JENNIGES, J. J. 1989. Apparatus of machining doughy material. 
+U.S. Pat. 4,880,371 
+SPOONER, T. F. 1988. Producing quality croissants in quantity. Baking & Snack Systems 
+10, No. 8, 16-19 
+STEELS, G. 1972. Dough laminating. U.S. Pat. 3,698,309 
+STENVERT, N. L., MOSS, R., POINTING, G., WORTHINGTON, G., and BOND, E. E. 
+1979. Bread production by dough rollers. Bakers Digest 53, No. 2, 22-27 
+SWANSON, P. E. 1989. In-line dough laminator. U.S. Pat. 4,821,634 
+TASTET, C. 1988. Machine for automatically measuring portions of dough. U.S. Pat. 
+4,792,298 
+VINAS I NOGUEROLES, J. M. 1989. Process for the production by continuous rolling of a 
+mass of dough for bakery products and buns and rolls. U.S. Pat. 4,877,632 
+VOEGTLIN, R. 1988. Apparatus for centering and shaping dough pieces for baked 
+products or the like. U.S. Pat. 4,750,413 
+=== PAGE 597 ===
+This Page is Intentionally Left Blank
+=== PAGE 598 ===
+chapter twenty-seven 
+FERMENTATION ENCLOSURES AND BREW EQUIPMENT 
+INTRODUCTION 
+During the processing of yeast-leavened doughs, it is necessary to 
+include stages, steps, and processes specifically intended to encourage the 
+changes resulting from fermentation. Specialized equipment has been 
+developed for these operations; it differs from much of the other equipment 
+discussed in this book because it does not subject the dough or brew to 
+mechanical change of form. Instead, the material is allowed to "rest" while 
+the fermentation reactions are taking place. For the purposes of this 
+chapter, the equipment will be divided into two types, that dealing with 
+doughs and that dealing with liquids or fluids commonly called brews, 
+broths, pre-ferments, liquid sponges, etc. 
+CONVENTIONAL FERMENTATION EQUIPMENT 
+Fermentation of a dough either as a sponge or straight dough has as 
+its principal objects: (1) Saturating the liquid phase with carbon dioxide; (2) 
+Forming the gas bubbles that will be, in the later processing, subdivided to 
+form the basic cellular structure of the bread or roll; (3) Generating 
+fermentation by-products, such as lactic acid, that mellow and soften the 
+gluten; (4) Forming flavoring substances and flavor precursors that con›
+tribute much of the characteristic aroma and taste of bread; and (5) 
+Adapting yeast so it can ferment maltose. In addition to yeast-mediated 
+reactions, there are other changes occurring (such as those due to proteases 
+and amylases) that are also of much importance to the processing and 
+quality characteristics of the dough. 
+In the traditional sponge-and-dough system of breadmaking, there 
+are three stages specifically intended to allow the combined ingredients 
+opportunities for undergoing a more-or-less quiescent fermentation. These 
+stages are: (1) sponge fermentation, (2) intermediate proofing, and (3) pan 
+proofing. If there is no sponge, the straight dough may be allowed a 
+fermentation period. Of course, doughs also continue to ferment and 
+undergo other reactions in the intervals between the formal fermentation 
+and proofing periods, and these changes can have significant effects on the 
+dough’s interactions with processing equipment and on finished product 
+quality. Other yeast-leavened doughs, such as those for saltines, sweet 
+doughs, and Danish pastry, also rely on fermentation and rest periods for 
+some of their characteristic features. 
+Not all breadmaking processes involve sponge fermentation, inter›
+mediate proofing, and pan proofing. Sponge fermentation is omitted in all 
+=== PAGE 599 ===
+590 BAKERY TECHNOLOGY AND ENGINEERING 
+straight dough processes, being replaced by the bulk fermentation given the 
+combined ingredients, and in the so-called mechanical develop›
+ment/conditioning procedures. A formal intermediate proofing step is 
+dispensed with in no-time systems, although a certain amount of floor time 
+always occurs and performs some of the same functions. It is difficult to 
+imagine a system in which some pan proofing would not occur, but the time 
+can be short and the proofing can take place on conveyors leading to the 
+oven rather than in proofing rooms or cabinets. It is possible for all of the 
+steps to take place in uncontrolled environments, in which case reliance 
+must be placed on the starting dough temperature and on operator 
+judgement of the completion of dough maturation to insure proper dough 
+qualities at the time the dough is taken to the next step. For example, it is 
+not uncommon for the sponge to be placed in a dough trough which is then 
+covered with a piece of plywood or a plastic sheet before it is moved to a 
+warm area of the bakery. This procedure leads to some fluctuation in sponge 
+properties, but a skilled operator can usually compensate for these by 
+adjustments at the doughing-up stage with, perhaps, additional adjust›
+ments at the intermediate proof stage. 
+In order to improve control over changes occurring during sponge 
+fermentation, intermediate proofing, and pan proofing so that predictable 
+results can be obtained, the dough is usually kept in enclosures where tem›
+perature and humidity can be regulated. Temperature should be controlled 
+so yeast activity will proceed at a predetermined rate, and humidity should 
+be controlled so the outer surface of the dough will not be too sticky or too 
+dry. Equipment used to process, enclose, and convey the dough in these 
+three maturing or conditioning phases will be discussed in this section. 
+There are many factors to be considered in designing systems for 
+conducting fermentation, intermediate proofing, and pan proofing. Among 
+these are temperature, humidity, and the mechanical shock imparted to 
+dough by conveying mechanisms. When considering the influence of temper›
+ature and humidity on the dough, it is necessary to understand that the 
+speed at which the product approaches equilibrium with its environment is 
+as important as the actual conditions existing in the enclosure. In dis›
+cussing theoretical situations, it is easy to lose sight of the fact that the 
+temperature and humidity in any practical kind of enclosure are not only 
+fluctuating constantly but vary from point to point within the enclosure. It 
+should always be kept in mind that only by chance do the temperature and 
+water activity of any dough piece, or of the atmosphere around it, match the 
+average temperature and average relative humidity of the enclosure atmos›
+phere at any given time. 
+Role and Control of Humidity 
+The effectiveness for their intended purposes of fermentation rooms, 
+intermediate proofing cabinets, and proof boxes depends upon the accuracy 
+with which they control humidity and temperature. To be sure, in practice 
+=== PAGE 600 ===
+Fermentation Enclosures and Brew Equipment 591 
+the controls may be rather crude and poorly responsive to adjustment, but 
+the value of maintaining humidity and temperature within fairly narrow 
+ranges is well recognized. 
+In proofing enclosures, an atmosphere of high humidity is required to 
+prevent drying out or crusting of the surfaces of dough pieces during the 
+time they are in the enclosure. On the other hand, if the humidity is allowed 
+to rise to near the dew point, there will exist the danger of water condensing 
+on the surface of the dough, with the resultant development of a sticky or 
+spotted surface and the possibility of splitting the softened skin as the 
+dough piece expands. Best results can be obtained by carefully controlling 
+the humidity within a narrow, high range. Control is made more difficult 
+because, in many of these installations, artificial cooling is not provided and 
+the operator is faced with a limited choice of dry bulb temperatures. The 
+ideal situation would be to have both cooling and heating means available, 
+but this is seldom found in practice. 
+There will always be substantial differences in the relative humi›
+dities at different locations in the room. One measure of the effectiveness of 
+the temperature and humidity control and the air circulation systems is the 
+range of these differences. 
+When a stream of air of controlled humidity is required, as in 
+environmental cabinets to be used for testing storage stability, or in proof 
+cabinets, accurate results can be obtained by mixing appropriate quantities 
+of two streams of air, one of which has been thoroughly dried (thus at about 
+zero RH) and the other saturated with water vapor, as by bubbling it 
+through a reservoir of water. By varying the relative amounts of the two 
+streams of air, it is possible to obtain any desired RH. 
+Humidity control according to this method requires fairly elaborate 
+and costly installations. In proof cabinets and fermentation rooms, it is 
+usually sufficient to maintain the RH at a fairly high level; reducing the 
+humidity is not often needed in most bakeries. 
+In the simplest type of humidity modification, as found in the small 
+cabinet proofing boxes used in retail shops, the air is conditioned by a 
+manually adjusted heating coil and a valve or cock permitting steam to be 
+injected for raising the humidity. In larger fermenting and proofing 
+installations, both the temperature and relative humidity are automatically 
+controlled. Water vapor can also be dispensed by intermittent injection of 
+low pressure steam or by vibratory or centrifugal dispersion of liquid water. 
+Forming water vapor by boiling water in the cabinet is seldom satisfactory 
+as the amount of heat added to the enclosure is usually excessive and the 
+amount of vapor created is usually inadequate. 
+The principal goals of the designers of proof boxes and fermentation 
+rooms are (1) to provide for the efficient delivery and removal of dough 
+containers, (2) to maintain the relative humidity at a uniform level, (3) to 
+maintain a uniform temperature, (4) to provide sanitary conditions, and (5) 
+to minimize physical shocks and other damage to dough pieces. 
+=== PAGE 601 ===
+592 BAKERY TECHNOLOGY AND ENGINEERING 
+Fermentation Rooms 
+A major problem in designing fermentation rooms is selecting proper 
+capacities for the air conditioning unit that will control temperature and 
+humidity. Demands on this unit can be expected to J>e heavy and cyclic, 
+because it will be called upon to compensate for the sudden influx of outside 
+air as dough troughs are moved into and out of the enclosure. 
+The major unwanted causes of temperature changes in these rooms 
+are: (1) Infiltration of air as doors are opened or through other openings in 
+the walls; (2) Entry into the room of troughs and sponges tjiat are of 
+different, usually lower, temperature than the desired room temperature; 
+and (3) Heat flow through the insulated walls, ceiling, and floor. 
+Cold air infiltrating into the conditioned room subtracts from the 
+sensible or latent heat and can result in condensation, loss of heat, and 
+reduction of humidity. Flow of heat through walls, roofs, floors, doors, etc., 
+depends upon the area, the difference in temperatures, and the heat conduc›
+ting properties of the wall. 
+The troughs and their contents, when moved into the room, will not 
+be at the same temperature as the atmosphere. Steel has a specific heat of 
+about 0.12, dry air of 0.24, and the average dough of about 0.88. Generally 
+speaking, the weight of the trough will exceed the weight of the dough, but 
+the higher specific heat of the latter makes it an important contributor to 
+the heat exchange. All of these factors must be considered in calculating the 
+capacity needed for the air conditioning unit. 
+The design temperature is the temperature that the system must be 
+designed to maintain under the most difficult conditions expected to be 
+encountered. It will be affected by the load placed on the system by the 
+dough and pans, the climatic conditions (which influence the temperature of 
+the infiltrating air and the differences between the cabinet and the 
+environment), and the effectiveness of the insulation. Much of the following 
+is based on some comments by Fred D. Pfening, and the general conclusions 
+are applicable to cabinets for intermediate fermentation and pan proofing 
+enclosures as well as fermentation rooms. Figure 27.1 shows some of the 
+construction details to be discussed in the following paragraphs (Source: 
+Fred D. Pfening, Sr.). 
+An air conditioning unit must be designed to provide sufficient air 
+circulation and required amounts of heat, refrigeration, and moisture. In 
+some systems, humidity can be controlled at three levels: high, low, and no 
+addition. Lower relative humidity is preferred for use with silicone-coated 
+pans or glazed pans, and for certain other purposes. 
+The conditioning unit should be able to provide cool air. The amount 
+of cooling required is slight and the added cost is not great. Cooling is 
+obtained by circulating chilled water or refrigerant through coils. All the 
+cooling permissible with as little dehumidification as possible is the 
+objective. Blower size is determined by calculation to obtain the desired 
+velocity at the static pressure of the system. The blower runs continuously 
+=== PAGE 602 ===
+Fermentation Enclosures and Brew Equipment 593 
+while heating or cooling devices function intermittently subject to signals 
+from the thermostatic controls. 
+When the wet bulb thermostat causes moisture to be injected, a 
+certain amount of evaporation occurs, dropping the dry bulb temperature of 
+the atmosphere as much as 3*F. It the thermostatic control is sufficiently 
+sensitive, this momentary cooling effect will cause the heating coil to react 
+to restore the dry bulb temperature, if required. The best results are 
+obtained when the water supplied for humidification is at the same 
+temperature as the room atmosphere. 
+j- ; I 
+1 ^ 
+H 
+— 
+^9 
+Ml 1 
+1 
+r: 
+D 
+I 
+J 
+n ii 
+1 IF 
+VWW X S’ZO/iOC/Tf  COCtCX£7F 
+Figure 27.1. Construction details of fermentation room 
+To prevent condensation from forming on the side walls when the 
+proofroom is started up after a shutdown, it is very important to be sure the 
+walls have heated up to operating temperature before humidity is injected 
+into the chamber. The air heats faster than the steel and panels; the 
+thermostat reflects the air temperature only until the steel equals it. A 
+"humidity lockout" feature can be provided to prevent the humidification 
+from being called for when a cold proof box is started up after a shutdown 
+period. This disconnects the humidifier until the previously selected dry 
+bulb temperature is reached so that an undesirable dew point and 
+=== PAGE 603 ===
+594 BAKERY TECHNOLOGY AND ENGINEERING 
+accompanying condensation are automatically avoided. 
+It is neither economically nor atmospherically desirable to 
+dehumidify the air in a fermentation room, but the cooling coil does extract 
+moisture from the air to an extent dependent on the temperature of the coil. 
+The excessive elimination of moisture from the atmosphere passing through 
+the coil face area causes the humidifying system to operate more nearly 
+continuously to restore the cyclically eliminated water. Designers will 
+usually plan to give the fermentation room six air changes per hour, 
+therefore, the amount of air in the room will pass through the cooling coil 
+six times per hour. The higher the ceiling, the more volume of air there is to 
+circulate, and more air changes per hour are permissible. In the event the 
+cooling load is above normal, this condition will prove to be advantageous 
+because the velocity through the cooling coil can be increased and more Btu 
+are obtained at lower discharge temperatures, thus decreasing the 
+elimination of water. 
+To isolate the interior of the fermentation room from unwanted 
+sources of temperature change, the room should be built with steel 
+structural members that support insulated steel-covered panels. The room 
+should be made as airtight as possible to prevent loss of heat from within, 
+and to exclude heat gains and infiltration from without. The floor area must 
+be of the proper dimensions to accommodate the number of troughs needed 
+to satisfy che greatest anticipated production rate of the bakery. Heat 
+accumulates from warm floors, walls, equipment, motors, people, troughs, 
+dough, light bulbs, and infiltration. The designer has control over these heat 
+gains only to the extent he can insulate. The total quantity of chilled air to 
+be supplied to the conditioned room is determined solely by its internal 
+sensible heat gains. Undersized air conditioning systems are never 
+satisfactory, oversized systems are unnecessarily costly. 
+A most important factor in determining the required capacity of the 
+air conditioning unit lies in the amount of insulation used in the walls, 
+ceiling, and, sometimes, the floor. The better the insulation used, the less 
+cooling coil capacity is required. If more and better insulation is used in the 
+construction of the room itself, less evaporator capacity is required and less 
+dehumidification occurs. If there is less dehumidification, there is less 
+requirement for humidification. More money spent for insulation leads to 
+savings on conditioning equipment and makes it easier to control the room. 
+Greater height is a distinct advantage because it permits dispersion 
+of air and permits the additional air changes required to obtain the 
+necessary cooling. The usual idea that volume of a conditioned room should 
+be kept as low as possible to make it easier to maintain the desired 
+temperature and humidification does not hold in this case. Also, high air 
+velocity (encouraged by small rooms) has a marked drying effect on dough. 
+The reconditioned atmosphere should be distributed evenly in the 
+fermentation room or proof box to prevent drafts or stratification. The 
+number and design of air-diffusing outlets depends on the height of the 
+room. An air stream should never be directed over a dough surface since it 
+=== PAGE 604 ===
+Fermentation Enclosures and Brew Equipment 595 
+Figure 27.2. A dough trough with conveyor pump in bottom 
+Dough troughs.□The dough trough is an important piece of equip›
+ment, but it is rarely given much consideration by the bakery technologist 
+because it seems to have little direct effect on product quality. The produc›
+tion supervisor gives it some thought, but is mostly concerned about man›
+power requirements for trough handling and sanitary aspects. In sponge 
+fermentations for saltine cracker manufacturing, the trough does have an 
+would have an evaporative effect and, therefore, would crust the dough. The 
+fewer the air changes, the more beneficial the atmosphere remains. A 
+conflict arises between setting up fewer air changes per hour and obtaining 
+sufficient air velocity over the coil to transfer heat at a rate sufficient to 
+maintain the room temperature. 
+Carbon dioxide is 1.5 times heavier than air. A blanket of carbon 
+dioxide will form over the sponge surface until the sponge rises to the top of 
+the trough. Then, the gas spills over the edge, flowing toward the floor. If 
+sufficient gas accumulates, it may interfere with breathing of personnel who 
+must enter the room. This situation is easily remedied by providing an 
+opening in the room doors of about 10 inches in diameter. The opening 
+should be a little higher than the highest trough. Gas reaching the level of 
+the opening will flow to the outside and disperse into the atmosphere before 
+it can rise to the breathing level. 

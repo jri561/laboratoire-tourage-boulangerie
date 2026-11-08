@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Fiche Programmes — Ligne de Production Rondo</title>
+<style>
+@page { size: A4 portrait; margin: 8mm 9mm; }
+* { box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+body { width: 100%; color: #0f172a; background: #fff; }
+.toolbar-no-print {
+  background: #1e293b;
+  color: #fff;
+  padding: 10px 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+  border-radius: 6px;
+}
+.toolbar-no-print .hint { font-size: 13px; font-weight: 700; color: #fde68a; }
+.toolbar-no-print button {
+  background: #f59e0b;
+  color: #0f172a;
+  border: none;
+  padding: 7px 13px;
+  border-radius: 5px;
+  font-weight: 900;
+  font-size: 12.5px;
+  cursor: pointer;
+  margin-left: 8px;
+}
+.toolbar-no-print button.secondary { background: #e2e8f0; color: #0f172a; }
+@media print {
+  .toolbar-no-print { display: none !important; }
+}
+.sheet-page {
+  width: 100%;
+  height: 280mm;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.header-banner {
+  background: #0f172a;
+  color: #ffffff;
+  border-left: 10px solid #f59e0b;
+  border-radius: 7px;
+  padding: 12px 18px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.header-banner h1 { font-size: 21px; font-weight: 900; text-transform: uppercase; letter-spacing: 0.3px; }
+.header-banner .sub { font-size: 12px; color: #cbd5e1; font-weight: 700; margin-top: 3px; }
+.badge-mur {
+  background: #f59e0b;
+  color: #0f172a;
+  padding: 7px 14px;
+  border-radius: 5px;
+  font-weight: 900;
+  font-size: 13px;
+  text-transform: uppercase;
+}
+table.poster-table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 2px solid #0f172a;
+  margin-bottom: 10px;
+}
+table.poster-table th {
+  background: #1e293b;
+  color: #ffffff;
+  padding: 9px 10px;
+  font-size: 12px;
+  font-weight: 900;
+  text-transform: uppercase;
+  border: 1.5px solid #334155;
+  text-align: left;
+}
+table.poster-table th.center, table.poster-table td.center { text-align: center; }
+table.poster-table td {
+  padding: 8px 10px;
+  height: 39px;
+  border: 1.5px solid #64748b;
+  font-size: 14px;
+  font-weight: 800;
+  color: #0f172a;
+  vertical-align: middle;
+}
+table.poster-table tr:nth-child(even) td { background: #f8fafc; }
+table.poster-table td.prog-col {
+  font-size: 16px;
+  font-weight: 900;
+  color: #b45309;
+  background: #fffbeb !important;
+}
+.footer {
+  border-top: 2px solid #cbd5e1;
+  padding-top: 6px;
+  display: flex;
+  justify-content: space-between;
+  font-size: 11px;
+  font-weight: 800;
+  color: #334155;
+}
+</style>
+</head>
+<body>
+  <div class="toolbar-no-print">
+    <div class="hint">✏️ Cliquez directement dans n'importe quelle case pour taper un numéro ou ajouter un nouveau produit, puis cliquez sur Imprimer.</div>
+    <div>
+      <button type="button" onclick="addRow()">+ Ajouter une ligne</button>
+      <button type="button" class="secondary" onclick="removeRow()">- Supprimer dernière ligne</button>
+      <button type="button" onclick="window.print()">🖨️ Imprimer / Enregistrer en PDF</button>
+    </div>
+  </div>
+
+  <div class="sheet-page">
+    <div>
+      <div class="header-banner">
+        <div>
+          <h1 contenteditable="true">Répertoire des Programmes — Ligne Rondo</h1>
+          <div class="sub" contenteditable="true">CORRESPONDANCE NUMÉROS DE PROGRAMMES RONDO &amp; PRODUITS FAÇONNÉS (PÂTE PLF &amp; AUTRES)</div>
+        </div>
+        <div class="badge-mur" contenteditable="true">LIGNE RONDO</div>
+      </div>
+
+      <table class="poster-table" id="rondo-table">
+        <thead>
+          <tr>
+            <th class="center" style="width: 16%;">N° Programme</th>
+            <th style="width: 28%;">Produit Façonné</th>
+            <th class="center" style="width: 14%;">Pâte Mère</th>
+            <th class="center" style="width: 12%;">Calibre Cru</th>
+            <th style="width: 30%;">Outil de Découpe / Réglages &amp; Notes</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="center prog-col" contenteditable="true"></td>
+            <td contenteditable="true">Croissant</td>
+            <td class="center" contenteditable="true">PLF</td>
+            <td class="center" contenteditable="true">75 g</td>
+            <td contenteditable="true">Triangles — Roulage régulier</td>
+          </tr>
+          <tr>
+            <td class="center prog-col" contenteditable="true"></td>
+            <td contenteditable="true">Pain au Chocolat</td>
+            <td class="center" contenteditable="true">PLF</td>
+            <td class="center" contenteditable="true">85 g</td>
+            <td contenteditable="true">Rectangles — 2 barres chocolat</td>
+          </tr>
+          <tr>
+            <td class="center prog-col" contenteditable="true"></td>
+            <td contenteditable="true">Pain aux Raisins</td>
+            <td class="center" contenteditable="true">PLF</td>
+            <td class="center" contenteditable="true">90 g</td>
+            <td contenteditable="true">Crème pâtissière + raisins (boudin tranché)</td>
+          </tr>
+          <tr>
+            <td class="center prog-col" contenteditable="true"></td>
+            <td contenteditable="true">Pain Suisse</td>
+            <td class="center" contenteditable="true">PLF</td>
+            <td class="center" contenteditable="true">120 g</td>
+            <td contenteditable="true">Pliage portefeuille (crème + pépites chocolat)</td>
+          </tr>
+          <tr>
+            <td class="center prog-col" contenteditable="true"></td>
+            <td contenteditable="true">Oranais aux Abricots</td>
+            <td class="center" contenteditable="true">PLF</td>
+            <td class="center" contenteditable="true">100 g</td>
+            <td contenteditable="true">Carrés pliés en losange (crème + 2 oreillons)</td>
+          </tr>
+          <tr>
+            <td class="center prog-col" contenteditable="true"></td>
+            <td contenteditable="true">Cinnamon Roll</td>
+            <td class="center" contenteditable="true">PLF</td>
+            <td class="center" contenteditable="true">75 g</td>
+            <td contenteditable="true">Beurre cannelle cassonade (en caissette)</td>
+          </tr>
+          <tr>
+            <td class="center prog-col" contenteditable="true"></td>
+            <td contenteditable="true"></td>
+            <td class="center" contenteditable="true"></td>
+            <td class="center" contenteditable="true"></td>
+            <td contenteditable="true"></td>
+          </tr>
+          <tr>
+            <td class="center prog-col" contenteditable="true"></td>
+            <td contenteditable="true"></td>
+            <td class="center" contenteditable="true"></td>
+            <td class="center" contenteditable="true"></td>
+            <td contenteditable="true"></td>
+          </tr>
+          <tr>
+            <td class="center prog-col" contenteditable="true"></td>
+            <td contenteditable="true"></td>
+            <td class="center" contenteditable="true"></td>
+            <td class="center" contenteditable="true"></td>
+            <td contenteditable="true"></td>
+          </tr>
+          <tr>
+            <td class="center prog-col" contenteditable="true"></td>
+            <td contenteditable="true"></td>
+            <td class="center" contenteditable="true"></td>
+            <td class="center" contenteditable="true"></td>
+            <td contenteditable="true"></td>
+          </tr>
+          <tr>
+            <td class="center prog-col" contenteditable="true"></td>
+            <td contenteditable="true"></td>
+            <td class="center" contenteditable="true"></td>
+            <td class="center" contenteditable="true"></td>
+            <td contenteditable="true"></td>
+          </tr>
+          <tr>
+            <td class="center prog-col" contenteditable="true"></td>
+            <td contenteditable="true"></td>
+            <td class="center" contenteditable="true"></td>
+            <td class="center" contenteditable="true"></td>
+            <td contenteditable="true"></td>
+          </tr>
+          <tr>
+            <td class="center prog-col" contenteditable="true"></td>
+            <td contenteditable="true"></td>
+            <td class="center" contenteditable="true"></td>
+            <td class="center" contenteditable="true"></td>
+            <td contenteditable="true"></td>
+          </tr>
+          <tr>
+            <td class="center prog-col" contenteditable="true"></td>
+            <td contenteditable="true"></td>
+            <td class="center" contenteditable="true"></td>
+            <td class="center" contenteditable="true"></td>
+            <td contenteditable="true"></td>
+          </tr>
+          <tr>
+            <td class="center prog-col" contenteditable="true"></td>
+            <td contenteditable="true"></td>
+            <td class="center" contenteditable="true"></td>
+            <td class="center" contenteditable="true"></td>
+            <td contenteditable="true"></td>
+          </tr>
+          <tr>
+            <td class="center prog-col" contenteditable="true"></td>
+            <td contenteditable="true"></td>
+            <td class="center" contenteditable="true"></td>
+            <td class="center" contenteditable="true"></td>
+            <td contenteditable="true"></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="footer">
+      <span>FICHE RÉPERTOIRE • LIGNE DE PRODUCTION RONDO</span>
+      <span>Modifiable au stylo sur feuille ou directement dans le fichier HTML</span>
+      <span>1 PAGE A4</span>
+    </div>
+  </div>
+
+<script>
+function addRow() {
+  const tbody = document.querySelector('#rondo-table tbody');
+  const tr = document.createElement('tr');
+  tr.innerHTML = `
+    <td class="center prog-col" contenteditable="true"></td>
+    <td contenteditable="true"></td>
+    <td class="center" contenteditable="true">PLF</td>
+    <td class="center" contenteditable="true"></td>
+    <td contenteditable="true"></td>
+  `;
+  tbody.appendChild(tr);
+}
+function removeRow() {
+  const tbody = document.querySelector('#rondo-table tbody');
+  if (tbody.rows.length > 1) {
+    tbody.deleteRow(tbody.rows.length - 1);
+  }
+}
+</script>
+</body>
+</html>

@@ -1,0 +1,13 @@
+# Fichiers volumineux (> 100 Mo rejetés par les quotas GitHub sans Git LFS)
+recettes/archives/legacy/Docs_Techniques_Drive/dokumen.pub_bakery-technology-and-engineering-first-edition.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Indexeurs & Outils locaux
+.codegraph/
+.vscode/
+.idea/
+*.swp
+.DS_Store

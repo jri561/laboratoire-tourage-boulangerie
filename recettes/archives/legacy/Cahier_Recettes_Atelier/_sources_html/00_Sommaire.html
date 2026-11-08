@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<style>
+@page { size: A4 portrait; margin: 7mm 8mm; }
+* { box-sizing: border-box; margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+body { width: 100%; color: #0f172a; letter-spacing: 0.15px; }
+.sheet-page {
+  width: 100%;
+  height: 282mm;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  page-break-after: always;
+  break-after: page;
+}
+.sheet-page:last-child {
+  page-break-after: auto;
+  break-after: auto;
+}
+.header { background: #f8fafc; border: 1.5px solid #cbd5e1; border-left: 8px solid #0284c7; border-radius: 7px; padding: 10px 16px; margin-bottom: 12px; display: flex; justify-content: space-between; align-items: center; }
+h1 { font-size: 21px; font-weight: 900; text-transform: uppercase; letter-spacing: -0.2px; }
+.subtitle { font-size: 11.5px; color: #475569; font-weight: 700; margin-top: 2px; }
+.badge { background: #0284c7; color: #fff; padding: 6px 12px; border-radius: 5px; font-weight: 900; font-size: 12px; }
+table { width: 100%; border-collapse: collapse; border: 1.5px solid #94a3b8; border-radius: 6px; overflow: hidden; }
+th { background: #f1f5f9; color: #0f172a; padding: 8px 10px; text-align: left; font-size: 11.5px; font-weight: 900; text-transform: uppercase; border-bottom: 2px solid #0f172a; }
+td { padding: 7.5px 10px; border-bottom: 1px solid #cbd5e1; font-size: 12px; font-weight: 700; color: #0f172a; }
+tr:nth-child(even) td { background-color: #f8fafc; }
+.fam-pill { display: inline-block; padding: 2px 7px; border-radius: 4px; color: #fff; font-weight: 900; font-size: 9.5px; text-transform: uppercase; }
+.fam-tr { background: #059669; }
+.fam-vn { background: #d97706; }
+.fam-pt { background: #be185d; }
+.fam-rf { background: #0284c7; }
+.code-col { font-weight: 900; color: #0f172a; white-space: nowrap; }
+.page-col { font-weight: 900; text-align: right; color: #000000; white-space: nowrap; }
+
+.guide-block { background: #ffffff; border: 1.5px solid #cbd5e1; border-left: 7px solid #0284c7; border-radius: 7px; padding: 15px 18px; margin-bottom: 14px; }
+.guide-block.amber { border-left-color: #d97706; }
+.guide-block.green { border-left-color: #059669; }
+.guide-block.red { border-left-color: #dc2626; }
+.guide-title { font-size: 15.5px; font-weight: 900; text-transform: uppercase; color: #0f172a; border-bottom: 1.5px solid #e2e8f0; padding-bottom: 6px; margin-bottom: 10px; }
+.guide-list { list-style: none; font-size: 14px; line-height: 1.52; color: #1e293b; }
+.guide-list li { margin-bottom: 8px; }
+.step-pill { display: inline-block; padding: 2px 8px; border-radius: 4px; color: #fff; font-weight: 900; font-size: 12px; margin-right: 6px; }
+.s1 { background: #0284c7; }
+.s2 { background: #d97706; }
+.s3 { background: #059669; }
+.s4 { background: #7c3aed; }
+
+.footer { border-top: 1.8px solid #cbd5e1; padding-top: 5px; display: flex; justify-content: space-between; font-size: 10px; color: #334155; font-weight: 800; }
+</style>
+</head>
+<body>
+  <!-- PAGE 2 (GAUCHE) : SOMMAIRE GÉNÉRAL EN GROS CARACTÈRES -->
+  <div class="sheet-page">
+    <div>
+      <div class="header">
+        <div>
+          <h1>Sommaire Général des Doubles Pages</h1>
+          <div class="subtitle">PAGE DE GAUCHE = PESÉES CHRONOLOGIQUES • PAGE DE DROITE = PROTOCOLE &amp; CUISSON</div>
+        </div>
+        <div class="badge">SOMMAIRE • GAUCHE</div>
+      </div>
+
+      <table>
+        <thead>
+          <tr>
+            <th style="width: 13%;">Fiche</th>
+            <th style="width: 14%;">Famille</th>
+            <th style="width: 36%;">Désignation de la Recette</th>
+            <th style="width: 23%;">Logique de Pesée</th>
+            <th class="page-col" style="width: 14%;">Pages</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="code-col">FICHE 01</td><td><span class="fam-pill fam-tr">Traiteur</span></td><td>Crêpes de Froment (Girocrêpes)</td><td>1. Frasage → 2. Allongement</td><td class="page-col">Pages 4–5</td></tr>
+          <tr><td class="code-col">FICHE 02</td><td><span class="fam-pill fam-tr">Traiteur</span></td><td>Galettes de Blé Noir (Girocrêpes)</td><td>1. Frasage → 2. Allongement</td><td class="page-col">Pages 6–7</td></tr>
+          <tr><td class="code-col">FICHE 03</td><td><span class="fam-pill fam-vn">Viennois.</span></td><td>Kouign-Amann (100g &amp; Partage 4–6p)</td><td>1. Détrempe → 2. Opale → 3. Beurre</td><td class="page-col">Pages 8–9</td></tr>
+          <tr><td class="code-col">FICHE 04</td><td><span class="fam-pill fam-vn">Viennois.</span></td><td>Viennoise (Nature &amp; Chocolat) PAC</td><td>1. Réseau → 2. Opale → 3. Pépites</td><td class="page-col">Pages 10–11</td></tr>
+          <tr><td class="code-col">FICHE 05</td><td><span class="fam-pill fam-vn">Viennois.</span></td><td>Feuilletage Inversé (48 feuillets)</td><td>1. Beurre manié → 2. Détrempe</td><td class="page-col">Pages 12–13</td></tr>
+          <tr><td class="code-col">FICHE 06</td><td><span class="fam-pill fam-vn">Viennois.</span></td><td>PLF (Pâte Levée Feuilletée) PAC</td><td>1. Frasage → 2. Opale → 3. Tourage</td><td class="page-col">Pages 14–15</td></tr>
+          <tr><td class="code-col">FICHE 07</td><td><span class="fam-pill fam-pt">Pâtiss.</span></td><td>Brookie (Cadres 56x36 cm)</td><td>A. Brownie + B. Abaisse Cookie</td><td class="page-col">Pages 16–17</td></tr>
+          <tr><td class="code-col">FICHE 08</td><td><span class="fam-pill fam-pt">Pâtiss.</span></td><td>Brownie Fondant Chocolat (56x36 cm)</td><td>1. Choc → 2. Œufs → 3. Poudres</td><td class="page-col">Pages 18–19</td></tr>
+          <tr><td class="code-col">FICHE 09</td><td><span class="fam-pill fam-pt">Pâtiss.</span></td><td>Gamme Muffins Atelier (120 g)</td><td>1. Blanchir → 2. Liq. → 3. Poudres</td><td class="page-col">Pages 20–21</td></tr>
+          <tr><td class="code-col">FICHE 10</td><td><span class="fam-pill fam-pt">Pâtiss.</span></td><td>Frangipane &amp; Gâteau Nantais</td><td>1. Frangipane • 2. Nantais • 3. Glaçage</td><td class="page-col">Pages 22–23</td></tr>
+          <tr><td class="code-col">FICHE 11</td><td><span class="fam-pill fam-pt">Pâtiss.</span></td><td>Gamme Cookies (80 kg &amp; 160 kg)</td><td>1. Crémage → 2. Œufs → 3. Poudres</td><td class="page-col">Pages 24–25</td></tr>
+          <tr><td class="code-col">FICHE 12</td><td><span class="fam-pill fam-pt">Pâtiss.</span></td><td>Cakes de Voyage (Format 3 kg)</td><td>Citron/Fruits &amp; Marbré 50/50</td><td class="page-col">Pages 26–27</td></tr>
+          <tr><td class="code-col">FICHE 13</td><td><span class="fam-pill fam-tr">Traiteur</span></td><td>Gamme Quiches Traiteur (48 pcs/caisse)</td><td>1. Appareil 50/50 → 2. Garniture</td><td class="page-col">Pages 28–29</td></tr>
+          <tr><td class="code-col">FICHE 14</td><td><span class="fam-pill fam-rf">Référent.</span></td><td>Référentiel Dorures &amp; Sirops</td><td>Végétale 1 L • Spéciale • Sirop 44°</td><td class="page-col">Pages 30–31</td></tr>
+          <tr><td class="code-col">FICHE 15</td><td><span class="fam-pill fam-vn">Viennois.</span></td><td>Petites Brioches au Sucre (Bacs 40p)</td><td>1. Réseau V2 → 2. Huile en filet</td><td class="page-col">Pages 32–33</td></tr>
+          <tr><td class="code-col">FICHE 16</td><td><span class="fam-pill fam-rf">Référent.</span></td><td>Registre Général des Cuissons</td><td>Gauche : Vienn. • Droite : Pâtiss.</td><td class="page-col">Pages 34–35</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <div class="footer">
+      <span>Laboratoire de Tourage, Viennoiserie &amp; Pâtisserie</span>
+      <span>Table des Matières • Page 2 (Gauche)</span>
+    </div>
+  </div>
+
+  <!-- PAGE 3 (DROITE) : GUIDE DE LECTURE RAPIDE & RÈGLES D'OR -->
+  <div class="sheet-page">
+    <div>
+      <div class="header">
+        <div>
+          <h1>Guide des Codes Couleurs &amp; Règles d'Atelier</h1>
+          <div class="subtitle">COMMENT LIRE LES TABLEAUX DE PESÉES ET CONDUIRE LES MACHINES</div>
+        </div>
+        <div class="badge">GUIDE • DROITE</div>
+      </div>
+
+      <div class="guide-block">
+        <div class="guide-title">1. Code Couleur Chronologique des Pesées (De Haut en Bas)</div>
+        <ul class="guide-list">
+          <li><span class="step-pill s1">1</span> <strong>Étape 1 (Bleu) — Base Cuve / Frasage / Crémage :</strong> Tous les ingrédients portant le numéro <strong>1</strong> se pèsent ensemble et vont dans la cuve dès le démarrage du programme.</li>
+          <li><span class="step-pill s2">2</span> <strong>Étape 2 (Ambre) — Incorporation 2ᵉ Phase :</strong> Ingrédients ajoutés au passage en 2ᵉ phase du programme (ex. <strong>Margarine Opale sur PLF/Kouign/Viennoise</strong>, <strong>Huile de colza en filet sur Brioche</strong>, <strong>2ᵉ Eau + Huile sur Crêpes</strong>).</li>
+          <li><span class="step-pill s3">3</span> <strong>Étape 3 (Vert) — Poudres Tamisées ou Beurre de Tourage :</strong> Poudres incorporées en 3ᵉ phase (Brownie, Cookie, Muffins) ou Beurre de tourage (PLF, Kouign-Amann).</li>
+          <li><span class="step-pill s4">4</span> <strong>Étape 4 (Violet) — Inclusions &amp; Finitions :</strong> Pépites de chocolat, noisettes torréfiées, noix de pécan ou fourrage apparent.</li>
+        </ul>
+      </div>
+
+      <div class="guide-block amber">
+        <div class="guide-title">2. Pilotage par Programmes Machines &amp; Contrôles Thermiques</div>
+        <ul class="guide-list">
+          <li>• <strong>Programmes Pétrins, Batteurs, Laminoir &amp; Rondo :</strong> Les temps de pétrissage et crans d'abaisse sont centralisés dans les programmes automates (voir <strong>Affiche Murale des Programmes Machines</strong> fixée aux postes).</li>
+          <li>• <strong>Température sortie pétrin :</strong> PLF et Kouign-Amann à <strong>18–20 °C strict</strong> • Viennoise à <strong>19–21 °C</strong> • Brioche à l'huile à <strong>22–24 °C</strong>.</li>
+          <li>• <strong>Arrêt de pousse PAC (PLF, Viennoise, Brioche) :</strong> Stopper à <strong>70 % – 75 % du volume</strong> et bloquer en cellule rapide jusqu'à <strong>-10 °C à cœur contrôlé à la sonde</strong>.</li>
+        </ul>
+      </div>
+
+      <div class="guide-block red">
+        <div class="guide-title">3. Dorure Végétale, Quiches IQF &amp; Découpe Zéro Chute</div>
+        <ul class="guide-list">
+          <li>• <strong>Dorures :</strong> Dorure Végétale (bidon 1 L) en standard au pistolet sur Croissants, Viennoises et Brioches. Dorure Spéciale Maison conservée sur Fiche 14.</li>
+          <li>• <strong>Quiches Traiteur :</strong> Légumes IQF (épinards, poireaux) mis <strong>directement congelés</strong> dans les fonds avant coulage de l'appareil.</li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer">
+      <span>Laboratoire de Tourage, Viennoiserie &amp; Pâtisserie</span>
+      <span>Guide Opérateur • Page 3 (Droite)</span>
+    </div>
+  </div>
+</body>
+</html>

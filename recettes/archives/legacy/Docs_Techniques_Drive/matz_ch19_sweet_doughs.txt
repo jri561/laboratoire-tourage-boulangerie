@@ -1,0 +1,1563 @@
+
+=== PAGE 420 ===
+Variety Breads 411 
+bread, from 5% to as much as 10% of sweeteners can be added. Caramel 
+color is an indispensable ingredient in darker forms of rye bread. Even with 
+100% rye flour processed by any practical baking method, it is impossible to 
+obtain the very dark loaves desired by some consumers. Some formulas call 
+for as much as 10% (FWB) of caramel color. 
+Shortening is used at zero to 2% in the darker and sour types of rye 
+bread, and at somewhat higher levels in light hearth and pan rye breads. 
+More shortening leads to a softer crust, and this can be a detriment in some 
+types of rye breads. 
+Rye sours are commercially available. The true dehydrated cultured 
+sours and the bacterial cultures that enable the baker to make his own uni›
+form sours constitute one group, while the other group of sours consists of 
+blends of organic acids and various flavoring materials. The compounded 
+flavors almost always contain caraway. A small amount of anise may be 
+added. Onion is occasionaly used to give a distinct variety with considerable 
+appeal. Traces of dill, fennel, or fenugreek have been suggested. 
+Table 18.2. FORMULAS FOR VARIETY RYE BREADS1 
+Ingredient Light Honey Onion 
+Pumper-
+nickel Raisin 
+Flour, strong wheat 32.0 42.4 36.9 43.8 34.4 
+Flour, light rye 21.3 4.6 12.3 5.5 17.2 
+Flour, dark rye 0 4.5 6.1 5.5 0 
+Water, variable 41.6 34.8 36.9 35.6 34.4 
+Yeast, compressed 1.1 1.2 1.2 1.1 1.1 
+Salt 1.2 1.0 1.2 1.4 1.1 
+Dark molasses 0 2.4 0 1.2 0 
+Caramel color 0 0 0 4.4 0 
+Shortening 1.2 1.1 2.3 1.1 1.1 
+Dried skim milk 0 3.9 0 0 0 
+Caraway, whole 1.1 0.2 0 0.5 0 
+Caraway, ground 0 0 0 0 0 
+See NOTES (1) (2) (3) 0 (4) 
+1 Percent, as is basis. 
+NOTES: (1) 0.5% diastatic malt syrup; (2) 3.9% honey; 
+(3) 3.1% chopped fresh onions; (4) 8.6% raisins, 1.6% 
+diastatic malt syrup, and 0.5% sugar. 
+Mold inhibitors, emulsifiers, dough conditioners, and yeast foods are 
+also found in the formulas for most modern rye breads. It is difficult to 
+understand the justification for adding reducing agents or proteases to 
+these inherently weak doughs, and yet some published formulas call for 
+these additives. 
+Table 18.2 summarizes a few suggested trial formulas for variety rye 
+breads. 
+=== PAGE 421 ===
+412 BAKERY TECHNOLOGY AND ENGINEERING 
+Processing.□Most rye doughs are made by the sponge method, 
+sometimes preceded by a sour fermentation. Straight dough methods can be 
+used successfully, however. Rye doughs will typically be mixed in horizontal 
+mixers at slow speed for 25 to 30 minutes, they are probably less sensitive 
+to the agitator design and require less development than wheat flour 
+doughs. As the percentage of rye flour in the formula increases, mixing 
+times and speeds should be decreased. 
+Rye doughs should be set at a fairly low temperature, say 75□ to 78□F, 
+and allowed to ferment for a relatively long time, as compared to white 
+bread doughs. For sourdough types, the percentage of sponge is kept at 
+about 33% and it is composed of rye flour, water, malt, yeast, and about 
+2.5% to 3% of conventionally made sour dough. The mixture is allowed to 
+ferment about four hours at 78□F. Generally, short intermediate proofing 
+times are required. 
+Machine make-up procedures can be applied to most rye doughs, 
+though these mixtures are definitely more troublesome than the average 
+white bread dough. They tend to tear and stick and they recover from 
+punishment more slowly. 
+Correct pan proof times for doughs with low levels of rye flour can be 
+based on that used for white bread doughs. For hearth bread of this type, it 
+is best to give the dough a full proof, i.e., the end point is when the dough 
+will hold a finger impression without filling it up. At one time it was 
+considered necessary to dock (puncture) the heavier types of rye bread with 
+a wooden dowel or a metal spike just before the loaves are placed in the 
+oven. With proper control of processing, this operation is either not needed 
+or can be replaced by slashing across the top. 
+Most bakers believe that baking, rye bread directly on the oven 
+surface gives the best flavor, but this is impractical for most large 
+commercial operations where sheet pans, screens, baskets, frames, 
+sandwich bread pans, perforated pans, etc. are used to speed up 
+transferring loaves into and out of the oven. Most doughs require a 
+relatively high temperature and a stable heat. The optimum temperature 
+will vary according to the size and type of dough piece. For the dense dark 
+type, an oven at 450□F may be suitable, while pan breads of low rye content 
+may perform better at 500□F. 
+It is very desirable to use a lot of low temperature steam (wet steam) 
+in the oven, especially during the first part of the bake. The goal is to get 
+moisture condensation on the crust so that it remains flexible and can 
+expand without bursting. If this is not possible, somewhat the same effect 
+can be obtained by washing the exposed surfaces of the loaves with a starch 
+wash. To reduce loaf deformation and jamming in the slicer, rye breads 
+should be cooled to an insided loaf temperature of 90□ to 92□F before slicing. 
+Trouble Shooting.□Tough crusts can be caused by (1) doughs that 
+are too soft, (2) using high pressure rather than low pressure steam in the 
+oven, or (3) allowing the dough surface to dry out before baking. 
+=== PAGE 422 ===
+Variety Breads 413 
+Blisters can be caused by (1) using a weak flour, (2) excess proofing, 
+(3) dough temperature that is too high, or (4) condensation of droplets of 
+water on the unbaked crust. 
+Poor rye flavor can be caused by (1) mixing the dough at too high a 
+temperature, (2) adding insufficient salt, (3) fermenting the dough too long, 
+or (4) using stale rye flour. 
+Flaring or cracking near the bottom of the baked loaf may be due to 
+(1) oven temperatures too low, (2) dough too young, (3) a dough that has 
+been overmixed. 
+There are some rye bread faults attributable directly to flaws in the 
+sour (Lorenz 1981). Some of these are listed below. 
+A volume that is too low can result from (1) a sour not fermented long 
+enough, (2) a sour fermented so long that some of the microorganisms were 
+inactivated, or (3) a sour that was too cold. 
+Gummy streaks in the crust can result from (1) a sour that was 
+allowed to ferment too long or at too high a temperature, or (2) use of too 
+much sour in the dough. 
+Cracks in the crust can result from (1) sour that was not fermented 
+enough or (2) sour that was too warm. 
+Flat loaves result from using too much sour or sour that is too old. 
+Uneven crumb color can result from use of sour that is too young. 
+An excessively acidic taste can result from sours that are too old, too 
+warm, or used in too large a quantity. Bland tastes usually result from use 
+of insufficient sour or a sour that has not been fermented enough. 
+Crumbly interior structure can result from use of sours that are (1) 
+insufficiently fermented or (2) held at too low a temperature. 
+Examples of formulas and procedures.□ Rye breads of accep›
+table commercial quality can be made from relatively simple formulas. 
+Rye Bread Formula and Process 
+(1) A sponge of the following composition is fermented for 3.5 hr at 76□F: 
+20 parts medium rye flour 
+30 parts water 
+2 parts yeast 
+(2) To the fermented sponge are added the following ingredients: 
+80 parts strong first clear wheat flour 
+35 parts water 
+2 parts salt 
+1 part diastatic malt syrup 
+2 parts shortening 
+(3) The dough temperature, as it comes out of the mixer, should be about 
+80□F. Process as described earlier in this section. 
+Bread made by this formula will be light in color. It is common 
+practice to add caramel color to make the crumb and crust more appealing 
+=== PAGE 423 ===
+414 BAKERY TECHNOLOGY AND ENGINEERING 
+and to correspond more closely to the customers’ ideas of what real rye 
+bread should look like. Dark molasses is sometimes used in place of caramel 
+color, but many consumers do not appreciate the sweet and bitter flavors 
+contributed by molasses. Caraway seeds or rye sour flavors may be added. 
+Pumpernickel.□A brief description will be given of pumpernickel, 
+since it is a distinct type different from the rye breads previously discussed. 
+The definitive publication on traditional pumpernickel is probably the 
+article by Lorenz (1980), which reviews the history of this bread and 
+describes several variations in formula and processing method. 
+Ingredients used in the old .style pumpernickel include whole rye 
+meal, water, salt, sour, and sCr^p bread. Optional ingredients are 
+sweetener, a pre-ferment, and bakers’ yeast. The whole rye meal should be 
+medium coarse ground. The oldest formulas did not call for any sweetening 
+ingredient, but relied on the formation of sugars as the result of enzymatic 
+hydrolysis of starch and on the baking process. The dark color is at least 
+partially due to the long baking time, caramel color is not used. The sour 
+provides leavening action, but 0.3% to 0.4% yeast may be added. 
+The sourdough is prepared by a sponge and dough method, beginning 
+with a starter containing acid-forming bacteria and sourdough yeasts. A 
+rather lengthy process involving repeated transfers, additions of rye flour, 
+and fermentation periods is used. The scrap bread is prepared by grinding 
+and roasting stale loaves, then soaking the crumbs overnight in warm 
+water. 
+The formula is as follows: to 220 parts full sour and 450 parts scrap 
+mash is added 900 parts whole rye meal, 200 parts water, 15 parts salt, and 
+5 parts yeast. The ingredients are mixed for 20 to 25 minutes at low speed, 
+after which the dough is rested for 15 minutes. Then, another 10 to 15 
+minutes of low speed mixing is applied. After the dough is dumped, it is 
+immediately divided, rounded, shaped, and placed into baking pans that can 
+be closed on all sides, like sandwich loaf pans. These pans have rounded 
+corners and small holes in the bottom to increase access to steam. Pan proof 
+time is about 50 to 60 minutes. 
+The filled pans are stacked side by side and on top of each other in 
+the oven and baked for 16 to 24 hours at a temperature of 212□ to 338□F. It 
+is essential that the oven chamber be filled with steam. After baking, the 
+covers of the pans are removed to allow moisture vapor to escape. 
+OTHER VARIETY BREADS 
+Breads with Vegetable Ingredients 
+General considerations.□The only vegetable used in commercial 
+bread to any appreciable extent is potato, usually in the form of flour, and 
+potato bread will be described in more detail below. Many other vegetable 
+ingredients have been suggested for inclusion in bread doughs, however. 
+=== PAGE 424 ===
+Variety Breads 415 
+They are added primarily for their novelty appeal and supposed health 
+benefits rather than for any significant improvement imparted to the 
+bread’s flavor or texture. Tomato products, particularly ketchup, keep 
+turning up as bread ingredients in newspaper recipe columns, in cookbooks 
+issued by churches and social organizations, etc. Carrots, beets, and other 
+vegetables occasionally appear as bread ingredients in the same publica›
+tions. It will be noted that these ingredients tend to be highly colored and so 
+add some visual attraction to the bread. Although such variety breads can 
+hardly be expected to ever command a large market, they might be of value 
+to a commercial baker as a means of bringing attention to his other pro›
+ducts. Most local papers would give a paragraph or two to Smith’s Rutabaga 
+French Bread. 
+Fruits are also rather uncommon as bread ingredients although 
+raisin bread is available in most markets. This variety is mostly used for 
+making toast, but sometimes for sandwiches. The dough portion of raisin 
+bread may be slightly sweetened, but a very light sprinkling of cinnamon is 
+often included between the dough curls□the powdered spice is sprinkled on 
+the dough at the molding station after it has been sheeted out and before it 
+is curled, if it is possible to arrange the machinery to do this. Loaf breads 
+with fruit constituents other than raisins, such as bananas, dates, apple 
+sauce, etc., are fairly common as dessert items but these delicacies are 
+almost always "quickbreads," that is they are made from chemically 
+leavened batters. They do not fit into the scope of the present chapter. 
+Semi-sweet mufins with vegetable components such as corn kernels 
+or peppers, or sweet muffins with fruit components such as blueberries or 
+apples are very popular, but nearly all of them are made from chemically 
+leavened doughs or batters. Suggested trial formulas for breads containing 
+vegetable and fruit ingredients will be found in Table 18.3. 
+Potato bread .□Potato bread can be made using a primary ferment 
+that includes mashed cooked potatoes. This is the original method and it 
+gives a sour dough type of flavor together with a moistening and softening 
+effect arising from the potato starch. Some of the original potato flavor will 
+carry through to the finished loaf if enough of the mashed vegetable is 
+present. For many years, however, the potato bread found on the 
+supermarket shelves has been made from a white bread formula with some 
+potato flour added. Although this approach will not give the sourdough 
+flavor that is obtained when a starter is used in the sponge, it does often 
+cause an improvement in texture and a slight difference in flavor. 
+Shown here is a procedure that uses bakers’ yeast but is fairly close 
+to the original sourdough method since it includes a lengthy fermentation of 
+a starter made with potato flour and wheat flour. Prepare a sour by mixing 
+3 lb bread flour, 2 lb potato flour, 4 lb water, and 2 oz yeast. Set at about 75□ 
+to 80□F and allow to ferment for 24 hr. Make a sponge mixture by adding 40 
+lb water to 70 lb strong bread flour, 3 lb yeast, and 6 oz yeast food. Ferment 
+for 4 to 4.5 hr. Then make the dough by adding the sponge to 3 lb potato 
+=== PAGE 425 ===
+416 BAKERY TECHNOLOGY AND ENGINEERING 
+flour (yes, an additional portion), 30 lb bread flour, 21 lb water (variable), 1 
+lb shortening, 2 lb salt, and half (4 lb 9 oz) of the sour. Give the dough 15 to 
+20 min floor time, then make up. Bake at 425□ to 450□F with steam in oven. 
+A formula and procedure that calls for the addition of potato flour in 
+the dough stage, primarily for its texturizing and marketing advantages is 
+given next. Make a sponge of 65 lb bread flour, 35 lb (variable) water, 2 lb 4 
+oz yeast, and 6 oz yeast food. The sponge should come out of the mixer at 
+77□F. Ferment 4.5 hr, then mix it for two minutes at low speed with 35 lb 
+bread flour, 5 lb potato flour, 35 lb water, 2 lb 4 oz salt, 8 lb sugar, and 3 lb 
+shortening. This dough should come out of the mixer at or near 78□F. Allow 
+a floor time of 25 minutes. Make up and bake as for regular white bread. 
+Table 18.3. FORMULAS FOR FRUIT AND VEGETABLE BREADS1 
+Ingredient Raisin Tomato Carrot 
+Pump-
+kin 
+Apri-
+cot & 
+pecan 
+Flour, bread 39.1 53.4 54.1 47.3 53.6 
+Water, variable 23.8 23.5 27 .1 20.3 10.0 
+Yeast, compressed 1.4 1.2 2.5 1.4 1.8 
+Salt 0.8 1.1 0.8 0.7 0 
+Yeast food 0.1 0 • 0.1 0 0 
+Shortening 1.4 3.2 3.3 3.2 9.8 
+Dried skim milk 2.2 3.2 1.6 1.5 1.0 
+Sugar 2.9 3.2 3.2 3.3 0.7 
+Liquid whole eggs 0.9 0 0 6.5 12.6-
+Diastatic malt syrup 0 0.5 0 0 0 
+See NOTES (1) (2) ° (3) (4) (5) 
+1 Percent, as is basis. 
+NOTES: (1) 27.4% of soaked and drained raisins; (2) 10.5% 
+canned tomato juice; (3) 7.3% mashed cooked carrots; (4) 
+15.6% canned pumpkin and 0.2% of pumpkin pie spice mix; 
+(5) 3.5% chopped pecans and 7.0% diced and floured dried 
+apricots. 
+Breads with Dairy Ingredients 
+Most bread formulas contain a small amount of dried milk or milk 
+replacer. Liquid milk is seldom used because of stability and handling prob›
+lems and cost. Dried nonfat (skim) milk is by far the most common form of 
+dairy ingredient, but dried whole milk and dried buttermilk are also used in 
+considerable quantity. Dried whey, and combinations of dried whey with soy 
+products, are rather widely accepted as cheap replacements for nonfat dry 
+milk. Butter is regarded as a desirable shortening and flavoring ingredient 
+but its use is restricted by its cost to premium and specialty breads. 
+Although condensed milk and evaporated milk are used in some adjuncts, 
+they are rarely employed as dough ingredients because they provide no 
+special advantages and are more costly than dried milk. They are also 
+=== PAGE 426 ===
+Variety Breads 417 
+rather difficult to store. Cheese, especially cheddar and American types, is 
+used in some variety breads either in the natural form or as dry powders. 
+So far as their action on bread doughs is concerned, these ingredients 
+fall into two categories□the nonfat portion and the butterfat. Nonfat dry 
+milk, dry buttermilk, whey, and the milk replacers seem to add to the 
+absorption and mixing tolerance of the dough, improve crust color, and 
+mellow the flavor. It is important to use high heat milk solids, however, 
+because the serum or whey proteins of milk can have a weakening effect on 
+gluten. For this reason, all dairy products containing nonfat solids should 
+have been processed by high heat methods if they are to be used in doughs. 
+All reliable suppliers of milk powders will understand and comply with this 
+requirement. If they have not been heat denatured the milk proteins will 
+weaken the gluten proteins and make the dough sticky and hard to handle. 
+Use of a few percent of butter, buttermilk, or cheese, or fairly high 
+levels of dried milk can give special character to the bread, in addition to 
+permitting advertising claims that have some marketing advantage. There 
+is little doubt that most consumers regard the presence of characterizing 
+amounts of dairy ingredients as signaling quality improvements, especially 
+in flavor. It should be noted that dried buttermilk contains about 5% milk›
+fat. Butter can be procured in flavor intensified forms that are many times 
+more effective than fresh butter in modifying the aroma and taste of bread. 
+The lactose of liquid and dried whole milk, skim milk, buttermilk, and 
+whey is a reducing sugar that helps promote browning of the crust during 
+baking. It has very little sweetening power and does not serve as a 
+substrate for yeast fermentation. Since it does affect the osmotic properties 
+(water activity) of the aqueous phases of dough, it may reduce the activity of 
+yeast however. Lactose is not a substrate for yeast fermentation, but it can 
+be used by certain bacteria. 
+DIETETIC BAKERY PRODUCTS 
+General Considerations 
+Many bakers have sought to tap the market for special dietary foods 
+by producing breads meeting the requirements of persons whose choices of 
+foods and beverages have been restricted by medical advice or personal 
+health goals. There is a wide range of products falling into this category. 
+Probably the biggest market segment is calorie-reduced and calorie-metered 
+foods for weight reduction diets. Examples of products that can be expected 
+to meet a more limited demand are reduced salt products for hypertensive 
+persons, reduced cholesterol for those who are concerned about present or 
+future arteriosclerosis, gluten-free for children who are afflicted with celiac 
+disease, and sugar-free for diabetics. Bakery products have variable 
+adaptability for these goals□it is much more difficult to make a low-calorie 
+bread than it is to formulate a low calorie carbonated beverage, for example. 
+On the other hand, it is easy to develop a cholesterol-free bread. 
+=== PAGE 427 ===
+418 BAKERY TECHNOLOGY AND ENGINEERING 
+There are labeling restrictions affecting all of these categories and the 
+manufacturer must be prepared to meet federal, state, and local regulations 
+if the intention is to offer such products for sale. 
+In the paragraphs below will be given some basic concepts in formula›
+ting specific types of dietetic breads. Table 18.4 gives some preliminary 
+concept formulas which can serve as a basis for experimentation. 
+Table 18.4. FORMULAS FOR DIETETIC BREADS AND ROLLS1 
+No No Chole-
+salt fat Gluten sterol High 
+Ingredient added added free free fiber 
+Flour, bread 56.7 57.9 0 53.6 50.3 
+Water, variable 35.0 34.7 35.8 34.9 35.2 
+Yeast, compressed 1.1 1.2 2.5 2.7 1.2 
+Salt 0 1.0 0.8 1.3 1.0 
+Shortening 2.5 0 2.5 0 3.0 
+Dried skim milk 1.7 1.7 0 2.6 2.0 
+Sugar 3.0 2.9 0 2.0 2.0 
+Liquid whole eggs 0 0 3.3 0 0 
+Diastatic malt syrup 0 0.6 1.2 1.3 0.5 
+See NOTES 0 0 (1) (2) (3) 
+1 Percent, as is basis. 
+NOTES: (1) 53.9% rice flour, fine granulation; (2) 1.6% 
+vegetable shortening; (3) 5.0% corn bran, food grade. 
+Reduced Salt 
+Salt is an important part of the flavor complex of bread. It also acts as 
+a regulator of fermentation and has an effect on gluten strength. These 
+functions make it a difficult task to prepare salt-free bread□it is not a mat›
+ter of simply deleting salt from the formula while keeping all other factors 
+constant. Replacement of salt with potassium chloride to make a reduced so›
+dium bread is one possibility. Yeast does not respond to potassium chloride 
+in the same way it responds to sodium chloride, so the baker will have to 
+establish new times for fermentation and proof periods if this approach is 
+being taken. Potassium chloride has a bitter note that is definitely discer›
+nible in bread containing this seasoner. If a chemically leavened product is 
+being made, substantial amounts of sodium will be brought into the product 
+by the sodium bicarbonate and probably by the leavening acids. Increasing 
+sweetness of the product may mask the absence of sodium, to some extent. 
+Reduced Fat 
+Breads with low fat content can be readily formulated. This saves a 
+few calories per serving, but the reduction in fat is probably of more interest 
+to persons who are specifically reducing their intake of triglycerides than to 
+=== PAGE 428 ===
+Variety Breads 419 
+weight-reducers. Both the processing response and the eating quality of the 
+bread are affected by fat reduction, but not to the extent that either is 
+unacceptable. Use of emulsifiers or surfactants in less than 1% quantities 
+can improve dough and bread quality in low-fat products, and these 
+ingredients do not necessarily increase the triglyceride content of the bread. 
+However, diluents, carriers, and impurities in commercial versions of 
+emulsifiers may be triglycerides. 
+Gluten-free 
+It is useless to try to make a normal-appearing loaf of bread that 
+contains no gluten. The typical form, structure, and texture of breads are 
+based on gluten networks expressed on the macro scale as elastic bubbles 
+inflated by gas. No other edible substance functions in the same way as 
+gluten. Celiac (coeliac) disease, the disorder that is related to gluten 
+ingestion, can be triggered by wheat, rye, durum, or oat flour. Some writers 
+have said that barley or even malt can also cause these symptoms, but there 
+appears to be little or no evidence for this claim. Corn and rice are probably 
+low-risk cereals for sufferers from celiac disease. 
+Of course, vital wheat gluten can’t be used either. The best that can 
+be done is to use eggs as the structure forming ingredient and rice or corn 
+flour as the cereal or bulking component. Sometimes corn starch is used to 
+eliminate any cereal protein. Most of the egg-based formulas will not give a 
+batter that can be relied upon to support itself when in the form of a one 
+pound loaf. Generally, the smaller the piece size, the more likelihood of 
+success. Normal fermentation and proofing steps are out of the question for 
+such products, although the addition of a fermented liquid at the final 
+mixing might be helpful. De-gassed beer, added as a small percentage of the 
+total liquid, might be helpful in simulating some parts of bread flavor. 
+This recipe for a gluten-free muffin can serve as a starting point, but 
+the author has not verified it. Mix 9 parts water and 18 parts finely granu›
+lated rice flour with 2.5 parts of yeast. Bring out at 78 □F and allow to fer›
+ment for 2 hr. Add 27 parts water and 36 parts rice flour to the "sponge" and 
+mix until smooth. Ferment for 45 to 60 minutes. Scale into muffin tins 
+(dusted with corn starch) about half full. Proof about 10 minutes. Bake at 
+385□ to 410□F. This batter cannot be processed on bread equipment. 
+"Diabetic" or Sugar-free 
+In formulas for regular white bread, sugar is present in amounts too 
+small to have much of an influence on the health of diabetics, assuming the 
+usual consumption of a couple of ounces of bread per meal. Most of the car›
+bohydrate in bread is in the form of starch. Some glucose and maltose is 
+formed in the dough after water is added, provided amylases are present, 
+but only a small quantity of sugar remains at the end of a normal fermen›
+tation. It is assumed that diabetics will have received dietary guidance from 
+=== PAGE 429 ===
+420 BAKERY TECHNOLOGY AND ENGINEERING 
+their physician and this will include advice on whether or not to moderate 
+or cease their consumption of bread and rolls. Of course, sweet baked goods 
+(cakes, pies, pastries, etc.) will probably be unsuitable for the diabetic diet. 
+In spite of the above statements, there does appear to be a demand 
+for "sugar-free" bread. The term "sugar-free" can mean different things to 
+different groups of consumers. Some health food buyers wish to avoid re›
+fined white sugar (sucrose, beet sugar, cane sugar), and would probably 
+accept a product that contained honey, molasses, corn syrup, malt syrup, or 
+even the so-called "raw" sugar. Few problems are encountered when one of 
+these ingredients is substituted for the small amount of sugar usually added 
+to bread dough. Even if sugar-free is interpreted to mean "does not contain 
+added sucrose, glucose, or fructose," the demand can be met provided the 
+baker is willing to make minor modifications in the standard bread formula. 
+Sugar is usually added at the level of only a few percent in white 
+bread and it is rapidly converted by yeast into glucose and fructose and then 
+mostly metabolized, so the amount present is continually reduced as the 
+dough ferments. Sugar does not play an important role in establishing the 
+structure of dough, but it has an indirect influence on the physical proper›
+ties of bread as a result of its effects on fermentation. As a source of 
+preferred metabolites, its effect on fermentation is substantial but it can be 
+replaced to some extent by the glucose and maltose generated by diastatic 
+malt syrup or fungal amylases. Malt syrup does include quantities of 
+glucose, maltose, and higher saccharides□these constituents should be 
+taken into account when making labeling claims. Incidentally, corn syrup, 
+honey, molasses, etc., must also be omitted from bread described as being 
+"free of added sugar(s)." Milk products (except caseinates) include consider›
+able lactose, a disaccharide sugar. It is obvious that bread from which all 
+sugars have been omitted or consumed by yeast will be less sweet than 
+regular white bread and, therefore, less palatable to most consumers. 
+As an alternative approach, a chemically leavened loaf can be made 
+and necesary sweetness supplied by saccharin or aspartame. Formulation 
+and processing of sugar-free sweet doughs and cakes, where sugar has a 
+definite effect on the texture of the normal product, is much more difficult. 
+Reduced Calorie 
+Significant reduction of calories per unit weight of white bread is very 
+difficult, because there is no non-caloric replacement ingredient for gluten 
+and starch that does not have severe effects on the organoleptic character›
+istics of the product when it is included at the level required. The starch 
+that forms such a large proportion of flour and bread cannot be replaced by 
+any substance of low caloric content (less than, say, 1 calorie per gram) 
+without destroying most of the desirable characteristics of bread. 
+Most non-bakery products that are advertised as having reduced cal›
+orie content depend upon the replacement of most of the fat (about 9 calo›
+ries per gram) by either water (no calories) or by carbohydrate and protein 
+=== PAGE 430 ===
+Variety Breads 421 
+(about 4 calories per gram). If the normal product contains very little fat, 
+significant calorie reduction per unit weight can only be achieved by repla›
+cing carbohydrates and proteins with water. For example, in low calorie 
+beverages, the sugar or other caloric sweetener of the normal product has 
+been replaced by water plus a very small amount of saccharin or aspartame. 
+Because of the complex nature of bread and its sensitivity to formula 
+modification, the usual approaches to calorie reduction are seldom practical. 
+Use of non-digestible substances such as purified cellulose (which theore›
+tically has zero calories) to replace flour has received some attention. Other 
+obvious candidates as replacements are ingredients having high dietary 
+fiber contents such as corn bran or rice bran. Unfortunately, these materials 
+also have severe effects on physical and sensory properties of the dough and 
+bread, so much so that even the most dedicated weight watcher might find 
+the food unacceptable. Also, white bread is a product covered by Federal 
+Standards of Identity and virtually nothing of a calorie-saving nature can be 
+done without violating these regulations. Designing the label to clearly 
+indicate the product is not "white bread" is a way to avoid the restrictions of 
+the Federal Standards. 
+An approach that has been tried is to reduce not the calories per unit 
+weight but the calories per serving, a serving being defined as a certain 
+number of slices, usually two. Comparison is then made between the calo›
+ries per serving of the dietetic bread and the calories per serving of regular 
+white bread. Calorie reduction is accomplished by reducing the weight of a 
+slice, generally by making it thinner but occasionally by modifying the 
+height or width. There is some logic to this approach. A large percentage of 
+sliced bread is consumed as a sandwich component and, presumably, only 
+two slices per sandwich would be consumed whether the slice weighed one 
+ounce or three-quarters of an ounce. Some manufacturers have gone a step 
+further and attempted to puff up the bread so that a slice has about the 
+same dimensions but weighs significantly "less than a slice of regular bread. 
+There are regulatory uncertainties involved in all these approaches. 
+No Cholesterol 
+It is easy enough to make standard types of bread and rolls without 
+cholesterol. This requires simply eliminating any animal fats or ingredients 
+made from animal fats. Most authorities seem to agree that cholesterol is 
+not found in any plant product, including vegetable oil, or is present in 
+negligible amounts. Some published analyses do, in fact, show traces of 
+cholesterol or cholesterol-like substances in vegetable lipids. Actually, a 
+pure animal fat (pure in the sense that it contains triglycerides only) 
+wouldn’t contain cholesterol either, but lard, butter, and other common 
+shortenings made from animal fats include some of this substance. The 
+formulation changes required are, in most cases, minimal and any baker 
+can easily make them with little or no effect on the finished product 
+provided the changes involve substituting vegetable shortenings of equiva-
+=== PAGE 431 ===
+422 BAKERY TECHNOLOGY AND ENGINEERING 
+lent physical characteristics to the animal shortening that is being replaced. 
+The producer must exercise caution in screening minor ingredients 
+and processing aids if a "no cholesterol" claim is being made. Some 
+emulsifiers are made from animal fats and thus may contain traces of 
+cholesterol. Pan greases may contain animal fats. Washes to impart glossi›
+ness to the crust may contain materials with cholesterol content. 
+Kosher 
+Modifying non-kosher products so that they conform to Jewish die›
+tary laws can lead to substantial ingredient changes, processing problems, 
+and scheduling difficulties, particularly if the baker also intends to make 
+non-kosher products in the same plant. It is nearly always desired to place 
+on the product label the guaranty mark of some kosher-certifying person, 
+agency, or group (these/are religious organizations, not government entities) 
+and in this case the baker will have to accept inspections of the plant, 
+ingredients, ingredient specifications, products, packaging, cleaning 
+materials, etc., by representatives of that agency and pay them a fee. The 
+requirements of the different certifying agencies seem to vary somewhat 
+and can be quite complex. It is advisable to get full details of the 
+requirements from an agency whose guaranty mark the baker intends to 
+use before any contractual commitment is made. 
+BIBLIOGRAPHY 
+AL-ZUBAYDI, A. H., AL-KAISSI, A. A., SHAKER, K. A., and HAMEL, S. M. 1983. Use of 
+date syrups in breadmaking. Cereal Chem. 60, 6-58 
+ANON. 1947. Variety Rye Breads. Service Men’s Bulletin 138. Standard Brands, NYC 
+ANON. 1952. Specialty Breads and Basic Sweet Doughs. Borden Food Products, NYC 
+BROEG, W. E. 1964. Down Maine sourdough bread. Baking Industry No. 1540, 28-30 
+COLLAR, C, MASCAROS, A. F., PRIETO, J. A, and BENEDITO DE BARBER, C. 1991. 
+Changes in free amino acids during fermentation of wheat doughs started with pure 
+culture of lactic acid bacteria. Cereal Chem. 68, 66-72 
+CRAMER, H. B. 1971. Flavor in bread by the Guthrie process. Am. Soc. Bakery Engineers 
+Bull. 193 
+GORDON, J. 1970. Production aspects of rye bread. Bakers Digest 44, No. 5, 38-39, 67 
+GORTON, L. 1990. Put baked foods on a diet. Baking & Snack Systems 12, No. 8, 15-18 
+KOHMAN, H. A. 1959. Formula for salt rising bread. H. A. Kohman, Pittsburg, PA 
+LORENZ, K. 1980. Pumpernickel□production and quality characteristics. Bakers Digest 
+54, No. 6, 14-16 
+LORENZ, K. 1981. Sourdough processes□methodology and biochemistry. Bakers Digest 
+55, No. 6, 33-38 
+MATZ, S. 1989. Formulas and Processes for Bakers. Pan-Tech International, McAllen, TX 
+MEIGS, H. T. 1987. Pacific Slope sour dough breads. Am. Soc. Bakery Engrs. Bull. 183 
+MRDEZA. G. 1978. Trends for specialty breads. Cereal Foods World 23 , 635, 638-639 
+RICHARD-MOLARD, D., NAGO, M. C, and DRAPRON, R. 1979. Influence of the 
+breadmaking method on French bread flavor. Bakers Digest 53, No. 3, 33-35, 37, 39 
+SPIEL, A. 1985. Rye flavoring. U.S. Pat. 4,560,573 
+SUGIHARA, T. F. 1977. Non-traditional fermentations in the production of baked goods. 
+Bakers Digest 51, No. 5, 76, 78, 80, 142 
+=== PAGE 432 ===
+YEAST-LEAVENED SWEET DOUGHS 
+chapter nineteen 
+INTRODUCTION 
+This chapter includes discussions of sweet or dessert-type baked 
+goods made from doughs that derive most of their leavening action from 
+yeast fermentation. Separation of the discussion into sections is done 
+primarily on traditional bases, partly relying on differences in the methods 
+of forming the dough and partly on cooking method (baking, frying). 
+PLAIN AND ROLL-IN SWEET DOUGHS 
+Regular sweet doughs are those mixed and fermented somewhat like 
+bread and roll doughs, but which are considerably richer in composition 
+(especially in sugars and syrups) and are often made up in fancy shapes. 
+Doughs for individual sweet rolls and for coffee cakes are made in very 
+much the same manner. These products are nearly always flavored with 
+spices or extracts, and are usually filled and coated with icings or glazes, 
+and often topped with mixtures containing fruits, nuts, cheese, etc. 
+Roll-in sweet doughs represent another type of bakery sweet goods. 
+They differ from regular sweet doughs by being put through a laminating 
+process in which shortening is layered in the product. This process 
+resembles the laminating methods used in making puff pastry (described in 
+an earlier chapter) but frequently calls for a lower proportion of fat and the 
+layering conditions are not as critical since the finished product is not 
+expected to show the same flaky characteristics as puff pastry. It does have 
+some flakiness if well made, however, and it has more volume than Danish 
+pastry. 
+Danish pastry can be considered as an extension or elaboration of the 
+roll-in method. It uses more shortening for laminating than is used for lower 
+quality roll-in doughs, and the conditions of laminating are more carefully 
+controlled. Regular roll-in sweet doughs are sometimes made by the sponge 
+method, but Danish doughs rarely are. Products made from roll-in doughs 
+tend to be moderately high in specific volume and soft in texture, while 
+Danish pastry tends to be flat (relatively high in density) and often rather 
+crisp. Danish pastry production will be discussed in a separate section. 
+Sweet dough products are adaptable to many kinds of variations. 
+Among the modifications that can be used to create new products" are: (1) 
+Modify the dough composition or processing conditions; (2) Vary the type of 
+filling; (3) Vary the topping; (4) Modify the composition of the icing; (5) 
+Change the shape or size of the finished piece; (6) Vary the size or shape of 
+the baking utensil; (7) Alter the ratio of filling to dough; or (8) Change the 
+=== PAGE 433 ===
+424 BAKERY TECHNOLOGY AND ENGINEERING 
+packaging presentation. It is not possible to discuss all of these many 
+variables in the present chapter; only the dough composition and processing 
+conditions will be discussed here. 
+Additional formulas and process for yeast-leavened sweet doughs can 
+be found in the book, "Formulas and Processes for Bakers" (Matz 1989). 
+Ingredients 
+Full details regarding ingredient specifications and their functional 
+properties will be found in the first ten chapters of this book. Brief reviews 
+of the important details will be given below. 
+Flour, water, yeast, shortening, sweetener, salt, flavors, and 
+emulsifiers will be found in most sweet doughs. Eggs and milk products are 
+also common ingredients. 
+Flour will vary from mixtures of bread flours and pastry flours as 
+used in some of the smaller shops where manual make-up is the rule to very 
+strong hard wheat flours used in extruder lines. Soft wheat flours tend to 
+improve tenderness of the finished product, all other conditions being equal. 
+Quality of ingredient water is seldom a problem. Variations in 
+municipal water supplies are generally not great enough to noticeably affect 
+the characteristics of sweet doughs. 
+The range of sugar or other sweetener addition is probably 15% to 
+25% (FWB), perhaps higher. Roll-in products tend to have too much color, 
+be slightly soggy, and have less volume when more than 20% (FWB) sugar 
+is used. The concentration of sugar in sweet doughs is limited by the effect 
+on fermentation rate of high sugar concentration. Above about 25% sugar, 
+fermentation is severely restricted. 
+Salt need not be a special kind. The range of this ingredient will be 
+from 1.5% to 2% (FWB), 
+Compressed yeast is used at the 5% to 10% level (FWB), with the 
+higher levels being more common in cold processed Danish pastry and in 
+high sugar doughs. Lower percentages perform adequately in sweet doughs 
+of lower than average richness. Modern high sugar doughs should contain 
+at least 8% yeast to give reasonable proofing times. Chemical leaveners are 
+sometimes used to provide an extra boost of gas generation in the pan proof 
+stage and in the oven. 
+The amount of yeast food and dough conditioner needed by sweet 
+doughs is a matter of considerable debate. Oxidants, reducing agents, and 
+enzymes may be helpful, depending on the processing conditions. 
+Egg ingredients may be added in the liquid form or as dried products. 
+When developing formulas, many bakers like to start with an amount of 
+liquid whole eggs about equal to the sugar percentage. 
+High heat NFDM is the dairy ingredient most often used in these 
+products. The milk solids content of sweet doughs usually ranges from 5% to 
+12%, with many formulas calling for 6% to 8% of NFDM. 
+Shortenings are often the emulsifier shortenings based on hydrogen-
+=== PAGE 434 ===
+Yeast-leavened Sweet Doughs 425 
+ated vegetable oils supplemented with monoglycerides. Specifications for 
+the roll-in fats vary considerably; special fats formulated and processed to 
+give plasticity over a wide temperature range, but still giving minimum 
+interference with eating quality, are available. 
+Formulas, General 
+Straight dough formulas are probably the first choice of small shop 
+operators and specialty bakers. Sponge doughs are preferred when volume 
+and softness are top requirements. Sponge fermentation may be of the two 
+to four hour "short sponge" type, or longer as in white bread fermentation. 
+Two typical formulas for regular sweet doughs are given below. These 
+doughs can be made into many varieties of sweet rollss and coffee cakes by 
+appropriate finishing techniques. 
+Straight Sweet Dough Formula and Procedure 
+(1) Cream until light: 4 lb granulated sugar, 4 oz salt, 1 lb nonfat dry milk, 
+and 4 lb emulsifier shortening. 
+(2) Add 3 lb liquid whole eggs to the above and continue creaming. 
+(3) Disperse 1.5 lb compressed yeast in 9.5 lb water and add to the above. 
+(4) Then, add 12 lb hard wheat patent flour and 6 lb pastry flour and mix 
+until smooth. 
+(5) Mix at high speed until the dough cleans the mixing bowl. It should 
+come out of the mixer at 80□F for best results. 
+(6) Allow the dough to ferment about 1.5 hr. Don’t punch. Scale pieces of 
+desired weight. Form into strips and make into shapes as required. 
+Sponge Sweet Dough Formula and Procedure 
+(1) Cream until light 2 lb emulsifier shortening, 4 lb granulated sugar, 4 oz 
+salt, 1.5 lb NFDM, 0.5 oz mace, and 1 oz rum flavor. 
+(2) Add 4 lb liquid whole eggs, then cream until light. 
+(3) Disperse 2 lb compressed yeast in 8 lb water and add to the above, 
+mixing briefly. Then add 18 lb strong flour, mix until smooth. 
+(4) Bring out of mixer at 80□F and let ferment for 1.5 hr or until the sponge 
+starts to fall. 
+(5) Disperse 1 lb compressed yeast in 1 lb of water and mix into sponge. 
+(6) Heat 2 lb of emulsifier shortening to 140□F and add to the above. Mix 
+until smooth. Add 2 lb of bread flour and mix well. 
+(7) Give dough 20 minute rest, then scale pieces of desired size, Form into 
+shapes, fill, etc. 
+(8) Let pieces proof to about 50% to 75% size increae. By adding nuts and 
+mixed dried and glazed fruits, this dough can be made into stollen. It is also 
+useful for other sweet goods. 
+(9) Bake at 300□F for large loaf sizes, 325□F or higher for smaller pieces. 
+=== PAGE 435 ===
+426 BAKERY TECHNOLOGY AND ENGINEERING 
+The formulas used for roll-in doughs, where the doughs are sheeted 
+out, a layer of fat applied, and sheeting repeated, are slightly different from 
+those used for regular sweet doughs. An example is given below. 
+Roll-in Sweet Dough Formula and Procedure 
+(1) Cream until light 5 lb granulated sugar, 1 lb salt, 2 lb NFDM, 4 lb 
+emulsifer shortening. 
+(2) Add 8 lb liquid whole eggs and cream until smooth. 
+(3) Mix 16 lb ice water with 3 lb compressed yeast, then blend with above. 
+(4) Add 12 lb pastry flour and 24 lb strong bread flour to the above, then 
+mix to a smooth developed dough. 
+(5) Divide the dough into two equal parts. Sheet each piece into an oblong 
+about three-fourths inch thick. Spread 8 lb roll-in shortening or margarine 
+over two thirds of each sheet. Form three layers inclosing the shortening 
+and sheet out to about the original thickness. Refrigerate for 15 to 30 
+minutes. Repeat the folding, rolling and refrigerating two more times (don’t 
+add more fat in these operations). 
+(6) Make into desired shapes using various types of fillings, toppings, etc. 
+Proof to between 50% and 75% increase in size. Bake at 325□ to 350□F 
+depending on size. 
+Procedures 
+Traditional methods.□It is believed that most sweet doughs that 
+are not otherwise described are being made by straight dough processes, 
+especially in the smaller shops, but they can be made and are being made by 
+other conventional processes and by any of the pre-ferment, accelerated, no-
+time, short-time, and continuous methods used for bread doughs. In 
+general, sweet doughs are less sensitive to changes in preparation method 
+than are bread doughs, because the latter must take full advantage of the 
+optimum expansive qualities of the gluten, while sweet doughs can vary in 
+specific volume and flavor over a fairly wide range without significant 
+consumer complaints. 
+Mixing can be performed either in horizontal bread mixers, vertical 
+mixers, or in the revolving bowl mixer often used for pie crust doughs. 
+Straight doughs are mixed until the dough just starts to clean the mixer 
+bowl□for roll-in doughs a little less, for regular sweet doughs a little more. 
+Danish pastry doughs are generally mixed only until they are smooth. The 
+richer the dough, the longer the mixing time is a pretty reliable rule. 
+Doughs for regular sweet goods, whether sponge or straight dough 
+process, should come out of the mixer in the range of 74□ to 80□F. Tempera›
+tures are critical in mechanical make-up plants. Doughs colder than 72□F 
+are likely to be sticky, but have been recommended for some extrusion 
+operations. Doughs above 82□F are also usually sticky and are troublesome 
+to sheet. 
+With a sponge at 76□ to 78□F, a three hour fermentation is recom-
+=== PAGE 436 ===
+Yeast-leavened Sweet Doughs 427 
+mended. Straight sweet doughs are given a full rise and then a short proof 
+period before dividing or hand scaling. 
+Refrigeration is an important tool in making regular and roll-in sweet 
+doughs and is almost indispensable in the preparation of Danish pastry. 
+The temperature of the refrigerator should be just above freezing. Although 
+little yeast activity occurs below 40□F, the colder temperature is needed to 
+chill the large masses of dough as quickly as possible. About 10 lb of dough 
+is the maximum that should be placed on a bakery sheet pan, and the piece 
+should be flattened out to minimize thickness and expedite cooling. It is not 
+advisable to use sub-freezing temperatures because they are not needed for 
+the short holding times normally employed and they delay warming of the 
+doughs to temperatures at which they can be readily processed. Very low 
+temperatures also compound the problem of moisture condensation on the 
+surface of doughs removed from the retarder and may cause some transloca›
+tion of the soluble materials if some of the dough water freezes. Dough held 
+in the refrigerator should be covered with plastic sheets, or protected by 
+some other means, to prevent dehydration of the surface. When the pieces 
+are removed from the cooler, the covering should be retained unless they are 
+put in process immediately, since moisture will likely condense on the 
+surface making them sticky and hard to handle. 
+Regular sweet doughs are customarily proofed at 95□ to 100□F and 
+90% to 95% relative humidity, while roll-in sweet doughs are proofed at 85□ 
+to 90□F (but below the melting point of the roll-in fat) and 90% to 95% RH. 
+Lower proofing temperatures will result in longer proof times. It is highly 
+advisable to have the dough equilibrated to room temperature before 
+proofing begins, otherwise different layers of the piece can be fermenting at 
+different rates leading to a non-uniform product. Loaves or buns with a high 
+content of fruit pieces are particularly sensitive to proofing time; they 
+should be allowed to double in size. A proof that is too short gives a finished 
+product that is too dense and has harsh texture while excessive proof leads 
+to a product that appears wrinkled and shrunken, and has coarse grain and 
+texture. 
+For final proofing and baking, the dough pieces should be placed on 
+pans and sheets that have been dusted and lightly greased. Paper liners 
+may be needed for some items. Of course, some sweet dough products have 
+for several years been distributed in the pans (foil or ovenable plastic 
+laminates and paperboards) in which they were baked. Sticky buns, upside 
+down cakes, and the like require pan dressings that some bakers prefer to 
+apply to warm pans, just after the previous load of rolls has been dumped. 
+Correct baking times and temperatures depend a great deal on the 
+oven characteristics, but are also affected by piece size and pan charac›
+teristics. Sweet goods have more critical baking requirements than regular 
+breads and rolls because they color rapidly and can acquire a burned 
+appearance with very little overbaking, while slight underbaking gives 
+products of poor eating quality. Individual pieces of regular and roll-in types 
+are often baked at around 400□F. Cluster roll configurations can be baked at 
+=== PAGE 437 ===
+428 BAKERY TECHNOLOGY AND ENGINEERING 
+400□F in a well-controlled oven. Coffee cakes should be baked at lower 
+temperatures, typically 350□ to 375□F. Heavy fruited items such as stollen 
+call for even lower temperatures, 325□F being suitable in many cases. 
+Varieties baked in tube pans should also be baked at this lower 
+temperature. 
+Because of the weak mechanical strength of the freshly baked pro›
+duct and the irregular conformation of most of them, sweet dough items are 
+often cooled on the baking sheets or in the pans. When they have reached 
+90□ or 95□F, they can be dumped or otherwise removed and conveyed to the 
+icing depositor. It is best to apply warm icings because they spread better 
+and assume more rounded contours. Roller type applicators are often used. 
+Formulas for icings, toppings, glazes, and other adjuncts can be found in 
+subsequent chapters. 
+Other methods.□A kind of imitation roll-in sweet dough can be 
+made by mixing flakes of hard fat into the dough. As in the blitz method for 
+puff pastry, a certain amount of flakiness does appear in the finished 
+product, but the eating texture is often somewhat waxy and the layering is 
+not as pronounced as with the traditional roll-in method. 
+To obtain greater efficiency and promote uniformity, some 
+manufacturers prefer to pump the dough from the trough that receives it 
+from the mixer, and in which it may have undergone some fermentation, 
+and force it through a slit to form a continuous strip. This method 
+eliminates the need to handle chunks of dough manually, and it forms a 
+sheet that is not only uniform along its entire length but has no breaks to 
+cause scrap formation. Extrusion can also be applied to make individual 
+dough pieces. 
+Generally, the dough formula requires only minor adjustments in 
+order to adapt it to extrusion processing. Ingredient water should be 
+reduced in these doughs. It is generally considered best to keep the dough 
+on the underdeveloped side, although some operators recommend using 
+well-developed doughs. It would appear that the dough would be more 
+adaptable to pumping and extruding if it had less elasticity. A certain 
+amount of "development" and "conditioning" occurs as a result of the 
+sheeting done on the belt. A very undeveloped dough is, of course, not 
+desirable. 
+Various opinions exists as to the proper dough temperature out of the 
+mixer, and the best advice seems to be that the dough temperature has to be 
+adjusted to fit the particular circumstances. Relatively high temperatures 
+cause fast gas generation with consequent problems in maintaining dough 
+dimensions through the sheeters and they usually increase the amount of 
+tearing and surface disruption as the dough goes between the rollers. Some 
+bakers prefer to bring doughs out of the mixer at 65□ to 70□F, others say 80□ 
+to 82□F yields softer, fluffier sweet rolls and coffee cakes. 
+As mentioned elsewhere, continuous extrusion of dough for roll-in 
+sweet doughs and Danish pastry provides the basis for automatic appli-
+=== PAGE 438 ===
+Yeast-leavened Sweet Doughs 429 
+cation of roll-in shortening, with substantial labor savings and improve›
+ments in uniformity. 
+FRUITED ROLLS AND STOLLEN 
+Most fruited rolls and stollen are based on regular sweet dough 
+formulas but the method of preparation and their content of raisins and 
+candied fruits make them appear to be quite different products. In some 
+cases, the doughs are slightly to considerably leaner than those used for 
+small sweet goods and coffee cakes, but never as lean as those recommended 
+for regular bread. A rather complex recipe and procedure for a Christmas 
+Fruit Stollen is given below. 
+Stollen Formula and Procedure 
+(1) Place in the mixer and cream until light: 2 lb emulsifier shortening, 4 lb 
+granulated sugar, 4 oz salt, 1 lb 8 oz nonfat dry milk, 0.5 oz mace, and 1 oz 
+rum flavor extract. 
+(2) Add 4 lb liquid whole eggs to the above and cream until light. 
+(3) Disperse 2 lb compressed yeast in 8 lb water; add to the previous 
+mixture and blend for one minute. 
+(4) Add 18 lb bread flour to the above and mix until smooth. Bring out of 
+the mixer at 80□F and let stand for 1.5 hr or until the dough starts to fall. 
+(5) Disperse 1 lb of compressed yeast in 1 lb of water, add to the above 
+dough, and mix until smooth. 
+(6) Heat 2 lb of emulsifier to 135□ to 140□F. Add to the dough. Mix until 
+smooth. 
+(7) Add 2 lb of bread flour to the above and mix well. 
+(8) Wash in warm water 8 lb of white raisins, 7 lb mixed candied fruit 
+cubes, 3 lb glazed cherries, and 2 lb glazed small pineapple chunks. Drain 
+well. Mix 3 lb pecans (or large pieces of almonds) with the fruit. Add fruit 
+and nuts to the dough. Mix just enough to distribute the fruit uniformly. 
+(9) Give the dough 20 minutes fermentation. Scale into pieces of desired 
+weight. Shape into long oval loaves. Roll out the dough to medium thick›
+ness, wash with melted margarine, and sprinkle with cinnamon and sugar. 
+(10) Fold like a large Parker House roll and proof. Bake at 325□F for 1 lb 
+size and 300□F for 2 and 3 lb sizes. Cool. 
+(11) Ice with white icing and sprinkle with nuts and cherry pieces. 
+DOUGHNUTS AND OTHER FRIED GOODS 
+Fried goods, both yeast-leavened and chemically leavened, probably 
+exceed in dollar amount and tonnage any other type of sweet dough product. 
+Although the basic doughs do not exhibit the wide variety of composition 
+found, for example, in cookies, the many shapes and finishes applied to 
+these basic doughs lead to a vast number of choices for the consumer. The 
+familiar doughnut shape seems to predominate, but twists, sticks, honey 
+=== PAGE 439 ===
+430 BAKERY TECHNOLOGY AND ENGINEERING 
+buns, cinnamon rolls, and Bismarcks are also well known. These can be 
+coated with powders, glazes, icings, and toppings, and filled with custards, 
+jellies, fruits, and other semi-solid compositions. Space limitations obviously 
+restrict the description in this section to a few typical or significant 
+examples. 
+General Formulas 
+The range of variation of ingredients in regular yeast-raised 
+doughnut formulas is given in Table 19.1. 
+Table 19.1. RANGE OF INGREDIENTS 
+IN YEAST-RAISED DOUGHNUTS1 
+Ingredient 
+Low 
+% 
+High 
+% 
+Sugars 5 12 
+Shortening 8 14 
+Nonfat dry milk 3 5 
+Soy flour 0 2 
+Salt 1.2 1.6 
+Eggs 0 2.5 
+Baking powder 0 1.5 
+Yeast 3 5 
+Water 40 50 
+1 Flour weight equals 100%. 
+Often, pre-blended mixes are used as the basis for doughnut doughs. 
+These most commonly contain all of the ingredients, except water and yeast, 
+although some will allow the baker to add characterizing materials. There 
+are many suppliers for these mixes, each of them having their own 
+proprietary formulas. A typical mix, suitable for the doughnut manufacturer 
+who is using the sheeting and cutting method of make-up, might have the 
+following composition (Roth 1975): 55 parts bleached and bromated hard 
+wheat flour of 13% protein content, 25 parts unbleached pastry flour of 9.5% 
+protein content, 5 parts sugar, 10 parts emulsifier shortening, 2 parts 
+nonfat dry milk, 1.5 parts salt, 1.5 parts chemical leavening, 0.5 parts dough 
+conditioners, 0.3 parts yeast foods, 4.5 parts compressed yeast, and 41 parts 
+water (variable). 
+Ingredient Specifications and Functions 
+The specifications for doughnut flour will depend on the process to be 
+applied to the dough. If a pressure extrusion system will be used, an 
+extremely high protein flour will be called for because this equipment 
+=== PAGE 440 ===
+Yeast-leavened Sweet Doughs 431 
+punishes the dough severely. If the dough is to be sheeted and cut, a lower 
+protein flour would be adequate. Bleaching and bromating are optional. 
+Full fat and defatted soy flours have been used in doughnut formulas 
+as structure builders and tolerance improvers. Excessive amounts can have 
+a weakening effect on gluten, causing an open grain. Soy flours increase 
+water absorption and usually increase water retention 
+Sugar and dextrose can be used more or less interchangeably. Often a 
+combination is employed. They act as fermentation substrates, crust 
+darkeners, and sweeteners. 
+The main function of shortenings is to improve eating quality by 
+tenderizing the finished product. They also improve dough processability by 
+decreasing stickiness and increasing smoothness. Plastic shortenings made 
+of partially hydrogenated vegetable oils are satisfactory. 
+Lecithin is occasionally added to dougnut mixes because it reportedly 
+conditions the crust for better glaze retention. Mono- and di-glycerides are 
+used as softeners and shelf-life extenders. Sodium stearoyl-2-lactylate is 
+effective in improving dough machinability and crumb texture. 
+High heat NFDM is used as a structure builder and an improver of 
+grain. It increases absorption, affects flavor, and darkens the crust color. 
+Dried whole eggs can be used as a structure building ingredient and 
+to darken the crust. Dried egg yolk is effective as an emulsifier and it 
+contributes to the structure of the dough. Both these ingredients are said to 
+reduce the tendency of the white ring to collapse at the fryer turner. 
+Salt controls fermentation, and it affects flavor, of course. The more 
+salt that is used, the slower the fermentation. It affects dough development 
+and contributes to gluten strength during the proofing period. Insufficient 
+salt produces dough of low tolerance and poor flavor. 
+Soda and leavening acids are nearly always added to these mixes to 
+give a burst of gas in the fryer, because it is often found that adequate pro›
+duct expansion is not obtained when the formulator relies solely on the dis›
+solved and occluded carbon dioxide that has originated from yeast activity. 
+Procedures 
+Mixing.□Either the straight dough method or the sponge-and-dough 
+method can be used. It is believed that most of the yeast-leavened 
+doughnuts made in the U.S. are processed by the straight dough method, 
+but it has been reported (Fick 1971) that the sponge method gives more 
+manageable doughs for extrusion forming equipment. Doubtless, any of the 
+accelerated processes, liquid sponge methods, or continuous equipment 
+being used for bread doughs could be applied to doughnut preparation if the 
+volume was large enough. The re-mix method has been advocated by some 
+producers. In this process, all ingredients are made into a sponge, which, 
+after fermentation, is mixed until the dough develops. According to Braden 
+(1976), the best yeast-raised fried goods are made from firm, well developed 
+doughs. 
+=== PAGE 441 ===
+432 BAKERY TECHNOLOGY AND ENGINEERING 
+Fermentation.□Fermentation times are determined by the formula 
+richness, percentage of scrap dough added, percentage of yeast, and 
+temperature. Generally, proper fermentation will demand times in the 
+range of 45 to 75 minutes, but a warm dough containing 70% scrap could 
+require as little as 20 minutes. The temperature of the room or cabinet in 
+which the dough is being held should be in the range of 80□ to 85□F. 
+Make-up□After fermentation, the dough is cut into pieces, usually 
+of 15 to 20 lb weight and allowed to rest 15 to 30 minute. The rested dough 
+may be pre-sheeted before being fed to the sizing rolls on the make-up table. 
+When the dough sheet has been reduced to the proper thickness, it is cut by 
+either circular or hexagonal dies. Piece sizes are extremely variable 
+depending on the product being made, but for conventional doughnuts, 1.25 
+to 1.75 oz will serve for the great majority of items. An alternative to 
+sheeting and cutting is the pressure extruding method, in which dough is 
+forced through nozzles that form rings. The dough pieces are collected on 
+screens or cloth trays or belts, and proofed and fried on a continuous basis. 
+Proofing.□ Proofing conditions are usually 95□ to 105□F dry bulb and 
+85□ to 95□F wet bulb, i.e., a 10 to 15 degree spread. Proof times can be from 
+30 to 45 minutes. If the humidity is high, the dough pieces may spread too 
+much during proofing, and the finished product may show blisters and 
+absorb excessive amounts of shortening. Low humidity can lead to the 
+surface cracking during frying. Blistering is a common fault of under-
+proofed doughnuts. 
+Frying.□The frying fat is usually held within a range of 375□ to 
+395□F. When dough pieces of 1.5 oz weight are being fried, about one minute 
+frying on each side is required. Shrinkage of the doughnut after frying, or 
+collapse of the white side ring due to weakness of the internal structure is 
+usually due to insufficient frying time or temperature. If the frying time is 
+too long, excessive absorption of fat will result. A 1.5 oz dough piece can be 
+expected to absorb about 0.2 to 0.3 oz of fat. 
+In discussing the factors affecting fat uptake by doughnuts, clarity is 
+added if the phenomenon of fat absorption into the mass of the doughnut is 
+separated from that of fat adherence to the surface. Different factors affect 
+the two processes. Probably the most important factor affecting fat 
+absorption is the moisture content of the finished doughnut. Under normal 
+conditions, the amount of fat absorbed is inversely related to the moisture 
+content of the finished piece. This relationship is probably a function of the 
+blanket of steam that covers a frying doughnut. Effusion of steam and 
+leavening gases from the doughnut helps to reduce contact of frying oil with 
+the crust. As the evolution of gas slows down with dehydration of the 
+surface layers of the doughnut, the fat□which is in very turbulent motion 
+around the doughnut^can contact the crust at more places and thus will 
+have more opportunity to soak into the crust. 
+=== PAGE 442 ===
+Yeast-leavened Sweet Doughs 433 
+Since fat absorption is such an important factor in fried product 
+quality, with excess absorption being very detrimental, it is worthwhile to 
+discuss the effect of dough moisture in further detail. Firstly, the product 
+when dropped into the fat has an essentially lipophobic surface□it is ^ not 
+readily wetted by the fat. This changes as the surface dries out. Secondly, 
+gas (water vapor and carbon dioxide) is rapidly evolved from the surface of 
+the product. This gas tends to form a variable (but effective where it exists) 
+barrier to contact of the dough surface with the hot fat. Thirdly, the product 
+does not present a continuous smooth surface to the fat. The outer layers ar 
+ruptured and distorted in many places, forming protuberances that allow 
+closer contact with the fat. When the surface is sufficiently dehydrated and 
+chemically changed so that it soaks up fat□this situation may be expected 
+to exist as soon as browning starts□and when gas evolution slows down so 
+that fat is not kept away from the surface, fat uptake will be fairly rapid. 
+It may be predicted from the preceding considerations that factors 
+reducing fat absorption are: (1) A smooth product surface, maintained 
+throughout frying; (2) Continuous carbon dioxide evolution during the time 
+the product is in the fat; (3) Very short retention time in the oil after 
+browning commences; (4) Use of fat with low viscosity at the temperature of 
+frying; and (5) Good draining□that is, shaking, blowing, and tumbling the 
+product as soon as it emerges from the fryer and continuing these 
+operations until the fat is on the verge of solidification. 
+Extreme undermixing will often lead to high fat absorption, par›
+ticularly if the crust of the doughnut is very rough and irregular because of 
+the undermixing. 
+Finishing.□Doughnuts should be cooled briefly before they are 
+glazed or iced. This allows the product to set slightly and the excess fat to 
+drain off or be absorbed. 
+Variations 
+Basic formulas were given previously. Many varieties can be 
+developed by simply changing spice combinations in the basic formula, 
+incorporating characterizing ingredients such as pumpkin or applesauce, 
+using specialized ingredients such as the flavored and colored "fruit" bits 
+sold by bakery supply houses, using "health" ingredients such as yogurt or 
+wheat germ, etc. One of the more complex fried sweet doughs will be 
+described in more detail below. 
+Honey buns are fried sweet rolls that have attained great popularity 
+in the last 20 or 30 years. The formula and procedure have changed consi›
+derably from the earliest examples, which were probably based on baked 
+cinnamon rolls. Most present-day products contain little, if any, honey. The 
+concept is a fried cinnamon roll covered with a sugar glaze. The list of ran›
+ges for ingredients in Table 19.2 has been adapted from Hildebrand (1980) 
+and can be considered representative of much present day production. 
+=== PAGE 443 ===
+434 BAKERY TECHNOLOGY AND ENGINEERING 
+Ingredient 
+Low 
+% 
+High 
+% 
+Flour 
+Sugar 
+100 
+7 
+10 
+4 
+100 
+15 
+18 
+9 
+8 
+6.5 
+3.1 
+6 
+3 
+1.5 
+qs 
+Shortening 
+Yeast 
+Honey 
+Milk 
+Salt 
+0.75 
+2.5 
+1.25 
+Soy flour 
+Egg yolks or whites 
+Dough conditioners 
+Flavor 
+Total liquid 
+0 
+0 
+0.25 
+qs 
+38 45 
+1 Ingredient percentages are on a flour weight basis. 
+Procedure is as follows. Mix dough to clean up, then two or three 
+minutes more. Bring out at 76□ to 82□F. Floor time, or bulk fermentation, is 
+variable depending on qualities required for the make-up line. For semi-
+automated systems, the bulk fermented dough is cut into large pieces of 
+equal weight which are placed on flour-dusted pans until fed to the make-up 
+line. There, the dough is first sheeted, dusting flour is removed, a thin layer 
+of oil is applied, and then the cinnamon sugar mixture is sprinkled on top. 
+The curling roller forms the spiral from which cross-sections of given weight 
+will be cut. The raw buns are laid out on a belt, screen, or pan and proofed 
+at wet bulb settings of 95□ to 115□F and dry bulb settings of 115□ to 130□F, 
+keeping the spread at 15□ to 18□F. The buns can be fried either on the 
+surface, partially submerged, or fully submerged. Each of these methods has 
+its own special advantages and disadvantages. Fryer settings range from 
+370□ to 385□F. After frying, the buns are fully glazed or iced, usually with a 
+thin vanilla icing. 
+Almost any sweet roll is called "Danish" nowadays, but the original 
+meaning of Danish pastry was a product made from a rich yeast dough that 
+had been layered with butter by repeated folding and sheeting steps in a 
+process somewhat similar to that used for making puff pastry. The dough 
+contained eggs, milk, and sugar in significant amounts. The result of this 
+expensive formulation and the elaborate processing was a baked product 
+having a silky tender crumb of characteristic appearance and a glossy flaky 
+crust. The flavor reflected the presence of high levels of enriching 
+ingredients. 
+The quality of Danish pastries seen in the marketplace today is 
+DANISH PASTRY 
+Table 19.2. RANGE OF HONEY BUN INGREDIENTS 1 
+=== PAGE 444 ===
+Yeast-leavened Sweet Doughs 435 
+highly variable, but the best examples are at least as rich as those made 60 
+or 70 years ago, while the worst are seldom as bad as those made of inferior 
+ingredients by incompetent bakers in "the good old days." Ingredients are 
+generally more uniform and fresher today, and quality control and auto›
+mation have reduced the chance that a really horrendous batch will reach 
+the store shelves. The real problem today lies in wrongfully describing roll-
+in sweet doughs or even regular sweet doughs as Danish pastry. They are 
+not the same, even though the other types may be just as acceptable as 
+Danish to many consumers. 
+History 
+Danish pastry was first developed in Vienna a couple of hundred 
+years ago, according to some stories. In the U.S., it was first popularized 
+starting in about 1920 by two master bakers from Denmark who traveled 
+extensively in this country teaching the art of making the pastry. The 
+formulas of these two artisans differed somewhat; Table 19.3 compares their 
+two formulas according to the best available records. 
+Table 19.3. ORIGINAL FORMULAS FOR DANISH PASTRY 
+Ingredient and unit 
+Mr. Klitteng's 
+formula 
+Mr. Jensen's 
+formula 
+Bread flour, oz 56 32 
+Pastry flour, oz 0 20 
+Whole milk, quart .1 1 
+Sugar, granulated, oz 8 7 
+Yeast, oz 8 5 
+Fresh whole egg, oz 7 10.5 
+Shortening, oz 0 3.5 
+Roll-in butter, oz 32 56 
+The methods of preparation taught by these two experts also differed, 
+primarily in the way the dough was folded and rolled after the butter was 
+applied. In Klitteng’s technique, the dough was chilled on ice between 
+folding steps, while Jensen gave briefer rests and did not chill. It is to be 
+noted that Jensen required a great deal more butter to get satisfactory 
+results, as could be expected from a procedure that did not maximize the 
+layering effects of the fat. In any case, the reported Jensen formula appears 
+to contain too much roll-in. 
+Since the introduction of Danish pastry preparation, many changes 
+have been introduced in the formulas and processing methods. These take 
+advantage of the improved ingredients and better equipment that we have 
+today, and are better adapted to requirements of the modern consumer. 
+Techniques and ingredients have developed to maximize the effect of the 
+=== PAGE 445 ===
+436 BAKERY TECHNOLOGY AND ENGINEERING 
+layered shortening so that lesser amounts can be used, reducing the 
+tendency to greasiness that was often noticed in the earlier products. 
+Generally, enhanced amounts of adjuncts such as flavorings, fillings, icings, 
+and glazes are used today, as compared to earlier practices that relied more 
+on the dough itself for consumer appeal. It is likely that the best examples 
+of true Danish pastry made today would rate higher with the average 
+person than would products made according to the original formula and 
+method. 
+Experimental Studies 
+In a series of articles, Glabau (1959) described experiments intended 
+to clarify the effects of variations in type and amount of ingredients and of 
+processing conditions on the quality of Danish pastry. The conclusions he 
+reached then are still valid, in most respects. He found that bulk 
+fermentation was not necessary but that it did no harm unless unduly 
+prolonged. He showed that sugar improved tenderness and eating quality, 
+as well as flavor, when added up to 18% (FWB). At levels of 22% and 27%, 
+sugar hindered expansion and reduced flakiness. 
+Glabau’s basic formula called for all bread flour, but he found that the 
+pastry showed improvement if 15% or 20% of this ingredient was replaced 
+by soft wheat flour. Greater or lesser amounts were not as effective in 
+improving quality. The quantity of egg also had significant effects on several 
+characteristics of the dough and finished products. Optimal results were 
+obtained when liquid whole eggs were added at 25% of the flour weight. 
+The oven temperature had a marked effect on nearly all the scored 
+characteristics. Although optimum temperature and time of baking were 
+related to piece size, the best oven temperature was found to be 375□F, with 
+hotter conditions not recommended. 
+When Glabau varied the water 20% (FWB) above and below the 
+amount considered best for his formula, the time required for proofing to the 
+same height varied over a range of 102 to 80 minutes. Doughs and products 
+became softer with larger amounts of water. 
+Ingredients and Formulas 
+The flour should have properties that give the dough great tolerance 
+so that continued folding and sheeting do not tear the roll-in combination. 
+This indicates the need for a strong bread flour that can furnish a very 
+extensible dough. Spring wheat flour having a protein content of 12% to 
+13.5% is desirable. Such a flour will, however, lead to a relatively tough 
+finished product and the dough may be difficult to handle in early stages of 
+laminating because it can get bucky and tough. As a compromise, it has 
+often been the practice to add up to 30% of a pastry flour. 
+Butter is the traditional dough shortening, but margarine is 
+satisfactory as are hydrogenated vegetable oil shortenings, including the 
+=== PAGE 446 ===
+Yeast-leavened Sweet Doughs 437 
+Table 19.4. RANGE OF INGREDIENTS USED IN DANISH 
+Percent (FWB) 
+Ingredient Low High 
+Flour 100 100 
+Sugar 15 22 
+Shortening 15 22 
+Whole eggs 5 12 
+Salt 1.5 2.5 
+Nonfat dry milk 4 8 
+Yeast 7 10 
+Flavor 0.5 0.8 
+Total liquid 55 67 
+Roll-in shortening 20* 30* 
+*As percent of the dough. 
+Procedures 
+In all cases, Danish dough should be given a minimum amount of 
+development in the mixer bowl, otherwise the stretching and folding applied 
+in the laminating step will overdevelop the dough and cause it to tear. 
+Directions often say, "mix just enough to get a coherent mass." Probably, a 
+little more mixing than this would give a dough that is easier to handle in 
+the early stages of folding and sheeting. For hand laminating, the dough 
+should be cool, as low as 60□F being recommended 
+Bulk fermentation before the dough is laminated is not necessary. A 
+moderate and variable amount of floor time is inevitable and apparently 
+does no harm. The usual procedure is to cut the mixed dough into chunks of 
+convenient size and keep them in the refrigerator until needed. As the 
+dough cools down, fermentative changes will be greatly inhibited. 
+Keeping the dough cool is one of the keys to developing good layering 
+in Danish. Low temperatures help to maintain the continuity of the butter 
+layers as the dough is repeatedly sheeted out. Proportion of roll-in fat to 
+dough should be around 25%, more may give a somewhat greasy pastry 
+while less may give a tougher dough and less flaky crust. The roll-in 
+shortening should be applied as a layer of uniform thickness, either placed 
+emulsifier types. Roll-in shortenings can be butter, margarine, or specially 
+fabricated vegetable oil shortenings, but they must have good spreadability 
+and a plastic range extending down to 50□F so that they do not become 
+brittle and rupture the layering when chilled. Proportion of roll-in to dough 
+is said to be about 25%, as an industry average. 
+The eggs, sugar, salt, nonfat dry milk, and yeast do not need to be 
+any different from those used in other good quality sweet doughs. 
+The ranges of ingredients in Danish doughs made in recent years are 
+shown in Table 19.4, which is based on a report of Poehlmann (1979). 
+=== PAGE 447 ===
+438 BAKERY TECHNOLOGY AND ENGINEERING 
+on the dough as a preformed sheet or extruded from a hopper on to the 
+dough sheet. Alternatively, square and thin chunks can be cut from a block 
+of the shortening and arranged to form a continuous layer on the dough. 
+There are several types of equipment that automatically combine the 
+dough and shortening, sheet the combination, and fold. Although some of 
+these start with flat sheets of dough and shortening, more recent designs 
+make concentric tubes of extruded fat and dough, then sheet them out to 
+flat sandwiches before further laminating them. 
+Ideally, the dough should be allowed to rest in a chilled area for 
+several minutes or more after it has been folded. This makes maximum use 
+of the shortening by toughening it, thus decreasing its tendency to be 
+absorbed into the dough or to squeeze out the unsealed edges of the 
+assembly. By increasing the amount of roll-in, some flakiness can be 
+obtained in spite of extreme abuse of the dough, but this is not consistent 
+with good eating quality in the finished product. It leads to perceptible 
+greasiness in the finished product. 
+The so-called "blitz" method of Danish preparation calls for the 
+addition of about 15% hard fat flakes toward the end of the dough mixing 
+procedure. No special lamination steps are performed, the theory being that 
+the flakes carry through more-or-less intact until the dough piece enters the 
+oven, when they melt to form layers. This method is not recommended. 
+Among other negative features is the need to use fat of high melting point, 
+leading to a waxy sensation in the mouth. 
+Methods used in forming individual pieces are similar to those used 
+for other sweet doughs. Small pieces do not exhibit the good points of 
+Danish as well as larger pieces. Proofing practices are highly variable, but 
+excess expansion at this point can partially obliterate the layers. For most 
+pieces, it is satisfactory to proof at 80□ to 90□F and at 90% to 95% RH until 
+an increase of 50% to 75% in volume is attained. It is not to be expected that 
+the specific volume of Danish will be as high as items made from regular 
+sweet doughs, unless there are large internal voids in the Danish. 
+Individual pieces should be baked at 375□ to 400□F with the preferred 
+temperature depending somewhat on the piece size and the dough tempera›
+ture. It is important not to underbake, keeping in mind that the crust will 
+be relatively dark because of the richness of the dough. 
+For maximum appeal, much of the crust should remain uncovered by 
+toppings so that its flakiness and crispness can be experienced by the con›
+sumer. In actual practice, many Danish pieces, especially the small ones, 
+are almost 100% covered by icings and fruit toppings. Almond paste fillings 
+and cinnamon flavor seem to go particularly well with the basic flavor. 
+Examples of Products 
+To give the reader a basis for practice and experimentation, specific 
+formulas will be given for two different Danish products. 
+=== PAGE 448 ===
+Yeast-leavened Sweet Doughs 439 
+Almond Crumb Coffee Cake 
+(1) Mix together: 48 oz sugar, 4 oz salt, 20 oz nonfat dry milk, 16 oz 
+emulsifer shortening, 16 oz margarine, 0.5 oz mace, 1 oz lemon flavor, 48 oz 
+liquid whole eggs, and 32 oz cake flour. 
+(2) Disperse 20 oz compressed yeast in 129 oz water and add to the above. 
+(3) Add 240 oz bread flour to the mixture; mix well but do not develop. 
+(4) Scale 10 lb pieces. Using method previously described, roll in 2 lb of 
+margarine to each piece, giving three folds three times. Rest 30 min 
+between folds. 
+(5) Scale finished dough at 9 oz. Rest pieces 15 min. Roll into oblongs. 
+Spread about 3 to 3.5 oz of an almond crumb filling over two-thirds of the 
+surface. Fold the dough in thirds, completely inclosing the filling. 
+(6) Sheet out each piece to about 15 inches in length. Make three cuts from 
+each side toward the center. Don’t cut all the way to center. Curl the tails 
+toward the center, turning so as to partially expose the filling. 
+(7) Wash with an egg wash and sprinkle a few granulated almonds or 
+pecans on top. Fill the center top with pineapple filling. 
+(8) Give a 75% proof and bake at 350□F. Wash with hot syrup after baking 
+and stripe with warm fondant when cold. 
+Apple Filled Coffee Cakes 
+(1) Scale 40 oz granulated sugar and 32 oz butter into mixer bowl and 
+cream. 
+(2) Slowly add 40 oz liquid whole eggs to the above, while mixing at low 
+speed. 
+(3) Disperse 20 oz nonfat dry milk, 4 oz malt syrup, and 20 oz yeast in 128 
+oz ice cold water and add the liquid to the preceding mixture. 
+(4) Add 192 oz bread flour, 64 oz cake flour, and 0.25 oz cinnamon or other 
+flavor to the preceding mix and continue mixing only until uniform. 
+(5) Sheet out on a well-dusted bench to get an oblong shape about three-
+fourths inch thick. Spread 128 oz margarine or puff paste shortening over 
+two-thirds of the length of the dough piece. Fold in thirds, enclosing the fat 
+completely. Roll and fold three times, resting the dough 10 minutes between 
+foldings, and 20 to 30 minutes after the third sheeting. 
+(6) Cut the dough into pieces of, for example, 9 oz. Roll into oblongs, and 
+smear cinnamon spread over the surfaces. Put chopped apples over the 
+cinnamon. Fold into three layers. 
+(7) Place pieces in pan. Wash with egg wash. Put streusel on top. 
+(8) Proof slowly at 80□ to 85□F until a 50% to 75% expansion is achieved. 
+(9) Bake at 375□F. Glaze and apply icing. 
+YEAST-LEAVENED COOKIES 
+Yeast-leavened cookies have been overshadowed by the chemically-
+leavened type since baking powder became readily available many decades 
+ago. It appears that a cookie, defined here as being different from the usual 
+=== PAGE 449 ===
+440 BAKERY TECHNOLOGY AND ENGINEERING 
+yeast-leavened pastry in that it is cooked to a much lower moisture content 
+(typically, around 5% to 10%) and is smaller (typically, less than an ounce). 
+They do not have much of the appealing fermentation aroma of most yeast-
+leavened goods because the odorous substances developed during fermenta›
+tion are largely dissipated during the cooking process, and the silky resilient 
+texture made possible by developed doughs is offset by the hard structure 
+set up by baking nearly to dryness. 
+Yeast-leavened cookies can be either baked or fried. There are very 
+few commercial examples of fried cookies, perhaps none, but recipes for 
+products of this type can be found in some ethnic cookbooks and most of 
+these are made from yeast-leavened doughs. Doubtless, some retail bakeries 
+have occasionally made fried cookies as a novelty or to appeal to a special 
+market. A discussion of these products is included here primarily to 
+stimulate the imagination of product development technologists. 
+Frying has some advantages. Among these are the distinctive fried 
+flavor ("like doughnuts") and the short duration of the cooking step which 
+makes preparation of product for immediate consumption less tedious. The 
+disadvantages of frying are all too obvious□the necessity for maintaining a 
+bath of hot oil, the fact that the dough pieces are not supported during 
+cooking, leading to irregular shapes, and, if they are made on a small scale, 
+the labor intensive nature of the cooking method. An example of a fried 
+yeast-leavened cookie formula and preparation method is shown below. 
+Fried Yeas>leayened Cookie 
+(1) Blend together at low speed: 13 parts granulated sugar, 9 parts 
+emulsifier shortening, 1 part salt, 3 parts nonfat dry milk, 4 parts yeast, 1 
+part vanilla extract, 6 parts liquid whole eggs, 13 parts bread flour, and 28 
+parts pastry flour. 
+(2) Add 22 parts warm water to the above and mix about 3 min. 
+(3) Turn out on a floured board and give about 10 minutes rest time. Roll 
+out the dough about one-eighth inch thick. 
+(4) Cut circles of 2 inches diameter. Dock heavily. Place in a wire basket 
+and immediately submerge in fat held at 350□ to 360□F. Instead of being 
+docked, these cookies can be held between two wire screens not more than 
+one-fourth inch apart while being fried. Remove from fat when the pieces 
+are brown and firm. 
+(5) Decorate tops with half a pecan (or walnut) and sprinkle with 
+confectioners sugar while still hot. 
+For other fried cookie recipes, see the "Golden Nuggets" described ty 
+Newman (1974), "God’s Favors" a Czech recipe reported by Howe (1975), 
+"churros"□a Spanish-type recipe (Perry 1940), and "Rye Drops" (Ross and 
+Disney 1963). 
+=== PAGE 450 ===
+Yeast-leavened Sweet Doughs 441 
+COMBINATIONS OF DOUGHS AND BATTERS 
+Some bake shops have had moderate success in promoting products 
+made from combinations of yeast-raised doughs and cake batters. Unusual 
+texture combinations and flavors can be obtained. A simple example 
+illustrating the approach (Gunter 1967) is: Mix together 60 lb of previously 
+prepared fermented sweet dough and 40 lb of cake batter, both being vanilla 
+and butter flavored, and 1 lb of compressed yeast. Deposit 9 oz of the batter 
+in an 8.75x5.75x1.125 inch foil pan. Give one-half proof and deposit 2 oz of 
+prune, apple, cherry, pineapple, or any other flavor of pie filling on the cake. 
+Cover with 1 oz of streusel and bake. 
+BIBLIOGRAPHY 
+ANON. 1976. A Study of Energy Conservation Potential in the Baking Industry. Federal 
+Energy Administration and Management, Washington, DC 
+BRADEN, B. W., JR. 1976. Yeast-raised doughnuts. Proc. Am. Soc. Bakery Engineers 
+7976, 127-131 
+DAVEY, V. F. 1965. Make-up procedures for roll-in coffee cake production. Proc. Am. Soc. 
+Bakery Engineers 1965, 281-290 
+DIXON, J. R. 1976. Ingredients in doughnut mixes. Proc. Am. Soc. Bakery Engineers 
+1976, 144-166 
+EXETER, G, 1971. Automation in sweet yeast-raised bakery products. Proc. Am. Soc. 
+Bakery Engineers 1971, 192-199 
+FICK, 0. B. 1971. Production of yeast-raised doughnuts. Proc. Am. Soc. Bakery Engineers 
+1971,174-180 
+FRANTZ, H. F. 1972. Danish production by various methods. Proc. Am. Soc. Bakery 
+Engineers 1972,172-180 
+GLABAU, C. A. 1959. Danish pastry [a series of seven papers in Bakers Weekly, June 22, 
+June 29, July 6, July 13, July 20, July 27, and August 4] 
+HARGROVE, W. W. 1973. Various degrees of mechanization in the production of sweet 
+yeast-raised bakery foods. Proc. Am. Soc. Bakery Engineers 1973, 78-86 
+HILDEBRAND, W. G. 1980. Honey buns. Proc. Am. Soc. Bakery Engineers 1980, 85-95 
+HOWE, R. 1975. Cooking from the Heart of Europe. David and Charles, London 
+LEHAULT, W. B. 1964. The fundamentals of quality coffee cake production. Proc. Am. 
+Soc. Bakery Engineers 1964,194-199 
+MEIGS, H. T. 1968. Sweet doughs. Am. Soc. Bakery Engineers Bull. No. 186 
+NEWMAN, M. 1974. The Sweet Life. Houghton Mifflin Co., Boston 
+O’REILLY, M. 1976. The practical production of sweet yeast-raised varieties. Proc. Am. 
+Soc. Bakery Engineers 1976, 72-77 
+PERRY, J. 1940. Around the World Making Cookies. H. Barrows & Co., New York 
+POEHLMAN, R. W. 1979. Premium Danish production. Proc. Am. Soc. Bakery Engineers 
+1979,91-105 
+ROSS, A L., and DISNEY, J. A. 1963. The Art of Making Good Cookies Plain and Fancy. 
+Doubleday & Co., Garden City, NY 
+ROTH, R. L. 1975. Fried yeast-raised production. Proc. Am. Soc. Bakery Engineers 1975, 
+149-155 
+SHAFFER, T. 1977. Automated sweet yeast-raised production. Proc. Am. Soc. Bakery 
+Engineers 1977, 117-123 
+VARNEY, H. D., JR. 1970. Coffee cake and Danish: Extrusion methods. Proc. Am. Soc. 
+Bakery Engineers 1970, 167-173 ] 
+VERHOEF, N. J. F. D., and ZOCK, H. F. 1990. Food product. U.S. Pat. 4,935,251 
+=== PAGE 451 ===
+This Page is Intentionally Left Blank
+=== PAGE 452 ===
+OTHER YEAST-LEAVENED PRODUCTS 
+chapter twenty 
+INTRODUCTION 
+The category of yeast-leavened specialty products to be discussed in 
+this chapter includes those items that are not regular forms of bread and 
+rolls and not sweet dough products. This leaves a rather wide field from 
+which a selection had to be made because of space restrictions. Most of the 
+products discussed here are of current interest and have not been described 
+in readily available technical books. English muffins, bagels, croissants, 
+pizzas, pretzels, saltines, and some others are included. 
+ENGLISH MUFFINS 
+A typical English muffin, as sold in the U.S., is about four inches in 
+diameter and one inch thick, with flat tops and bottoms that are browned, 
+and with rather straight side walls that are pale or relatively unbaked in 
+color. Formulas tend to be on the lean side. The crumb is open and irreg›
+ular, with some large bubbles, and it normally looks slightly gray and moist. 
+English muffins are fairly tough in texture and have a well-fermented odor 
+and taste. There are many variations on the basic theme□whole wheat, 
+sourdough, rye, raisin, etc. There are even commercial English muffins that 
+are chemically leavened. Most English muffins eaten in the home are split 
+or the tops and bottoms torn apart and then heated in a toaster. This 
+product has shown a steady increase in popularity in the U.S. during the 
+past two or three decades. 
+Originally, muffins and crumpets were baked or fried on griddles, 
+using a metal ring or hoop to prevent the fluid dough from spreading. After 
+being cooked nearly todoneness on one side, they were turned over and 
+finished. The similarity with pancake preparation is obvious. Some commer›
+cial English muffins are now baked much like buns, but most are probably 
+still baked on a metal band while they are held within a circular ring. 
+For reference and comparison, an 80-year old formula for English 
+muffins is reproduced here. Measure 80 oz water into a bowl. Dissolve 4 oz 
+yeast, 1 oz sugar, and 2 oz salt in the water. Add 108 oz flour. Mix these 
+ingredients well for about 5 min. Cover and allow to rise in a warm place for 
+45 minutes to an hour. Turn the dough out on a table well dusted with flour. 
+Scale 3 oz pieces, mold round, and put on trays well dusted with rice cones. 
+Proof in a warm place until the dough pieces are about the size of the hoops 
+in which they will be cooked. Heat the griddle. Place greased hoops on 
+griddle. Using a pancake turner or the like, lift the muffins and drop them 
+in the hoops. When half-baked, turn them over and cook the other side. 
+=== PAGE 453 ===
+444 BAKERY TECHNOLOGY AND ENGINEERING 
+Ingredients 
+The quality and type of flour are important factors affecting the 
+characteristics of English muffins. A strong patent hard wheat flour with a 
+protein content of 12% to 13% is considered optimal by many producers. If it 
+is necessary to use a weaker flour, supplementation with vital wheat gluten 
+will probably be necessary. A rule of thumb that has been suggested is to 
+use 1% of gluten for each 0.6% the flour protein is below 12.5%. For flours of 
+optimal type, and with other ingredient percentages in the average ranges, 
+absorptions between 79% and 85% are required to secure the rapid flowing 
+or spreading during proofing and baking that is need to get the typical 
+conformation. 
+High absorption levels are also important to give adequate porosity of 
+the crumb. Generally speaking, the higher the absorption, the greater will 
+be the porosity. Consumer preference appears to dictate a crumb structure 
+with many randomly spaced medium to large holes. Many gas bubbles of 
+0.125 to 0.25 inch in diameter should be present. A uniform bread-like or 
+cake-like crumb would be regarded as an indicator of poor quality in most 
+markets, although some English muffins are currently being made by 
+methods that yield such structures. 
+Some formulators include proteases or reducing agents in the dough 
+to decrease viscosity and insure adequate ilowability. Since the conditions of 
+cool dough and short floor time are not favorable to protease action, high 
+levels of this enzyme may have to be added. 
+Compressed yeast will normally be added at the rate of 2% to 8% 
+(FWB). Active dry yeast can also be used. Pfefer (1976) claimed good muf›
+fins can be produced using only chemical leaveners, but bicarbonate (alone 
+or with yeast) does not seem to give optimal porosity. In fact, chemical 
+leaveners are usually detrimental. For markets preferring sour flavors, cul›
+tures, proprietary sours, or sour doughs can be used in addition to yeast. 
+Any granulation and purity of salt that is suitable as a bread ingre›
+dient can be used in English muffins. Many formulas call for about 1% salt 
+(FWB). This low level (as compared to about 2% in many bread formulas) is 
+partly responsible for the bland flavor of English muffins. It also seems to 
+improve flow during baking by allowing a weaker gluten network to form. 
+Very little shortening is added to English muffin doughs. A common 
+level is 2%. Larger amounts tend to give excessive tenderness and a more 
+uniform crumb. Non-emulsifier shortenings (e.g., lard) are satisfactory. 
+Sweeteners are also kept at low levels because their flavor is not necessarily 
+appreciated in goods of this sort. Sucrose, dextrose, and corn syrups are all 
+satisfactory. About 2% of fermentable carbohydrate is sufficient to sustain 
+fermentation during proofing and provide residual sugar for crust color. 
+Some formulas don’t include nonfat dry milk, others rely on about 1% 
+NFDM to supply lactose for crust coloration and to mellow the flavor. 
+Mold growth can be a problem because of the high moisture content. 
+Many producers expect English muffins to have a longer shelf life than 
+=== PAGE 454 ===
+Other Yeast-leavened Products 445 
+bread because muffins sell in smaller volume. These factors make the use of 
+mold inhibitors very desirable. Some manufacturers will add as much as 4% 
+(FWB) vinegar in the formulas, and propionates may also be included in the 
+formula at the highest possible levels. Solutions of propionates or sorbic acid 
+may be sprayed on the exterior of the baked muffin for the same purpose. 
+Some consumers can detect an undesirable odor due to these additions, 
+particularly when the muffin is toasted. If sour dough fermentation is 
+involved, an inhibitory effect on mold growth should result-from the lower 
+pH of the dough and muffin. 
+Processing 
+A wide range of mixing procedures and equipment has been success›
+fully adapted to the processing of English muffins. Some bakers prefer to 
+undermix the dough, thinking this will accentuate the coarse crumb 
+structure that is so much prized. Others overmix on the principle that such 
+doughs will have good flowability, while coarse crumb will result from the 
+weakened gluten network. The latter practice is probably more common at 
+this time. Both batch mixing and continuous mixing are being used. Either 
+horizontal or vertical mixers can be used in the batch processes. 
+Because these doughs must be slack and very extensible to yield the 
+typical form and grain, processing difficulties can occur when the doughs 
+are put through conventional dividing and rounding equipment. Bringing 
+doughs out of the mixer between 62□ and 63□F results in considerably better 
+handling qualities. 
+The muffin pieces are usually well dusted with a blend of corn meal 
+and corn flour before they are transferred to the proofer. This meal must be 
+of the correct particle size; if too coarse, coverage of the dough will be 
+inadquate, if too fine, uneven baking, carbon buildup on oven parts, and 
+excessive adherence of the dusting material on the muffins will be seen. 
+Floor time should be kept to about 15 minutes. Shorter floor times 
+will usually not allow the dough to relax sufficiently for good make-up. The 
+dough pieces should go through a rounder immediately after dividing. 
+Before the dough pieces go into the proofer, they must be dusted with 
+a coarse cereal meal, such as corn or rice cones. It has been recommended 
+(Juers 1982) to proof the muffin on a flat surface coated with a blend of corn 
+meal and corn flour. This permits the dough to flow out without rising too 
+high. The proofer temperature setting is about 110□ to 115□F. Excessive 
+humidity will keep the outer surface of the dough too wet to deposit easily or 
+uniformly on to the griddle, but dry atmospheres will cause the dough to 
+crust, decreasing the flow and leading to small, non-uniform muffins. 
+When the proofed dough pieces are deposited on the hot baking sur›
+face, the dough is warmed and becomes softer. It immediately starts to flow 
+and quickly fills the bottom of the retainer ring. Before the dough is well 
+expanded, top covers are applied to the rings. At this stage, the gas vesicles 
+are fairly small and relatively uniform. Within about 2.5 minutes, the dough 

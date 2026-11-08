@@ -1,0 +1,484 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Gamme Quiches Traiteur (48 pcs / Caisse) — FICHE ATELIER 13</title>
+<style>
+@page {
+  size: A4 portrait;
+  margin: 7mm 8mm;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+body {
+  color: #0f172a;
+  background: #ffffff;
+  letter-spacing: 0.15px;
+}
+
+.sheet-page {
+  width: 100%;
+  height: 282mm;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  page-break-after: always;
+  break-after: page;
+}
+.sheet-page:last-child {
+  page-break-after: auto;
+  break-after: auto;
+}
+
+/* EN-TÊTE ÉPURÉ HAUTE LISIBILITÉ */
+.header-banner {
+  background: #f8fafc;
+  border: 1.5px solid #cbd5e1;
+  border-left: 8px solid #059669;
+  border-radius: 7px;
+  padding: 10px 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 11px;
+}
+.header-titles h1 {
+  font-size: 22px;
+  font-weight: 900;
+  color: #0f172a;
+  letter-spacing: -0.2px;
+  line-height: 1.15;
+}
+.header-titles .subtitle {
+  font-size: 12px;
+  font-weight: 700;
+  color: #475569;
+  margin-top: 3px;
+  line-height: 1.25;
+}
+.header-right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 3px;
+}
+.header-badge {
+  background: #047857;
+  color: #ffffff;
+  padding: 6px 12px;
+  border-radius: 5px;
+  font-weight: 900;
+  font-size: 12.5px;
+  letter-spacing: 0.5px;
+  white-space: nowrap;
+}
+.page-indicator {
+  font-size: 10px;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  color: #059669;
+}
+
+/* BANDEAU FLASH GÉANT */
+.flash-row {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 9px;
+  margin-bottom: 12px;
+}
+.flash-card {
+  background: #f8fafc;
+  border: 1.5px solid #cbd5e1;
+  border-left: 5.5px solid #0284c7;
+  padding: 8px 10px;
+  border-radius: 6px;
+}
+.flash-card.alert {
+  border-left-color: #dc2626;
+  background: #fff5f5;
+  border-color: #fecaca;
+}
+.flash-card.amber {
+  border-left-color: #d97706;
+  background: #fffbeb;
+  border-color: #fde68a;
+}
+.flash-card.green {
+  border-left-color: #059669;
+  background: #f0fdf4;
+  border-color: #bbf7d0;
+}
+.flash-card .lbl {
+  font-size: 10px;
+  font-weight: 800;
+  color: #475569;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+  margin-bottom: 3px;
+}
+.flash-card .val {
+  font-size: 15px;
+  font-weight: 900;
+  color: #0f172a;
+  line-height: 1.15;
+}
+
+/* TABLEAUX DES PESÉES GRAND CONFORT (PAGE GAUCHE) */
+.tables-container {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  flex-grow: 1;
+  justify-content: flex-start;
+}
+table.giant-table {
+  width: 100%;
+  border-collapse: collapse;
+  border: 1.5px solid #94a3b8;
+  border-radius: 6px;
+  overflow: hidden;
+}
+table.giant-table th {
+  background: #f1f5f9;
+  color: #0f172a;
+  padding: 8px 10px;
+  font-size: 12px;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+  border-bottom: 2.2px solid #0f172a;
+  border-right: 1px solid #cbd5e1;
+}
+table.giant-table th:last-child { border-right: none; }
+table.giant-table th.left, table.giant-table td.left { text-align: left; }
+table.giant-table th.right, table.giant-table td.right { text-align: right; }
+table.giant-table th.center, table.giant-table td.center { text-align: center; }
+
+table.giant-table td {
+  padding: 7.8px 10px;
+  border-bottom: 1px solid #cbd5e1;
+  border-right: 1px solid #e2e8f0;
+  font-size: 14px;
+  font-weight: 700;
+  color: #1e293b;
+}
+table.giant-table td:last-child { border-right: none; }
+table.giant-table tr:nth-child(even) td {
+  background-color: #f8fafc;
+}
+
+/* Indicateur couleur gauche selon l'étape */
+table.giant-table tr.step-row-1 td:first-child { border-left: 5.5px solid #0284c7; }
+table.giant-table tr.step-row-2 td:first-child { border-left: 5.5px solid #d97706; }
+table.giant-table tr.step-row-3 td:first-child { border-left: 5.5px solid #059669; }
+table.giant-table tr.step-row-4 td:first-child { border-left: 5.5px solid #7c3aed; }
+
+table.giant-table td.ing-name {
+  font-size: 14.5px;
+  font-weight: 800;
+  color: #0f172a;
+}
+.ing-note {
+  font-weight: 600;
+  color: #475569;
+  font-size: 0.88em;
+}
+
+/* Pastilles d'étapes numérotées */
+.step-pill {
+  display: inline-block;
+  padding: 1.5px 7px;
+  border-radius: 4px;
+  font-weight: 900;
+  font-size: 0.86em;
+  color: #ffffff;
+  margin-right: 6px;
+  vertical-align: baseline;
+  letter-spacing: 0.25px;
+}
+.step-pill.s1 { background: #0284c7; }
+.step-pill.s2 { background: #d97706; }
+.step-pill.s3 { background: #059669; }
+.step-pill.s4 { background: #7c3aed; }
+
+table.giant-table td.weight-cell {
+  font-size: 16.5px;
+  font-weight: 900;
+  color: #000000;
+  font-variant-numeric: tabular-nums;
+  letter-spacing: 0.35px;
+}
+table.giant-table tr.subtotal td {
+  background: #ecfdf5;
+  font-size: 14.5px;
+  font-weight: 900;
+  color: #0f172a;
+  border-top: 1.8px solid #475569;
+  border-bottom: 1.8px solid #475569;
+}
+table.giant-table tr.total-final td {
+  background: #d1fae5;
+  font-size: 15.5px;
+  font-weight: 900;
+  color: #000000;
+  border-top: 2.2px solid #0f172a;
+  border-bottom: 2.2px solid #0f172a;
+}
+
+/* PAGE DE DROITE : PROTOCOLE PLEINE LARGEUR EN GROS CARACTÈRES */
+.right-content {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  flex-grow: 1;
+  justify-content: flex-start;
+}
+.proto-block {
+  background: #ffffff;
+  border: 1.5px solid #cbd5e1;
+  border-left: 7px solid #0284c7;
+  border-radius: 7px;
+  padding: 16px 20px;
+}
+.proto-block.b2 {
+  border-left-color: #d97706;
+}
+.proto-block h2 {
+  font-size: 16.5px;
+  font-weight: 900;
+  color: #0f172a;
+  text-transform: uppercase;
+  border-bottom: 1.5px solid #e2e8f0;
+  padding-bottom: 6px;
+  margin-bottom: 10px;
+  letter-spacing: 0.25px;
+}
+.proto-list {
+  list-style: none;
+  font-size: 15px;
+  line-height: 1.55;
+  color: #1e293b;
+}
+.proto-list li {
+  margin-bottom: 10px;
+  padding-left: 14px;
+  position: relative;
+}
+.proto-list li::before {
+  content: "▪";
+  position: absolute;
+  left: 0;
+  color: #059669;
+  font-weight: 900;
+}
+.proto-list strong {
+  color: #000000;
+  font-weight: 900;
+}
+
+/* Encadré Récapitulatif de Sécurité & Contrôle (Bas de Page Droite) */
+.summary-box {
+  background: #ecfdf5;
+  border: 1.5px solid #a7f3d0;
+  border-left: 7px solid #059669;
+  border-radius: 7px;
+  padding: 12px 16px;
+}
+.summary-box h3 {
+  font-size: 13px;
+  font-weight: 900;
+  text-transform: uppercase;
+  color: #0f172a;
+  margin-bottom: 8px;
+  letter-spacing: 0.3px;
+}
+.summary-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px 16px;
+  font-size: 13px;
+  line-height: 1.35;
+}
+.summary-item strong {
+  color: #000000;
+  font-weight: 900;
+}
+
+/* PIED DE PAGE */
+.footer {
+  border-top: 1.8px solid #cbd5e1;
+  padding-top: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 10px;
+  color: #334155;
+  font-weight: 800;
+}
+.legend-inline {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+.legend-dot {
+  display: inline-block;
+  width: 9px;
+  height: 9px;
+  border-radius: 2px;
+  margin-right: 4px;
+}
+</style>
+</head>
+<body>
+
+  <!-- ===================================================================== -->
+  <!-- PAGE 1 (GAUCHE) : POSTE DE PESÉE & TABLEAUX EN GROS CARACTÈRES        -->
+  <!-- ===================================================================== -->
+  <div class="sheet-page">
+    <div>
+      <div class="header-banner">
+        <div class="header-titles">
+          <h1>Gamme Quiches Traiteur (48 pcs / Caisse)</h1>
+          <div class="subtitle">Chèvre-Épinard, Lardon & Poireaux — Garnissage direct avec légumes surgelés</div>
+        </div>
+        <div class="header-right">
+          <div class="header-badge">FICHE ATELIER 13 • GAUCHE</div>
+          <div class="page-indicator">PAGE 1/2 • POSTE DE PESÉE</div>
+        </div>
+      </div>
+
+      <div class="flash-row">
+        
+        <div class="flash-card green">
+          <div class="lbl">Légumes</div>
+          <div class="val">Mis congelés directement</div>
+        </div>
+        
+
+        <div class="flash-card amber">
+          <div class="lbl">Appareil</div>
+          <div class="val">50 % Œufs / 50 % Crème 35%</div>
+        </div>
+        
+
+        <div class="flash-card ">
+          <div class="lbl">Sel</div>
+          <div class="val">Lardon 4g/kg • Autres 8g/kg</div>
+        </div>
+        
+
+        <div class="flash-card alert">
+          <div class="lbl">Cuisson Four</div>
+          <div class="val">170 °C (30 à 35 min)</div>
+        </div>
+        
+      </div>
+
+      <div class="tables-container">
+        
+    <table class="giant-table">
+      <thead><tr><th class='left'>1. Quiche Chèvre-Épinard (150 g)</th><th class='right'>Par Pièce</th><th class='right'>10 Caisses (480p)</th><th class='right'>20 Caisses (960p)</th><th class='right'>30 Caisses (1 440p)</th></tr></thead>
+      <tbody>
+        <tr class='step-row-1'><td class='left ing-name'><span class='step-pill s1'>1</span>Œufs entiers liquides</td><td class='right weight-cell'>45 g</td><td class='right weight-cell'>21,6 kg</td><td class='right weight-cell'>43,2 kg</td><td class='right weight-cell'>64,8 kg</td></tr>
+<tr class='step-row-1'><td class='left ing-name'><span class='step-pill s1'>1</span>Crème liquide 35 % MG</td><td class='right weight-cell'>45 g</td><td class='right weight-cell'>21,6 kg</td><td class='right weight-cell'>43,2 kg</td><td class='right weight-cell'>64,8 kg</td></tr>
+<tr class='step-row-1'><td class='left ing-name'><span class='step-pill s1'>1</span>Sel fin <span class='ing-note'>(8 g/kg)</span></td><td class='right weight-cell'>0,7 g</td><td class='right weight-cell'>350 g</td><td class='right weight-cell'>700 g</td><td class='right weight-cell'>1 050 g</td></tr>
+<tr class='step-row-1'><td class='left ing-name'><span class='step-pill s1'>1</span>Poivre moulu</td><td class='right weight-cell'>0,15 g</td><td class='right weight-cell'>65 g</td><td class='right weight-cell'>130 g</td><td class='right weight-cell'>195 g</td></tr>
+<tr class='step-row-1'><td class='left ing-name'><span class='step-pill s1'>1</span>Noix de muscade</td><td class='right weight-cell'>0,05 g</td><td class='right weight-cell'>20 g</td><td class='right weight-cell'>40 g</td><td class='right weight-cell'>60 g</td></tr>
+<tr class='subtotal'><td class='left ing-name'>SOUS-TOTAL 1 • APPAREIL LIQUIDE</td><td class='right weight-cell'>90 g</td><td class='right weight-cell'>43,2 kg</td><td class='right weight-cell'>86,4 kg</td><td class='right weight-cell'>129,6 kg</td></tr>
+<tr class='step-row-2'><td class='left ing-name'><span class='step-pill s2'>2</span>Épinards congelés</td><td class='right weight-cell'>40 g</td><td class='right weight-cell'>19,2 kg</td><td class='right weight-cell'>38,4 kg</td><td class='right weight-cell'>57,6 kg</td></tr>
+<tr class='step-row-2'><td class='left ing-name'><span class='step-pill s2'>2</span>Chèvre en rondelles / dés</td><td class='right weight-cell'>20 g</td><td class='right weight-cell'>9,6 kg</td><td class='right weight-cell'>19,2 kg</td><td class='right weight-cell'>28,8 kg</td></tr>
+        <tr class='total-final'><td class='left'>TOTAL CHÈVRE-ÉPINARD</td><td class='right'>150 g</td><td class='right'>72,0 kg</td><td class='right'>144,0 kg</td><td class='right'>216,0 kg</td></tr>
+      </tbody>
+    </table>
+    
+
+    <table class="giant-table">
+      <thead><tr><th class='left'>2. Quiche Lardon (140 g) & 3. Quiche Poireaux (160 g)</th><th class='right'>Lardon (Pce)</th><th class='right'>Lardon (10 C.)</th><th class='right'>Poireaux (Pce)</th><th class='right'>Poireaux (10 C.)</th><th class='right'>Poireaux (20 C.)</th></tr></thead>
+      <tbody>
+        <tr class='step-row-1'><td class='left ing-name'><span class='step-pill s1'>1</span>Œufs entiers liquides</td><td class='right weight-cell'>50 g</td><td class='right weight-cell'>24,0 kg</td><td class='right weight-cell'>50 g</td><td class='right weight-cell'>24,0 kg</td><td class='right weight-cell'>48,0 kg</td></tr>
+<tr class='step-row-1'><td class='left ing-name'><span class='step-pill s1'>1</span>Crème liquide 35 % MG</td><td class='right weight-cell'>50 g</td><td class='right weight-cell'>24,0 kg</td><td class='right weight-cell'>50 g</td><td class='right weight-cell'>24,0 kg</td><td class='right weight-cell'>48,0 kg</td></tr>
+<tr class='step-row-1'><td class='left ing-name'><span class='step-pill s1'>1</span>Sel fin <span class='ing-note'>(4 g/kg ou 8 g/kg)</span></td><td class='right weight-cell'>0,4 g</td><td class='right weight-cell'>190 g</td><td class='right weight-cell'>0,8 g</td><td class='right weight-cell'>380 g</td><td class='right weight-cell'>760 g</td></tr>
+<tr class='step-row-1'><td class='left ing-name'><span class='step-pill s1'>1</span>Poivre moulu</td><td class='right weight-cell'>0,2 g</td><td class='right weight-cell'>100 g</td><td class='right weight-cell'>0,15 g</td><td class='right weight-cell'>70 g</td><td class='right weight-cell'>140 g</td></tr>
+<tr class='step-row-1'><td class='left ing-name'><span class='step-pill s1'>1</span>Noix de muscade</td><td class='right weight-cell'>0,05 g</td><td class='right weight-cell'>25 g</td><td class='right weight-cell'>0,05 g</td><td class='right weight-cell'>25 g</td><td class='right weight-cell'>50 g</td></tr>
+<tr class='subtotal'><td class='left ing-name'>SOUS-TOTAL 1 • APPAREIL LIQUIDE</td><td class='right weight-cell'>100 g</td><td class='right weight-cell'>48,0 kg</td><td class='right weight-cell'>100 g</td><td class='right weight-cell'>48,0 kg</td><td class='right weight-cell'>96,0 kg</td></tr>
+<tr class='step-row-2'><td class='left ing-name'><span class='step-pill s2'>2</span>Lardons crus / Poireaux congelés</td><td class='right weight-cell'>30 g</td><td class='right weight-cell'>14,4 kg</td><td class='right weight-cell'>50 g</td><td class='right weight-cell'>24,0 kg</td><td class='right weight-cell'>48,0 kg</td></tr>
+<tr class='step-row-2'><td class='left ing-name'><span class='step-pill s2'>2</span>Emmental râpé</td><td class='right weight-cell'>10 g</td><td class='right weight-cell'>4,8 kg</td><td class='right weight-cell'>10 g</td><td class='right weight-cell'>4,8 kg</td><td class='right weight-cell'>9,6 kg</td></tr>
+        <tr class='total-final'><td class='left'>TOTAL LARDON / POIREAUX</td><td class='right'>140 g</td><td class='right'>67,2 kg</td><td class='right'>160 g</td><td class='right'>76,8 kg</td><td class='right'>153,6 kg</td></tr>
+      </tbody>
+    </table>
+    
+      </div>
+    </div>
+
+    <div class="footer">
+      <span>FICHE ATELIER 13 • TRAITEUR & GIROCRÊPES</span>
+      <span class="legend-inline">
+        <span><i class="legend-dot" style="background:#0284c7;"></i>1. Base / Frasage</span>
+        <span><i class="legend-dot" style="background:#d97706;"></i>2. Incorp. / Liquides</span>
+        <span><i class="legend-dot" style="background:#059669;"></i>3. Poudres / Tourage</span>
+        <span><i class="legend-dot" style="background:#7c3aed;"></i>4. Inclusions / Finition</span>
+      </span>
+      <span>PAGE GAUCHE (1/2)</span>
+    </div>
+  </div>
+
+  <!-- ===================================================================== -->
+  <!-- PAGE 2 (DROITE) : PROTOCOLE PAS À PAS, FAÇONNAGE & CUISSON            -->
+  <!-- ===================================================================== -->
+  <div class="sheet-page">
+    <div>
+      <div class="header-banner">
+        <div class="header-titles">
+          <h1>Gamme Quiches Traiteur (48 pcs / Caisse) — Marche à Suivre</h1>
+          <div class="subtitle">Protocole chronologique étape par étape, conduite machine et barème de cuisson</div>
+        </div>
+        <div class="header-right">
+          <div class="header-badge">FICHE ATELIER 13 • DROITE</div>
+          <div class="page-indicator">PAGE 2/2 • PROTOCOLE &amp; FOUR</div>
+        </div>
+      </div>
+
+      <div class="right-content">
+        
+        <div class="proto-block">
+          <h2>1. Appareil & Garnissage Direct Congelé</h2>
+          <ul class="proto-list">
+            <li><strong><span class='step-pill s1'>ÉTAPE 1</span> Appareil à quiche :</strong> Fouetter ensemble les œufs entiers, la crème liquide, le sel, le poivre et la noix de muscade <strong>(1)</strong> jusqu'à homogénéité.</li>
+<li><strong><span class='step-pill s2'>ÉTAPE 2</span> Garnissage des fonds :</strong> Répartir les légumes <strong>directement congelés</strong> (ou les lardons crus) ainsi que le fromage <strong>(2)</strong> au fond des tartelettes.</li>
+<li><strong>Coulage :</strong> Verser l'appareil liquide <strong>(1)</strong> par-dessus la garniture jusqu'au bord du moule.</li>
+          </ul>
+        </div>
+        <div class="proto-block b2">
+          <h2>2. Cuisson & Conditionnement</h2>
+          <ul class="proto-list">
+            <li><strong>Cuisson (170 °C) :</strong> Cuire au four ventilé pendant <strong>30 à 35 minutes</strong> oura fermé, jusqu'à obtenir une belle coloration dorée et une tenue ferme à cœur.</li>
+<li><strong>Ressuage :</strong> Démouler tiède et laisser refroidir sur grille pour préserver le croustillant du fond avant la mise en caisses de 48 pièces.</li>
+          </ul>
+        </div>
+        <div class="summary-box">
+          <h3>Repères de Contrôle Rapide au Poste (FICHE ATELIER 13)</h3>
+          <div class="summary-grid">
+            <div class='summary-item'>• Légumes : <strong>Mis congelés directement</strong></div>
+<div class='summary-item'>• Appareil : <strong>50 % Œufs / 50 % Crème 35%</strong></div>
+<div class='summary-item'>• Sel : <strong>Lardon 4g/kg • Autres 8g/kg</strong></div>
+<div class='summary-item'>• Cuisson Four : <strong>170 °C (30 à 35 min)</strong></div>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+
+    <div class="footer">
+      <span>FICHE ATELIER 13 • Gamme Quiches Traiteur (48 pcs / Caisse)</span>
+      <span>Lire de gauche à droite classeur ouvert (Pesées à gauche ↔ Protocole à droite)</span>
+      <span>PAGE DROITE (2/2)</span>
+    </div>
+  </div>
+
+</body>
+</html>
