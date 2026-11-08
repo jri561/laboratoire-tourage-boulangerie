@@ -9,10 +9,10 @@ Ce guide technique est calibré directement pour votre modèle : la **Rondo Croi
 
 ```mermaid
 flowchart LR
-    subgraph A["1. Station Amont de Découpe (Droite)"]
-        A1["Tapis convoyeur d'entrée incliné\n(Bande de pâte à 10–12 °C)"]
+    subgraph A["1. Station Amont de Découpe Guillotine (Droite)"]
+        A1["Tapis convoyeur d'entrée incliné\n(Bande à 10–12 °C / Face farinée dessous)"]
         --> A2["Rouleau presseur & guidage latéral jaune\n(Plaquage sans écrasement)"]
-        --> A3["Cylindres rotatifs de découpe triangulaire\n(Sous carter sécurisé à barreaux)"]
+        --> A3["Guillotine triangulaire montante/descendante\n(Frappe verticale + tampons éjecteurs à ressorts)"]
     end
     subgraph B["2. Station Centrale d'Orientation & Transfert"]
         B1["Table intermédiaire sous grille inox\n(Poignée étoile de déverrouillage)"]
@@ -90,7 +90,45 @@ Le farinage sur Croissomat est un exercice de haute précision. L'objectif est d
 
 ---
 
-## 3. Le Bloc d'Enroulement Transversal : Maîtrise des 3 Manettes à Coulisses Rouges
+## 3. La Station de Découpe Guillotine : Poinçon Triangulaire Montant & Descendant
+
+Sur votre modèle Rondo SCM50, la découpe n'utilise pas des rouleaux cylindriques continus mais une **matrice d'emporte-pièce triangulaire oscillante à mouvement alternatif vertical (Guillotine / Estampage)**.
+
+```
+                   [LAME TRIANGULAIRE MÉTALLIQUE]
+                                │  ▲
+             Course verticale   │  │  Relevage cadencé
+             d'impact franc     ▼  │
+          ┌──────────────────────────────────────────────┐
+          │   [Tampons Presseurs / Éjecteurs à Ressorts] │
+          └──────────────────────────────────────────────┘
+          ════════════════════════════════════════════════  Bande de Pâte (3,5 mm)
+          ────────────────────────────────────────────────  Tapis Convoyeur Incliné
+```
+
+### 3.1 Mécanique du Poinçon Vertical & Tampons Éjecteurs
+1. **L'Impact de Coupe Verticale** :
+   * La lame triangulaire biseautée descend en un coup franc vertical pour sectionner simultanément les 3 arêtes du triangle sur toute l'épaisseur de la bande (3,5 mm).
+   * L'avance du tapis est rigoureusement synchronisée avec la cadence de frappe : le tapis marque un micro-arrêt ou une course d'accompagnement au moment précis de l'impact.
+2. **Le Rôle Vital des Tampons Éjecteurs (Anti-Soulèvement / Anti-Lifting)** :
+   * À l'intérieur du cadre de la lame triangulaire se trouvent des **tampons presseurs en plastique/téflon montés sur ressorts**.
+   * Au moment où la lame remonte, ces tampons restent en appui sur la pâte pour **la maintenir plaquée contre le tapis convoyeur**.
+   * *Sans ces tampons ou si la face supérieure est collante* : La pâte adhère par effet ventouse à l'intérieur de la lame et se fait soulever en l'air lors de la remontée, retombant en vrac et déformant le triangle.
+
+### 3.2 Les 3 Réglages Critiques du Poinçon Vertical
+* **Réglage de la Profondeur de Descente (Butée micrométrique)** :
+  * La lame doit effleurer le tapis convoyeur pour sectionner 100 % des fibres de gluten inférieures sans jamais entailler la toile du tapis.
+  * *Si la lame descend 0,3 mm trop haut* : Les feuillets inférieurs restent reliés par une fine pellicule de pâte (« peau de sole »). Lors du transfert vers la table centrale, les triangles s'arrachent et déchirent la pointe.
+  * *Si la lame descend trop bas* : Écrasement brutal des rives (les 12 films de beurre sont soudés sur le bord au lieu de rester alvéolés) et usure prématurée du tapis.
+* **Pourquoi la face farinée en dessous est encore plus cruciale avec la guillotine** :
+  * Le coup de poinçon vertical exerce une pression perpendiculaire directe qui plaque violemment la pâte contre le tapis.
+  * **Si la face inférieure n'était pas farinée**, la pâte s'encastrerait et collerait sous l'impact au tapis convoyeur. Le voile de farine sous la bande permet au triangle de se libérer instantanément après la frappe.
+* **Affûtage et propreté des lames** :
+  * Nettoyage à sec au racloir plastique souple. Aucun résidu de pâte séchée sur les angles : un angle encrassé retient la pointe du triangle et provoque des amorces de rupture.
+
+---
+
+## 4. Le Bloc d'Enroulement Transversal : Maîtrise des 3 Manettes à Coulisses Rouges
 
 Le panneau latéral gauche est le centre nerveux du façonnage. Les trois manettes à poignée étoile noire coulissent dans des arcs de cercle munis de **réglettes graduées rouges**.
 
@@ -131,7 +169,7 @@ Le panneau latéral gauche est le centre nerveux du façonnage. Les trois manett
 
 ---
 
-## 3. Le Dispositif d'Étirement Axial (L'Allongement du Triangle)
+## 5. Le Dispositif d'Étirement Axial (L'Allongement du Triangle)
 
 Sur la Rondo SCM50, l'obtention d'un croissant élancé dépend de l'élongation préalable du triangle entre la station de découpe et le module d'enroulement :
 
@@ -144,7 +182,7 @@ Sur la Rondo SCM50, l'obtention d'un croissant élancé dépend de l'élongation
 
 ---
 
-## 4. Matrice de Dépannage Immédiat au Poste SCM50
+## 6. Matrice de Dépannage Immédiat au Poste SCM50
 
 | Constat Visuel sur le Croissant | Cause Mécanique sur la SCM50 | Correction Immédiate |
 | :--- | :--- | :--- |
