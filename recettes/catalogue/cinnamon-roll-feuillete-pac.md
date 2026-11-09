@@ -5,7 +5,7 @@
 * **Procédé** : Double Congélation PAC (Cru Surgelé -35 °C $\rightarrow$ Pousse Étuvée en Caissette $\rightarrow$ Blocage PAC Sonde -10 °C à cœur)
 * **Ligne de Façonnage** : Ligne Rondo Polyline (Doseuse d'appareil cannelle + Racleur + Enrouleur automatique boudin + Guillotine + Dépose en Caissettes)
 * **Format d'Atelier** : Double Page Vis-à-Vis (Page Gauche : Poste Pesée & Appareil Cannelle | Page Droite : Conduite Polyline, Caissettes & Cuisson)
-* **Version** : `v1.0-STANDARD-USINE` | **Statut** : 🟢 Validé Production & Standard Atelier
+* **Version** : `v1.0-STANDBY` | **Statut** : 🔵 En R&D / Standby Atelier (Recette en pause à retravailler)
 
 ---
 

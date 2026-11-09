@@ -5,7 +5,7 @@
 * **Procédé** : Double Congélation PAC (Cru Surgelé -35 °C $\rightarrow$ Pousse Étuvée en Alvéoles $\rightarrow$ Blocage PAC Sonde -10 °C à cœur)
 * **Ligne de Façonnage** : Laminoir Rondo Compas + Polyline (Disques de découpe bandelettes + Fente axiale + Façonnage en turban + Moules muffins)
 * **Format d'Atelier** : Double Page Vis-à-Vis (Page Gauche : Poste Pesée & Pâton | Page Droite : Conduite Moules Muffins, PAC & Finition Sucre)
-* **Version** : `v1.0-STANDARD-USINE` | **Statut** : 🟢 Validé Production & Standard Atelier
+* **Version** : `v1.0-STANDBY` | **Statut** : 🔵 En R&D / Standby Atelier (Régularité à stabiliser)
 
 ---
 
