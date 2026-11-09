@@ -70,6 +70,6 @@ Puisque la matrice et la rampe sont fixes, l'opérateur n'a que **3 réglages ph
 | :--- | :--- | :--- |
 | **Laminoir Rondo Compas** | Épaisseur finale d'abaisse | **3,5 mm (± 0,1 mm)** $\rightarrow$ conditionne le poids fixe de 75 g cru |
 | **Arbres à Galets Bleus** | Centrage latéral sur chaque piste | Bloquer les 3 galets sur l'axe médian de chaque piste (pression douce sans sillon) |
-| **Commande 1 (Haut/Gauche)** | Entrefait d'amorce d'entrée | **5,0 à 6,0 mm** (1/3 bas de coulisse) $\rightarrow$ accrochage doux sans heurt ni écrasement de base |
-| **Commande 2 (Haut/Droite)** | Hauteur de sortie / Pente | **28 à 32 mm** (mi-hauteur coulisse) $\rightarrow$ dégagement libre du rouleau 3-4 spires sans laminage |
-| **Commande 3 (Inférieure)** | Galbe tablier & Position Clé | **Position souple (1/3 gauche)** $\rightarrow$ 3 à 4 spires lâches (Laplace) + pointe calée **à 6h dessous** |
+| **Poignée Supérieure DROITE (Entrée)** | Entrefait d'amorce amont | **5,0 à 6,0 mm** (environ 1/3 bas de coulisse) $\rightarrow$ accrochage doux de la base de triangle sans écrasement |
+| **Poignée Supérieure GAUCHE (Sortie)**| Dégagement aval du rouleau | **28 à 32 mm** (remonter vers le haut) $\rightarrow$ libère le croissant de 30 mm sans l'écraser à l'éjection |
+| **Poignée INFÉRIEURE (Galbe & Clé)**   | Cambrure tablier & Clé à 6h | **Position souple (1/3 gauche)** $\rightarrow$ 3 à 4 spires lâches (Laplace) + pointe verrouillée **dessous à 6h** |
