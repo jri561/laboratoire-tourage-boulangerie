@@ -119,22 +119,52 @@ def main():
     chocolat_kg = pains_choc * 0.010
 
     pains_raisins = int((paton_toure_total_kg * 0.98) / 0.055) # 55 g de pâte crue par pièce
-    creme_kg = pains_raisins * 0.020
-    poudre_creme_kg = creme_kg * 0.259
-    eau_creme_kg = creme_kg * 0.741
+    creme_raisins_kg = pains_raisins * 0.020
+    poudre_creme_raisins_kg = creme_raisins_kg * 0.259
+    eau_creme_raisins_kg = creme_raisins_kg * 0.741
     raisins_kg = pains_raisins * 0.015
+
+    pains_suisses = int((paton_toure_total_kg * 0.98) / 0.070) # 70 g de pâte crue par pièce
+    creme_suisse_kg = pains_suisses * 0.035
+    poudre_creme_suisse_kg = creme_suisse_kg * 0.259
+    pepites_kg = pains_suisses * 0.015
+
+    oranais = int((paton_toure_total_kg * 0.98) / 0.060) # 60 g de pâte crue par pièce
+    creme_oranais_kg = oranais * 0.025
+    oreillons_nb = oranais * 2
+    abricots_kg = oranais * 0.015
+
+    cinnamon_rolls = int((paton_toure_total_kg * 0.98) / 0.055) # 55 g de pâte crue par pièce
+    appareil_cannelle_kg = cinnamon_rolls * 0.020
+    beurre_cannelle_kg = appareil_cannelle_kg * 0.40
+    cassonade_kg = appareil_cannelle_kg * 0.50
+    cannelle_kg = appareil_cannelle_kg * 0.10
+
+    cruffins = int((paton_toure_total_kg * 0.98) / 0.080) # 80 g de pâte crue par pièce
 
     print("-" * 72)
     print("RENDEMENTS D'ATELIER ESTIMÉS SI PRODUCTION DÉDIÉE (après parage 2 %) :")
-    print(f"  > CROISSANTS D'EXCELLENCE (75 g cru) : ~{croissants} pièces")
-    print(f"  > PAINS AU CHOCOLAT 1 BARRE (85 g brut : 75 g pâte + 10 g barre 160) :")
+    print(f"  > 1. CROISSANTS D'EXCELLENCE (75 g cru) : ~{croissants} pièces")
+    print(f"  > 2. PAINS AU CHOCOLAT 1 BARRE (85 g brut : 75 g pâte + 10 g barre 160) :")
     print(f"      - Quantité produite              : ~{pains_choc} pains au chocolat")
-    print(f"      - Besoin en barres calibre 160    : ~{pains_choc} barres ({chocolat_kg:.2f} kg de chocolat)")
-    print(f"      - Équivalent boîtes (160 barres)  : ~{boites_160} boîte(s)")
-    print(f"  > PAINS AUX RAISINS ESCARGOTS (90 g brut : 55 g pâte + 20 g crème + 15 g raisins) :")
+    print(f"      - Besoin en barres calibre 160    : ~{pains_choc} barres ({chocolat_kg:.2f} kg) | ~{boites_160} boîte(s)")
+    print(f"  > 3. PAINS AUX RAISINS ESCARGOTS (90 g brut : 55 g pâte + 20 g crème + 15 g raisins) :")
     print(f"      - Quantité produite              : ~{pains_raisins} escargots")
-    print(f"      - Crème pâtissière à froid       : {creme_kg:6.2f} kg ({poudre_creme_kg:.2f} kg poudre + {eau_creme_kg:.2f} kg eau)")
+    print(f"      - Crème pâtissière à froid       : {creme_raisins_kg:6.2f} kg ({poudre_creme_raisins_kg:.2f} kg poudre)")
     print(f"      - Raisins secs bruts (non trempés): {raisins_kg:6.2f} kg")
+    print(f"  > 4. PAINS SUISSES (120 g brut : 70 g pâte + 35 g crème + 15 g pépites) :")
+    print(f"      - Quantité produite              : ~{pains_suisses} pièces")
+    print(f"      - Crème pâtissière à froid       : {creme_suisse_kg:6.2f} kg ({poudre_creme_suisse_kg:.2f} kg poudre)")
+    print(f"      - Pépites chocolat 50 %          : {pepites_kg:6.2f} kg")
+    print(f"  > 5. ORANAIS AUX ABRICOTS (100 g brut : 60 g pâte + 25 g crème + 15 g abricots) :")
+    print(f"      - Quantité produite              : ~{oranais} pièces")
+    print(f"      - Crème pâtissière à froid       : {creme_oranais_kg:6.2f} kg")
+    print(f"      - Demi-oreillons égouttés        : ~{oreillons_nb} oreillons ({abricots_kg:6.2f} kg)")
+    print(f"  > 6. CINNAMON ROLLS FEUILLETÉS (75 g brut : 55 g pâte + 20 g appareil cannelle) :")
+    print(f"      - Quantité produite en caissettes: ~{cinnamon_rolls} pièces")
+    print(f"      - Appareil Beurre/Cannelle/Cass. : {appareil_cannelle_kg:6.2f} kg (Beurre: {beurre_cannelle_kg:.2f}kg, Cassonade: {cassonade_kg:.2f}kg, Cannelle: {cannelle_kg:.2f}kg)")
+    print(f"  > 7. CRUFFINS ATELIER (80 g brut de pâte tourée) :")
+    print(f"      - Quantité produite en alvéoles  : ~{cruffins} cruffins")
     print("-" * 72)
     print(f"Diagnostic Thermique : {bilan_froid['remarque']}")
     print("=" * 72)
