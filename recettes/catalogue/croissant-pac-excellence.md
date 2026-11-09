@@ -24,8 +24,8 @@
 
 | Phase & Ordre | Ingrédient d'Atelier | % Meunier | 1 Bac (8,0 kg) | 10 Bacs (80 kg) | 20 Bacs (160 kg) | Spécification & Rôle Biochimique |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| **`[1]` Bleu** | **Farine de Gruau T45** | **70,0 %** | **3 133 g** | **31,33 kg** | **62,65 kg** | $W > 330$, protéines ~14 %, armature cryorésistante |
-| **`[1]` Bleu** | **Farine T65 Tradition (Décret 93)** | **30,0 %** | **1 342 g** | **13,42 kg** | **26,85 kg** | Sans E300 ajouté ; apporte souplesse et goût |
+| **`[1]` Bleu** | **Farine Gruau Rouge T45 (Moulin de Cadillac)** | **70,0 %** | **3 133 g** | **31,33 kg** | **62,65 kg** | $W > 330$, protéines ~14 %, armature cryorésistante pure sans additif |
+| **`[1]` Bleu** | **Farine Tradition pure (Décret 93)** | **30,0 %** | **1 342 g** | **13,42 kg** | **26,85 kg** | Sans E300 ajouté ; apporte souplesse et goût |
 | **`[1]` Bleu** | **Eau glacée (+1 °C) / Glace** | **45,0 %** | **2 014 g** | **20,14 kg** | **40,28 kg** | $a_w$ maîtrisée, fraction congelable minimisée |
 | **`[1]` Bleu** | **Sucre cristal** | **8,8 %** | **394 g** | **3,94 kg** | **7,88 kg** | Osmotolérance et réactions de Maillard |
 | **`[1]` Bleu** | **Trimoline (Sucre inverti)** | **3,5 %** | **157 g** | **1,57 kg** | **3,13 kg** | $180\text{ g/mol}$ : abaisse $\Delta T_f$, anti-rétrogradation |
