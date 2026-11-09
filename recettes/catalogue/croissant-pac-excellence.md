@@ -109,16 +109,20 @@ flowchart TD
    - **Rouleau étireur** : Pression douce d'entraînement sans écraser le feuilletage. Cet allongement est rendu docile par le coupage meunier (30 % T65 Tradition) qui maintient le $P/L \le 0,62$.
 4. **Fleusage & Époussetage Rigoureux** :
    - Brosses rotatives supérieure et inférieure en action active pour balayer tout résidu de farine sur les deux faces du triangle avant l'enroulement (élimine le risque de débobinage en étuve ou de feuilletage qui s'ouvre en ressort au four).
-5. **Réglage du Tablier d'Enroulement (Mailles Inox Flexibles)** :
-   - **Entrefait d'amorce d'entrée** : Calibré à **5–6 mm** (1,5 fois l'épaisseur de pâte). La base accroche instantanément sans heurter ni plisser.
-   - **Élévation progressive** : Profil en coin divergent montant vers 28–32 mm en sortie pour accompagner la prise de diamètre du rouleau.
-   - **Lestage souple (Loi de Laplace $T = \Delta P \cdot r$)** : Alléger les barres de charge pour garantir **3 à 4 spires lâches**. L'opérateur doit pouvoir introduire l'extrémité du petit doigt dans les cavités latérales sans forcer.
-   - **Calage de la Clé (Pointe dessous)** : Translation du tablier ajustée pour que **la pointe du triangle termine rigoureusement plaquée sous le croissant (à 6 heures)** contre la plaque de cuisson, empêchant tout redressement en étuve ("langue de chat").
+5. **Réglage Précis de l'Enrouleur Croissomat SCM50 (Sens Droite $\rightarrow$ Gauche)** :
+   *(Se référer au guide visuel atelier : [`guide_croissomat_scm50_sens_reel.png`](file:///home/toto/.gemini/antigravity/brain/bc31aa75-d0a6-4b32-9375-bab1b5922ed5/guide_croissomat_scm50_sens_reel.png))*
+   - **Poignée Supérieure DROITE (Entrée / Amorce Amont)** : Calibrée à **5,0 – 6,0 mm** (environ 1/3 bas de la coulisse, soit 1,5 fois l'épaisseur de pâte 3,5 mm). La base accroche instantanément sans heurter ni plisser.
+   - **Poignée Supérieure GAUCHE (Sortie / Dégagement Aval)** : Calibrée à **28 – 32 mm** (position **haute** sur la coulisse). Profil en coin divergent qui libère le rouleau de 30 mm sans laminage ni écrasement des pointes à l'éjection. *(Attention : ne jamais la laisser en bas de coulisse)*.
+   - **Poignée INFÉRIEURE (Cambrure du Tablier & Position Clé à 6h)** : Calibrée en **position souple (1/3 gauche)** pour garantir **3 à 4 spires lâches** (loi de Laplace $\sigma_\theta = \frac{P \cdot r}{e}$, alvéolage ouvert en toile d'araignée). Micro-ajuster millimètre par millimètre pour que **la pointe termine rigoureusement plaquée sous le croissant (à 6 heures)** contre la plaque.
 
 ---
 
 ### Étape 4 : Double Congélation PAC, Pousse & Cuisson Directe
-1. **1ʳᵉ Surgélation (Cru)** : Sortie immédiate de machine $\rightarrow$ cellule rapide à **-35 °C** pendant 40 min. Ensachage hermétique à -18 °C.
+1. **1ʳᵉ Surgélation (Cru façonné) & Mise en Caisse Lean (200 pièces/caisse)** :
+   - Dépose en sortie de Croissomat sur grilles nues garnies d'une feuille de papier sulfurisé (gabarit centré 54 × 34 cm : **50 croissants par feuille**).
+   - Descente flash immédiate en cellule à **-35 °C pulsé** pendant 35 à 45 min (sur plaques nues pour échange thermique maximal).
+   - Dès la sortie de cellule (pièces dures comme du bois), transfert par traction de la feuille directement dans la caisse plastique inclinée doublée d'une housse PE alimentaire : **4 feuilles glissées = 200 pièces par caisse** (le papier sert d'intercalaire anti-collage).
+   - Rabattement hermétique croisé de la housse (écran total anti-sublimation et anti-croûtage blanc) et stockage à **-18 °C**.
 2. **Pousse Contrôlée** :
    - Décongélation lente nocturne 10 h à 12 h à +2 °C / +4 °C.
    - Étuve à **25 °C – 26 °C et 75–80 % HR** pendant 2 h 15 à 2 h 35.
@@ -127,7 +131,7 @@ flowchart TD
 4. **2ᵉ Blocage PAC (Contrôle Sonde à Cœur)** :
    - Sonde thermique témoin piquée au cœur géométrique d'un pâton.
    - Lancement cellule à -35 °C $\rightarrow$ **arrêt strict dès que la sonde affiche -10 °C à cœur**.
-   - Cartonnage hermétique immédiat et stockage en chambre à **-18 °C**.
+   - Mise en caisses plastiques doublées d'une housse hermétique (**2 couches maximum en quinconce**, sans tasser) et stockage à **-18 °C**.
 5. **Barème de Cuisson Direct Congelé (Zéro Décongélation)** :
    - Four ventilé préchauffé à **185 °C – 190 °C**.
    - Enfournement direct sans tempérage + injection de **3 secondes de buée**.
