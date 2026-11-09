@@ -74,14 +74,14 @@
 
 ```mermaid
 flowchart TD
-    A["Pâton PLF Touré 10,0 kg (12 films)\nAbaisse Laminoir 3,0 mm (Bande ~42–44 cm)\nEnroulement sur rouleau de transfert"] 
-    --> B["Déroulage sur Tapis Rondo Polyline\nFace farinée en DESSOUS (glisse tapis)\nFace supérieure NUE (adhérence de crème & soudure)"]
+    A["Pâton PLF Touré 10,0 kg (12 films)\nAbaisse Laminoir 3,0 mm (Bande ~48 cm)\nEnroulement sur rouleau de transfert"] 
+    --> B["Déroulage sur Tapis Rondo Polyline\nFace farinée en DESSOUS (glisse tapis)\nFace supérieure NUE (adhérence crème & soudure)"]
     --> C["Décompression libre de la bande >= 60 s\n(Annulation du retrait élastique snapback)"]
-    --> D["Poste 1 : Doseuse Polyline\n(Dépose continue sur la moitié inférieure de bande)"]
-    --> E["Poste 2 : Racleur d'étalement\n(Couche ~1,5–2 mm sur demi-bande de 20 cm)"]
-    --> F["Poste 3 : Déversoir à pépites chocolat\n(Pluie de 15 g pépites chocolat 50% sur la crème)"]
-    --> G["Poste 4 : Plieuse / Rabatteur de bande Polyline\n(Repliage de la moitié supérieure nue sur la garniture)"]
-    --> H["Poste 5 : Rouleau presseur léger + Guillotine\n(Coupe transversale en bandes de 4 cm -> 120 g pile)"]
+    --> D["POSTE 1 : 1re Matrice de coupe longitudinale\n(Disques de refente coupant les bandes dans la longueur)"]
+    --> E["POSTE 2 : Doseuse Polyline\n(Dépose continue de la crème à froid Staufim/Finecrem sur chaque bande)"]
+    --> F["POSTE 3 : Épandeur de pépites chocolat\n(Pluie de pépites chocolat 50% sur la zone crémée)"]
+    --> G["POSTE 4 : Guillotine transversale Polyline\n(Coupe nette des portions individuelles de 120 g brut à plat)"]
+    --> H["POSTE 5 : Pliage Portefeuille Manuel (Opérateurs)\n(Rabat de la moitié nue sur la garniture + Plaquage Silpat)"]
     --> I["Plaquage 60x40 (15 à 18 pcs / plaque Silpat)\n1re Surgélation Cellule Flash -35 °C (45 min)"]
     --> J["Décongélation Froid (10–12 h à +2/+4 °C)\n+ Pousse Étuve 25–26 °C / 75–80% HR (70–75% vol.)"]
     --> K["Raffermissement 15 min (+4 °C)\n+ Dorure Végétale Pistolet sur la face supérieure"]
@@ -93,21 +93,33 @@ flowchart TD
 
 ### Étape 1 : Laminage & Déroulage Inversé sur Polyline
 1. **Laminage fin sur Rondo Compas** :
-   * Abaisser progressivement jusqu'à **3,0 mm (± 0,1 mm)**. Largeur de bande : **~42 à 44 cm**.
+   * Abaisser progressivement jusqu'à **3,0 mm (± 0,1 mm)**. Largeur de bande : **~46 à 48 cm**.
 2. **Déroulage Inversé** :
    * **Côté fariné impérativement en dessous (contre le tapis)**.
    * **Face supérieure rigoureusement nue et sans farine volante** :
-     * Permet à la crème d'adhérer directement sur la pâte.
-     * Permet à la couche supérieure nue rabattue de se souder instantanément sur les bords sans s'ouvrir en chambre de pousse.
+     * Permet à la crème d'adhérer directement sur la pâte sans glisser.
+     * Permet aux deux volets de pâte nue de se souder instantanément au pliage manuel sans bulle d'air ni décollement en étuve.
 3. **Décompression libre ($\ge 60\text{ s}$)** :
-   * Annuler le retrait élastique avant engagement sous les postes de garnissage.
+   * Annuler le retrait élastique avant engagement sous les outils.
 
 ---
 
-### Étape 2 : Conduite Automatisée sur la Ligne Rondo Polyline
-1. **Poste 1 & 2 • Dépose & Racleur à Mi-Bande** :
-   * La doseuse dépose la crème Staufim/Finecrem sur la **moitié inférieure de la bande (largeur ~20 cm)**.
-   * Le racleur étale la crème en une couche homogène de **~1,5 à 2 mm**.
+### Étape 2 : Conduite Séquentielle sur la Ligne Rondo Polyline
+1. **Poste 1 • Première Matrice (Disques de Refente Longitudinaux)** :
+   * Les couteaux circulaires coupent la bande en bandes longitudinales continues de largeur calibrée (correspondant à la longueur dépliée du pain suisse, soit ~22–24 cm déplié pour 2 bandes, ou bandes unitaires).
+2. **Poste 2 • Doseuse de Crème Pâtissière à Froid** :
+   * La doseuse alimente chaque bandelette en continu d'un ruban de crème Staufim/Finecrem sur sa moitié inférieure (**~35 g de crème / portion**).
+   * L'autre moitié reste nue pour le rabat de fermeture.
+3. **Poste 3 • Épandeur de Pépites de Chocolat** :
+   * Distribution régulière de **15 g de pépites chocolat 50 %** par pièce sur la zone crémée.
+4. **Poste 4 • Guillotine Transversale Polyline** :
+   * La guillotine coupe transversalement les bandes garnies à plat à intervalles réguliers (largeur de ~38–42 mm).
+   * **Résultat en sortie de guillotine** : Des portions individuelles coupées nettes à plat pesant exactement **120 g brut** (70 g pâte + 35 g crème + 15 g pépites).
+5. **Poste 5 • Pliage Portefeuille Manuel & Plaquage** :
+   * En sortie de guillotine, les opérateurs saisissent chaque rectangle garni à plat.
+   * D'un geste franc, ils rabattent la moitié de pâte nue sur la crème et les pépites de chocolat (pliage portefeuille en 2).
+   * La pièce pliée (rectangle compact de ~12 × 4 cm) est immédiatement déposée sur plaque 60×40 (Silpat ou papier cuisson).
+   * *Avantage de cette méthode atelier* : La machine assure 100 % de la précision de dosage et de coupe géométrique ; le pliage manuel en bout de ligne élimine tout risque de coincement mécanique de la garniture dans un plieur automatique.
    * La moitié supérieure de la bande reste totalement vierge de crème.
 2. **Poste 3 • Saupoudreur / Épandeur de Pépites Chocolat** :
    * Dépose régulière de **15 g de pépites de chocolat 50 %** par pièce sur la zone crémée.

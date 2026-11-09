@@ -77,57 +77,57 @@
 
 ```mermaid
 flowchart TD
-    A["Pâton PLF Touré 10,0 kg (12 films)\nAbaisse Laminoir 3,0 mm (Bande ~48–50 cm)\nEnroulement sur rouleau de transfert"] 
+    A["Pâton PLF Touré 10,0 kg (12 films)\nAbaisse Laminoir 3,0 mm (Bande ~48 cm)\nEnroulement sur rouleau de transfert"] 
     --> B["Déroulage sur Tapis Rondo Polyline\nFace farinée en DESSOUS (glisse tapis)\nFace supérieure NUE (soudure cravate & crème)"]
     --> C["Décompression libre de la bande >= 60 s\n(Annulation du retrait élastique snapback)"]
-    --> D["Disques de refente Polyline\n(Découpe de 4 bandes parallèles de 12 cm de large)"]
-    --> E["Guillotine transversale Polyline\n(Cadence réglée à 12 cm -> Carrés parfaits 12x12 cm / 60 g)"]
-    --> F["Dépose Doseuse Polyline ou Manuelle\n(1 cordon diagonal de 25 g de crème Staufim/Finecrem)"]
-    --> G["Dépose de 2 Demi-Oreillons d'Abricots (15 g)\n(1 oreillon à chaque extrémité de la diagonale)"]
-    --> H["Pliage Cravate des 2 pointes libres opposées\n(Rabat vers le centre avec pression digitale ferme)"]
-    --> I["Plaquage 60x40 (12 à 15 pcs / plaque Silpat)\n1re Surgélation Cellule Flash -35 °C (45 min)"]
-    --> J["Décongélation Froid (10–12 h à +2/+4 °C)\n+ Pousse Étuve 25–26 °C / 75–80% HR (70–75% vol.)"]
-    --> K["Raffermissement 15 min (+4 °C)\n+ Dorure Végétale Pistolet sur la pâte (hors fruits)"]
-    --> L["2e Blocage PAC (Cellule -35 °C / Sonde -10 °C à cœur)\nStockage cartons étanches -18 °C"]
-    --> M["Cuisson Directe Congelé 160–165 °C ventilé (15–17 min)\nLustrage immédiat Sirop 44° Brix froid sur pièces brûlantes"]
+    --> D["POSTE 1 : 1re Matrice de coupe longitudinale\n(Disques de refente divisant en bandes de ~12 cm)"]
+    --> E["POSTE 2 : Doseuse Polyline\n(Dépose continue ou cadencée de crème Staufim/Finecrem sur chaque bande)"]
+    --> F["POSTE 3 : Guillotine transversale Polyline\n(Coupe cadencée à 12 cm -> Carrés garnis à plat 12x12 cm / 85 g)"]
+    --> G["POSTE 4 : Pliage Cravate Manuel (Opérateurs)\n(Croisement des 2 pointes au centre SANS ABRICOT)"]
+    --> H["1re Surgélation Cellule Flash -35 °C SANS FRUITS\n(Stockage tampon étanche à -18 °C : zéro synérèse)"]
+    --> I["Décongélation Froid (10–12 h à +2/+4 °C)\n+ Pousse Étuve 25–26 °C / 75–80% HR (70–75% vol.)"]
+    --> J["Raffermissement 15 min (+4 °C) + Dorure Végétale Pistolet\n+ DÉPOSE DES 2 DEMI-OREILLONS D'ABRICOTS ÉGOUTTÉS (15 g)"]
+    --> K["2e Blocage PAC (Sonde -10 °C à cœur) OU Enfournement Direct\n(Cuisson ventilée 160–165 °C / 15–17 min)"]
+    --> L["Lustrage immédiat Sirop 44° Brix froid sur pièces brûlantes\n(Éclat miroir sur pâte et fruits)"]
 ```
 
 ---
 
-### Étape 1 : Laminage & Découpe des Carrés sur Polyline
+### Étape 1 : Laminage & Ligne Polyline (Séquence Usine)
 1. **Laminage fin sur Rondo Compas** :
-   * Abaisser progressivement jusqu'à **3,0 mm (± 0,1 mm)**. Largeur de bande : **~48 à 50 cm**.
+   * Abaisser progressivement jusqu'à **3,0 mm (± 0,1 mm)**. Largeur de bande : **~48 cm**.
 2. **Déroulage Inversé & Décompression** :
    * Côté fariné en dessous (glisse tapis), face supérieure nue et sans farine.
    * Décompression libre $\ge 60\text{ s}$ sur tapis.
-3. **Découpe en Carrés Parfaits (12 × 12 cm)** :
-   * Les disques de refente longitudinaux divisent la bande de 48 cm en **4 bandes de 12 cm de large**.
-   * La guillotine transversale est réglée avec une avance tapis de **12 cm par frappe**.
-   * On obtient des carrés parfaits de **12 × 12 cm pesant exactement 60 g de pâte nette**.
+3. **Poste 1 • Première Matrice (Disques de Refente)** :
+   * Les couteaux circulaires divisent la bande en **4 bandes longitudinales régulières de 12 cm de large**.
+4. **Poste 2 • Doseuse de Crème Pâtissière à Froid** :
+   * La doseuse dépose un plot ou cordon continu de **25 g de crème Staufim/Finecrem** au centre de chaque bande.
+5. **Poste 3 • Guillotine Transversale Polyline** :
+   * La guillotine coupe transversalement tous les 12 cm pour débiter des carrés garnis réguliers de **12 × 12 cm**.
+6. **Poste 4 • Pliage Cravate Manuel (SANS FRUITS) & Plaquage** :
+   * Les opérateurs rabattent les deux pointes opposées au centre par-dessus la crème, en appuyant fermement au point de croisement central pour sceller la soudure.
+   * **RÈGLE FONDAMENTALE D'ATELIER : ZÉRO ABRICOT À CE STADE !**
+   * *Justification scientifique* : L'abricot au sirop contient 85 % d'eau libre. Congelé dans le pâton cru, ses cellules éclatent sous l'effet des cristaux de glace. Lors de la décongélation, le fruit libère son eau (synérèse acide), détrempant complètement le feuilletage et faisant pourrir la pousse. Les oranais sont donc **surgelés et stockés à -18 °C avec la crème seule**.
 
 ---
 
-### Étape 2 : Garnissage & Façonnage Cravate
-1. **Dépose de la Crème Pâtissière à Froid** :
-   * Déposer un boudin diagonal de **25 g de crème Staufim/Finecrem** reliant deux pointes opposées du carré.
-2. **Dépose des Oreillons d'Abricots** :
-   * Poser **2 demi-oreillons égouttés** (bombé vers le haut) sur le cordon de crème, chacun pointant vers un angle.
-3. **Pliage Cravate (Soudure centrale)** :
-   * Rabattre la première pointe libre (non garnie) par-dessus la crème et les fruits vers le centre.
-   * Humidifier très légèrement la pointe avec un doigt humide (ou laisser la pâte nue coller).
-   * Rabattre la seconde pointe opposée par-dessus la première pour croiser en « cravate ».
-   * **Appuyer fermement avec le pouce au point de croisement central** pour souder les deux épaisseurs de pâte.
-   * *Avantage de la face nue* : La pâte nue colle immédiatement sans former de bulle de farine.
-
----
-
-### Étape 3 : Double Congélation PAC & Pousse Contrôlée
-1. **Plaquage & 1ʳᵉ Surgélation Flash** :
+### Étape 2 : Double Congélation PAC & Pousse Contrôlée
+1. **Plaquage & 1ʳᵉ Surgélation Flash (Pâte + Crème)** :
    * Déposer sur plaques 60×40 (3 rangées de 4 ou 5 = **12 à 15 pièces par plaque**).
-   * Passage immédiat en cellule flash à **-35 °C pendant 45 minutes**.
-   * Stockage tampon en cartons hermétiques à **-18 °C**.
+   * Cellule flash à **-35 °C pendant 40 minutes**.
+   * Stockage tampon en cartons étanches à **-18 °C**.
 2. **Pousse Contrôlée (Après décongélation)** :
-   * Décongélation lente en froid positif (+2 °C à +4 °C) pendant 10 h à 12 h.
+   * Décongélation lente à +2 °C / +4 °C pendant 10 h à 12 h.
+   * Pousse étuve à **25 °C – 26 °C et 75–80 % HR** pendant **2 h 15 à 2 h 30** (arrêt à 70–75 % de volume).
+3. **Garnissage Fruits Post-Pousse & Dorure** :
+   * Sortie étuve et raffermissement **15 minutes à +4 °C**.
+   * Pulvériser la **Dorure Végétale au pistolet** sur la pâte feuilletée.
+   * **Dépose des Abricots** : Poser délicatement **2 demi-oreillons d'abricots bien égouttés** dans les deux cavités ouvertes aux extrémités de la cravate.
+   * *Résultat* : Le fruit reste charnu, ne détrempe pas la pâte et cuit de façon éclatante.
+4. **2ᵉ Blocage PAC ou Enfournement** :
+   * Si stocké en PAC prêt-à-cuire avec fruit : passage flash -35 °C jusqu'à sonde cœur -10 °C.
+   * Si cuisson jour même : enfournement immédiat.
    * Pousse en étuve à **25 °C – 26 °C et 75–80 % HR** pendant **2 h 15 à 2 h 30**.
    * **Arrêt de pousse strict à 70–75 % du volume**.
 3. **Raffermissement & Dorure Végétale** :

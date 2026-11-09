@@ -8,13 +8,13 @@
 
 | Pôle de Fabrication | Nb Produits Recensés | Validés (`🟢`) | En Cours (`🔵`) | En Attente d'Audit (`🟡`) |
 | :--- | :---: | :---: | :---: | :---: |
-| **1. Viennoiseries Feuilletées (PLF & Tourage)** | 10 | 7 | 0 | 3 |
+| **1. Viennoiseries Feuilletées (PLF & Tourage)** | 10 | 5 | 2 | 3 |
 | **2. Viennoiserie Générale & Pâtes Levées** | 4 | 0 | 0 | 4 |
 | **3. Biscuiterie, Cakes & Pâtisserie Nomade** | 10 | 0 | 0 | 10 |
 | **4. Pâtisserie Boulangère Traditionnelle & Bases** | 4 | 0 | 0 | 4 |
 | **5. Pôle Girocrêpes & Traiteur Salé** | 5 | 0 | 0 | 5 |
 | **6. Référentiels d'Atelier & Documents Transverses** | 5 | 0 | 0 | 5 |
-| **TOTAL GÉNÉRAL** | **38** | **7** | **0** | **31** |
+| **TOTAL GÉNÉRAL** | **38** | **5** | **2** | **31** |
 
 ---
 
@@ -25,10 +25,10 @@
 | `V-PLF-01` | **Croissant d'Excellence PAC** | 75 g | Poussé Surgelé (PAC), Ligne Rondo, Beurre 82/84% | [Fiche](recettes/catalogue/croissant-pac-excellence.md) | 🟢 Validé Production |
 | `V-PLF-02` | **Pain au Chocolat Équerré PAC** | 85 g (75g pâte + 10g choco) | Poussé Surgelé (PAC), 1 grosse barre 160, Polyline | [Fiche](recettes/catalogue/pain-chocolat-equerre-pac.md) | 🟢 Validé Production |
 | `V-PLF-03` | **Pain aux Raisins (Escargot) PAC** | 90 g (55g pâte + 20g crème + 15g raisins) | Poussé Surgelé (PAC), Crème à froid Staufim/Finecrem, Raisins bruts, Polyline | [Fiche](recettes/catalogue/pain-raisins-escargot-pac.md) | 🟢 Validé Production |
-| `V-PLF-04` | **Pain Suisse (Chocolatines) PAC** | 120 g (70g pâte + 35g crème + 15g pépites) | Poussé Surgelé (PAC), Pliage portefeuille, Polyline | [Fiche](recettes/catalogue/pain-suisse-chocolatine-pac.md) | 🟢 Validé Production |
-| `V-PLF-05` | **Oranais aux Abricots PAC** | 100 g (60g pâte + 25g crème + 15g abricots) | Poussé Surgelé (PAC), Pliage cravate, Sirop 44° Brix, Polyline | [Fiche](recettes/catalogue/oranais-abricots-pac.md) | 🟢 Validé Production |
-| `V-PLF-06` | **Cinnamon Roll Feuilleté PAC** | 75 g (55g pâte + 20g cannelle) | Poussé Surgelé (PAC), Cuisson caissettes plissées Ø 50 mm, Polyline | [Fiche](recettes/catalogue/cinnamon-roll-feuillete-pac.md) | 🟢 Validé Production |
-| `V-PLF-07` | **Cruffin Atelier PAC** | 80 g de pâte tourée pure | Poussé Surgelé (PAC), Façonnage turban, Cuisson moules muffins | [Fiche](recettes/catalogue/cruffin-atelier-pac.md) | 🟢 Validé Production |
+| `V-PLF-04` | **Pain Suisse (Chocolatines) PAC** | 120 g (70g pâte + 35g crème + 15g pépites) | Poussé Surgelé (PAC), Matrice largeurs -> Doseuse -> Pépites -> Guillotine -> Pliage manuel | [Fiche](recettes/catalogue/pain-suisse-chocolatine-pac.md) | 🟢 Validé Production |
+| `V-PLF-05` | **Oranais aux Abricots PAC** | 100 g (60g pâte + 25g crème + 15g abricots) | Poussé Surgelé (PAC), Matrice -> Doseuse -> Guillotine -> Pliage manuel -> **PAC sans fruit (abricots post-pousse)** | [Fiche](recettes/catalogue/oranais-abricots-pac.md) | 🟢 Validé Production |
+| `V-PLF-06` | **Cinnamon Roll Feuilleté PAC** | 75 g (55g pâte + 20g cannelle) | Recette en standby / R&D atelier à retravailler | [Fiche](recettes/catalogue/cinnamon-roll-feuillete-pac.md) | 🔵 En R&D / Standby Atelier |
+| `V-PLF-07` | **Cruffin Atelier PAC** | 80 g de pâte tourée | Bande simplement roulée en moule / Calibrage régularité à stabiliser | [Fiche](recettes/catalogue/cruffin-atelier-pac.md) | 🔵 En R&D / Standby Atelier |
 | `V-KOU-01` | **Kouign-Amann Individuel (Roulé)** | 100 g | 90 pcs/pâton 9 kg, caissettes inox, 2 tours simples | `03_Kouign_Amann_Cru_Surgele.pdf` | 🟡 En attente d'audit / Archive |
 | `V-KOU-02` | **Kouign-Amann Partage 4 & 6 pers** | 400 g / 600 g | Pliage traditionnel carré, fleur de sel de Guérande | `03_Kouign_Amann_Cru_Surgele.pdf` | 🟡 En attente d'audit / Archive |
 | `P-FEU-01` | **Feuilletage Inversé Universel (Manié)** | Bande 3 mm | 1 tour simple + 2 tours doubles (48 feuillets) | `05_Feuilletage_Inverse.pdf` | 🟡 En attente d'audit / Archive |
