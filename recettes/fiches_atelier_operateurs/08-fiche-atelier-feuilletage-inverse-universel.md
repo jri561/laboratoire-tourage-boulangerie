@@ -49,7 +49,7 @@
 * **Galettes 4 Personnes (Ø 20 cm)** : 2 disques de 100 g = **200 g pâte / galette** $\longrightarrow$ **~32 galettes finies** par pâton (avec rognures).
 * **Galettes 6 Personnes (Ø 24 cm)** : 2 disques de 140 g = **280 g pâte / galette** $\longrightarrow$ **~22 à 23 galettes finies** par pâton.
 * **Galettes 8 Personnes (Ø 28 cm)** : 2 disques de 200 g = **400 g pâte / galette** $\longrightarrow$ **~16 galettes finies** par pâton.
-* **Rognures Propres** : Empiler à plat en mille-feuille (ne jamais bouler) $\longrightarrow$ réincorporer à 15 % en détrempe neuve ou abaisser à 2,5 mm pour allumettes traiteur.
+* **Rognures Propres $\longrightarrow$ Valorisation Officielle en Palmiers & Pailles Caramélisés :** Empiler immédiatement à plat en mille-feuille propre (ne jamais bouler), détendre 2 h à +4 °C. Allonger au laminoir sur lit de sucre semoule (zéro farine) à **3,5–4,0 mm**. Façonner en **Palmiers** (pliage double portefeuille, tranches 10–12 mm) ou en **Pailles** (lanières 1,5 × 12 cm). Cuisson **185 °C sur Silpat, retournés à la palette à mi-cuisson** (caramélisation ambrée sur les deux faces, marge brute > 90 %).
 
 ---
 

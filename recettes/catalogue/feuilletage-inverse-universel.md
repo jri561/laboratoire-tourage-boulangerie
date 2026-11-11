@@ -224,3 +224,25 @@ Dans la recette académique, la détrempe ne contient que farine et eau salée. 
     - **Galettes 6 personnes (280 g pâte) :** **~104 galettes finies** par carton.
     - **Galettes 8 personnes (400 g pâte) :** **~72 galettes finies** par carton.
 * **Zéro Déchet & Fluidité Logistique :** 1 carton complet de beurre utilisé, 2 pains étalons de margarine Opal entiers (zéro reste entamé), calculs arrondis nets.
+
+---
+
+### 5.4 Protocole de Valorisation des Rognures : Palmiers & Pailles Caramélisés
+
+Pour éradiquer tout gaspillage de matière première noble (Beurre Debic 82 %) et générer une marge brute $> 90\text{ }\%$ en boutique sans altérer les galettes :
+
+1. **Règle d'or de Récupération des Rognures :**
+   * **Interdiction formelle de bouler ou froisser en boule** (ce qui détruirait les 48 strates de beurre).
+   * **Superposer les bandes de rognures à plat en mille-feuille propre**, face contre face, les tasser légèrement à la main.
+   * Filmer au contact et laisser détendre **2 heures au froid positif (+4 °C)**.
+2. **Laminage sur Lit de Sucre (Fleurdage à la Farine Proscrit) :**
+   * Saupoudrer généreusement le tour et les deux faces du bloc de rognures avec du **sucre semoule blanc** (ou sucre cassonade blonde).
+   * Abaisser au laminoir par passes douces jusqu'à **3,5 mm à 4,0 mm**. Le sucre s'incruste intimement dans la pâte sous la pression des rouleaux.
+3. **Façonnage des Deux Formats :**
+   * **Palmiers Pur Beurre :** Rabattre les deux extrémités de la bande vers le centre en laissant un interstice de 1 cm au milieu, puis replier les deux côtés l'un sur l'autre (pliage double portefeuille). Passer 10 min en cellule ou au frigo pour figer la matière grasse. Trancher des tronçons nets de **10 à 12 mm** au couteau de tour affûté. Disposer à plat sur plaque Silpat avec un espacement généreux (expansion latérale en éventail).
+   * **Pailles Dorées :** Découper la bande étalée à 2,5–3,0 mm en lanières de **1,5 cm × 12 à 15 cm**. Les vriller délicatement sur elles-mêmes et les aligner sur Silpat.
+4. **Cuisson & Double Caramélisation (Le Geste Maître) :**
+   * Enfourner à **185 °C en four ventilé** (ou 195 °C en four à sole).
+   * **À mi-cuisson (vers 10–12 minutes) :** Dès que le sucre du dessous fond et caramélise en un disque ambré, sortir la plaque et **retourner chaque palmier et paille d'un geste sec à la palette**.
+   * Poursuivre la cuisson **3 à 4 minutes** pour caraméliser la seconde face.
+   * **Débarrassage immédiat sur grille froide :** Le caramel vitrifie en 30 secondes en devenant cassant et croustillant comme du verre. Conditionner en sachets de 150 g / 200 g.
