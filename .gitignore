@@ -1,5 +1,9 @@
 # Fichiers volumineux (> 100 Mo rejetés par les quotas GitHub sans Git LFS)
 recettes/archives/legacy/Docs_Techniques_Drive/dokumen.pub_bakery-technology-and-engineering-first-edition.pdf
+docs/bibliotheque/
+
+# Fichiers temporaires de compilation PDF
+exports_pdf/*.html
 
 # Python
 __pycache__/
@@ -9,5 +13,6 @@ __pycache__/
 .codegraph/
 .vscode/
 .idea/
+.agents/
 *.swp
 .DS_Store

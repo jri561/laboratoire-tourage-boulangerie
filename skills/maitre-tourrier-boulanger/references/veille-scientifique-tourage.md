@@ -82,6 +82,29 @@ Ces revues à comité de lecture (*peer-reviewed*) fournissent les données chif
   * Standards technologiques officiels du répertoire français : Températures d'ébullition, gélatinisation de l'amidon du flan pâtissier ($82\text{--}85\text{ }^\circ\text{C}$), sablages et crémages sans corsage.
   * Hygiène, chaîne du froid et réglementation sanitaire européenne (Paquet Hygiène, plan de maîtrise sanitaire / PMS).
 
+### Faridi, H., Faubion, J. M., & Menjivar, J. A. (Van Nostrand Reinhold / AVI Book)
+* **Ouvrage** : *Dough Rheology and Baked Product Texture* (608 p.).
+* **Apports fondamentaux** :
+  * Viscoélasticité dynamique des pâtes de blé (Menjivar, Chapitre 1) : Modules de conservation $G'$ et de perte $G''$, tangente de perte $\tan \delta = G''/G' \approx 0{,}35 - 0{,}50$ pour un réseau viscoélastique optimal, et limite de déformation linéaire critique ($\gamma_c < 0{,}2\%$) au-delà de laquelle la structure devient thixotrope et non-linéaire.
+  * Modélisation hydrodynamique du laminage mécanique (Leon Levine & Bruce A. Drew, Chapitre 14) :
+    * Écoulement rhéologique sous loi de puissance ($\tau = K \dot{\gamma}^n$, avec $K = 4{,}45 \times 10^3\ \mathrm{Pa\cdot s^n}$ et $n = 0{,}35$ pour pâte hydratée à 43 %).
+    * Distribution de la pression hydraulique avec pic maximal en amont de la striction minimale (*nip*).
+    * Pression d'écartement générant la flexion des cylindres (*roll bending*) et la déflexion des arbres (*shaft deflection*), imposant un profil bombé (*cambered rolls*) ou des têtes multi-rouleaux satellites pour garantir l'épaisseur sur grandes largeurs.
+    * Nombre de Deborah ($De = \lambda / t_{\mathrm{res}}$) : seuil de rupture des feuillets de beurre si $De \gg 1$.
+  * États vitreux et plastification (Harry Levine & Louise Slade, Chapitre 5) : Définition de la température de transition vitreuse $T_g$ et antiplastification par le sucre dans les pâtes biscuitières et viennoises.
+
+### Eliasson, A.-C. (2004) & Sjöö, M., Nilsson, L. (2017) (Woodhead Publishing / Elsevier)
+* **Ouvrages** : *Starch in Food: Structure, Function and Applications* (1re et 2e Éditions).
+* **Apports fondamentaux** :
+  * Cryobiologie de l'amidon et des pâtes crues surgelées PAC (H. Douglas Goff, Chapitre 14) :
+    * Cryo-concentration de la phase non-congelée (UFP) et température de transition vitreuse maximale $T_g'$ ($-12\text{ }^\circ\text{C}$ à $-15\text{ }^\circ\text{C}$).
+    * Eau non congelable résiduelle ($W_g' \approx 20 - 25\%$) piégée dans la matrice vitreuse à haute viscosité ($10^{10} - 10^{14}\ \mathrm{Pa\cdot s}$).
+    * Mûrissement d'Ostwald des cristaux de glace : mécanismes de dégradation lors des fluctuations thermiques et nécessité d'un entreposage strictly $< -18\text{ }^\circ\text{C}$ sous $T_g'$.
+  * Complexes d'inclusion amylose-lipides (Eliasson & Wahlgren, Chapitre 15) :
+    * Formation d'hélices simples en V entre l'amylose et les acides gras libres/monoglycérides distillés.
+    * Effet anti-rassissement par blocage stérique de la rétrogradation de l'amylose et de l'amylopectine.
+  * Cinétique de gélatinisation de l'amidon de blé sous restriction d'eau et effet antiplastifiant du saccharose (Patrica & Alain Le-Bail, Chapitre 15).
+
 ---
 
 ## 3. Centres Techniques, Instituts et Écoles Supérieures
@@ -136,3 +159,52 @@ Ces revues à comité de lecture (*peer-reviewed*) fournissent les données chif
   * Four à sole : Conduction directe à la sole (développement de base et croustillant de sole) + rayonnement voûte.
   * Four ventilé rotatif : Convection forcée, nécessité d'une surchauffe d'accueil de 20 °C à l'enfournement pour compenser l'ouverture de porte et la charge froide de pâtons PAC à -18 °C.
   * Évacuation de l'humidité : Ouverture des ouras sur les 4 à 5 dernières minutes pour sécher le feuilletage en profondeur et fixer la structure croustillante.
+
+---
+
+## 5. Synthèse des Modèles Physiques Avancés pour le Tourage et la Cryogénie
+
+### A. Modélisation Hydrodynamique du Laminage (Levine & Drew vs Rondo)
+1. **Équation de cisaillement sous loi de puissance (Power-law fluid)** :
+   $$\tau = K \, \dot{\gamma}^n$$
+   * Pâte à pain / viennoiserie hydratée à 43 % : $K = 4{,}45 \times 10^3\ \mathrm{Pa\cdot s^n}$, indice d'écoulement $n = 0{,}35$ (matériau fortement rhéofluidifiant).
+   * Pâte ferme peu hydratée (30 % eau) : $K = 3{,}33 \times 10^4\ \mathrm{Pa\cdot s^n}$, $n = 0{,}41$.
+   * *Précision thermique critique (Levine & Drew, d'après Harper 1981, Table 14-2)* : Ces constantes de consistance ont été mesurées expérimentalement à **$43\ ^\circ\mathrm{C}$** (110 °F). À la température de laminage en atelier de tourage (**$4\text{ à }14\ ^\circ\mathrm{C}$**), la thermo-dépendance (loi d'Arrhenius) augmente la consistance $K$ d'un facteur 5 à 10, décuplant la résistance mécanique au cisaillement et la force d'écartement exercée sur les cylindres.
+2. **Profil de pression hydraulique et forces d'écartement** :
+   * Le passage forcé entre les deux cylindres rotatifs engendre un profil de pression asymétrique avec un pic maximal situé juste en amont de la striction minimale (*nip*).
+   * Cette pression hydraulique interne génère une **force d'écartement considérable** qui provoque le fléchissement mécanique des cylindres en leur centre (*roll bending*) et la déflexion des arbres d'entraînement (*shaft deflection*).
+   * *Conséquence sur la régularité du tourage* : Sur des laizes de 600 mm ou plus, si les cylindres ne possèdent pas de profil bombé compensateur (*cambering*) ou si le taux de réduction est trop violent, la bande est plus épaisse au centre que sur les rives. Le beurre s'échappe latéralement et les feuillets périphériques sont cisaillés.
+3. **Nombre de Deborah ($De$) et intégrité des strates** :
+   $$De = \frac{\lambda}{t_{\mathrm{res}}}$$
+   Où $\lambda$ est le temps caractéristique de relaxation viscoélastique du réseau de gluten ($\lambda \approx 10\text{ à }60\text{ s}$) et $t_{\mathrm{res}}$ le temps de résidence de la pâte sous la striction des cylindres ($t_{\mathrm{res}} \approx 0{,}06\text{ à }0{,}1\text{ s}$ pour un nip de 30–50 mm à 0,3–0,5 m/s).
+   * **Régime hydrodynamique sous les cylindres ($De \approx 100\text{ à }1000 \gg 1$)** : Le passage dans l'entrefer est si rapide que le réseau de gluten n'a aucunement le temps de dissiper l'énergie par écoulement visqueux. La pâte répond instantanément comme un solide élastique déformé, accumulant une forte contrainte élastique résiduelle à l'origine du retrait dimensionnel (*snapback*).
+   * *Règle d'atelier et cinétique de relaxation* : Il est physiquement impossible de maintenir $De \le 1$ pendant la passe elle-même sur laminoir mécanique continu. La modération des taux de réduction d'épaisseur (**$\le 30 - 35\%$ par passe**) préserve la continuité des films de beurre sans rupture cisaillante, tandis que le **repos au froid de 20 à 30 minutes** entre chaque tour a pour fonction indispensable de **relaxer les contraintes élastiques résiduelles après la passe** avant d'engager le tour suivant.
+
+### B. Cryobiologie des Pâtes PAC & Thermodynamique de la Phase Non-Congelée (H.D. Goff)
+1. **Cryo-concentration et transition vitreuse ($T_g'$)** :
+   * Lors de la descente en température d'une pâte crue, l'eau cristallise sous forme de glace d'une grande pureté. Les solutés (sucres, minéraux, protéines solubles, amidon dissous) sont rejetés dans une phase liquide interstitielle de plus en plus concentrée : la phase non-congelée (UFP, *Unfrozen Phase*).
+   * Cette cryo-concentration augmente exponentiellement la viscosité de l'UFP jusqu'à atteindre la température de transition vitreuse maximale notée **$T_g'$** (comprise entre **$-12\text{ }^\circ\text{C}$ et $-15\text{ }^\circ\text{C}$** pour les solutions de saccharose et de maltodextrines).
+   * À $T_g'$, la viscosité franchit le seuil critique de $10^{10}$ à $10^{14}\ \mathrm{Pa\cdot s}$, figeant l'eau résiduelle non congelable ($W_g' \approx 20 - 25\%$) dans un état amorphe vitreux métastable où toute diffusion moléculaire est quasi-nulle.
+2. **Mécanisme de détérioration par Mûrissement d'Ostwald** :
+   * Si la température d'entreposage oscille au voisinage de $T_g'$ (par exemple entre $-12\text{ }^\circ\text{C}$ et $-15\text{ }^\circ\text{C}$ lors d'ouvertures de portes de chambre froide), le produit redevient caoutchouteux.
+   * Les petits cristaux de glace instables fondent et leur eau diffuse pour recristalliser à la surface des plus gros cristaux (*mûrissement d'Ostwald*).
+   * Ces macro-cristaux acérés grossissent, perforent la matrice de gluten et lacèrent les granules d'amidon. À la décongélation, la pâte subit un affaissement volumique irréversible et une synérèse aqueuse marquée.
+   * *Consigne de conservation PAC* : Maintien continu sous **$-18\text{ }^\circ\text{C}$ à $-20\text{ }^\circ\text{C}$**, garantissant que la pâte demeure profondément dans l'état vitreux amorphe stable.
+
+### C. Complexes d'Inclusion Amylose-Lipides (Ann-Charlotte Eliasson)
+* **Structure colloïdale en hélice simple V** :
+  * L'amylose linéaire libérée lors de la cuisson présente une conformation spatiale en hélice gauche dont la cavité centrale est hydrophobe.
+  * Cette cavité peut piéger la chaîne aliphatique apolaire des acides gras libres, des monoglycérides distillés ou des surfactants alimentaires (stéaroyl-2-lactylate de sodium, SSL).
+* **Conséquences technologiques fondamentales** :
+  1. *Blocage de la rétrogradation* : L'amylose complexée ne peut plus s'associer en doubles hélices rigides. La recristallisation de l'amidon est retardée, multipliant par deux à trois la durée de conservation du moelleux des brioches et viennoiseries.
+  2. *Insolubilité thermique* : Le complexe amylose-lipides présente une température de fusion supérieure à 90–100 °C, stabilisant la trame d'alvéoles lors de la cuisson et évitant le tassement de la mie au ressuage.
+
+---
+
+## Renvois Croisés & Sources Primaires du Laboratoire
+* Pour la mise en œuvre pratique sur laminoir Rondo et Croissomat : voir `materiel-lignes.md` et `croissomat-scm50-reglages.md`.
+* Pour les technologies de biscuiterie et contrôle du checking : voir `references/biscuiterie-cookies-laminage.md`.
+* Pour la formulation des gâteaux de voyage et l'activité de l'eau : voir `references/pates-battues-cakes-emulsions.md`.
+* Pour la physique de l'amidon et des courbes RVA : voir `references/science-amidon-gelatinisation.md`.
+* Sources primaires : Faridi & Faubion (1990, *Dough Rheology*), Eliasson (2004, *Starch in Food* 1re éd.), Sjöö & Nilsson (2017, *Starch in Food* 2e éd.), Deligny & Lucas (2014 & 2017, INRAE/Oniris).
+

@@ -114,3 +114,35 @@ Le tablier supérieur à mailles inox assure la conversion du mouvement linéair
 | **Pointe qui rebique / "langue de chat" à la cuisson** | Pointe non positionnée sous le croissant (clé mal orientée) | Déplacer le tablier en translation (± 10 mm) pour faire atterrir la pointe dessous à 6h. |
 | **Bords cisaillés / pâte qui colle aux couteaux** | Couteaux encrassés ou pâte poisseuse suite à fermentation nuit | Nettoyer les couteaux à sec ; vérifier la cellule flash (-35 °C) et la chambre à 0 °C/+1,5 °C. |
 | **Croissant en virgule / asymétrique** | Triangle mal centré ou doigts orienteurs désaxés | Réaligner les doigts de guidage amont pour que la base frappe le tablier parfaitement à 90°. |
+
+---
+
+## 5. Lignes Industrielles Haute Cadence : RONDO Smartline & Concept MLC (Suisse, 2023)
+
+### Tête Satellite Pivotante (*Pivoting Satellite Head*)
+* **Innovation cinématique** : Contrairement aux laminoirs conventionnels à rouleaux fixes dont la pression écrasante peut briser l'alternance détrempe/beurre, la **Smartline PSS640** utilise une tête satellite pivotante composée d'une couronne de rouleaux planétaires en rotation dynamique.
+* **Effet basse contrainte (*Stress-Free*)** :
+  * Amincissement par vagues successives d'effleurement sans étirement longitudinal violent.
+  * Maintien strict de l'épaisseur des films de beurre au-dessus du seuil de rupture critique de 15 µm.
+* **Alimentation continue MLC (*Modular Laminating Concept*)** :
+  * L'extrudeuse de graisse dépose une nappe de beurre continue sur la bande de détrempe.
+  * Pliage automatique en flux continu sans manipulation manuelle, alimentant directement la table de découpe.
+
+---
+
+## 6. Règles Avancées du Tourage de Compétition (Jimmy Griffin, 2020)
+
+### Systèmes 3-4-3 vs 3-4-4
+* **Système 3-4-3 (1S + 1D + 1S)** :
+  * Nombre de feuillets : $3 \times 4 \times 3 = 36$ couches de pâte ($35$ strates de beurre).
+  * Structure ultra-légère et alvéolée, croustillant maximal à la dégustation.
+* **Système 3-4-4 (1S + 2D — Médaille d'Argent Coupe du Monde Chocolatine Toulouse 2019)** :
+  * Nombre de feuillets : $3 \times 4 \times 4 = 48$ couches ($47$ strates de beurre, pile au plafond critique Deligny).
+  * Résistance mécanique supérieure : idéal pour les pains au chocolat pour éviter l'affaissement de voûte au niveau des deux barres de chocolat.
+
+### Règle Impérative de la Rotation à 90°
+* **Contrainte bidirectionnelle** : À chaque tour, la pâte doit obligatoirement être tournée d'un quart de tour (90°).
+* **Conséquence** : Cela croise les chaînes polypeptidiques du gluten, égalise l'élasticité dans la longueur et la largeur, et élimine tout risque de *snapback* asymétrique à l'emporte-pièce.
+
+### Régulation Thermique par Couvertures de Glace (*Ice Blankets*)
+* Application de nappes eutectiques refroidies directement sur les pâtons en cours de repos pour stabiliser la température à cœur sans sécher la croûte sous le flux d'air des ventilateurs de chambre froide.

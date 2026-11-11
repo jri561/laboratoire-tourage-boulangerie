@@ -88,22 +88,58 @@ Toujours raisonner en **films de matière grasse** (seule unité physique sépar
 
 ---
 
-## 4. Structure Normalisée des Fiches Techniques d'Atelier
+## 4. Architecture Universelle à Double Cahier & Standard de Pesée Strict
 
-Lors de la génération d'une fiche recette, adopter rigoureusement l'architecture ergonomique du laboratoire :
+### 4.1 Règle d'Or des Unités : 100 % EN GRAMMES (g) • ZÉRO VIRGULE • ARRONDIS NETS
+Toute recette générée ou modifiée pour le laboratoire DOIT impérativement respecter cette loi de pesée :
+1. **Unité Unique Exclusive** : **TOUT EST EXPRIMÉ EN GRAMMES (g)**. L'usage du kilogramme (kg) est formellement proscrit dans les tableaux de pesées pour éliminer tout calcul mental ou risque de confusion d'échelle au fournil.
+2. **Zéro Virgule** : Aucun chiffre décimal n'est toléré dans les fiches de production.
+3. **Arrondis selon la criticité des composants** :
+   * *Petits ingrédients critiques* (Levure fraîche, Améliorant, Sel, Vinaigre, Sucre inverti / Trimoline) : Arrondi strict **au gramme près** sur la base unitaire (1 bac ou 1 cadre), et à la dizaine de grammes près sur les grandes échelles (10 et 20 bacs).
+   * *Grandes masses* (Farines, Eau glacée, Margarine de cuve, Beurre de tourage) : Arrondis à la dizaine ou centaine de grammes pour que le total de pâte nette tombe **exactement sur un compte rond parfait** (ex. : 8 000 g pile / bac, 80 000 g pile / 10 bacs, 160 000 g pile / 20 bacs en PLF ; pâtons tourés à 10 000 g, 100 000 g et 200 000 g).
 
-1. **Cartouche d'En-tête** : Nom du produit, famille, calibres crus/cuits, tolérance ($\pm 2\text{ }\%$), repères thermiques (sortie pétrin, étuve, four, ouras).
-2. **Tableau des Pesées en 4 Phases Chronologiques** :
-   * *Phase 1 (Base / Frasage)* : Farines, eau/glace, liquides d'hydratation, sucres, levure/levain, poudres, sel, vinaigre.
-   * *Phase 2 (Autolyse / Incorporation 2e vitesse)* : Matière grasse cuve, enrichissements tardifs.
-   * *Phase 3 (Tourage)* : Plaques de beurre de tourage calibrées.
-   * *Phase 4 (Finition & Garniture)* : Bâtons de chocolat, dorure, sirops, inclusions.
-   * *Colonnes* : Ingrédient | % Meunier | Poids Détrempe unitaire (ex. 8 kg) | Poids pour Batch $N$ bacs | Rôle & Spécification technique.
-3. **Protocole Opératoire Chronologique** :
-   * Bloc 1 : Pétrissage & Températures cibles.
-   * Bloc 2 : Pointage, conditionnement et conduite du froid.
-   * Bloc 3 : Tourage, réglages laminoir/lignes et découpe / façonnage.
-   * Bloc 4 : Pousse (T°, HR, timing), dorure et barème de cuisson avec gestion des ouras.
+---
+
+### 4.2 L'Architecture Standard à Double Cahier
+Chaque produit ou famille de fabrication est systématiquement décliné en deux pôles documentaires miroirs :
+
+```
+                        ARCHITECTURE DOCUMENTAIRE DU LABORATOIRE
+ ┌───────────────────────────────────────────────┐     ┌───────────────────────────────────────────────┐
+ │        PÔLE 1 : LE CAHIER TECHNIQUE R&D       │     │     PÔLE 2 : LE CLASSEUR D'ATELIER ÉQUIPE     │
+ │       (Sur l'ordinateur du Chef / Direction)  │     │         (En production au fournil)            │
+ ├───────────────────────────────────────────────┤     ├───────────────────────────────────────────────┤
+ │ • Destinataire : Chef d'entreprise & R&D      │     │ • Destinataire : Ouvriers touriers & cuiseur  │
+ │ • Emplacement  : `recettes/catalogue/`        │     │ • Emplacement  : `recettes/fiches_atelier/`   │
+ │ • Rôle : Propriété intellectuelle & science   │     │ • Rôle : Exécution pure, zéro calcul mental   │
+ │ • Contenu :                                   │     │ • Contenu :                                   │
+ │   - Rhéologie des farines ($W$, $P/L$, Hagberg)│     │   - Pesées directes 100 % en grammes          │
+ │   - Thermodynamique (Fourier, Laplace, $a_w$) │     │   - Chronomètres et vitesses exactes          │
+ │   - Diagnostic des défauts & scénarios limites│     │   - Consignes machines et calibres nets       │
+ │   - 37 sources bibliographiques de référence  │     │   - Export PDF prêt à imprimer et plastifier  │
+ └───────────────────────────────────────────────┘     └───────────────────────────────────────────────┘
+```
+
+1. **Pôle 1 • Le Cahier Technique R&D (`recettes/catalogue/`)** :
+   * L'outil de travail et de capitalisation de la direction : conserve toute la justification biochimique, la rhéologie, les équations physiques et la traçabilité des matières premières.
+2. **Pôle 2 • Le Classeur d'Atelier Équipe (`recettes/fiches_atelier_operateurs/`)** :
+   * Le classeur physique relié et plastifié pour l'équipe (zéro feuille volante scotchée aux bâtis de machines).
+   * **Structure modulaire en 3 fiches pour chaque famille** :
+     - *Fiche Mère Commune* : Préparation de la pâte/appareil de base en 3 échelles réelles (1 bac, 10 bacs, 20 bacs).
+     - *Annexe Façonnages & Lignes* : Regroupe tous les calibres, découpes, outillages et aiguillages de stocks (cru -18 °C vs PAC étuvé) pour toute la gamme issue de la pâte mère.
+     - *Annexe Générale des Cuissons* : Tableau de bord thermique de tous les produits du classeur (préchauffage, cuisson, buée, **minute obligatoire d'ouverture des ouras** et ressuage sur grille).
+3. **Pipeline de Compilation Automatique PDF** :
+   * Toute fiche d'atelier doit être compilable en PDF vectoriel A4 haute définition via le script [`scripts/generate_cahier_atelier_pdf.py`](file:///home/toto/.gemini/antigravity/scratch/laboratoire-tourage-boulangerie/scripts/generate_cahier_atelier_pdf.py) et stockée dans `exports_pdf/` pour impression et plastification.
+
+---
+
+### 4.3 Standard Étalon Croissomat SCM50 (Gravé d'Usine)
+Pour le façonnage du croissant sur la Croissomat SCM50, les repères réels suivants sont impératifs :
+* **Manette Supérieure DROITE (Entrée amont)** : Indexée sur **2,2 à 2,5** (amorce douce de la base 3,5 mm sans écraser les 12 films).
+* **Manette Supérieure GAUCHE (Sortie aval)** : Indexée sur **3,0 à 3,2** (dégagement divergent libérant le rouleau de 30 mm sans calandrage).
+* **Manette INFÉRIEURE (Cambrure & Clé)** : Indexée sur **7,5 à 8,0** (en bas de coulisse horizontale, roulage souple en 3 à 4 spires lâches avec **petit jour visible au cœur**).
+* **Farinage Inversé Strict** : La bande est déroulée **face farinée en dessous (contre le tapis)**. La face supérieure reste vierge pour assurer l'auto-soudure des spires.
+* **Dépose Manuelle & Calage Clé** : L'opérateur récupère les croissants à la main en sortie et les pose sur plaque avec **la pointe (la clé) rigoureusement calée en dessous à 6 heures**.
 
 ---
 

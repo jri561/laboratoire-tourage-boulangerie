@@ -1,140 +1,151 @@
 # Fiche Technique d'Atelier : Croissant d'Excellence PAC (Double Congélation)
 
 * **Code Produit** : `V-PLF-01`
-* **Famille** : Viennoiserie Feuilletée & Pâtes Tourées (PLF Semi-Industrielle)
-* **Procédé** : Double Congélation (Cru Surgelé -35 °C $\rightarrow$ Pousse Étuvée $\rightarrow$ Blocage PAC Sonde -10 °C à cœur)
-* **Équipements Clés** : Pétrin spirale 160 kg (20 bacs), Laminoir Rondo Compas, Ligne Rondo Polyline, Enrouleur Croissomat, Cellules flash -35 °C, Bacs Paneo
-* **Format d'Atelier** : Double Page Vis-à-Vis (Page Gauche : Poste Pesée | Page Droite : Conduite Laminoir, Croissomat & Cuisson)
-* **Version** : `v2.0-STANDARD-USINE` | **Statut** : 🟢 Validé Production & Standard Atelier
+* **Famille** : Viennoiserie Feuilletée & Pâtes Tourées (PLF Semi-Industrielle d'Élite)
+* **Procédé** : Double Congélation Hub & Spoke (Cru Surgelé -35 °C $\rightarrow$ Décongélation lente $\rightarrow$ Pousse Étuvée 70–75 % $\rightarrow$ Blocage PAC Sonde -10 °C à cœur $\rightarrow$ Stockage -18 °C $\rightarrow$ Cuisson Directe Congelée en Boutique)
+* **Équipements Clés** : Pétrin spirale 160 kg (bacs de 8 kg), Laminoir Rondo Compas, Ligne Rondo Polyline, Enrouleur Rondo Croissomat SCM50 (rampe & matrice fixe, 3 manettes), Cellules flash -35 °C, Bacs Paneo
+* **Format d'Atelier** : Double Page Vis-à-Vis (Page Gauche : Formulation & Pesées | Page Droite : Conduite Laminoir, SCM50, Cryogénie & Cuisson Directe)
+* **Version** : `v3.0-BLINDAGE-SCIENTIFIQUE-DEFINITIF` | **Statut** : 🟢 Standard Maître Tourrier Validé
 
 ---
 
-## PAGE GAUCHE (1/2) • POSTE DE PESÉE
+## PAGE GAUCHE (1/2) • POSTE DE PESÉE & FORMULATION MAÎTRESSE
 
-### Repères Flash Poste de Pesée
-| Repère | Paramètre Clé | Spécification Atelier | Justification Scientifique & Rhéologique |
-| :--- | :--- | :--- | :--- |
-| 🟢 **Détrempe / Bac** | **8,00 kg pile / bac** | Format Paneo pré-laminé sur **3 cm d'épaisseur** | Loi de Fourier ($t \propto e^2/\alpha$) : division par 9 du temps de refroidissement à cœur |
-| 🟠 **Pétrissage & Sortie** | **5 min V1 + 4 min 30 V2** | Température sortie pétrin : **20 °C à 21 °C** | Pas de voile étiré ; premier décollement net pour préserver l'élasticité ($L$) |
-| 🔵 **Coupage Meunier** | **70 % Gruau / 30 % T65 Trad** | T65 Tradition pure (zéro E300 au moulin) | Ratio $P/L \approx 0,58\text{--}0,62$ ; neutralise le déchirement des croissants au roulage |
-| 🔴 **Cryoprotection & Sel** | **4,2 % Levure Or / 2,0 % Sel** | Trimoline 3,5 % + S500 Kimo Short **2,0 % strict** | Latence de 40 min à 21 °C sans fermentation nocturne précoce (anti-GSH) |
+### Repères Flash Opérateur Poste de Pesée
+| Repère Flash | Paramètre Clé | Spécification Atelier | Justification Biochimique & Rhéologique |
+| :---: | :--- | :--- | :--- |
+| 🟢 **Détrempe / Bac** | **8,00 kg pile / bac** | Format Paneo pré-laminé sur **3 cm d'épaisseur** | Loi de Fourier ($t \propto e^2/\alpha$) : division par 11 du temps de descente à cœur sous 6 °C |
+| 🟠 **Pétrissage & Sortie** | **5 min V1 + 4 min 30 V2** | Température sortie pétrin : **20 °C à 21 °C** | Arrêt strict au 1er décollement (zéro voile étiré) : réserve d'extensibilité ($L$) préservée |
+| 🔵 **Coupage Meunier** | **70 % Gruau / 30 % T65 Trad** | T65 Tradition pure (zéro E300 meunier) | Équilibre $P/L \approx 0,58\text{--}0,62$, $W \approx 280\text{--}300$ : armature cryo + souplesse anti-snapback |
+| 🔴 **Cryoprotection & Sel** | **4,2 % Levure Or / 2,0 % Sel** | Trimoline 3,5 % + S500 Kimo Short **2,0 % max** | Maintien phase de latence 40 min, piège à GSH oxydatif, neutralisation de la lyse cellulaire |
+
+---
 
 ### Tableau Chronologique des Pesées en 4 Phases
-*Base meunière : Farine Totale = 100,0 % (70 % Gruau T45 + 30 % T65 Tradition) | Balance tolérance : ± 1 g ingrédients critiques / ± 5 g farines.*
+*Base meunière : Farine Totale = 100,0 % (70,0 % Farine Gruau Rouge T45 + 30,0 % Farine T65 Tradition pure sans additifs).*  
+*Tolérances balance : $\pm 1\text{ g}$ sur ingrédients critiques (Levure, S500, Sel, Vinaigre) / $\pm 5\text{ g}$ sur farines et eau.*
 
-| Phase & Ordre | Ingrédient d'Atelier | % Meunier | 1 Bac (8,0 kg) | 10 Bacs (80 kg) | 20 Bacs (160 kg) | Spécification & Rôle Biochimique |
-| :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| **`[1]` Bleu** | **Farine Gruau Rouge T45 (Moulin de Cadillac)** | **70,0 %** | **3 133 g** | **31,33 kg** | **62,65 kg** | $W > 330$, protéines ~14 %, armature cryorésistante pure sans additif |
-| **`[1]` Bleu** | **Farine Tradition pure (Décret 93)** | **30,0 %** | **1 342 g** | **13,42 kg** | **26,85 kg** | Sans E300 ajouté ; apporte souplesse et goût |
-| **`[1]` Bleu** | **Eau glacée (+1 °C) / Glace** | **45,0 %** | **2 014 g** | **20,14 kg** | **40,28 kg** | $a_w$ maîtrisée, fraction congelable minimisée |
-| **`[1]` Bleu** | **Sucre cristal** | **8,8 %** | **394 g** | **3,94 kg** | **7,88 kg** | Osmotolérance et réactions de Maillard |
-| **`[1]` Bleu** | **Trimoline (Sucre inverti)** | **3,5 %** | **157 g** | **1,57 kg** | **3,13 kg** | $180\text{ g/mol}$ : abaisse $\Delta T_f$, anti-rétrogradation |
-| **`[1]` Bleu** | **Levure fraîche L'Hirondelle Or** | **4,2 %** | **188 g** | **1,88 kg** | **3,76 kg** | Osmotolérante, latence prolongée, anti-lyse |
-| **`[1]` Bleu** | **Poudre de lait entier 26 %** | **4,0 %** | **179 g** | **1,79 kg** | **3,58 kg** | Fixation d'eau libre par les caséines, coloration |
-| **`[1]` Bleu** | **Améliorant S500 Kimo Short** | **2,0 %** | **90 g** | **0,90 kg** | **1,79 kg** | **Plafonné à 2,0 %** : compense le GSH sans sur-oxyder |
-| **`[1]` Bleu** | **Sel fin d'atelier** | **2,0 %** | **90 g** | **0,90 kg** | **1,79 kg** | Ligne isolée : resserrement ionique du gluten |
-| **`[1]` Bleu** | **Vinaigre blanc d'alcool (8°)** | **0,8 %** | **36 g** | **0,36 kg** | **0,72 kg** | Tampon pH 5,1–5,3 : inhibe polyphénol oxydase (anti-grisement) |
-| **`[2]` Ambre** | **Margarine Opal cuve (Michard 3825)** | **8,5 %** | **380 g** | **3,80 kg** | **7,60 kg** | Incorporé en V2 (pains 500 g) : plastifiant cryo et souplesse |
-| **TOTAL** | **SOUS-TOTAL DÉTREMPE NET** | **178,8 %** | **8 003 g** | **80,03 kg** | **160,06 kg** | **Poids net calibré à 8,00 kg pile / bac Paneo** |
-| **`[3]` Vert** | **Beurre Debic Croissant tourage (Michard 6191)** | **25,0 % dét.** | **2 000 g** | **20,00 kg** | **40,00 kg** | 1 plaque de 2,00 kg pile / bac (82% MG, PF 34–36 °C, 12 films) |
-| **TOTAL** | **POIDS TOTAL PÂTON TOURÉ** | **223,8 %** | **10 000 g** | **100,00 kg** | **200,00 kg** | **10,00 kg net de pâte prête au façonnage / bac** |
-| **`[4]` Finition** | **Dorure Végétale au pistolet** | PM | 50 g / plaque | 500 g | 1 000 g | Pulvérisation fine uniforme à froid (+4 °C) |
-
-### Cadence & Rendements d'Atelier (Journée 40 Bacs / 400 kg)
-* **Calibre cru unitaire découpé** : **75 g** (Croissant) / **85 g** (Pain au chocolat 2 barres).
-* **Rendement brut par bac (pâton 10 kg)** : **130 à 133 croissants** ou **115 pains au chocolat** (après parage des pointes).
-* **Rendement fournée 20 bacs (200 kg touré)** : **~2 600 croissants 75 g**.
-* **Volume quotidien global (40 bacs / 3 opérateurs)** : **~5 000 à 5 200 pièces façonnées et stockées**.
+| Phase & Ordre | Ingrédient d'Atelier | % Meunier | Base 1 000 g Farine | 1 Bac (8 000 g détrempe) | 10 Bacs (80 000 g détrempe) | 20 Bacs (160 000 g cuve pleine) | Spécification & Rôle Biochimique Critique |
+| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
+| **`[1]` Bleu** | **Farine Gruau Rouge T45 (Cadillac)** | **70 %** | **700 g** | **3 130 g** | **31 300 g** | **62 600 g** | $W \ge 330$, protéines 13,8–14,2 % : armature gluténique HMW cryorésistante |
+| **`[1]` Bleu** | **Farine Tradition pure (Décret 93)** | **30 %** | **300 g** | **1 340 g** | **13 400 g** | **26 800 g** | Zéro E300, zéro fève/soja : apporte gliadines fluides ($L$), abaisse le $P/L$ |
+| **`[1]` Bleu** | **Eau glacée (+1 °C) / Glace écaille** | **45 %** | **450 g** | **2 015 g** | **20 150 g** | **40 300 g** | Hydratation basse : minimise l'eau libre congelable ($a_w$), anti-Ostwald |
+| **`[1]` Bleu** | **Sucre cristal blanc** | **8,8 %** | **88 g** | **394 g** | **3 940 g** | **7 880 g** | Carburant fermentaire étuve, osmolarité régulée, couleur Maillard |
+| **`[1]` Bleu** | **Trimoline (Sucre inverti)** | **3,5 %** | **35 g** | **157 g** | **1 570 g** | **3 140 g** | Monosaccharides ($180\text{ g/mol}$) : abaissement cryoscopique $\Delta T_f$, anti-staling |
+| **`[1]` Bleu** | **Levure fraîche L'Hirondelle Or** | **4,2 %** | **42 g** | **188 g** | **1 880 g** | **3 760 g** | Souche osmotolérante : stocke tréhalose intracellulaire cryoprotecteur |
+| **`[1]` Bleu** | **Poudre de lait entier 26 % MG** | **4 %** | **40 g** | **180 g** | **1 800 g** | **3 600 g** | Caséines fixatrices d'eau libre, lactose non fermentescible (brunissement) |
+| **`[1]` Bleu** | **Améliorant S500 Kimo Short** | **2 %** | **20 g** | **90 g** | **900 g** | **1 800 g** | **Plafonné à 2 %** : DHAA piège le glutathion réduit ($GSH$), DATEM renforce bulles |
+| **`[1]` Bleu** | **Sel fin de panification** | **2 %** | **20 g** | **90 g** | **900 g** | **1 800 g** | Resserrement ionique des chaînes de gluten, frein enzymatique |
+| **`[1]` Bleu** | **Vinaigre blanc d'alcool (8°)** | **0,8 %** | **8 g** | **36 g** | **360 g** | **720 g** | Tampon pH 5,0–5,2 : bloque polyphénol oxydase (anti-grisement) & amylases |
+| **`[2]` Ambre** | **Margarine Opal cuve (Michard 3825)** | **8,5 %** | **85 g** | **380 g** | **3 800 g** | **7 600 g** | Incorporé dès le passage en V2 (pains 500 g) : plastifiant cryo et souplesse |
+| **TOTAL** | **SOUS-TOTAL DÉTREMPE NETTE** | **178,8 %** | **1 787 g** | **8 000 g pile** | **80 000 g pile** | **160 000 g pile** | **Poids calibré à 8 000 g net / bac Paneo (Base farine : 4 470 g/bac)** |
+| **`[3]` Vert** | **Beurre Debic Croissant 82 % (Michard 6191)**| **25 % dét.** | **447 g** | **2 000 g** | **20 000 g** | **40 000 g** | **1 plaque étalon de 2 000 g pile / bac** (PF 34–36 °C, conditionné à 12–14 °C) |
+| **TOTAL** | **POIDS TOTAL PÂTON TOURÉ** | **223,8 %** | **2 234 g** | **10 000 g pile** | **100 000 g pile** | **200 000 g pile** | **Pâton touré 10 000 g net prêt au détaillage / bac** |
+| **`[4]` Finition**| **Dorure Végétale au pistolet** | PM | PM | 50 g / plaque | 500 g | 1 000 g | Pulvérisation fine uniforme à froid (+4 °C) après ressuyage étuve |
 
 ---
 
-## PAGE DROITE (2/2) • CONDUITE MACHINE, CROISSOMAT & CUISSON
+### Cadences, Rendements & Économie d'Atelier (Journée 40 Bacs / 400 kg)
+* **Calibre cru unitaire découpé** : **75 g (± 1 g)** cru sur matrice SCM50 (abaisse 3,5 mm).
+* **Rendement net par bac (pâton 10,00 kg)** : **130 croissants étalons de 75 g** (après parage des rives d'ébarbage 2,5 % réintégrées ou pesées).
+* **Rendement fournée 20 bacs (200 kg touré / 1 pétrin plein 160 kg détrempe)** : **2 600 croissants 75 g**.
+* **Volume quotidien global (40 bacs / 2 pétrissages / 3 opérateurs)** : **5 200 croissants façonnés, bloqués et stockés**.
+
+---
+
+## PAGE DROITE (2/2) • CONDUITE MACHINE, CROISSOMAT SCM50 & CUISSON
 
 ```mermaid
 flowchart TD
-    A["Pétrin Spirale 160 kg\n5 min V1 + 4 min 30 V2\nSortie : 20–21 °C"] --> B["Division 8,00 kg / bac Paneo\nPré-laminage Galette 3 cm\n(Loi de Fourier)"]
+    A["Pétrin Spirale 160 kg\n5 min V1 + 4 min 30 V2\nSortie : 20–21 °C (Arrêt 1er décollement)"] --> B["Division 8,00 kg / bac Paneo\nPré-laminage Galette 3 cm\n(Loi de Fourier e² / alpha)"]
     B --> C["Cellule Flash -35 °C (30–35 min)\nSurface 0 °C / Cœur < 6 °C"]
     C --> D["Pointage Retardé Nuit (12–15 h)\nChambre froide régulée 0 °C à +1,5 °C"]
-    D --> E["Tourage Rondo Compas\n1 Tour Double PUIS 1 Tour Simple\n(12 films beurre / 25–30 µm)"]
-    E --> F["Drossage des chants fermés\n+ Détente 45 min à +2 °C"]
-    F --> G["Ligne Rondo Polyline\nAbaisse finale 3,5 mm\nDécompression libre >= 60 s"]
-    G --> H["Croissomat Rondo\nTablier souple (3-4 spires lâches)\n(Loi de Laplace T = dP * r)"]
-    H --> I["1re Surgélation : Cellule -35 °C\nStock Tampon Cru durci -18 °C"]
-    I --> J["Décongélation lente nuit (10-12 h à +2/+4 °C)\n+ Étuve 25-26 °C / 75-80% HR"]
-    J --> K["Arrêt Pousse strict à 70–75 % vol.\n+ Raffermissement 15 min (+4 °C)\n+ Dorure Végétale Pistolet"]
-    K --> L["2e Blocage PAC (Sonde à cœur -10 °C)\nStockage étanche cartons -18 °C"]
-    L --> M["Cuisson Directe Congelé 160–165 °C\n16 à 18 min (Ouras à 13 min)"]
+    D --> E["Tourage Rondo Compas\n1 Tour Double (90 cm) PUIS 1 Tour Simple (65 cm)\n(12 films beurre / 25–30 µm)"]
+    E --> F["Drossage des 4 chants fermés au couteau\n+ Détente 45 min à +2 °C étanche"]
+    F --> G["Ligne Rondo Polyline\nAbaisse finale 3,5 mm (Sweet Spot 11 °C)\nDécompression libre >= 60 s anti-snapback"]
+    G --> H["Croissomat SCM50 (Sens Droite -> Gauche)\nDéroulage Farinage Inversé (Farine en bas)\nGalets bleus = Séparation pure\nTablier 3 manettes : Amorce 5-6 mm / Dégagement 28-32 mm / 3-4 spires lâches clé 6h"]
+    H --> I["Stock 1 Labo : 1re Surgélation Cru -35 °C\n(Mise en caisses PE étanches 200 pcs / -18 °C)"]
+    I --> J["Décongélation lente nuit (+2 °C / +4 °C, 10–12 h)\n+ Étuve 25–26 °C / 75–80 % HR (2 h 15–2 h 30)"]
+    J --> K["Arrêt Pousse strict à 70–75 % volume\n+ Ressuyage 15 min (+4 °C) + Dorure Végétale Pistolet"]
+    K --> L["Stock 2 Boutiques : 2e Blocage PAC Flash -35 °C\nArrêt strict Sonde à Cœur -10 °C\n(Caisses doublées 2 couches max / -18 °C)"]
+    L --> M["Boutiques : Cuisson Directe Congelé (Zéro Décongélation)\nFour 160–165 °C / Buée 3 s / 16–18 min\nOURAS OUVERTS À 13 MIN (anti-affaissement ressuage)"]
 ```
 
 ---
 
-### Étape 1 : Pétrissage & Conduite Thermique J-1 (10h55 – 12h30)
-1. **Frasage & Pétrissage Maîtrisé** :
-   - Verser les ingrédients `[1]` Bleu. 5 minutes en 1ʳᵉ vitesse pour amalgamer sans échauffer.
-   - Passer en 2ᵉ vitesse, incorporer la matière grasse cuve `[2]` Ambre. Pétrir pendant **4 min 30 à 5 minutes maximum**.
-   - **Arrêt impératif au premier décollement de cuve** : Ne jamais chercher le voile tendu. La pâte doit conserver sa réserve d'extensibilité ($L$) pour le laminage.
-   - **Température réelle de sortie** : **20 °C à 21 °C**.
-2. **Pré-laminage en Galette de 3 cm (Application de la Loi de Fourier)** :
-   - Diviser immédiatement la pâte en pâtons de **8,00 kg net** par bac Paneo (délai pétrin $\rightarrow$ cellule $< 15\text{ min}$).
+### Protocole Opératoire Détaillé en 4 Étapes
+
+#### 1. Pétrissage & Conduite Thermique J-1 (10h55 – 12h30)
+1. **Frasage & Pétrissage Contrôlé** :
+   - Verser les poudres et liquides `[1]` Bleu dans la cuve du pétrin spirale 160 kg.
+   - Tourner **5 minutes en 1ʳᵉ vitesse** pour amalgamer les composants sans échauffer la masse.
+   - Passer en 2ᵉ vitesse en incorporant immédiatement la margarine cuve `[2]` Ambre en morceaux de 500 g.
+   - Pétrir pendant **4 min 30 s à 5 minutes maximum**.
+   - **Arrêt impératif au premier décollement net des parois** : Ne jamais chercher le voile étiré. Le réseau de gluten doit rester "court" pour encaisser les contraintes mécaniques du laminage et du roulage sans sur-pétrissage.
+   - **Température réelle de sortie** : **20 °C à 21 °C** (Sweet spot : 20,5 °C).
+2. **Pré-laminage en Galette de 3 cm (Loi de Fourier)** :
+   - Diviser immédiatement la pâte en pâtons de **8,00 kg pile** par bac Paneo (délai pétrin $\rightarrow$ cellule $< 15\text{ min}$).
    - Abaisser au rouleau ou laminoir en une galette rectangulaire uniforme de **3 cm d'épaisseur**.
-   - *Règle physique ($t \propto e^2/\alpha$)* : Diviser l'épaisseur par 3 divise par ~9 le temps requis pour atteindre la zone de sécurité thermique sous 6 °C.
+   - *Règle physique ($t \propto e^2/\alpha$)* : Diviser l'épaisseur par 3,3 divise par 11 le temps requis pour atteindre la zone de sécurité thermique sous 6 °C.
 3. **Descente Flash & Pointage Retardé de Nuit** :
-   - Passer **30 à 35 minutes en cellule à -35 °C** : la surface atteint 0 °C, le cœur passe sous 6 °C, bloquant toute cinétique fermentaire.
-   - Stocker 12 h à 15 h en chambre froide positive régulée strictement entre **0 °C et +1,5 °C** (proscrire le +4 °C qui relance la fermentation et libère du glutathion GSH).
+   - Passer **30 à 35 minutes en cellule flash à -35 °C pulsé** : la surface atteint 0 °C, le cœur passe sous +6 °C, bloquant instantanément le réveil de la levure.
+   - Stocker 12 h à 15 h en chambre froide positive régulée strictement entre **0 °C et +1,5 °C** (proscrire le +4 °C qui déclenche une micro-fermentation acide et fragilise le gluten).
 
 ---
 
-### Étape 2 : Tourage au Rondo Compas J (05h00 – 07h30)
-1. **Équilibre Thermique Pâte / Beurre ($\Delta T \le 3\text{ }^\circ\text{C}$)** :
+#### 2. Tourage au Laminoir Rondo Compas J (05h00 – 07h30)
+1. **Équilibre Rhéologique Pâte / Beurre ($\Delta T \le 3\text{ }^\circ\text{C}$ de plasticité)** :
    - Pâte sortie chambre froide : **+2 °C à +4 °C**.
-   - Plaque de beurre de tourage 84 % (2,00 kg) assouplie au laminoir : **+12 °C à +14 °C** (fenêtre de plasticité SFC optimale).
-2. **Plan de Tourage : 1 Tour Double PUIS 1 Tour Simple (12 films de beurre / 25 couches totales)** :
-   - *Justification physique (Lucas & Deligny 2015, Mutchadej 2025)* : À 3,5 mm d'abaisse, 12 films produisent une épaisseur lipidique de **25 à 30 µm**. Ce calibre offre une étanchéité cryogénique maximale face aux micro-cristaux de glace et un ovenspring supérieur (+1,52 %) sans fuite de beurre.
-   - **1ᵉʳ Tour Double (Grand Allongement)** : Allonger à 85–90 cm sur un gluten détendu, plier en portefeuille (4 plis). Ce pliage structure l'équerrage initial à 90°. Détente 15 min à +2 °C.
-   - **2ᵉ Tour Simple (Allongement Court)** : Tourner d'un quart de tour, allonger à 60–65 cm, plier en 3.
-   - **Drossage des Chants Fermés** : Couper impérativement au couteau les 4 bordures fermées pour libérer les tensions internes avant laminage final.
-   - **Détente Finale** : **45 minutes à +2 °C** sous film étanche.
+   - Plaque de beurre Debic Croissant 82 % (2,00 kg) assouplie au laminoir : **+12 °C à +14 °C** (forme polymorphe $\beta'$ ductile, SFC 35–40 %).
+2. **Schéma de Tourage : 1 Tour Double PUIS 1 Tour Simple (12 films de beurre / 25 couches totales)** :
+   - *Justification physique* : À 3,5 mm d'abaisse finale, 12 films lipidiques génèrent une épaisseur de **25 à 30 µm** par film. Ce calibre garantit l'étanchéité cryogénique face aux micro-cristaux de glace sans rupture et offre un ovenspring maximal (+1,52 %) sans fuite de beurre sur plaque.
+   - **1ᵉʳ Tour Double (Grand Allongement)** : Réaliser l'enveloppe simple (beurre au centre, rabattre les deux ailes). Allonger à 85–90 cm sur un gluten frais et détendu. Plier en portefeuille (4 plis). Détente 15 min à +2 °C.
+   - **2ᵉ Tour Simple (Allongement Court)** : Pivoter de 90° (croisement des fibrilles), allonger à 60–65 cm sur pâte plus nerveuse. Plier en 3.
+   - **Drossage obligatoire des 4 chants fermés** : Couper au couteau les 4 bordures fermées sur 5 mm pour relâcher les tensions élastiques internes et éviter le plissement au laminage final.
+   - **Détente Finale** : **45 minutes à +2 °C** sous film plastique étanche.
 
 ---
 
-### Étape 3 : Façonnage Ligne Rondo Polyline & Enrouleur Croissomat (07h30 – 10h30)
-1. **Laminage Progressif & Anti-Snapback** :
-   - Pas de réduction Rondo $\le 20\text{--}25\text{ }\%$ par passe. Abaisse finale calibrée à **3,5 mm** (± 0,1 mm). Température de bande : **10 °C à 12 °C**.
-   - **Zone de décompression libre ($\ge 60\text{ secondes}$)** : Laisser flotter la bande sur le tapis convoyeur avant les rouleaux découpeurs pour dissiper la mémoire élastique résiduelle.
-2. **Découpe & Géométrie Étalon du Triangle (Calibre 75 g)** :
-   - **Base** : 120 à 130 mm | **Hauteur brute** : 180 à 200 mm | **Poids net cru** : **75 g** (± 1 g).
-   - Entretien des couteaux rotatifs : Lames nettoyées à sec, tranchant rasoir sans bavure pour éliminer toute micro-fissure d'amorce sur les rives.
-3. **Réglage d'Étirement Axial sur Croissomat** :
-   - **Élongation cible** : Passer de **180–200 mm à 240–260 mm étirés** (gain d'allongement de +25 % à +30 %).
-   - **Rouleau étireur** : Pression douce d'entraînement sans écraser le feuilletage. Cet allongement est rendu docile par le coupage meunier (30 % T65 Tradition) qui maintient le $P/L \le 0,62$.
-4. **Fleusage & Époussetage Rigoureux** :
-   - Brosses rotatives supérieure et inférieure en action active pour balayer tout résidu de farine sur les deux faces du triangle avant l'enroulement (élimine le risque de débobinage en étuve ou de feuilletage qui s'ouvre en ressort au four).
-5. **Réglage Précis de l'Enrouleur Croissomat SCM50 (Sens Droite $\rightarrow$ Gauche)** :
-   *(Se référer au guide visuel atelier : [`guide_croissomat_scm50_sens_reel.png`](file:///home/toto/.gemini/antigravity/brain/bc31aa75-d0a6-4b32-9375-bab1b5922ed5/guide_croissomat_scm50_sens_reel.png))*
-   - **Poignée Supérieure DROITE (Entrée / Amorce Amont)** : Calibrée à **5,0 – 6,0 mm** (environ 1/3 bas de la coulisse, soit 1,5 fois l'épaisseur de pâte 3,5 mm). La base accroche instantanément sans heurter ni plisser.
-   - **Poignée Supérieure GAUCHE (Sortie / Dégagement Aval)** : Calibrée à **28 – 32 mm** (position **haute** sur la coulisse). Profil en coin divergent qui libère le rouleau de 30 mm sans laminage ni écrasement des pointes à l'éjection. *(Attention : ne jamais la laisser en bas de coulisse)*.
-   - **Poignée INFÉRIEURE (Cambrure du Tablier & Position Clé à 6h)** : Calibrée en **position souple (1/3 gauche)** pour garantir **3 à 4 spires lâches** (loi de Laplace $\sigma_\theta = \frac{P \cdot r}{e}$, alvéolage ouvert en toile d'araignée). Micro-ajuster millimètre par millimètre pour que **la pointe termine rigoureusement plaquée sous le croissant (à 6 heures)** contre la plaque.
+#### 3. Façonnage Polyline & Croissomat SCM50 (07h30 – 10h30)
+1. **Laminage Progressif & Décompression Anti-Snapback** :
+   - Paliers de réduction Rondo Compas $\le 20\text{--}25\text{ }\%$ par passe. Abaisse finale calibrée à **3,5 mm (± 0,1 mm)**.
+   - Température de bande : **10 °C à 12 °C (Sweet spot 11 °C)**.
+   - **Zone de décompression libre ($\ge 60\text{ secondes}$)** : Laisser flotter la bande sur le tapis convoyeur avant la tête de découpe. Ce repos dissipe l'énergie élastique résiduelle et neutralise le retrait dimensionnel (*snapback*).
+2. **Découpe & Géométrie Étalon SCM50 (Calibre 75 g)** :
+   - Matrice triangulaire fixe : Base 120–130 mm, Hauteur brute 180–200 mm $\rightarrow$ Poids net cru : **75 g (± 1 g)** verrouillé par l'épaisseur de 3,5 mm.
+   - Arbres à galets bleus médians : **Fonction exclusive de déphasage / séparation tête-bêche (zéro étirement mécanique)**. Pression neutre centrée sur chaque piste.
+3. **Règle du Farinage Inversé Strict** :
+   - La face farinée au laminoir est déroulée **en DESSOUS (contre le tapis de la rampe)**.
+   - La face supérieure entrant sous le tablier reste vierge de farine pour garantir l'adhérence intime des spires lors du roulage (zéro débobinage en étuve).
+4. **Réglage Précis de l'Enrouleur Transversal SCM50 (Sens Droite $\rightarrow$ Gauche)** :
+   - **Manette Supérieure DROITE (Entrée / Amorce Amont)** : Réglée à **5,0 – 6,0 mm** (environ 1/3 bas de coulisse). Happement doux de la base sans laminage des 12 couches.
+   - **Manette Supérieure GAUCHE (Sortie / Dégagement Aval)** : Réglée à **28 – 32 mm** (position **haute** sur coulisse). Profil divergent libérant le croissant formé (~30 mm) sans écrasement de la pointe à l'éjection.
+   - **Manette INFÉRIEURE (Cambrure & Clé à 6h)** : Position **souple (1/3 gauche)** garantissant **3 à 4 spires lâches** (Loi de Laplace $\sigma_\theta = \frac{\Delta P \cdot r}{e}$, espace d'expansion central anti-déchirure). Ajuster millimétriquement pour que **la pointe termine rigoureusement plaquée sous le croissant (à 6 heures)** contre la sole.
 
 ---
 
-### Étape 4 : Double Congélation PAC, Pousse & Cuisson Directe
-1. **1ʳᵉ Surgélation (Cru façonné) & Mise en Caisse Lean (200 pièces/caisse)** :
-   - Dépose en sortie de Croissomat sur grilles nues garnies d'une feuille de papier sulfurisé (gabarit centré 54 × 34 cm : **50 croissants par feuille**).
-   - Descente flash immédiate en cellule à **-35 °C pulsé** pendant 35 à 45 min (sur plaques nues pour échange thermique maximal).
-   - Dès la sortie de cellule (pièces dures comme du bois), transfert par traction de la feuille directement dans la caisse plastique inclinée doublée d'une housse PE alimentaire : **4 feuilles glissées = 200 pièces par caisse** (le papier sert d'intercalaire anti-collage).
-   - Rabattement hermétique croisé de la housse (écran total anti-sublimation et anti-croûtage blanc) et stockage à **-18 °C**.
-2. **Pousse Contrôlée** :
-   - Décongélation lente nocturne 10 h à 12 h à +2 °C / +4 °C.
-   - Étuve à **25 °C – 26 °C et 75–80 % HR** pendant 2 h 15 à 2 h 35.
-   - **Arrêt de pousse strict à 70–75 % du volume** : Ne jamais pousser à 100 %. Le pâton doit garder sa fermeté élastique pour encaisser le second cycle négatif.
-3. **Raffermissement & Dorure** : 15 min en froid positif (+4 °C) pour figer la surface, puis pulvérisation fine de la **Dorure Végétale** au pistolet.
-4. **2ᵉ Blocage PAC (Contrôle Sonde à Cœur)** :
-   - Sonde thermique témoin piquée au cœur géométrique d'un pâton.
-   - Lancement cellule à -35 °C $\rightarrow$ **arrêt strict dès que la sonde affiche -10 °C à cœur**.
-   - Mise en caisses plastiques doublées d'une housse hermétique (**2 couches maximum en quinconce**, sans tasser) et stockage à **-18 °C**.
-5. **Barème de Cuisson Direct Congelé (Zéro Décongélation)** :
-   - Four ventilé préchauffé à **185 °C – 190 °C**.
-   - Enfournement direct sans tempérage + injection de **3 secondes de buée**.
-   - Cuisson régulée à **160 °C – 165 °C pendant 16 à 18 min**.
-   - **Ouverture des ouras à 13 min** de cuisson pour sécher la croûte et fixer le croustillant.
-   - Ressuage obligatoire sur grille inox à l'air libre.
+#### 4. Double Congélation PAC, Pousse & Cuisson Directe
+1. **1ʳᵉ Surgélation (Stock 1 Labo - Cru façonné) & Conditionnement Lean** :
+   - Dépose en sortie de Croissomat sur grilles nues garnies de papier sulfurisé (gabarit 54 × 34 cm : **50 croissants par feuille**).
+   - Descente flash immédiate en cellule à **-35 °C pulsé** pendant 35 à 45 min.
+   - Dès la sortie (pièces dures), glisser par traction 4 feuilles directement dans une caisse plastique inclinée doublée d'une housse PE alimentaire : **200 pièces par caisse** (le papier sert d'intercalaire anti-collage).
+   - Rabattement hermétique croisé de la housse (écran total anti-sublimation de glace) et stockage à **-18 °C**.
+2. **Pousse Contrôlée (Fractionnée selon commandes magasins)** :
+   - Décongélation lente nocturne 10 h à 12 h en chambre froide positive (+2 °C / +4 °C).
+   - Transfert en étuve régulée à **25 °C – 26 °C et 75–80 % HR** pendant 2 h 15 à 2 h 35.
+   - **Arrêt de pousse strict à 70–75 % du volume** : Ne jamais pousser à 100 %. Le réseau de gluten doit conserver une réserve d'élasticité pour encaisser le second choc thermique.
+3. **Ressuyage & Dorure Végétale** :
+   - Passage de **15 min en froid positif (+4 °C)** pour figer la surface et sécher la condensation d'étuve (anti-cloques).
+   - Pulvérisation fine de la dorure végétale au pistolet basse pression.
+4. **2ᵉ Blocage PAC (Stock 2 Boutiques - Juge de Paix Sonde à Cœur)** :
+   - Piquer la sonde thermique étalonnée au centre géométrique d'un pâton témoin placé au cœur du chariot.
+   - Lancement de la cellule flash à -35 °C pulsé.
+   - **Arrêt strict et immédiat dès que la sonde affiche -10 °C à cœur**.
+   - Conditionnement immédiat en caisses plastiques doublées d'une housse PE étanche (**2 couches maximum en quinconce**, sans tasser) et stockage tampon à **-18 °C**.
+5. **Cuisson Directe Congelée en Boutique (Zéro Décongélation)** :
+   - Sortie directe du congélateur boutique à -18 °C $\rightarrow$ dépose sur plaques froides avec papier siliconé.
+   - Préchauffage du four ventilé à **185 °C – 190 °C**.
+   - Enfournement direct sans aucun tempérage + injection immédiate de **3 secondes de buée**.
+   - Régulation de cuisson : **160 °C – 165 °C pendant 16 à 18 minutes**.
+   - **OUVERTURE DES OURAS OBLIGATOIRE À 13 MINUTES** (les 4 à 5 dernières minutes de cuisson) : Évacuation massive de la vapeur d'eau d'enceinte, séchage des micro-feuillets superficiels, vitrification croustillante et élimination définitive de l'affaissement au ressuage.
+   - Ressuage obligatoire de 20 minutes sur grilles inox à l'air libre.

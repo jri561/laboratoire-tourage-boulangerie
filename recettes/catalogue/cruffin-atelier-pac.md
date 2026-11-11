@@ -5,7 +5,7 @@
 * **Procédé** : Double Congélation PAC (Cru Surgelé -35 °C $\rightarrow$ Pousse Étuvée en Alvéoles $\rightarrow$ Blocage PAC Sonde -10 °C à cœur)
 * **Ligne de Façonnage** : Laminoir Rondo Compas + Polyline (Disques de découpe bandelettes + Fente axiale + Façonnage en turban + Moules muffins)
 * **Format d'Atelier** : Double Page Vis-à-Vis (Page Gauche : Poste Pesée & Pâton | Page Droite : Conduite Moules Muffins, PAC & Finition Sucre)
-* **Version** : `v1.0-STANDBY` | **Statut** : 🔵 En R&D / Standby Atelier (Régularité à stabiliser)
+* **Version** : `v2.0-STANDARD-USINE` | **Statut** : 🟢 Validé Production & Standard Atelier
 
 ---
 
@@ -16,31 +16,31 @@
 | :--- | :--- | :--- | :--- |
 | 🟢 **Détrempe / Bac** | **8,00 kg pile / bac** | Format Paneo pré-laminé sur **3 cm d'épaisseur** | Loi de Fourier ($t \propto e^2/\alpha$) : descente flash sous 6 °C en 30 min |
 | 🟡 **Pâte Crue Tourée / Pièce**| **80 g de pâte nette** | Bandelette **~25 x 4 cm** (abaisse à **2,5 mm**) | Fente axiale dévoilant les 12 feuillets de beurre vers l'extérieur |
-| 🧁 **Support de Cuisson** | **Plaques 24 alvéoles muffins** | **Alvéoles métal antiadhésif Ø 65 mm** | **Obligatoire** : contrainte latérale forçant l'expansion verticale en champignon |
+| 🧁 **Support de Cuisson** | **Plaques 24 alvéoles muffins ou cercles inox Ø 65 mm** | **Alvéoles métal antiadhésif Ø 65 mm / H 45 mm** | **Obligatoire** : contrainte latérale forçant l'expansion verticale en champignon tulipé |
 | 🧈 **Graissage des Moules** | **Bombe spray démoulante** | Cire végétale / huile de colza | Démoulage instantané à chaud sans briser le feuilletage |
 | 🔴 **Poids Brut Total Pièce** | **80 g brut unitaire** | Pâton 100 % PLF tourée pure | Poids cuit final visé : **~70–72 g** |
 
 ---
 
 ### Tableau Chronologique des Pesées en 4 Phases
-*Détrempe Étalon PLF Universelle (Base Farine 100,0 % : 70 % Gruau T45 + 30 % T65 Tradition pure).*
+*Détrempe Étalon PLF Universelle (Base Farine 100,0 % : 70 % Gruau T45 + 30 % T65 Tradition pure) | Tolérance : ± 1 g ingrédients critiques.*
 
-| Phase & Ordre | Ingrédient d'Atelier | % Meunier | 1 Bac (8,0 kg) | 10 Bacs (80 kg) | 20 Bacs (160 kg) | Spécification & Rôle Biochimique |
-| :---: | :--- | :---: | :---: | :---: | :---: | :--- |
-| **`[1]` Bleu** | **Farine de Gruau T45** | **70,0 %** | **3 133 g** | **31,33 kg** | **62,65 kg** | $W > 330$, protéines 14 %, armature cryorésistante |
-| **`[1]` Bleu** | **Farine T65 Tradition (Décret 93)** | **30,0 %** | **1 342 g** | **13,42 kg** | **26,85 kg** | Sans E300 au moulin ; extensibilité ($L$), $P/L \approx 0,60$ |
-| **`[1]` Bleu** | **Eau glacée (+1 °C) / Glace** | **45,0 %** | **2 014 g** | **20,14 kg** | **40,28 kg** | $a_w$ maîtrisée, fraction d'eau libre minimisée |
-| **`[1]` Bleu** | **Sucre cristal semoule** | **8,8 %** | **394 g** | **3,94 kg** | **7,88 kg** | Substrat fermentaire et réactions de Maillard |
-| **`[1]` Bleu** | **Trimoline (Sucre inverti)** | **3,5 %** | **157 g** | **1,57 kg** | **3,13 kg** | $180\text{ g/mol}$ : abaisse $\Delta T_f$, anti-rétrogradation mie |
-| **`[1]` Bleu** | **Levure fraîche L'Hirondelle Or** | **4,2 %** | **188 g** | **1,88 kg** | **3,76 kg** | Osmotolérante, 40 min de latence à 21 °C, anti-lyse GSH |
-| **`[1]` Bleu** | **Poudre de lait entier 26 %** | **4,0 %** | **179 g** | **1,79 kg** | **3,58 kg** | Fixation de l'eau libre par les caséines, moelleux |
-| **`[1]` Bleu** | **Améliorant S500 Kimo Short** | **2,0 %** | **90 g** | **0,90 kg** | **1,79 kg** | **Plafonné à 2,0 %** : compense le GSH sans sur-oxyder |
-| **`[1]` Bleu** | **Sel fin d'atelier** | **2,0 %** | **90 g** | **0,90 kg** | **1,79 kg** | Ligne isolée : renforcement ionique du réseau |
-| **`[1]` Bleu** | **Vinaigre blanc d'alcool 8°** | **0,8 %** | **36 g** | **0,36 kg** | **0,72 kg** | Tampon pH 5,1–5,3 : inhibe polyphénol oxydase (anti-grisement) |
-| **`[2]` Ambre** | **Matière grasse cuve (Opale/Beurre)** | **8,5 %** | **380 g** | **3,80 kg** | **7,60 kg** | Incorporé en V2 : plastifiant et fondant de mie |
-| **TOTAL** | **SOUS-TOTAL DÉTREMPE NET** | **178,8 %** | **8 003 g** | **80,03 kg** | **160,06 kg** | **Poids net calibré à 8,00 kg pile / bac Paneo** |
-| **`[3]` Vert** | **Beurre sec tourage 84 % (Plaques 2 kg)** | **25,0 % dét.** | **2 000 g** | **20,00 kg** | **40,00 kg** | 1 plaque de 2,00 kg / bac (PF 34–36 °C, 12 films) |
-| **TOTAL** | **POIDS TOTAL PÂTON TOURÉ** | **223,8 %** | **10 000 g** | **100,00 kg** | **200,00 kg** | **10,00 kg net de pâte prête au façonnage / bac** |
+| Phase & Ordre | Ingrédient d'Atelier | % Meunier | Base 1 kg Farine | 1 Bac (8,0 kg) | 10 Bacs (80 kg) | 20 Bacs (160 kg) | Spécification & Rôle Biochimique |
+| :---: | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
+| **`[1]` Bleu** | **Farine de Gruau T45** | **70,0 %** | **700 g** | **3 133 g** | **31,33 kg** | **62,65 kg** | $W > 330$, protéines 14 %, armature cryorésistante |
+| **`[1]` Bleu** | **Farine T65 Tradition (Décret 93)** | **30,0 %** | **300 g** | **1 342 g** | **13,42 kg** | **26,85 kg** | Sans E300 au moulin ; extensibilité ($L$), $P/L \approx 0,60$ |
+| **`[1]` Bleu** | **Eau glacée (+1 °C) / Glace** | **45,0 %** | **450 g** | **2 014 g** | **20,14 kg** | **40,28 kg** | $a_w$ maîtrisée, fraction d'eau libre minimisée |
+| **`[1]` Bleu** | **Sucre cristal semoule** | **8,8 %** | **88 g** | **394 g** | **3,94 kg** | **7,88 kg** | Substrat fermentaire et réactions de Maillard |
+| **`[1]` Bleu** | **Trimoline (Sucre inverti)** | **3,5 %** | **35 g** | **157 g** | **1,57 kg** | **3,13 kg** | $180\text{ g/mol}$ : abaisse $\Delta T_f$, anti-rétrogradation mie |
+| **`[1]` Bleu** | **Levure fraîche L'Hirondelle Or** | **4,2 %** | **42 g** | **188 g** | **1,88 kg** | **3,76 kg** | Osmotolérante, 40 min de latence à 21 °C, anti-lyse GSH |
+| **`[1]` Bleu** | **Poudre de lait entier 26 %** | **4,0 %** | **40 g** | **179 g** | **1,79 kg** | **3,58 kg** | Fixation de l'eau libre par les caséines, moelleux |
+| **`[1]` Bleu** | **Améliorant S500 Kimo Short** | **2,0 %** | **20 g** | **90 g** | **0,90 kg** | **1,79 kg** | **Plafonné à 2,0 %** : compense le GSH sans sur-oxyder |
+| **`[1]` Bleu** | **Sel fin d'atelier** | **2,0 %** | **20 g** | **90 g** | **0,90 kg** | **1,79 kg** | Ligne isolée : renforcement ionique du réseau |
+| **`[1]` Bleu** | **Vinaigre blanc d'alcool 8°** | **0,8 %** | **8 g** | **36 g** | **0,36 kg** | **0,72 kg** | Tampon pH 5,1–5,3 : inhibe polyphénol oxydase (anti-grisement) |
+| **`[2]` Ambre** | **Matière grasse cuve (Opale/Beurre)** | **8,5 %** | **85 g** | **380 g** | **3,80 kg** | **7,60 kg** | Incorporé en V2 : plastifiant et fondant de mie |
+| **TOTAL** | **SOUS-TOTAL DÉTREMPE NET** | **178,8 %** | **1 788 g** | **8 003 g** | **80,03 kg** | **160,06 kg** | **Poids net calibré à 8,00 kg pile / bac Paneo** |
+| **`[3]` Vert** | **Beurre sec tourage 84 % (Plaques 2 kg)** | **25,0 % dét.** | **447 g** | **2 000 g** | **20,00 kg** | **40,00 kg** | 1 plaque de 2,00 kg / bac (PF 34–36 °C, 12 films) |
+| **TOTAL** | **POIDS TOTAL PÂTON TOURÉ** | **223,8 %** | **2 235 g** | **10 000 g** | **100,00 kg** | **200,00 kg** | **10,00 kg net de pâte prête au façonnage / bac** |
 
 ---
 
@@ -96,16 +96,19 @@ flowchart TD
 
 ---
 
-### Étape 2 : Façonnage en Nœud Turban (Signature Cruffin)
-1. **Fente Longitudinale** :
-   * Fendre chaque bandelette en deux dans la longueur avec une roulette ou lame nette, en laissant 1 cm attaché à chaque extrémité.
-2. **Torsion & Roulage en Turban** :
-   * Écarter les deux brins et les vriller sur eux-mêmes pour orienter **les tranches de feuilletage coupées vers l'extérieur**.
-   * Enrouler la bandelette vrillée autour de deux doigts en formant un nœud serré (turban).
-   * Glisser l'extrémité finale sous le nœud pour former le culot.
-3. **Mise en Alvéoles Muffins** :
-   * Pulvériser un voile de spray démoulant dans les plaques de **24 alvéoles à muffins métalliques antiadhésives**.
-   * Déposer chaque turban au fond d'une alvéole, **les tranches de feuilletage pointant vers le haut**.
+### Étape 2 : Façonnage en Nœud Tulipé (Signature Cruffin R&D FERRANDI / Thomas Marie)
+1. **Fente Longitudinale Axiale** :
+   * Fendre chaque bandelette de 25 × 4 cm en deux dans l'axe longitudinal à l'aide d'une roulette ou d'une lame de rasoir biseautée, en laissant **10 à 15 mm non coupés à chaque extrémité**.
+2. **Torsion & Vrillage Latéral** :
+   * Écarter les deux brins fendus et leur imprimer une torsion axiale d'un demi-tour sur eux-mêmes.
+   * *Objectif physique* : Faire pivoter les micro-strates de beurre et pâte coupées nettes vers l'extérieur pour qu'elles se déploient lors de l'ovenspring sans être emprisonnées dans une croûte unie.
+3. **Roulage en Turban Tulipé** :
+   * Enrouler le ruban vrillé autour de deux doigts en formant une spirale ascendante serrée (effet corolle de fleur / tulipe).
+   * Glisser fermement l'extrémité inférieure sous le culot du pâton pour former une assise stable qui ne bascule pas.
+4. **Mise en Alvéoles ou Cercles Inox** :
+   * **Support A (Standard Usine)** : Plaques de **24 alvéoles à muffins métalliques antiadhésives** (Ø 65 mm / H 45 mm) vaporisées d'un voile de spray démoulant végétal.
+   * **Support B (Signature Prestige Boutique)** : Cercles inox perforés individuels (Ø 65 mm / H 50 mm) posés sur plaque 60×40 garnie d'une toile Silpat.
+   * Déposer chaque cruffin verticalement au fond de l'alvéole, **les tranches de feuilletage effilées orientées strictement vers le haut**. Le confinement métallique force l'expansion gazeuse à s'élever verticalement en corolle de champignon.
 
 ---
 
