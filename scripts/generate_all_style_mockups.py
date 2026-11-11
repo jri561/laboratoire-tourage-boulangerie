@@ -1124,7 +1124,7 @@ STYLE_3_CSS = """
 
 .style3-photo-frame img {
   width: 100%;
-  height: 50mm;
+  height: 46mm;
   object-fit: cover;
   border-radius: 2px;
   display: block;
@@ -1136,6 +1136,10 @@ STYLE_3_CSS = """
   border-radius: 4px;
   padding: 4px;
   margin-bottom: 7px;
+  height: 48mm;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .style3-bake-grid {
@@ -1334,7 +1338,7 @@ def generate_style_3_html():
 
       <!-- SVG Kouign Tourage -->
       <div class="style3-section-title">1. Architecture des 9 Films & Découpe Duale</div>
-      <div class="style3-vector-box" style="height:44mm; overflow:hidden;">
+      <div class="style3-vector-box">
         {svg_kouign_tourage}
       </div>
 

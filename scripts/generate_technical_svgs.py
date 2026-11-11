@@ -490,8 +490,8 @@ def create_svg_kouign_amann_tourage(filepath):
     <g transform="translate(25, 45)">
       <rect x="0" y="0" width="395" height="65" rx="4" fill="#fef3c7" stroke="#d97706" stroke-width="1.5"/>
       <text x="15" y="24" fill="#78350f" font-size="10" font-weight="800">Composition Plaque 40 × 30 cm (Épaisseur 2,5 cm) :</text>
-      <text x="15" y="42" fill="#92400e" font-size="9.5">• Beurre tourage Debic 84 % froid (+4 °C) : <strong>2 000 g</strong> (52,4 %)</text>
-      <text x="15" y="56" fill="#92400e" font-size="9.5">• Sucre extra-fin (≤ 200 µm) : <strong>1 800 g</strong> (47,1 %) + Fleur de sel Guérande : <strong>20 g</strong></text>
+      <text x="15" y="42" fill="#92400e" font-size="9.5">• Beurre tourage Debic 84 % froid (+4 °C) : <tspan font-weight="800">2 000 g</tspan> (52,4 %)</text>
+      <text x="15" y="56" fill="#92400e" font-size="9.5">• Sucre extra-fin (≤ 200 µm) : <tspan font-weight="800">1 800 g</tspan> (47,1 %) + Fleur de sel Guérande : <tspan font-weight="800">20 g</tspan></text>
     </g>
 
     <!-- Enchâssement & T° -->
@@ -542,7 +542,7 @@ def create_svg_kouign_amann_tourage(filepath):
       <text x="100" y="16" fill="#92400e" font-size="9" font-weight="800" text-anchor="middle">INDIVIDUEL 100 g (88 pcs/bac)</text>
       <text x="12" y="34" fill="#78350f" font-size="8.5">• Abaisse : 4,0 mm bande 400 mm</text>
       <text x="12" y="49" fill="#78350f" font-size="8.5">• Roulage boudin + Flash 10 min</text>
-      <text x="12" y="64" fill="#78350f" font-size="8.5">• Tronçonnage : <strong>100 g pile</strong></text>
+      <text x="12" y="64" fill="#78350f" font-size="8.5">• Tronçonnage : <tspan font-weight="800">100 g pile</tspan></text>
       <text x="12" y="79" fill="#b45309" font-size="8.5" font-weight="700">• Moule silicone + lit cassonade</text>
 
       <!-- Partage 400/600g -->
