@@ -3,7 +3,7 @@
 * **Code Produit** : `V-BRI-01`
 * **Famille** : Viennoiserie Générale & Pâtes Levées Riches (Procédé PAC)
 * **Calibre Homologué** : **75 g pâte crue** (+ 7 g Sucre Grain n°10 = 82 g brut) $\longrightarrow$ **~75 g fini cuit**
-* **Procédé Exclusif** : **Poussé-Surgelé PAC avec Huile de Colza Neutre & Complexe Soft'r (1,5 %) / Kimo (1,5 %)** $\longrightarrow$ Division Hydraulique Optimisée sur **Bacs de 6 000 g pile** (20 pâtons de 300 g coupés en 4 = 80 boules de 75 g) $\longrightarrow$ Boulage serré $\longrightarrow$ Pousse étuve 26 °C (75 % vol.) $\longrightarrow$ Dorure Spéciale Bamix $\longrightarrow$ Blocage PAC sous sonde -10 °C à cœur $\longrightarrow$ Grainage express Sucre Grain n°10 sur pièce congelée $\longrightarrow$ Cuisson directe 165 °C four ventilé (Ouras ouverts)
+* **Procédé Exclusif** : **Double Stock Cru / PAC avec Huile de Colza Neutre & Complexe Soft'r (1,5 %) / Kimo (1,5 %)** $\longrightarrow$ Division Hydraulique Optimisée sur **Bacs de 6 000 g pile** (20 pâtons de 300 g coupés en 4 = 80 boules de 75 g) $\longrightarrow$ Boulage serré $\longrightarrow$ Stock 1 Cru Non Poussé (-18 °C) ou Pousse étuve 26 °C (75 % vol.) $\longrightarrow$ Dorure Spéciale Bamix + Grainage Sucre Grain n°10 au labo $\longrightarrow$ Blocage PAC sous sonde -10 °C à cœur $\longrightarrow$ Cuisson directe 165 °C four ventilé en boutique (Ouras ouverts)
 * **Équipements Clés** : Pétrin spirale, Diviseuse hydraulique 20 parts (bacs 6 000 g), Émulsionneur Bamix, Cellule flash -35 °C, Four ventilé
 * **Format d'Atelier** : Double Page Vis-à-Vis (Page Gauche : Poste Pesée Tout en Grammes | Page Droite : Division 20x4, Boulage, PAC & Grainage Sucre)
 * **Version** : `v3.2-SOFTR-COLZA-75G` | **Statut** : 🟢 Validé Production & Standard Atelier
@@ -19,9 +19,9 @@
 | 🌻 **Huile de Colza Neutre** | **18,0 % rapport farine** | Huile liquide neutre désodorisée | Zéro cristallisation au froid : mie cotonneuse et souplesse exceptionnelle 7 jours |
 | 🧬 **Complexe Bio-Enzymatique**| **1,5 % Soft'r + 1,5 % Kimo** | Amylase maltogénique + E300/DATEM | Zéro Tangzhong à cuire : clive l'amylopectine au four, moelleux prolongé |
 | 🟢 **Détrempe / Bac 6 000 g** | **6 000 g pile / bac** | 20 pâtons de 300 g $\rightarrow$ coupe en 4 | Épaisseur en cuve de **3,0 cm** : tassage hydraulique parfait, **80 pièces de 75 g / bac** |
-| 🟠 **Pétrissage & Sortie** | **Programme [BRIOCHE]** | Température sortie pétrin : **22 °C à 24 °C** | Huile versée en filet V2 sur réseau formé : émulsion fine sans glissage |
+| 🟠 **Pétrissage & Sortie** | **Programme [BRIOCHE]** | Température sortie pétrin : **20 °C à 22 °C** | Huile versée en filet V2 sur réseau formé : émulsion fine sans glissage ni échauffement |
 | 🔴 **Cryoprotection & PAC** | **Levure Or 4,8 % / Kimo 1,5 %** | Trimoline 3,0 % + Lait 26 % 4,0 % | Osmotolérance face au sucre (14 %) et zéro affaissement au gel PAC |
-| 🍚 **Grainage Finition** | **Sucre Grain n°10 (7 g/pièce)** | 560 g / bac de 80 pièces | Déposé sur pâte congelée dorée : croquant immaculé sans fondre au four |
+| 🍚 **Grainage Finition** | **Sucre Grain n°10 (7 g/pièce)** | 560 g / bac de 80 pièces | Déposé au labo sur pièce dorée **juste avant le 2e flash PAC** (zéro manip en boutique) |
 | 🥚 **Dorure Spéciale Bamix** | **Émulsion fine au Bamix** | Œufs entiers + jaunes + crème + sel | Émulsion sans bulles : vernis miroir profond et accroche maximale du grain |
 
 ---
@@ -63,14 +63,13 @@
 ```mermaid
 flowchart TD
     A["Pétrin Spirale 200 kg\nFarine Gruau + Eau glacée (+1 °C) + Œufs + Sucre + Lait + Sel\n+ Levure Or + Kimo Short (1,5%) + Soft'r Puratos (1,5%) [1]\nFrasage 5 min en 1re vitesse (V1)"]
-    --> B["Passage en 2e vitesse (V2) :\nPétrir 4 min jusqu'à amorce de voile\nVerser Huile de Colza neutre [2] en filet continu très lent\nPétrir 6 à 7 min jusqu'au VOILE PARFAIT et DÉCOLLEMENT NET\n(Température sortie pétrin : 22 °C à 24 °C)"]
+    --> B["Passage en 2e vitesse (V2) :\nPétrir 4 min jusqu'à amorce de voile\nVerser Huile de Colza neutre [2] en filet continu très lent\nPétrir 6 à 7 min jusqu'au VOILE PARFAIT et DÉCOLLEMENT NET\n(Température sortie pétrin : 20 °C à 22 °C)"]
     --> C["Pesée des bacs plats à 6 000 g pile\nPointage court 20 min à 20–22 °C sous film étanche\n+ Raffermissement flash 25 min au froid (+4 °C)"]
     --> D["Diviseuse Hydraulique 20 parts (Épaisseur idéale 3,0 cm) :\nMachine délivre 20 pâtons de 300 g pile\nDécoupe immédiate en 4 au coupe-pâte (en croix) -> 80 pièces de 75 g"]
-    --> E["Boulage régulier à la main (clé bien fermée en dessous)\nDisposition sur plaques 60x40 siliconées (24 pcs / plaque)"]
-    --> F["Pousse Contrôlée en Étuve 26 °C / 80% HR\nArrêt strict aux 3/4 de développement (70–75% vol., ~1 h 45)"]
-    --> G["Raffermissement 10 min (+4 °C)\n+ 1re Application Dorure Spéciale Bamix au pinceau doux\n+ Blocage PAC Sonde -10 °C à cœur -> Stock 2 PAC (-18 °C)"]
-    --> H["Sortie direct congélateur en boutique :\nVoile humidifiant Dorure Bamix\n+ Saupoudrage généreux Sucre Grain n°10 (7 g/pc)"]
-    --> I["Cuisson Directe Congelé 165 °C Four Ventilé\n11 à 13 min, OURAS OUVERTS EN CONTINU\n(Dôme doré éclatant, perles de sucre immaculées et croquantes)"]
+    --> E["Boulage régulier à la main (clé bien fermée en dessous)\nDisposition sur plaques 60x40 (24 pcs / plaque) -> Stock 1 Cru Flash -35 °C (30 min)"]
+    --> F["Décongélation lente (+4 °C, 8–10 h) + Pousse Étuve 26 °C / 80% HR\nArrêt strict de pousse à 70–75% du volume (~1 h 45)"]
+    --> G["Raffermissement 10 min (+4 °C) + Dorure Spéciale Bamix\n+ Saupoudrage Sucre Grain n°10 (7 g/pc) au labo\n+ Blocage PAC Sonde -10 °C à cœur -> Stock 2 PAC (-18 °C)"]
+    --> H["Cuisson Directe Congelé en Boutique (Four Ventilé 165 °C)\n11 à 13 min, ZÉRO MANIPULATION, OURAS OUVERTS EN CONTINU\n(Dôme doré éclatant, perles de sucre immaculées et croquantes)"]
 ```
 
 ---
@@ -84,7 +83,7 @@ flowchart TD
    * Verser l'huile de colza neutre `[2]` Ambre en un **filet régulier très lent** pour permettre aux protéines de l'absorber sans glisser sur la cuve.
    * Pétrir pendant **6 à 7 minutes en 2ᵉ vitesse**.
    * **Critère visuel** : Voile translucide élastique sans déchirure, décollement intégral.
-   * **Température de sortie pétrin** : **22 °C à 24 °C**.
+   * **Température de sortie pétrin** : **20 °C à 22 °C**.
 3. **Mise en Bacs Plats & Raffermissement au Froid** :
    * Peser des bacs plats à **6 000 g net pile** (gabarit 80 pièces de 75 g).
    * Laisser pointer **20 minutes à température ambiante (20–22 °C)** sous film plastique étanche.
@@ -104,27 +103,26 @@ flowchart TD
 
 ---
 
-### Étape 3 : Pousse Contrôlée, Dorure Bamix & Blocage PAC
-1. **Pousse en Étuve Régulée** :
+### Étape 3 : Stock 1 Cru Non Poussé, Pousse Contrôlée, Dorure Bamix, Grainage & Blocage PAC
+1. **Option Stock 1 Cru Non Poussé (-18 °C)** :
+   * Après façonnage et plaquage, passer en cellule flash **-35 °C pendant 30 min** (sans pousse), puis conditionner en cartons étanches sous sache PE à **-18 °C**.
+   * Pour lancer une fournée ultérieure depuis le Stock 1 : décongeler **8 à 10 h en froid positif (+4 °C)** avant d'entrer en étuve.
+2. **Pousse en Étuve Régulée** :
    * Transférer en étuve à **26 °C et 80 % HR pendant 1 h 45 à 2 h 00**.
    * **Arrêt de pousse strict à 70–75 % du volume maximal**.
-2. **Raffermissement & Préparation Dorure Bamix** :
+3. **Raffermissement, Dorure Bamix & Grainage au Laboratoire** :
    * Passer les chariots **10 minutes en froid positif (+4 °C)** pour raffermir la membrane.
    * **Dorure Spéciale Bamix** : Émulsionner au Bamix 200 g œufs + 40 g jaunes + 40 g crème 35 % + 3 g sel + 5 g sucre, filtrer au chinois.
-   * Appliquer un voile très léger au pinceau doux ou pistolet basse pression.
-3. **Blocage PAC (Sonde à Cœur -10 °C)** :
+   * Appliquer la dorure au pinceau doux ou pistolet basse pression, puis saupoudrer immédiatement le **Sucre Grain n°10** sur chaque pièce (**~7 g par briochette**) **avant la 2ᵉ surgélation**.
+4. **Blocage PAC (Sonde à Cœur -10 °C)** :
    * Piquer la sonde au centre d'une briochette témoin.
    * Cellule flash à -35 °C $\longrightarrow$ **ARRÊT STRICT DÈS QUE LA SONDE ATTEINT -10 °C À CŒUR**.
-   * Transférer en cartons étanches sous sache PE et stocker à **-18 °C (Stock 2 PAC)**.
+   * Transférer en cartons étanches sous sache PE et stocker à **-18 °C (Stock 2 PAC prêt-à-cuire)**.
 
 ---
 
-### Étape 4 : Grainage Express & Cuisson Directe Four Ventilé
-* **Départ four** : Directement du congélateur (-18 °C), **ZÉRO DÉCONGÉLATION PRÉALABLE**.
-* **Grainage Express au Poste d'Enfournement** :
-  * Sortir les plaques congelées (-18 °C).
-  * Appliquer un très léger voile humidifiant de Dorure Bamix.
-  * Saupoudrer généreusement le **Sucre Grain n°10** sur chaque pièce (**~7 g de sucre par briochette**).
+### Étape 4 : Cuisson Directe Four Ventilé (Zéro Manipulation)
+* **Départ four** : Directement du congélateur (-18 °C), **ZÉRO DÉCONGÉLATION PRÉALABLE** et **ZÉRO GRAINAGE EN BOUTIQUE** (pièces déjà dorées et sucrées avant surgélation).
 * **Barème de Cuisson Four Ventilé** :
   * **Préchauffage Four** : **180 °C** | **Température de Cuisson Régulée** : **165 °C en continu**.
   * **Durée de Cuisson** : **11 à 13 minutes**.

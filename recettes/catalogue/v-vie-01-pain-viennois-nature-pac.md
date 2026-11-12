@@ -67,7 +67,7 @@ flowchart TD
     --> C["MÉTHODE DIRECTE LE JOUR MÊME :\nPointage court en cuve 15 à 20 min chrono à 20–22 °C\n(Zéro passage 24 h au frigo, force 100 % homogène)"]
     --> D["Pesée des bacs à 5 600 g net pile\nDivision Hydraulique Immédiate 20 parts (20 x 280 g)"]
     --> E["Détente 8 à 10 min sur tour sous bâche étanche\nFaçonnage mécanique direct sur Façonneuse à Tapis\n(Boudins cylindriques 22–24 cm parfaitement rectilignes)"]
-    --> F["Plaquage 10 pièces / plaque 60x40\n1re Dorure Végétale Pistolet (Voile fin) + 5 à 6 coups de lame nets\nCellule Flash -35 °C (35 min) ➔ Stock 1 Cru Compact (-18 °C)"]
+    --> F["Plaquage 10 pièces / plaque 60x40\n1re Dorure Végétale au Pinceau + 5 à 6 coups de lame nets\nCellule Flash -35 °C (35 min) ➔ Stock 1 Cru Compact (-18 °C)"]
     --> G["Décongélation lente (+4 °C, 8–10 h) + Pousse Étuve 26 °C / 80% HR\nArrêt strict de pousse à 70 % du volume (1 h 45 à 2 h 00)"]
     --> H["Raffermissement 10 min (+4 °C) + 2e voile dorure pistolet\nCellule Flash -35 °C sous sonde à cœur ➔ ARRÊT STRICT À -10 °C CŒUR\nStock 2 PAC Prêt-à-Cuire (-18 °C) livré aux boutiques"]
     --> I["Enfournement Direct Congelé en Boutique (Four Ventilé 165 °C)\nDurée 11 min pile, OURAS STRICTEMENT FERMÉS tout au long\n(Ressuage grille : mie filante, cotonneuse, fraîcheur 7 jours)"]
@@ -96,9 +96,9 @@ flowchart TD
 3. **Détente & Façonnage sur Façonneuse à Tapis** :
    * Détente de **8 à 10 minutes** sous bâche étanche sur le tour inox.
    * Passer dans la façonneuse à tapis réglée doux : rouler en cylindres réguliers de **22 à 24 cm de longueur**. 100 % des boudins sortent rectilignes.
-4. **Plaquage, Dorure Pistolet & Lamage** :
+4. **Plaquage, Dorure au Pinceau & Lamage** :
    * Disposer **10 viennoises par plaque 60×40** (2 rangées de 5, clé en dessous).
-   * Pulvériser un premier voile fin de **Dorure Végétale au pistolet** (1,5 bar, buse 1,2 mm).
+   * Appliquer un **1ᵉʳ coup de Dorure Végétale au pinceau** juste avant la mise en cellule / moule.
    * Donner **5 à 6 coups de lame nets** en biseau transversal à 45°.
 
 ---

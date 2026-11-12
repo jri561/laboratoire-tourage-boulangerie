@@ -70,7 +70,7 @@ flowchart TD
     --> D["MÉTHODE DIRECTE LE JOUR MÊME :\nPointage court en cuve 15 à 20 min chrono à 20–22 °C\n(Zéro passage 24 h au frigo, force 100 % homogène)"]
     --> E["Pesée des bacs à 5 600 g net pile\nDivision Hydraulique 20 parts (Pâtons 280 g)\nRecoupe immédiate en deux au coupe-pâte -> 40 pièces de 140 g"]
     --> F["Détente 8 à 10 min sur tour sous bâche étanche\nFaçonnage mécanique direct sur Façonneuse à Tapis\n(Boudins cylindriques 14–16 cm parfaitement rectilignes)"]
-    --> G["Plaquage 16 à 18 pièces / plaque 60x40\n1re Dorure Végétale Pistolet + 3 coups de lame nets\nCellule Flash -35 °C (35 min) ➔ Stock 1 Cru Compact (-18 °C)"]
+    --> G["Plaquage 16 à 18 pièces / plaque 60x40\n1re Dorure Végétale au Pinceau + 3 coups de lame nets\nCellule Flash -35 °C (35 min) ➔ Stock 1 Cru Compact (-18 °C)"]
     --> H["Décongélation lente (+4 °C, 8–10 h) + Pousse Étuve 26 °C / 80% HR\nArrêt strict de pousse à 70 % du volume (1 h 30 à 1 h 45)"]
     --> I["Raffermissement 10 min (+4 °C) + 2e voile dorure pistolet\nCellule Flash -35 °C sous sonde à cœur ➔ ARRÊT STRICT À -10 °C CŒUR\nStock 2 PAC Prêt-à-Cuire (-18 °C) livré aux boutiques"]
     --> J["Enfournement Direct Congelé en Boutique (Four Ventilé 165 °C)\nDurée 9 min pile, OURAS STRICTEMENT FERMÉS tout au long\n(Ressuage grille : pépites fondantes non marbrées, moelleux 7 jours)"]
@@ -105,9 +105,9 @@ flowchart TD
 3. **Détente & Façonnage sur Façonneuse à Tapis** :
    * Détente de **8 à 10 minutes** sous bâche plastique étanche.
    * Passer dans la façonneuse à tapis avec réglage doux des cylindres : enrouler en boudins de **14 à 16 cm de longueur**.
-4. **Plaquage, Dorure Pistolet & Lamage** :
+4. **Plaquage, Dorure au Pinceau & Lamage** :
    * Disposer **16 à 18 viennoises chocolat par plaque 60×40**.
-   * Pulvériser un premier voile fin de **Dorure Végétale au pistolet** (buse 1,2 mm, 1,5 bar).
+   * Appliquer un **1ᵉʳ coup de Dorure Végétale au pinceau** juste avant la mise en cellule / moule.
    * Donner **3 coups de lame nets** en biseau transversal.
 
 ---
