@@ -49,7 +49,10 @@
 * **Galettes 4 Personnes (Ø 20 cm)** : 2 disques de 100 g = **200 g pâte / galette** $\longrightarrow$ **~32 galettes finies** par pâton (avec rognures).
 * **Galettes 6 Personnes (Ø 24 cm)** : 2 disques de 140 g = **280 g pâte / galette** $\longrightarrow$ **~22 à 23 galettes finies** par pâton.
 * **Galettes 8 Personnes (Ø 28 cm)** : 2 disques de 200 g = **400 g pâte / galette** $\longrightarrow$ **~16 galettes finies** par pâton.
-* **Rognures Propres $\longrightarrow$ Valorisation Officielle en Palmiers & Pailles Caramélisés :** Empiler immédiatement à plat en mille-feuille propre (ne jamais bouler), détendre 2 h à +4 °C. Allonger au laminoir sur lit de sucre semoule (zéro farine) à **3,5–4,0 mm**. Façonner en **Palmiers** (pliage double portefeuille, tranches 10–12 mm) ou en **Pailles** (lanières 1,5 × 12 cm). Cuisson **185 °C sur Silpat, retournés à la palette à mi-cuisson** (caramélisation ambrée sur les deux faces, marge brute > 90 %).
+* **Rognures Propres $\longrightarrow$ Écoulement Interne 100 % (Zéro Palmiers, Zéro Perte) :** Empiler à plat en mille-feuille propre (bouler interdit !), détendre 2 h à +4 °C. Abaisser au laminoir à **2,5–3,0 mm** pour 3 destinations :
+  1. **Fonds de Flan en Plaques Tamponnées (Chaud ou Froid) :** Cuire plaque entière 40×60 cm captive entre 2 plaques (180 °C 22 min). Tamponner au cercle inox d'un coup sec à la sortie du four ou **à froid après complet refroidissement** (friabilité inversée idéale, zéro impact sur le flan). 2 fonds de flan par plaque, zéro rétractation au garnissage.
+  2. **Fonds Tartes aux Pommes :** Détailler en disques (Ø 22/26 cm) et en bandes rectangulaires (10×60 cm) pour tartes en cadre. Piquer au pique-vite.
+  3. **Crashocks Snacking :** Brosser la bande de pâte au sirop tant pour tant (50/50 eau/sucre), trancher en bâtonnets (2×13 cm), cuire entre deux plaques à 185 °C 20 min. Tremper à 50 % en pâte à glacer puis amandes hachées torréfiées.
 
 ---
 

@@ -227,22 +227,39 @@ Dans la recette académique, la détrempe ne contient que farine et eau salée. 
 
 ---
 
-### 5.4 Protocole de Valorisation des Rognures : Palmiers & Pailles Caramélisés
+### 5.4 Protocole de Valorisation des Rognures : Stratégie Usine Zéro Déchet en 3 Destinations
 
-Pour éradiquer tout gaspillage de matière première noble (Beurre Debic 82 %) et générer une marge brute $> 90\text{ }\%$ en boutique sans altérer les galettes :
+L'artisan écarte délibérément la production de palmiers/pailles afin de ne pas élargir inutilement une gamme déjà très large et saturer les linéaires. Les rognures de feuilletage inversé sont valorisées à 100 % au cœur des flux internes de la pâtisserie et du snacking de l'atelier :
 
-1. **Règle d'or de Récupération des Rognures :**
-   * **Interdiction formelle de bouler ou froisser en boule** (ce qui détruirait les 48 strates de beurre).
-   * **Superposer les bandes de rognures à plat en mille-feuille propre**, face contre face, les tasser légèrement à la main.
-   * Filmer au contact et laisser détendre **2 heures au froid positif (+4 °C)**.
-2. **Laminage sur Lit de Sucre (Fleurdage à la Farine Proscrit) :**
-   * Saupoudrer généreusement le tour et les deux faces du bloc de rognures avec du **sucre semoule blanc** (ou sucre cassonade blonde).
-   * Abaisser au laminoir par passes douces jusqu'à **3,5 mm à 4,0 mm**. Le sucre s'incruste intimement dans la pâte sous la pression des rouleaux.
-3. **Façonnage des Deux Formats :**
-   * **Palmiers Pur Beurre :** Rabattre les deux extrémités de la bande vers le centre en laissant un interstice de 1 cm au milieu, puis replier les deux côtés l'un sur l'autre (pliage double portefeuille). Passer 10 min en cellule ou au frigo pour figer la matière grasse. Trancher des tronçons nets de **10 à 12 mm** au couteau de tour affûté. Disposer à plat sur plaque Silpat avec un espacement généreux (expansion latérale en éventail).
-   * **Pailles Dorées :** Découper la bande étalée à 2,5–3,0 mm en lanières de **1,5 cm × 12 à 15 cm**. Les vriller délicatement sur elles-mêmes et les aligner sur Silpat.
-4. **Cuisson & Double Caramélisation (Le Geste Maître) :**
-   * Enfourner à **185 °C en four ventilé** (ou 195 °C en four à sole).
-   * **À mi-cuisson (vers 10–12 minutes) :** Dès que le sucre du dessous fond et caramélise en un disque ambré, sortir la plaque et **retourner chaque palmier et paille d'un geste sec à la palette**.
-   * Poursuivre la cuisson **3 à 4 minutes** pour caraméliser la seconde face.
-   * **Débarrassage immédiat sur grille froide :** Le caramel vitrifie en 30 secondes en devenant cassant et croustillant comme du verre. Conditionner en sachets de 150 g / 200 g.
+1. **Règle Fondamentale d'Empilement & Repos :**
+   * **Interdiction absolue de bouler ou pétrir** (ce qui détruirait l'alignement des strates de beurre et libérerait une ténacité gluten incontrôlable).
+   * **Superposition à plat en mille-feuille propre**, face contre face, tassée doucement à la main.
+   * Filmer au contact et laisser détendre **minimum 2 heures à +4 °C** (ou de nuit) pour relâcher l'élasticité.
+
+2. **Destination 1 • Plaques de Rognures Cuites à Blanc pour Fonds de Flan (Tamponnées à Chaud) :**
+   * **Problématique éliminée :** Le feuilletage de rognures cru cuit en cercle subit une rétractation ovale imprévisible qui décolle les fonds ou fait fuiter l'appareil à flan.
+   * **Protocole Usine :**
+     1. Abaisser les rognures détendues à **2,5–3,0 mm** au Rondo Compas en un rectangle régulier de 40 × 60 cm. Piquer légèrement la surface au rouleau pique-vite.
+     2. Disposer la feuille de pâte sur une plaque de cuisson garnie d'une feuille de papier sulfurisé ou d'un Silpat.
+     3. Recouvrir d'une seconde feuille de papier et **enfourner captif entre deux plaques** (plaque posée sur le dessus, éventuellement calée à 3–4 mm) pour brider le gonflement vertical et garantir une planéité absolue.
+     4. Cuire à blanc à **180 °C en four ventilé pendant 20 à 25 minutes** jusqu'à coloration dorée et séchage complet de la semelle.
+     5. **Tamponnage au Cercle Inox (Flexibilité Totale Chaud ou Froid) :**
+        - **Option A (À Chaud à la sortie du four) :** Tamponnage immédiat pendant que la pâte est encore malléable.
+        - **Option B (À Froid en différé - Recommandé pour l'organisation) :** Laisser refroidir les plaques cuites. Grâce à l'épaisseur calibrée fine (2,5–3,0 mm) et la friabilité sablée du feuilletage inversé, le tranchant du cercle inox découpe les disques nettement même à froid par simple pression verticale. Une micro-frange éventuelle sur le pourtour est sans aucun impact : l'appareil à flan chaud/tiède coulé par-dessus nappe et scelle hermétiquement le fond lors de la cuisson finale. Les plaques cuites peuvent donc être stockées à plat et découpées selon les besoins réels du poste flan.
+     6. **Rendement garanti :** **2 fonds de flan parfaits par plaque 40 × 60 cm**, découpés au diamètre intérieur exact du cercle, avec zéro rétractation ultérieure lors du coulage de l'appareil à flan.
+
+3. **Destination 2 • Fonds de Tartes aux Pommes (Ronds & Bandes Cadres) :**
+   * **Formats :**
+     - **Disques ronds (Ø 22 et 26 cm)** pour tartes aux pommes traditionnelles à la compote.
+     - **Bandes rectangulaires (ex. 10 × 60 cm)** pour tartes aux pommes découpées au mètre en bande/cadre.
+   * **Conduite :** Abaisser à **2,5–3,0 mm**, piquer au rouleau pique-vite, réserver 30 min au froid (+4 °C) avant fonçage ou garnissage. La charge lourde de compote/pommes bride le soufflage et bénéficie de la friabilité fondante du feuilletage inversé.
+
+4. **Destination 3 • « Crashocks » d'Atelier (Bâtonnets Caramélisés Décorés) :**
+   * **Concept :** Snacking feuilleté nomade croustillant à très forte valeur ajoutée, sans empiéter sur les moules ni exiger de façonnage complexe.
+   * **Protocole de Réalisation :**
+     1. Abaisser les rognures au laminoir à **2,5–3,0 mm**.
+     2. **Lustrage au Sirop TPT :** À l'aide d'une brosse large ou d'un pinceau soyeux, napper uniformément la surface de la bande de pâte avec un **sirop tant pour tant (50 % eau, 50 % sucre semoule)** porté à ébullition puis refroidi.
+     3. **Tranchage avant cuisson :** Trancher la bande au couteau de tour ou à la roulette multi-lames en bâtonnets réguliers de **2,0 cm de large × 12 à 14 cm de long**.
+     4. **Cuisson sous plaque calée :** Disposer les bâtonnets sur Silpat, recouvrir d'un Silpat et d'une plaque de cuisson (cuisson captive). Cuire à **185 °C pendant 18 à 22 minutes** : l'évaporation du sirop sous pression plaque crée une caramélisation ambrée vitrifiée ultra-croquante.
+     5. **Finition Prestige :** Après refroidissement complet sur grille, **tremper la moitié (50 % de la longueur)** de chaque bâtonnet dans une **pâte à glacer blonde ou brune** tempérée à +35 °C, puis égoutter et rouler immédiatement dans des **amandes hachées torréfiées**.
+     6. Conditionnement en étuis réglettes ou sachets cristal snacking (conservation 3 semaines sous abri d'humidité, marge brute > 92 %).
