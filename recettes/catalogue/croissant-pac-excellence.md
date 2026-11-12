@@ -38,9 +38,9 @@
 | **`[1]` Bleu** | **Sel fin de panification** | **2 %** | **20 g** | **90 g** | **900 g** | **1 800 g** | Resserrement ionique des chaînes de gluten, frein enzymatique |
 | **`[1]` Bleu** | **Vinaigre blanc d'alcool (8°)** | **0,8 %** | **8 g** | **36 g** | **360 g** | **720 g** | Tampon pH 5,0–5,2 : bloque polyphénol oxydase (anti-grisement) & amylases |
 | **`[2]` Ambre** | **Margarine Opal cuve (Michard 3825)** | **8,5 %** | **85 g** | **380 g** | **3 800 g** | **7 600 g** | Incorporé dès le passage en V2 (pains 500 g) : plastifiant cryo et souplesse |
-| **TOTAL** | **SOUS-TOTAL DÉTREMPE NETTE** | **178,8 %** | **1 787 g** | **8 000 g pile** | **80 000 g pile** | **160 000 g pile** | **Poids calibré à 8 000 g net / bac Paneo (Base farine : 4 470 g/bac)** |
+| **TOTAL** | **SOUS-TOTAL DÉTREMPE NETTE** | **178,8 %** | **1 788 g** | **8 000 g pile** | **80 000 g pile** | **160 000 g pile** | **Poids calibré à 8 000 g net / bac Paneo (Base farine : 4 470 g/bac)** |
 | **`[3]` Vert** | **Beurre Debic Croissant 82 % (Michard 6191)**| **25 % dét.** | **447 g** | **2 000 g** | **20 000 g** | **40 000 g** | **1 plaque étalon de 2 000 g pile / bac** (PF 34–36 °C, conditionné à 12–14 °C) |
-| **TOTAL** | **POIDS TOTAL PÂTON TOURÉ** | **223,8 %** | **2 234 g** | **10 000 g pile** | **100 000 g pile** | **200 000 g pile** | **Pâton touré 10 000 g net prêt au détaillage / bac** |
+| **TOTAL** | **POIDS TOTAL PÂTON TOURÉ** | **223,5 %** | **2 235 g** | **10 000 g pile** | **100 000 g pile** | **200 000 g pile** | **Pâton touré 10 000 g net prêt au détaillage / bac** |
 | **`[4]` Finition**| **Dorure Végétale au pistolet** | PM | PM | 50 g / plaque | 500 g | 1 000 g | Pulvérisation fine uniforme à froid (+4 °C) après ressuyage étuve |
 
 ---

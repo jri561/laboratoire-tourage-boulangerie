@@ -25,22 +25,22 @@
 ### Tableau Chronologique des Pesées en 4 Phases
 *Détrempe Étalon PLF Universelle (Base Farine 100,0 % : 70 % Gruau T45 + 30 % T65 Tradition pure) | Tolérance : ± 1 g ingrédients critiques.*
 
-| Phase & Ordre | Ingrédient d'Atelier | % Meunier | Base 1 kg Farine | 1 Bac (8,0 kg) | 10 Bacs (80 kg) | 20 Bacs (160 kg) | Spécification & Rôle Biochimique |
+| Phase & Ordre | Ingrédient d'Atelier | % Meunier | Base 1 kg Farine | 1 Bac (8 000 g) | 10 Bacs (80 000 g) | 20 Bacs (160 000 g) | Spécification & Rôle Biochimique |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
-| **`[1]` Bleu** | **Farine de Gruau T45** | **70,0 %** | **700 g** | **3 133 g** | **31,33 kg** | **62,65 kg** | $W > 330$, protéines 14 %, armature cryorésistante |
-| **`[1]` Bleu** | **Farine T65 Tradition (Décret 93)** | **30,0 %** | **300 g** | **1 342 g** | **13,42 kg** | **26,85 kg** | Sans E300 au moulin ; extensibilité ($L$), $P/L \approx 0,60$ |
-| **`[1]` Bleu** | **Eau glacée (+1 °C) / Glace** | **45,0 %** | **450 g** | **2 014 g** | **20,14 kg** | **40,28 kg** | $a_w$ maîtrisée, fraction d'eau libre minimisée |
-| **`[1]` Bleu** | **Sucre cristal semoule** | **8,8 %** | **88 g** | **394 g** | **3,94 kg** | **7,88 kg** | Substrat fermentaire et réactions de Maillard |
-| **`[1]` Bleu** | **Trimoline (Sucre inverti)** | **3,5 %** | **35 g** | **157 g** | **1,57 kg** | **3,13 kg** | $180\text{ g/mol}$ : abaisse $\Delta T_f$, anti-rétrogradation mie |
-| **`[1]` Bleu** | **Levure fraîche L'Hirondelle Or** | **4,2 %** | **42 g** | **188 g** | **1,88 kg** | **3,76 kg** | Osmotolérante, 40 min de latence à 21 °C, anti-lyse GSH |
-| **`[1]` Bleu** | **Poudre de lait entier 26 %** | **4,0 %** | **40 g** | **179 g** | **1,79 kg** | **3,58 kg** | Fixation de l'eau libre par les caséines, moelleux |
-| **`[1]` Bleu** | **Améliorant S500 Kimo Short** | **2,0 %** | **20 g** | **90 g** | **0,90 kg** | **1,79 kg** | **Plafonné à 2,0 %** : compense le GSH sans sur-oxyder |
-| **`[1]` Bleu** | **Sel fin d'atelier** | **2,0 %** | **20 g** | **90 g** | **0,90 kg** | **1,79 kg** | Ligne isolée : renforcement ionique du réseau |
-| **`[1]` Bleu** | **Vinaigre blanc d'alcool 8°** | **0,8 %** | **8 g** | **36 g** | **0,36 kg** | **0,72 kg** | Tampon pH 5,1–5,3 : inhibe polyphénol oxydase (anti-grisement) |
-| **`[2]` Ambre** | **Matière grasse cuve (Opale/Beurre)** | **8,5 %** | **85 g** | **380 g** | **3,80 kg** | **7,60 kg** | Incorporé en V2 : plastifiant et fondant de mie |
-| **TOTAL** | **SOUS-TOTAL DÉTREMPE NET** | **178,8 %** | **1 788 g** | **8 003 g** | **80,03 kg** | **160,06 kg** | **Poids net calibré à 8,00 kg pile / bac Paneo** |
-| **`[3]` Vert** | **Beurre sec tourage 84 % (Plaques 2 kg)** | **25,0 % dét.** | **447 g** | **2 000 g** | **20,00 kg** | **40,00 kg** | 1 plaque de 2,00 kg / bac (PF 34–36 °C, 12 films) |
-| **TOTAL** | **POIDS TOTAL PÂTON TOURÉ** | **223,8 %** | **2 235 g** | **10 000 g** | **100,00 kg** | **200,00 kg** | **10,00 kg net de pâte prête au façonnage / bac** |
+| **`[1]` Bleu** | **Farine de Gruau T45** | **70,0 %** | **700 g** | **3 130 g** | **31 300 g** | **62 600 g** | $W > 330$, protéines 14 %, armature cryorésistante |
+| **`[1]` Bleu** | **Farine T65 Tradition (Décret 93)** | **30,0 %** | **300 g** | **1 340 g** | **13 400 g** | **26 800 g** | Sans E300 au moulin ; extensibilité ($L$), $P/L \approx 0,60$ |
+| **`[1]` Bleu** | **Eau glacée (+1 °C) / Glace** | **45,0 %** | **450 g** | **2 015 g** | **20 150 g** | **40 300 g** | $a_w$ maîtrisée, fraction d'eau libre minimisée |
+| **`[1]` Bleu** | **Sucre cristal semoule** | **8,8 %** | **88 g** | **394 g** | **3 940 g** | **7 880 g** | Substrat fermentaire et réactions de Maillard |
+| **`[1]` Bleu** | **Trimoline (Sucre inverti)** | **3,5 %** | **35 g** | **157 g** | **1 570 g** | **3 140 g** | $180\text{ g/mol}$ : abaisse $\Delta T_f$, anti-rétrogradation mie |
+| **`[1]` Bleu** | **Levure fraîche L'Hirondelle Or** | **4,2 %** | **42 g** | **188 g** | **1 880 g** | **3 760 g** | Osmotolérante, 40 min de latence à 21 °C, anti-lyse GSH |
+| **`[1]` Bleu** | **Poudre de lait entier 26 %** | **4,0 %** | **40 g** | **180 g** | **1 800 g** | **3 600 g** | Fixation de l'eau libre par les caséines, moelleux |
+| **`[1]` Bleu** | **Améliorant S500 Kimo Short** | **2,0 %** | **20 g** | **90 g** | **900 g** | **1 800 g** | **Plafonné à 2,0 %** : compense le GSH sans sur-oxyder |
+| **`[1]` Bleu** | **Sel fin d'atelier** | **2,0 %** | **20 g** | **90 g** | **900 g** | **1 800 g** | Ligne isolée : renforcement ionique du réseau |
+| **`[1]` Bleu** | **Vinaigre blanc d'alcool 8°** | **0,8 %** | **8 g** | **36 g** | **360 g** | **720 g** | Tampon pH 5,1–5,3 : inhibe polyphénol oxydase (anti-grisement) |
+| **`[2]` Ambre** | **Matière grasse cuve (Opale/Beurre)** | **8,5 %** | **85 g** | **380 g** | **3 800 g** | **7 600 g** | Incorporé en V2 : plastifiant et fondant de mie |
+| **TOTAL** | **SOUS-TOTAL DÉTREMPE NET** | **178,8 %** | **1 788 g** | **8 000 g pile** | **80 000 g pile** | **160 000 g pile** | **Poids net calibré à 8,00 kg pile / bac Paneo** |
+| **`[3]` Vert** | **Beurre sec tourage 84 % (Plaques 2 kg)** | **25,0 % dét.** | **447 g** | **2 000 g** | **20 000 g** | **40 000 g** | 1 plaque de 2,00 kg / bac (PF 34–36 °C, 12 films) |
+| **TOTAL** | **POIDS TOTAL PÂTON TOURÉ** | **223,5 %** | **2 235 g** | **10 000 g pile** | **100 000 g pile** | **200 000 g pile** | **10,00 kg net de pâte prête au façonnage / bac** |
 
 ---
 
@@ -105,10 +105,9 @@ flowchart TD
 3. **Roulage en Turban Tulipé** :
    * Enrouler le ruban vrillé autour de deux doigts en formant une spirale ascendante serrée (effet corolle de fleur / tulipe).
    * Glisser fermement l'extrémité inférieure sous le culot du pâton pour former une assise stable qui ne bascule pas.
-4. **Mise en Alvéoles ou Cercles Inox** :
-   * **Support A (Standard Usine)** : Plaques de **24 alvéoles à muffins métalliques antiadhésives** (Ø 65 mm / H 45 mm) vaporisées d'un voile de spray démoulant végétal.
-   * **Support B (Signature Prestige Boutique)** : Cercles inox perforés individuels (Ø 65 mm / H 50 mm) posés sur plaque 60×40 garnie d'une toile Silpat.
-   * Déposer chaque cruffin verticalement au fond de l'alvéole, **les tranches de feuilletage effilées orientées strictement vers le haut**. Le confinement métallique force l'expansion gazeuse à s'élever verticalement en corolle de champignon.
+4. **Mise en Moules Silicone (Standard Atelier) ou Cercles** :
+   * **Support Atelier Réel (Moules Silicone Multi-Empreintes Ø 65 mm / H 45 mm)** : Déposer chaque cruffin verticalement au fond de l'empreinte, **les tranches de feuilletage effilées orientées strictement vers le haut**. Le confinement force l'expansion gazeuse à s'élever verticalement en corolle de champignon.
+   * **Option Alternative (Alvéoles Métal / Cercles Inox Perforés)** : Si cuisson sur métal, graisser légèrement au spray démoulant ; la montée thermique est plus rapide (durée réduite de 2–3 min).
 
 ---
 
@@ -131,10 +130,10 @@ flowchart TD
 * **Enfournement** : Directement du congélateur (-18 °C) en plaques muffins au four ventilé.
 * **Préchauffage four** : Préchauffer à **185 °C – 190 °C**.
 * **Enfournement & Buée** : Enfourner la charge et injecter **3 secondes de buée**.
-* **Conduite de Cuisson** :
-  * Consigne de température : **160 °C à 165 °C**.
-  * Durée : **17 à 19 minutes** (l'alvéole métallique retarde légèrement la montée en température à cœur).
-  * **Ouverture des ouras à 14 minutes** pour sécher le feuilletage et évaporer l'humidité de fond d'alvéole.
+* **Conduite de Cuisson (Adaptée Moules Silicone $\lambda = 0,16\text{ W/(m}\cdot\text{K)}$)** :
+  * Consigne de température : **165 °C à 170 °C** (le silicone étant isolant, ne pas descendre sous 165 °C afin de bien saisir la base et les parois).
+  * Durée : **20 à 22 minutes** en moules silicone *(17 à 19 minutes si alvéoles métalliques)*.
+  * **Ouverture des ouras à 16–17 minutes** (ou 14 min sur métal) pour sécher le feuilletage et évaporer l'humidité de fond d'alvéole.
 * **Démoulage & Enrobage Immédiat à Chaud (Règle d'Or)** :
   * Dès la sortie du four, retourner la plaque pour démouler les cruffins brûlants sur grille.
   * **Tant qu'ils sont bouillonnants (graisse fondue en surface), rouler chaque cruffin dans un bac de Sucre Cristal Vanillé**.
