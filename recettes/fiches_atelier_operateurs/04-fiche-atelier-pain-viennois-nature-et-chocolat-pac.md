@@ -66,10 +66,12 @@
 
 ### Étape A : Pétrissage en Pétrin Spirale (Tournée 30 Bacs = 168 000 g de pâte)
 1. **Frasage (1ʳᵉ vitesse)** : **5 minutes** avec tous les ingrédients `[1]` Bleu.
-2. **Développement du réseau (2ᵉ vitesse)** : Pétrir **4 minutes** jusqu'à l'amorce du décollement.
-3. **Incorporation Matière Grasse `[2]` Ambre** :
-   * Ajouter la margarine Opale cuve en dés froids (+10 °C à +12 °C).
-   * Poursuivre en 2ᵉ vitesse pendant **3 à 4 minutes** jusqu'au **VOILE TRANSLUCIDE COMPLET** et décollement net des parois.
+2. **Développement du réseau (2ᵉ vitesse)** : Pétrir **4 minutes** jusqu'à l'amorce du lissage (ne pas attendre un réseau trop serré).
+3. **Incorporation Matière Grasse `[2]` Ambre (Astuce Zéro Morceau)** :
+   * ⚠️ **Conditionnement de l'OPALE** : Sortir l'OPALE du frigo **1 heure avant** (température idéale **14 °C à 16 °C**, texture plastique souple). La couper en **petits dés ou lamelles de 1 à 2 cm** (ou lui donner quelques coups de rouleau sur tour pour la casser). *Ne jamais la sortir la veille à 22 °C (surchauffe cuve garantie !).*
+   * **Ajout dès 4 min en V2** : Dès l'amorce de lissage, jeter les dés d'OPALE assouplis dans la cuve.
+   * Poursuivre en 2ᵉ vitesse pendant **3 à 4 minutes** : absorption complète en moins de 90 secondes, **VOILE TRANSLUCIDE COMPLET** et décollement net des parois.
+   * *Temps total en 2ᵉ vitesse : 7 à 8 minutes maximum chrono (évite l'échauffement excessif lié à 12 min de pétrissage).*
 4. **Pour la Viennoise Chocolatée uniquement `[3]` Choc** :
    * Revenir obligatoirement en **1ʳᵉ vitesse (V1)**.
    * Verser les pépites de chocolat froides (+4 °C).

@@ -80,9 +80,9 @@ flowchart TD
    * Verser l'eau très froide (+1 °C), les farines (Gruau T45 et T65), la PFV, les œufs entiers liquides, le sucre, la Trimoline, la poudre de lait 26 %, le sel, la levure Or, le S500 Kimo Short (1,5 %), le Soft'r Puratos (1,5 %) et la vanille `[1]` Bleu dans la cuve.
    * Frasage pendant **5 minutes en 1ʳᵉ vitesse**.
 2. **Développement du Réseau & Émulsion Lipidique** :
-   * Passer en **2ᵉ vitesse pendant 4 minutes**.
-   * Incorporer la margarine Opale `[2]` Ambre en dés froids (+10 °C à +12 °C).
-   * Poursuivre en **2ᵉ vitesse pendant 3 à 4 minutes** jusqu'au **voile translucide complet** et décollement net.
+   * Passer en **2ᵉ vitesse pendant 4 minutes** jusqu'à amorce de lissage.
+   * Incorporer la margarine Opale `[2]` Ambre tempérée à **14 °C à 16 °C** (sortie 1 h avant, coupée en petits dés de 1 à 2 cm ou assouplie au rouleau). *Ne pas sortir la veille à 22 °C pour éviter l'échauffement de pâte au-delà de 21 °C.*
+   * Poursuivre en **2ᵉ vitesse pendant 3 à 4 minutes** jusqu'au **voile translucide complet** et décollement net (temps total en V2 : 7 à 8 min).
    * **Consigne thermique absolue** : **19 °C à 21 °C maximum**.
 
 ---

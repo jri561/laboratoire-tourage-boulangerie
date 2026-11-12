@@ -84,8 +84,8 @@ flowchart TD
    * Frasage pendant **5 minutes en 1ʳᵉ vitesse**.
 2. **Développement du Réseau de Gluten & Émulsion** :
    * Passer en **2ᵉ vitesse pendant 4 minutes**.
-   * Incorporer la margarine Opale `[2]` Ambre coupée en dés froids (ou huile de colza en filet).
-   * Pétrir en **2ᵉ vitesse pendant 3 à 4 minutes** jusqu'à obtention du **voile translucide complet** et décollement net.
+   * Incorporer la margarine Opale `[2]` Ambre tempérée à **14 °C à 16 °C** (sortie 1 h avant, en petits dés de 1 à 2 cm ou assouplie au rouleau).
+   * Pétrir en **2ᵉ vitesse pendant 3 à 4 minutes** jusqu'à obtention du **voile translucide complet** et décollement net (temps total en V2 : 7 à 8 min).
 3. **Protocole Chirurgical d'Inclusion des Pépites (Zéro Marbrage)** :
    * **Règle absolue d'atelier** : Les pépites de chocolat noir 50 % doivent être stockées impérativement en chambre froide à **+4 °C** jusqu'à la seconde de leur introduction.
    * **Repasser obligatoirement en 1ʳᵉ vitesse (V1 lente)**.

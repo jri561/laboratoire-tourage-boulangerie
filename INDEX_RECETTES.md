@@ -44,6 +44,7 @@
 | :--- | :--- | :---: | :--- | :--- | :---: |
 | `V-VIE-01` | **Pain Viennois Nature PAC** | 280 g cru (~266 g cuit) | **Méthode Directe + Soft'r/Kimo (1,5%/1,5%)**, Bac 5 600 g (20x280g), Pétrin 200 kg (30 bacs) | [Fiche d'Atelier](recettes/catalogue/v-vie-01-pain-viennois-nature-pac.md) | 🟢 Validé Production |
 | `V-VIE-02` | **Pain Viennois Pépites Chocolat PAC** | 140 g cru (~133 g cuit) | **Méthode Directe + Soft'r/Kimo**, Bac 5 600 g (40x140g), Pépites 50% froides V1, 30 bacs | [Fiche d'Atelier](recettes/catalogue/v-vie-02-pain-viennois-chocolat-pac.md) | 🟢 Validé Production |
+| `V-VIE-ESSAI` | **Pains Viennois à l'Huile (Essais R&D Filets)** | 280 g / 140 g cru | **Huile de Colza 12% + Filets Métal**, Bac 5 600 g, Alternative sans morceaux OPALE | [Dossier R&D Essais](recettes/catalogue/v-vie-01-bis-pain-viennois-huile-pac-essais.md) • [Fiche Essai Atelier](recettes/fiches_atelier_operateurs/fiche-essai-atelier-viennois-huile-pac.md) | 🔬 En Essai Atelier |
 | `V-BRI-01` | **Petite Brioche Individuelle au Sucre PAC** | 75 g cru (~75 g fini) | **Huile de Colza + Soft'r/Kimo**, Bac 6 000 g (80 pcs 75g via 20x4), Dorure Bamix | [Fiche d'Atelier](recettes/catalogue/brioche-individuelle-sucre-pac.md) | 🟢 Validé Production |
 | `V-BRI-02` | **Brioche Fine Artisanale / Nanterre** | 400 g cru (8 boules de 50 g) | **Pur Beurre 45% + Froid +4 °C**, Bac 4 000 g (10 pcs 400g), Format Nanterre / Tressée | [Fiche d'Atelier](recettes/catalogue/brioche-fine-nanterre.md) | 🟢 Validé Production |
 

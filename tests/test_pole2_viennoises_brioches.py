@@ -167,6 +167,24 @@ class TestPole2ViennoisesBrioches(unittest.TestCase):
         self.assertIn("4 000 g pile", t06)
         self.assertIn("80 000 g pile", t06)
 
+    def test_10_viennois_huile_essais_coexistence(self):
+        """Vérifie la coexistence de la recette homologuée OPALE et de la variante d'essais à l'huile."""
+        fiche_huile_rd = CATALOGUE_DIR / "v-vie-01-bis-pain-viennois-huile-pac-essais.md"
+        fiche_huile_atelier = REPO_ROOT / "recettes" / "fiches_atelier_operateurs" / "fiche-essai-atelier-viennois-huile-pac.md"
+        
+        self.assertTrue(fiche_huile_rd.exists(), "Fiche R&D essais huile manquante")
+        self.assertTrue(fiche_huile_atelier.exists(), "Fiche atelier essais huile manquante")
+        
+        t_rd = fiche_huile_rd.read_text(encoding="utf-8")
+        t_at = fiche_huile_atelier.read_text(encoding="utf-8")
+        
+        # Vérification des ratios d'ingénierie huile (12 % colza, 36 % eau, plaques ondulées)
+        self.assertIn("12,0 %", t_rd)
+        self.assertIn("36,0 %", t_rd)
+        self.assertIn("plaques ondulées", t_rd.lower())
+        self.assertIn("5 600 g pile", t_at)
+        self.assertIn("Huile de colza", t_at)
+
 
 if __name__ == "__main__":
     unittest.main()
