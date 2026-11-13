@@ -77,7 +77,7 @@ flowchart TD
 ## 2. DÉCOMPOSITION EXACTE DES 3 TOURS (48 STRATES DE BEURRE)
 
 Pour obtenir les 48 strates de beurre de l'optimum Deligny & Lucas avec exactement 3 passages de pliage :
-* **Enchâssement Inversé :** Étaler le beurre manié en rectangle 30×40 cm (+4 °C). Déposer la détrempe 30×25 cm (+4 °C) au centre. Rabattre les deux ailes de beurre manié par-dessus pour enfermer la détrempe. Pincer le joint central.
+* **Enchâssement Inversé (Tempérage 10–12 °C) :** Sortir le beurre manié (30×40 cm) et la détrempe (30×25 cm) du frigo (+4 °C) et les laisser tempérer 10 à 15 min pour atteindre **+10 °C à +12 °C**. Déposer la détrempe au centre du beurre manié, rabattre les deux ailes par-dessus sans chevauchement et pincer le joint central.
 * **1ᵉʳ Tour = TOUR SIMPLE (Pliage en 3 volets)** :
   - Allonger au laminoir par passes douces ($\le 20\text{ }\%$) jusqu'à 8 mm.
   - Plier en 3 (volet gauche sur le tiers central, volet droit par-dessus).
@@ -111,25 +111,26 @@ Le lendemain, le pâton est parfaitement détendu et maturé. Pour garantir **z�
    * Détailler les disques à l'emporte-pièce inox affûté net.
    * Disposer sur plaques Silpat.
    * **Pour les galettes :** Montage immédiat, 1re dorure et nuit en échelle au frigo (+4 °C).
-   * **Pour les fonds de flan cuits à blanc entre deux plaques :** Laisser reposer les fonds découpés **au minimum 2 heures à +4 °C** sur plaque, et intercaler impérativement des **cales inox de 3,5 mm** entre les deux plaques pour permettre l'échappement vertical de la vapeur !
+   * **Pour les plaques de rognures destinées aux fonds de flan (Pôle Pâtisserie) :** Préparer et rayer/piquer les plaques pour le pôle pâtisserie qui y détaille ses fonds de flan. En cas de cuisson à blanc entre deux plaques, laisser reposer au minimum 2 heures à +4 °C et intercaler des **cales inox de 3,5 mm** pour l'échappement de la vapeur.
 
 ---
 
-## 4. TABLEAU DE PESÉE DU PÂTON D'ATELIER (BASE 1 000 G FARINE)
+## 4. TABLEAU DE PESÉE DU PÂTON D'ATELIER — OPTION A VALIDÉE (BASE 1 000 G FARINE T65)
 
-*Règle d'or : 100 % en grammes (g) • Zéro virgule • Arrondis nets au gramme près.*
+*Règle d'or : 100 % en grammes (g) • Zéro virgule • Arrondis nets au gramme près. Formule officielle avec Margarine Opal en détrempe et 100 % Farine T65 Tradition pure.*
 
-| Bloc & Ordre | Ingrédient d'Atelier | % Meunier | Base 1 000 g Farine | 1 Pâton (7 135 g net) | 2 Pâtons (14 270 g net) | 4 Pâtons (28 540 g net) | Consigne Opérateur Pesée |
+| Bloc & Ordre | Ingrédient d'Atelier | % Meunier | Base 1 000 g Farine | 1 Pâton (7 285 g net) | 2 Pâtons (14 570 g net) | 4 Pâtons / 1 Carton (29 140 g) | Consigne Opérateur Pesée |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
-| **`[1]` Manié** | **Beurre Tourage Debic 82 % (Michard 6191)** | **76,9 %** | **769 g** | **2 500 g** | **5 000 g** | **10 000 g** | Plaques 2 kg, conditionné à +12 °C / +14 °C (plasticité optimale). |
-| **`[1]` Manié** | **Farine T55 pâtisserie (W 180-200)** | **23,1 %** | **231 g** | **750 g** | **1 500 g** | **3 000 g** | Farine T55 faible force, tamisée. |
+| **`[1]` Manié** | **Beurre Tourage Debic 82 % (Michard 6191)** | **76,9 %** | **769 g** | **2 500 g** | **5 000 g** | **10 000 g** | 1 carton = 10 kg (5 plaques de 2 kg), travaillé à +12/+14 °C. |
+| **`[1]` Manié** | **Farine T65 Tradition pure** | **23,1 %** | **231 g** | **750 g** | **1 500 g** | **3 000 g** | Farine T65 Tradition unique de l'atelier. |
 | **SOUS-BLOC** | **BLOC 1 • BEURRE MANIÉ (EXTÉRIEUR)** | **100,0 %** | **1 000 g** | **3 250 g pile** | **6 500 g pile** | **13 000 g pile** | **Batteur feuille V1 2 min, cadrer 30×40 cm à +4 °C** |
-| **`[2]` Détrempe**| **Farine T55 pâtisserie (W 180-200, P/L 0,5)**| **76,9 %** | **769 g** | **2 500 g** | **5 000 g** | **10 000 g** | Faible force, extensibilité maximale. |
-| **`[2]` Détrempe**| **Eau purifiée glacée (+2 °C)** | **40,0 %** | **400 g** | **1 300 g** | **2 600 g** | **5 200 g** | Hydratation 52,0 % rapport farine détrempe. |
-| **`[2]` Détrempe**| **Sel fin d'atelier raffiné** | **2,0 %** | **20 g** | **65 g** | **130 g** | **260 g** | Dissous dans l'eau glacée (blindage ionique). |
+| **`[2]` Détrempe**| **Farine T65 Tradition pure** | **76,9 %** | **769 g** | **2 500 g** | **5 000 g** | **10 000 g** | Farine T65 Tradition (élasticité bridée par l'Opal). |
+| **`[2]` Détrempe**| **Margarine OPAL cuve (Michard 3825) en dés**| **7,7 %** | **77 g** | **250 g** | **500 g** | **1 000 g** | **2 pains de 500 g (pour 4 pâtons) en dés souples 18 °C.** |
+| **`[2]` Détrempe**| **Eau purifiée glacée (+2 °C)** | **36,9 %** | **369 g** | **1 200 g** | **2 400 g** | **4 800 g** | Hydratation 48 % rapport farine détrempe. |
+| **`[2]` Détrempe**| **Fleur de sel de Guérande (ou sel fin)**| **2,0 %** | **20 g** | **65 g** | **130 g** | **260 g** | Dissoute dans l'eau glacée (blindage ionique). |
 | **`[2]` Détrempe**| **Vinaigre blanc d'alcool 8°** | **0,6 %** | **6 g** | **20 g** | **40 g** | **80 g** | Dissous dans l'eau (tampon pH 5,1 anti-PPO). |
-| **SOUS-BLOC** | **BLOC 2 • DÉTREMPE (INTÉRIEUR)** | **119,5 %** | **1 195 g** | **3 885 g pile** | **7 770 g pile** | **15 540 g pile** | **Frasage court crochet V1 2 min 30 (zéro corps)** |
-| **TOTAL** | **PÂTON FEUILLETÉ COMPLET** | **219,5 %** | **2 195 g** | **7 135 g pile** | **14 270 g pile** | **28 540 g pile** | **Pâton touré 48 strates net prêt à laminer** |
+| **SOUS-BLOC** | **BLOC 2 • DÉTREMPE (INTÉRIEUR)** | **124,1 %** | **1 241 g** | **4 035 g pile** | **8 070 g pile** | **16 140 g pile** | **Frasage court crochet V1 2 min 30 (zéro corps)** |
+| **TOTAL** | **PÂTON FEUILLETÉ COMPLET (48 STRATES)** | **224,1 %** | **2 241 g** | **7 285 g pile** | **14 570 g pile** | **29 140 g pile** | **Pâton touré 48 strates net prêt à laminer** |
 
 ---
 
@@ -138,9 +139,9 @@ Le lendemain, le pâton est parfaitement détendu et maturé. Pour garantir **z�
 
 | Paramètre R&D | Standard Atelier Actuel | Pierre Hermé (Larousse/Infiniment) | Christophe Felder (Galettes) | Philippe Conticini (Sensations) | Cédric Grolet (Opéra) | Arbitrage & Recommandation Atelier |
 | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
-| **Farine Beurre Manié** | T55 standard | **T45 pâtisserie fine** | **T45 tamisée** | T55 courante | T45 de force | **Adopter T45 fine** : zéro grumeau à la feuille, bloc soyeux. |
-| **Farine Détrempe** | T55 (W 200) | 50% T45 / 50% T55 | T55 meunière | T55 faible force | T45 gruau | **Conserver T55 faible force** (W 180-200, P/L 0,5). |
-| **Matière Grasse en Détrempe** | **0 g (0,0 %)** | **32,8 % beurre fondu** | **32,8 % beurre fondu** | **Crème liquide 35 % (18 % MG)** | Beurre pommade | **OPTION D'ÉLITE : 10 % Beurre fondu refroidi** (250 g / pâton). Isoplasticité absolue avec le beurre manié & zéro rétraction. |
+| **Farine Beurre Manié** | Farine T65 Tradition pure | **T45 pâtisserie fine** | **T45 tamisée** | T55 courante | T45 de force | **Farine T65 Tradition pure (100 % atelier)** : unifie l'approvisionnement sans surcoût. |
+| **Farine Détrempe** | Farine T65 Tradition pure | 50% T45 / 50% T55 | T55 meunière | T55 faible force | T45 gruau | **Farine T65 Tradition pure (100 % atelier)** : ténacité compensée par la Margarine Opal en détrempe. |
+| **Matière Grasse en Détrempe** | **Opal cuve 250 g (10 % farine)** | **32,8 % beurre fondu** | **32,8 % beurre fondu** | **Crème liquide 35 % (18 % MG)** | Beurre pommade | **VALIDÉ ATELIER (Option A) : 10 % Margarine Opal cuve en dés** (250 g / pâton). Isoplasticité absolue et zéro rétractation sur T65. |
 | **Sel d'Atelier** | Sel fin raffiné (2,0 %) | Fleur de sel (2,1 %) | Fleur de sel Guérande (2,5 %) | Sel fin (2,0 %) | Sel fin (1,8 %) | **Fleur de sel dissoute** : sapidité noble et minéraux structurants. |
 | **Vinaigre Blanc 8°** | 6 g / kg (tampon pH 5,1) | 5 g / kg | 8 g / kg | 7 g / kg | - | **6 g / kg validé à 100 %** : anti-PPO prouvé sans acidité résiduelle. |
 | **Tourage** | 1S + 2D (48 strates) | 2D + 1S ou 1D+1S+1D | 1D + 1S + 1D + 1S | 2D + 1S (48 strates) | 1D + 1S (PLF) / 5S | **1S + 2D = 48 strates maintenu** : optimum Deligny & Lucas INRAE. |
@@ -148,58 +149,38 @@ Le lendemain, le pâton est parfaitement détendu et maturé. Pour garantir **z�
 
 ---
 
-### 5.1 L'Arme Absolue des Pâtissiers d'Élite : Le Beurre Fondu dans la Détrempe (Shortening Isoplastique)
+### 5.1 Pourquoi la Margarine Opal en Détrempe est Décisive avec la Farine T65 Tradition (Shortening Isoplastique)
 
-Dans la recette académique, la détrempe ne contient que farine et eau salée. C'est la source de la résistance mécanique sous les cylindres du laminoir.  
-**Pourquoi Pierre Hermé et Christophe Felder ajoutent-ils du beurre fondu refroidi dans la détrempe ?**
+Dans la recette académique, la détrempe ne contient que farine et eau salée — ce qui devient très élastique avec une **Farine T65 Tradition pure** (plus riche en gluten qu'une T55 pâtissière).  
+**Pourquoi l'incorporation de 10 % de matière grasse (Margarine Opal cuve) dans la détrempe règle le problème :**
 
 1. **Égalisation de la plasticité (Isoplasticité Rhéologique) :**
    * Le beurre manié (77 % MG) possède une consistance cireuse, ductile et plastique à +10 °C.
-   * Une détrempe pure à l'eau possède une élasticité caoutchouteuse. Ce décalage de comportement mécanique (*shear rate mismatch*) fait que le beurre manié glisse plus vite que la détrempe au laminoir.
-   * L'incorporation de **10 % de beurre fondu refroidi** (rapporté au poids de farine de la détrempe, soit 250 g pour notre pâton de 7 kg) apporte la fraction lipidique nécessaire pour conférer à la détrempe **exactement la même ductilité que le beurre manié**.
-2. **Effet « Shortening » Anti-Rétraction :**
+   * Une détrempe pure à l'eau en T65 possède une élasticité caoutchouteuse. Ce décalage de comportement mécanique (*shear rate mismatch*) fait que le beurre manié glisse plus vite que la détrempe au laminoir.
+   * L'incorporation de **10 % de Margarine Opal cuve en dés souples** (rapporté au poids de farine de la détrempe, soit 250 g pour notre pâton de `7 285 g`) confère à la détrempe T65 **exactement la même ductilité que le beurre manié**.
+2. **Effet « Shortening » Anti-Rétraction sur T65 :**
    * Les micro-gouttelettes lipidiques s'intercalent entre les chaînes de gliadines et de gluténines lors du frasage.
-   * Elles limitent la formation excessive de ponts disulfures sans affaiblir l'imperméabilité des feuillets. La pâte ne tire plus du tout, même avec une cadence de laminage élevée.
+   * Elles limitent la formation excessive de ponts disulfures et lubrifient la T65 sans affaiblir l'imperméabilité des feuillets. La pâte ne tire plus, même avec une cadence de laminage élevée, tout en permettant à l'atelier de ne gérer **qu'une seule farine (T65 Tradition)**.
 3. **Friabilité fondante « Melt-in-mouth » :**
-   * À la dégustation, les feuillets de détrempe ne sont plus cassants et secs sous la dent ; ils s'effondrent délicatement sur la langue avec une longueur beurrée exceptionnelle.
+   * À la dégustation, les feuillets de détrempe ne sont plus cassants ni secs sous la dent ; ils s'effondrent délicatement sur la langue.
 
 ---
 
-### 5.2 Tableau de Pesée • Variante d'Élite « Grands Créateurs » (Avec Beurre Fondu en Détrempe)
+### 5.2 Validation Chirurgicale des Matières Premières Réelles (Mercuriale Michard)
 
-*Règle d'or : 100 % en grammes (g) • Zéro virgule • Arrondis nets au gramme près.*
-
-| Bloc & Ordre | Ingrédient d'Atelier | % Meunier | Base 1 000 g Farine | 1 Pâton Élite (7 385 g net) | Consigne Opérateur Pesée |
-| :---: | :--- | :---: | :---: | :---: | :--- |
-| **`[1]` Manié** | **Beurre Tourage Debic 82 % (Michard 6191)** | **76,9 %** | **769 g** | **2 500 g** | Plaques 2 kg, conditionné à +12 °C / +14 °C. |
-| **`[1]` Manié** | **Farine T45 pâtisserie fine tamisée** | **23,1 %** | **231 g** | **750 g** | **Farine T45 extra-fine, zéro grumeau.** |
-| **SOUS-BLOC** | **BLOC 1 • BEURRE MANIÉ (EXTÉRIEUR)** | **100,0 %** | **1 000 g** | **3 250 g pile** | **Batteur feuille V1 2 min, cadrer 30×40 cm à +4 °C** |
-| **`[2]` Détrempe**| **Farine T55 pâtisserie (W 180-200, P/L 0,5)**| **76,9 %** | **769 g** | **2 500 g** | Faible force meunière, extensible. |
-| **`[2]` Détrempe**| **Margarine OPAL cuve (Michard 3825) en dés**<br>*(ou Beurre doux 82 % fondu tiédi si label Pur Beurre)*| **7,7 %** | **77 g** | **250 g** | **Secret Shortening & Isoplasticité : dés souples 18 °C en fin de frasage.** |
-| **`[2]` Détrempe**| **Eau purifiée glacée (+2 °C)** | **36,9 %** | **369 g** | **1 200 g** | Hydratation réajustée (48 % net sur farine détrempe). |
-| **`[2]` Détrempe**| **Fleur de sel de Guérande (ou sel fin raffiné)**| **2,0 %** | **20 g** | **65 g** | Dissoute dans l'eau glacée. |
-| **`[2]` Détrempe**| **Vinaigre blanc d'alcool 8°** | **0,6 %** | **6 g** | **20 g** | Dissous dans l'eau (tampon pH 5,1 anti-PPO). |
-| **SOUS-BLOC** | **BLOC 2 • DÉTREMPE ÉLITE (INTÉRIEUR)** | **124,1 %** | **1 241 g** | **4 035 g pile** | **Frasage court crochet V1 2 min 30 (zéro corps)** |
-| **TOTAL** | **PÂTON FEUILLETÉ ÉLITE COMPLET** | **224,1 %** | **2 241 g** | **7 285 g pile** | **Le sommet de la texture et de la stabilité laminoir** |
-
----
-
-### 5.3 Validation Chirurgicale des Matières Premières Réelles (Mercuriale Michard)
-
-#### A. Substitution du Beurre Fondu par la Margarine OPAL Cuve (Michard 3825)
-* **Verdict R&D : OUI, TOTALEMENT VALIDÉ & TRÈS RECOMMANDÉ EN ATELIER.**
+#### A. Incorporation de la Margarine OPAL Cuve (Michard 3825) en Détrempe
+* **Verdict R&D : VALIDÉ & ADOPTÉ COMME STANDARD ATELIER (OPTION A).**
 * **Avantages Opérationnels & Rhéologiques :**
   1. **Zéro manipulation thermique (pas de casserole ni de fonte) :** L'Opal cuve est ductile et plastique à température ambiante (+16 °C à +18 °C). Inutile de la fondre et de la faire refroidir : elle s'incorpore en **dés souples froids** directement dans le batteur lors des **30 dernières secondes du frasage** de la détrempe.
-  2. **Pouvoir Shortening & Émulsifiant :** L'Opal cuve contient une fraction de mono- et diglycérides (E471) qui améliore l'émulsion microscopique et nappe immédiatement les filaments de gluten. L'élasticité résiduelle s'effondre, facilitant le laminage sur Rondo Compas.
+  2. **Pouvoir Shortening & Émulsifiant :** L'Opal cuve contient une fraction de mono- et diglycérides (E471) qui améliore l'émulsion microscopique et nappe immédiatement les filaments de gluten de la T65. L'élasticité résiduelle s'effondre, facilitant le laminage sur Rondo Compas.
   3. **Point de fusion optimal (34–36 °C) :** Ne suinte pas, ne huile pas et garde une tenue irréprochable sous la pression des rouleaux.
 * **Avertissement Juridique & Commercial (Décret n° 88-709) :**
-  - **Allégation « Pur Beurre » :** Si vos boutiques affichent la dénomination légale *« Galette des Rois Pur Beurre »*, **100 % de la matière grasse ajoutée doit être laitière**. L'ajout d'Opal cuve (végétale) interdit la mention « Pur Beurre » (étiquetage obligatoire : *« Galette des Rois à la Frangipane »* ou *« Feuilletage Maison »*).
-  - Si l'affichage boutique exige « Pur Beurre », remplacer l'Opal par du **Beurre doux 82 % pommade/tiédi** (issu de votre stock brioche/crème d'amande).
+  - **Allégation « Pur Beurre » :** L'ajout d'Opal cuve (végétale) interdit l'appellation commerciale « Pur Beurre » (étiquetage obligatoire : *« Galette des Rois à la Frangipane »* ou *« Feuilletage Maison »*).
 
 #### B. Conduite du Beurre de Tourage Debic 82 % (Michard 6191) vs 84 %
 * **La différence réelle :** Le beurre Debic 82 % apporte **16 % d'eau libre** contre 14 % pour un beurre 84 % (soit +2 % d'humidité, soit +50 g d'eau sur 2 500 g de beurre manié).
 * **Pourquoi il fonctionne parfaitement en feuilletage inversé :**
-  - Dans le beurre manié, les **750 g de farine T45/T55** absorbent immédiatement cette eau libre supplémentaire grâce à l'amidon endommagé et aux protéines. La pâte maniée ne poisse pas.
+  - Dans le beurre manié, les **750 g de farine T65 Tradition** absorbent immédiatement cette eau libre supplémentaire grâce aux protéines et à l'amidon endommagé. La pâte maniée ne poisse pas.
   - Le **Debic Croissant 82 % (Michard 6191)** est un beurre de tourage professionnel hautement texturé : son point de fusion de **34–36 °C** et sa cristallisation $\beta'$ lui confèrent une tolérance mécanique équivalente aux beurres 84 %.
 * **Consigne thermique stricte pour le Debic 82 % :**  
   Le travailler au batteur et au laminage entre **+12 °C et +14 °C** (ne jamais le laisser monter à 16–18 °C où il deviendrait trop mou).
@@ -209,10 +190,10 @@ Dans la recette académique, la détrempe ne contient que farine et eau salée. 
 * **Répartition industrielle pour 4 Pâtons (ou 2 pétrins de 2 pâtons) :**
   * **Beurre Manié (1 Carton entier Debic 10 kg)** :
     - 10 000 g Beurre Tourage Debic 82 % (+12 °C / +14 °C)
-    - 3 000 g Farine T45 fine tamisée
+    - 3 000 g Farine T65 Tradition pure
     - *Sous-total Manié :* **13 000 g net** (divisé en 4 pâtons de 3 250 g cadrés 30 × 40 cm à +4 °C).
   * **Détrempe Élite (Cuve unique, sans lavage)** :
-    - 10 000 g Farine T55 pâtisserie (W 180-200)
+    - 10 000 g Farine T65 Tradition pure
     - **1 000 g Margarine OPAL cuve (Michard 3825)**, soit **2 pains de 500 g entiers** coupés en dés souples froids (+16 °C / +18 °C). **ZÉRO FONTE.**
     - 4 800 g Eau purifiée glacée (+2 °C)
     - 260 g Fleur de sel de Guérande (ou sel fin raffiné)
@@ -227,32 +208,26 @@ Dans la recette académique, la détrempe ne contient que farine et eau salée. 
 
 ---
 
-### 5.4 Protocole de Valorisation des Rognures : Stratégie Usine Zéro Déchet en 3 Destinations
+### 5.3 Protocole de Valorisation des Rognures : Stratégie Usine Zéro Déchet en 3 Destinations
 
-L'artisan écarte délibérément la production de palmiers/pailles afin de ne pas élargir inutilement une gamme déjà très large et saturer les linéaires. Les rognures de feuilletage inversé sont valorisées à 100 % au cœur des flux internes de la pâtisserie et du snacking de l'atelier :
+L'artisan écarte délibérément la production de palmiers/pailles afin de ne pas élargir inutilement une gamme déjà très large et saturer les linéaires. Les rognures de feuilletage inversé sont valorisées à 100 % pour alimenter le **Pôle Pâtisserie** et le poste snacking/traiteur de l'atelier :
 
 1. **Règle Fondamentale d'Empilement & Repos :**
    * **Interdiction absolue de bouler ou pétrir** (ce qui détruirait l'alignement des strates de beurre et libérerait une ténacité gluten incontrôlable).
    * **Superposition à plat en mille-feuille propre**, face contre face, tassée doucement à la main.
    * Filmer au contact et laisser détendre **minimum 2 heures à +4 °C** (ou de nuit) pour relâcher l'élasticité.
 
-2. **Destination 1 • Plaques de Rognures Cuites à Blanc pour Fonds de Flan (Tamponnées à Chaud) :**
-   * **Problématique éliminée :** Le feuilletage de rognures cru cuit en cercle subit une rétractation ovale imprévisible qui décolle les fonds ou fait fuiter l'appareil à flan.
-   * **Protocole Usine :**
-     1. Abaisser les rognures détendues à **2,5–3,0 mm** au Rondo Compas en un rectangle régulier de 40 × 60 cm. Piquer légèrement la surface au rouleau pique-vite.
-     2. Disposer la feuille de pâte sur une plaque de cuisson garnie d'une feuille de papier sulfurisé ou d'un Silpat.
-     3. Recouvrir d'une seconde feuille de papier et **enfourner captif entre deux plaques** (plaque posée sur le dessus, éventuellement calée à 3–4 mm) pour brider le gonflement vertical et garantir une planéité absolue.
-     4. Cuire à blanc à **180 °C en four ventilé pendant 20 à 25 minutes** jusqu'à coloration dorée et séchage complet de la semelle.
-     5. **Tamponnage au Cercle Inox (Flexibilité Totale Chaud ou Froid) :**
-        - **Option A (À Chaud à la sortie du four) :** Tamponnage immédiat pendant que la pâte est encore malléable.
-        - **Option B (À Froid en différé - Recommandé pour l'organisation) :** Laisser refroidir les plaques cuites. Grâce à l'épaisseur calibrée fine (2,5–3,0 mm) et la friabilité sablée du feuilletage inversé, le tranchant du cercle inox découpe les disques nettement même à froid par simple pression verticale. Une micro-frange éventuelle sur le pourtour est sans aucun impact : l'appareil à flan chaud/tiède coulé par-dessus nappe et scelle hermétiquement le fond lors de la cuisson finale. Les plaques cuites peuvent donc être stockées à plat et découpées selon les besoins réels du poste flan.
-     6. **Rendement garanti :** **2 fonds de flan parfaits par plaque 40 × 60 cm**, découpés au diamètre intérieur exact du cercle, avec zéro rétractation ultérieure lors du coulage de l'appareil à flan.
+2. **Destination 1 • Plaques de Rognures pour Fonds de Flan (Transmises au Pôle Pâtisserie) :**
+   * **Répartition des rôles :** Le pôle tourage prépare les plaques de rognures abaissées et rayées/piquées ; le **Pôle Pâtisserie** y détaille ses fonds de flan et gère l'assemblage/cuisson des flans.
+   * **Protocole d'abaisse pour le Pôle Pâtisserie :**
+     1. Abaisser les rognures détendues à **2,5–3,0 mm** au Rondo Compas en plaques régulières de 40 × 60 cm.
+     2. Piquer au rouleau pique-vite / rayer selon le cahier pâtisserie, puis réserver sur papier sulfurisé à **+4 °C** (ou entre deux plaques si cuisson à blanc avec cales 3,5 mm) avant remise au poste pâtisserie pour détaillage au cercle.
 
-3. **Destination 2 • Fonds de Tartes aux Pommes (Ronds & Bandes Cadres) :**
-   * **Formats :**
-     - **Disques ronds (Ø 22 et 26 cm)** pour tartes aux pommes traditionnelles à la compote.
-     - **Bandes rectangulaires (ex. 10 × 60 cm)** pour tartes aux pommes découpées au mètre en bande/cadre.
-   * **Conduite :** Abaisser à **2,5–3,0 mm**, piquer au rouleau pique-vite, réserver 30 min au froid (+4 °C) avant fonçage ou garnissage. La charge lourde de compote/pommes bride le soufflage et bénéficie de la friabilité fondante du feuilletage inversé.
+3. **Destination 2 • Fonds de Tartes aux Pommes en Bandes & en Ronds (Pôle Pâtisserie) & Quiches Traiteur :**
+   * **Formats transmis au Pôle Pâtisserie :**
+     - **Disques ronds (Ø 22 et 26 cm)** pour tartes aux pommes traditionnelles.
+     - **Bandes rectangulaires (ex. 10 × 60 cm)** pour tartes aux pommes en bandes/cadres.
+   * **Quiches Traiteur (`T-QUI-01`) :** Utilisation possible des abaisses de rognures détendues (calibrées à 2,5–3,0 mm, piquées au rouleau pique-vite et reposées minimum 30 min à +4 °C avant fonçage).
 
 4. **Destination 3 • « Crashocks » d'Atelier (Bâtonnets Caramélisés Décorés) :**
    * **Concept :** Snacking feuilleté nomade croustillant à très forte valeur ajoutée, sans empiéter sur les moules ni exiger de façonnage complexe.

@@ -16,7 +16,7 @@
                         ANALYSE COMPARATIVE DES DEUX FORMULATIONS POMMES
   ┌────────────────────────────────────────────────────────┬────────────────────────────────────────────────────────┐
   │         OPTION A : 100 % PURATOS TOPFIL POMMES ⭐      │   OPTION B : 50 % TOPFIL + 50 % COMPOTÉE ÉPAISSE       │
-  │              (STANDARD USINE RECOMMANDÉ)               │               (VARIANTE GOURMANDE)                     │
+  │    (PISTE N°1 RETENUE — À VALIDER EN ESSAI D'ATELIER)  │               (VARIANTE GOURMANDE)                     │
   ├────────────────────────────────────────────────────────┼────────────────────────────────────────────────────────┤
   │ • Sécurité industrielle : ZÉRO DÉTREMPE, ZÉRO RISQUE   │ • Texture : compotée onctueuse reliant les morceaux    │
   │ • Extrait sec & Pectine : thermostabilité 100 % usine  │ • Eau libre : modérée si compotée très réduite (38°B)  │
@@ -59,7 +59,7 @@
 
 ## 2. TABLEAUX DES DOSAGES NETS PAR FORMAT (100 % EN GRAMMES • ZÉRO VIRGULE)
 
-### 2.1 Tableau A : Galette Pommes du Four (Réf. `P-GAL-02`) — Option 100 % Topfil
+### 2.1 Tableau A : Galette Pommes du Four (Réf. `P-GAL-02`) — Option 100 % Topfil *(Piste retenue — à valider en essai)*
 
 | Paramètre d'Atelier | Format 4 Pers (Ø 20 cm) | Format 6 Pers (Ø 24 cm) | Format 8 Pers (Ø 28 cm) | Spécification Opérateur |
 | :--- | :---: | :---: | :---: | :--- |
@@ -93,7 +93,7 @@
 
 1. **Jour J (Après-Midi) — Montage & 1re Dorure :**
    * Saupoudrer le voile de semoule fine de blé dur sur le fond de pâte 3,0 mm.
-   * Déposer la garniture (Topfil ou Sandwich Trio) en laissant **3,0 cm de marge nue**.
+   * Déposer la garniture (Topfil Pommes ou Sandwich Trio avec **insert frangipane biseauté sorti du stock congelé à -18 °C**) en laissant **3,0 cm de marge nue**.
    * Humidifier la marge nue au pinceau à l'**EAU PURE EXCLUSIVE** (zéro dorure).
    * Poser le disque supérieur, chasser l'air du plat de la main, pincer intimement la soudure.
    * Chiqueter le bord à 45° au couteau d'office tous les 8–10 mm.

@@ -3,7 +3,7 @@
 
 * **Codes Produits** : `P-FRA-01` (Frangipane Émulsionnée 80/20 Haute Gastronomie) • `P-GAL-01` (Galette des Rois Frangipane Épiphanie)
 * **Famille** : Pâtisserie Boulangère de Saison & Pâtes Tourées Garnies
-* **Procédé Atelier J/J+1** : Inserts raffermis biseautés $\rightarrow$ Fermeture à l'eau pure $\rightarrow$ 1re dorure Bamix $\rightarrow$ Nuit au frigo +4 °C en échelle $\rightarrow$ 2e dorure & rayage le lendemain $\rightarrow$ Surgélation flash cellule -35 °C $\rightarrow$ Stockage caisses filmées -18 °C jusqu'à janvier
+* **Procédé Atelier J/J+1** : Inserts biseautés congelés à -18 °C (stockés au congélateur et sortis au montage) $\rightarrow$ Fermeture à l'eau pure $\rightarrow$ 1re dorure Bamix $\rightarrow$ Nuit au frigo +4 °C en échelle $\rightarrow$ 2e dorure & rayage le lendemain $\rightarrow$ Surgélation flash cellule -35 °C $\rightarrow$ Stockage caisses filmées -18 °C jusqu'à janvier
 * **Équipements Clés** : Batteur avec feuille, Poche à douille n°14, Cellule flash -35 °C, Chambre négative -18 °C, Fours ventilés et fours à soles
 * **Format Documentaire** : Cahier Technique R&D Direction & Traçabilité Industrielle
 * **Version** : `v3.2-CHIRURGICAL-R&D` | **Statut** : 🟢 Validé Production & Standard Usine 2026
@@ -23,7 +23,7 @@ Le protocole appliqué dans ton atelier est le suivant :
                 CHRONOLOGIE DU FLUX DE PRODUCTION DÉCEMBRE (J / J+1)
   ═════════════════════════════════════════════════════════════════════════════════════════════
   [ JOUR J - APRÈS-MIDI ]
-  • Montage galettes sur Silpat (Insert raffermi biseauté + Soudure EAU PURE)
+  • Montage galettes sur Silpat (Insert biseauté congelé -18 °C + Soudure EAU PURE)
   • Épousage manuel chassant l'air torique anti-fossé
   • Chiquetage régulier au couteau d'office biseauté à 45°
   • Application de la 1re couche fine de Dorure Bamix
@@ -50,17 +50,15 @@ Le protocole appliqué dans ton atelier est le suivant :
 
 ---
 
-### 1.2 Le Point de Blindage Scientifique : Inserts à -18 °C vs Inserts Raffermis à -2 °C/-5 °C
-* **Le Piège de la Re-Congélation :**
-  - Si tes inserts sont congelés à dur à **$-18\text{ }^\circ\text{C}$** en amont, qu'ils sont insérés dans la galette à J, qu'ils passent **toute la nuit au réfrigérateur à $+4\text{ }^\circ\text{C}$**, ils vont décongeler totalement pendant la nuit.
-  - Le lendemain (J+1), la galette entière est congelée à nouveau à **$-18\text{ }^\circ\text{C}$** pour attendre janvier.
-  - *Conséquences biochimiques d'une double congélation :* La première décongélation réorganise les ponts hydrogène de l'émulsion beurre/œufs ; la seconde congélation reforme des cristaux de glace qui déstabilisent l'émulsion (synérèse). À la cuisson en janvier, la crème d'amande risque de déphaser (fuite d'huile) et de rejeter de l'eau.
-* **La Solution d'Ingénierie Optimale (Le Grand Froid Raffermissant) :**
-  - **Ne pas surgeler les inserts à -18 °C en amont !**
-  - Pocher les inserts sur plaques Silpat et les passer en cellule froide pendant **20 à 30 minutes à -2 °C / -5 °C**.
-  - *Résultat :* Le beurre pommade durcit, le palet devient rigide et manipulable à la main sans coller ni baver sur la soudure, **sans avoir franchi la congélation cryogénique profonde**.
-  - Montage de la galette $\rightarrow$ 1re dorure $\rightarrow$ Nuit au frigo +4 °C $\rightarrow$ 2e dorure $\rightarrow$ Rayage $\rightarrow$ **SURGÉLATION FLASH UNIQUE (-35 °C)** des galettes complètes finies stockées à -18 °C jusqu'à janvier !
-  - Cette méthode garantit **zéro déphasage**, une texture crémeuse parfaite à la cuisson en boutique, et une conformité sanitaire HACCP irréprochable.
+### 1.2 Logistique des Inserts Congelés à -18 °C & Stabilité Cryogénique de la Formule
+* **Organisation réelle de l'atelier :**
+  - Les inserts de frangipane biseautés sont pochés en amont sur plaques Silpat, **congelés à cœur et stockés à `-18 °C`** au congélateur (en caisses filmées), puis **ressortis au fur et à mesure lors du montage des galettes au Jour J**.
+  - Une fois enfermé dans la galette à `J`, l'insert passe la nuit en échelle à **`+4 °C`**, puis la galette dorée et rayée est surgelée en cellule flash à **`-35 °C`** à `J+1` et stockée à `-18 °C`.
+* **Pourquoi la formule `P-FRA-01` supporte ce cycle sans aucun déphasage ni synérèse :**
+  1. **Amidon modifié Staufim (20,4 % de pâtissière à froid)** : possède une résistance structurelle élevée aux cycles de gel/dégel et bloque le relargage d'eau libre pendant le séjour à `+4 °C`.
+  2. **Margarine Opal cuve (PF 34–36 °C, émulsifiants E471)** : stabilise l'émulsion lipidique bien plus solidement qu'un beurre laitier classique et empêche toute fuite de gras au four.
+  3. **Double liant d'amidon et de protéines (Farine T65 Tradition 420 g + Poudre à crème 180 g)** : gélifie l'humidité interne dès la montée en température au four.
+  4. **Avantage mécanique au montage (Jour J)** : le palet dur sortant à `-18 °C` se manipule à haute cadence sans se déformer et permet d'appuyer franchement le disque de feuilletage supérieur tout autour du biseau pour chasser l'air sans écraser l'insert.
 
 ---
 
@@ -80,7 +78,7 @@ Le creusement annulaire (« fossé » ou dépression circulaire) entourant l'ins
 
 *Règle d'or : 100 % en grammes (g) • Zéro virgule • Arrondis nets au gramme près.*
 
-### 3.1 Tableau de Pesée Frangipane Perfectionnée (Base 1 000 g Farine T55 Liant)
+### 3.1 Tableau de Pesée Frangipane Perfectionnée (Base 1 000 g Farine T65 Liant)
 
 | Étape | Ingrédient d'Atelier | % Meunier | Base 1 000 g Farine | Lot Std (10 300 g) | Double Lot (20 600 g) | Quadruple Lot (41 200 g) | Rôle Biochimique & Atelier |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
@@ -91,7 +89,7 @@ Le creusement annulaire (« fossé » ou dépression circulaire) entourant l'ins
 | **`[B]`** | **Sucre glace tamisé (Poudre fine)**| **476,2 %** | **4 762 g** | **2 000 g** | **4 000 g** | **8 000 g** | **Anti-foisonnement absolu (zéro bulle d'air, zéro soufflage), TPT strict** |
 | **`[C]`** | **Œufs entiers liquides pasteurisés**| **381,0 %** | **3 810 g** | **1 600 g** | **3 200 g** | **6 400 g** | Émulsion progressive en 3 fractions à la feuille V1 |
 | **`[D]`** | **Poudre d'amande blanche émondée (100 %)**| **476,2 %** | **4 762 g** | **2 000 g** | **4 000 g** | **8 000 g** | **100 % amande blanche émondée : goût pur sans alcool, ivoire parfait** |
-| **`[D]`** | **Farine T55 pâtisserie (Liant structure)**| **100,0 %** | **1 000 g** | **420 g** | **840 g** | **1 680 g** | Réseau protéique fixateur de lipides |
+| **`[D]`** | **Farine T65 Tradition pure (Liant structure)**| **100,0 %** | **1 000 g** | **420 g** | **840 g** | **1 680 g** | Réseau protéique fixateur de lipides |
 | **`[D]`** | **Poudre à crème (Liant fondant & vanille)**| **42,9 %** | **429 g** | **180 g** | **360 g** | **720 g** | Amidon vanillé thermo-résistant (remplace fécule Maïzena) |
 | *Amande* | *SOUS-TOTAL CRÈME D'AMANDE (79,6 %)*| *1 952,4 %*| *19 524 g*| ***8 200 g pile*** | ***16 400 g pile*** | ***32 800 g pile***| *Mélange feuille V1 (TPT 2 kg Opal / 2 kg Sucre / 2 kg Amande, 0 % alcool)* |
 | **TOTAL** | **MASSE FRANGIPANE FINIE (100 % AMANDE)** | **2 452,4 %**| **24 524 g**| **10 300 g pile** | **20 600 g pile** | **41 200 g pile** | **Prête pour pochage d'inserts biseautés** |

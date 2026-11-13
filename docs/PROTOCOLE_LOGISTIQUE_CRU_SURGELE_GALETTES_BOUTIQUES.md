@@ -2,7 +2,7 @@
 ## Pôle Feuilletage & Galettes des Rois (Saison Épiphanie) — Laboratoire Central & Réseau de Boutiques
 
 * **Périmètre Opérationnel** : 1 Laboratoire Central (3 Touriers + 1 Cuiseur) alimentant 2 à 3 points de vente.
-* **Gamme Traitée** : `P-GAL-01` (Frangipane 80/20 Perfectionnée), `P-GAL-02` (Pommes Topfil 50% + Compote 38% 50%), `P-GAL-03` (Trio Poire-Nutolade).
+* **Gamme Traitée** : `P-GAL-01` (Frangipane 80/20 Perfectionnée), `P-GAL-02` (Pommes 100 % Topfil Puratos — piste à valider en essai, ou variante 50/50), `P-GAL-03` (Trio Poire-Nutolade).
 * **Objectif Logistique** : Zéro rupture de stock en boutique, zéro goulot d'étranglement en janvier, réactivité à la commande client en moins de 50 minutes, zéro fuite, zéro creusement en fossé et croustillance 48 h.
 * **Statut** : 🟢 Homologué Direction R&D & Exploitation 2026.
 
@@ -14,10 +14,12 @@
                             CALENDRIER OPÉRATIONNEL ÉPIPHANIE
   ┌───────────────────────────────────────────────────────────────────────────────────────────┐
   │ PHASE 1 : DÉCEMBRE (Semaines 49 à 51) — PRÉ-FABRICATION MASSIVE AU LABORATOIRE           │
-  │ • Fabrication des Inserts Frangipane Surgelés (-18 °C) BISEAUTÉS EN DÔME LENTICULAIRE     │
+  │ • Fabrication et stockage à -18 °C des Inserts Frangipane BISEAUTÉS EN DÔME LENTICULAIRE   │
+  │   (ressortis du congélateur au fur et à mesure lors du montage au Jour J)                 │
   │ • Production des pâtons de Feuilletage Inversé Manié 48 strates (Réf. P-FEU-01)          │
-  │ • Assemblage complet anti-fossé (épousage manuel chassant l'air torique, soudure eau pure)│
-  │ • Repos détente 1 h à +4 °C, chiquetage biseauté 45°, double dorure Bamix et rayage      │
+  │ • Jour J : Montage anti-fossé (épousage manuel, soudure eau pure), chiquetage biseauté   │
+  │   45°, 1re dorure Bamix ➔ Nuit complète en échelle au frigo +4 °C (12 à 15 h)             │
+  │ • Jour J+1 matin : 2e dorure Bamix, rayage d'orfèvre et cheminées                        │
   │ • Surgélation flash en cellule à -35 °C (sonde -10 °C à cœur)                              │
   │ • Palettisation et stockage hermétique en chambre négative à -18 °C                       │
   ├───────────────────────────────────────────────────────────────────────────────────────────┤

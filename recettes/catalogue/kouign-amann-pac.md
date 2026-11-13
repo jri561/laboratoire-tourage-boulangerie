@@ -84,8 +84,8 @@ Comparatif des conductivités thermiques des matériaux en atelier :
    - Améliorant S500 Kimo Short dosé à **2,5 %** (70 g / bac) : apport d'oxydants qui recombinent les liaisons $-\text{S}-\text{S}-$ attaquées par le glutathion.
    - Vinaigre blanc d'alcool (8°) à **0,5 %** (15 g / bac) : tamponne le pH de pâte à **5,1**, ce qui inhibe l'activité protéolytique et stabilise la ténacité du gluten.
 4. **Beurre Manié au Ratio d'Or (3 820 g par bac)** :
-   - **2 000 g Beurre sec 84 % + 1 800 g Sucre extra-fin + 20 g Fleur de sel**.
-   - Émulsion continue : chaque grain de sucre est gainé de matière grasse hydrophobe, éliminant tout déchirement de pâte au laminoir.
+   - **2 000 g Beurre sec 84 % + 1 800 g Sucre semoule + 20 g Fleur de sel**.
+   - Départ beurre Debic froid (**+4 °C**) travaillé en **1ʳᵉ vitesse sans chauffer le beurre**, puis incorporation du sucre semoule et de la fleur de sel : chaque grain de sucre est gainé de matière grasse hydrophobe, éliminant tout déchirement de pâte au laminoir.
 5. **Thermique Réaliste de Pétrin (20 °C à 21 °C) & Zéro Pointage** :
    - Frasage 7 min V1 + pétrissage 3 à 4 min V2 avec eau glacée et glace fondue.
    - Division immédiate en galette de 3 cm $\rightarrow$ **Cellule flash à -35 °C pendant 20 minutes** pour bloquer la pâte à cœur sous 4 °C.
@@ -105,13 +105,13 @@ Comparatif des conductivités thermiques des matériaux en atelier :
 | **`[1]` Bleu** | **Sel fin d'atelier** | **1,8 %** | **18 g** | **50 g** | **250 g** | **500 g** | Force ionique et ténacité du gluten |
 | **`[1]` Bleu** | **Levure fraîche L'Hirondelle Or**| **6,0 %** | **60 g** | **165 g** | **825 g** | **1 650 g** | **Levure Or osmo-résistante renforcée** |
 | **`[2]` Ambre** | **Margarine Opal cuve (ou beurre)**| **14,9 %** | **149 g** | **410 g** | **2 050 g** | **4 100 g** | Extensibilité plastique au laminage |
-| **SOUS-TOTAL** | **DÉTREMPE CRYO AU BAC** | **181,8 %** | **1 818 g** | **5 000 g pile** | **25 000 g pile** | **50 000 g pile** | **Pâton de détrempe étalon calibré par bac** |
-| **`[3]` Vert** | **Beurre Tourage Debic (plaques 2 kg)**| **72,7 %** | **727 g** | **2 000 g** | **10 000 g** | **20 000 g** | Beurre Debic froid (+4 °C) monté à 10–12 °C |
-| **`[3]` Vert** | **Sucre extra-fin (Ratio d'Or)** | **65,5 %** | **655 g** | **1 800 g** | **9 000 g** | **18 000 g** | **Ratio d'Or 1 800 g** : caramel souple & croquant |
+| **SOUS-TOTAL** | **DÉTREMPE CRYO AU BAC** | **181,6 %** | **1 816 g** | **5 000 g pile** | **25 000 g pile** | **50 000 g pile** | **Pâton de détrempe étalon calibré par bac** |
+| **`[3]` Vert** | **Beurre Tourage Debic (plaques 2 kg)**| **72,7 %** | **727 g** | **2 000 g** | **10 000 g** | **20 000 g** | Beurre Debic froid (+4 °C) travaillé en V1 sans chauffer |
+| **`[3]` Vert** | **Sucre semoule (Ratio d'Or)** | **65,5 %** | **655 g** | **1 800 g** | **9 000 g** | **18 000 g** | **Ratio d'Or 1 800 g** : caramel souple & croquant |
 | **`[3]` Vert** | **Fleur de sel de Guérande** | **0,7 %** | **7 g** | **20 g** | **100 g** | **200 g** | Cristaux croquants dans le feuilletage |
 | **SOUS-BLOC** | **BLOC BEURRE MANIÉ SUCRÉ** | **138,9 %** | **1 389 g** | **3 820 g pile** | **19 100 g pile** | **38 200 g pile** | **Plaque de beurre manié 40 × 30 cm par bac** |
-| **TOTAL** | **PÂTON COMPLET PRÊT AU TOURAGE** | **320,7 %** | **3 207 g** | **8 820 g pile** | **44 100 g pile** | **88 200 g pile** | **Pâton touré 8 820 g net prêt au découpage** |
-| **`[4]` Finition**| **Mélange Cassonade (80%) + Cristal** | **PM** | **100 g** | **500 g** | **2 500 g** | **5 000 g** | Lit caramélisant au fond des moules silicone |
+| **TOTAL** | **PÂTON COMPLET PRÊT AU TOURAGE** | **320,5 %** | **3 205 g** | **8 820 g pile** | **44 100 g pile** | **88 200 g pile** | **Pâton touré 8 820 g net prêt au découpage** |
+| **`[4]` Finition**| **Cassonade (fond de moule)** | **PM** | **PM** | **PM** | **PM** | **PM** | Un peu de cassonade au fond du moule silicone avant dépose (caramélisation) |
 
 ---
 
@@ -120,9 +120,9 @@ Comparatif des conductivités thermiques des matériaux en atelier :
 ```mermaid
 flowchart TD
     A["Détrempe Cryo 5 000 g\nPétrin Spirale : 7 min V1 + 3 à 4 min V2\nSortie Pâte : 20–21 °C (Zéro pointage)"] --> B["Galette 3 cm Bac Paneo\nFlash -35 °C (20 min) + Nuit à +2 °C / +4 °C"]
-    B --> C["Fabrication Beurre Manié au Pétrin (J-1) :\nBeurre 84% (15–16 °C) + Sucre extra-fin (Ratio d'Or 1 800 g) + Sel\n1re vitesse lente : 2 à 3 min max ➔ Plaques 3 820 g (40 x 30 cm)"]
+    B --> C["Fabrication Beurre Manié au Pétrin (J-1) :\nBeurre Debic froid (+4 °C) + Sucre semoule (Ratio d'Or 1 800 g) + Fleur de sel\n1re vitesse lente sans chauffer le beurre ➔ Plaques 3 820 g (40 x 30 cm)"]
     C --> D["Enchâssement & Tourage Rondo Compas / Polyline :\n1er Tour Simple (10 mm) ➔ Repos 15 min à +2 °C\n2e Tour Simple (8 mm) ➔ Drossage des chants"]
-    D --> E["Façonnage Immédiat :\n- Indiv 100 g : Méthode du roulé tronçonné (spirale axiale)\n- Partage 400/600 g : Pliage octogonal élargi ou sous cales de 3,5 cm"]
+    D --> E["Façonnage Immédiat :\n- Indiv 100 g : Abaisse 6 mm (largeur 45 cm) ➔ Bandes de 2,2 cm roulées\n- Partage 400/600 g : Abaisse 4 mm ➔ Carrés pliés pointes au centre puis repliés en octogone"]
     E --> F["Cellule Flash -35 °C (45 min)\n➔ Stockage étanche sous housse à -18 °C"]
 ```
 
@@ -135,6 +135,32 @@ flowchart TD
 
 ---
 
+### 3.2 Paramètres de Façonnage, Calcul Géométrique de l'Octogone (Abaisse 4 mm) & Rendements
+
+> [!NOTE]
+> **Référentiel de masse surfacique mesuré à l'atelier :**
+> À l'ouverture **`6 mm`** du laminoir, la pâte tourée présente une masse surfacique d'environ **$\sigma_{6\text{ mm}} \approx 1,00\text{ g/cm}^2$** (cohérente avec vos trois calibres à 6 mm : bande $45 \times 2,2\text{ cm} = 99\text{ cm}^2 \approx 100\text{ g}$ ; carré 4 pers. $20 \times 20\text{ cm} = 400\text{ cm}^2 \approx 400\text{ g}$ ; carré 6 pers. $24 \times 24\text{ cm} = 576\text{ cm}^2 \approx 580\text{--}600\text{ g}$).
+
+1. **Format Individuel (`V-KOU-01` — 100 g cru, moule silicone $\varnothing 80\text{ mm}$) :**
+   * **Abaisse laminoir :** **`6 mm`**, largeur du pâton coupée net à **`45 cm`**.
+   * **Détaillage & roulage :** Couper des **bandes d'environ `2,2 cm` de large** ($\approx 100\text{ g}$ pièce) et les rouler en spirale serrée avant mise en moule silicone.
+   * **Rendement par bac (`8 820 g`) :** **88 pièces de 100 g**.
+
+2. **Formats à Partager (`V-KOU-02` — 4 pers. `400 g` en moule $\varnothing 20\text{ cm}$ & 6 pers. `600 g` en moule $\varnothing 24\text{ cm}$) :**
+   * **Pourquoi passer de l'abaisse `6 mm` à `4 mm` avec double pliage en octogone :**
+     Avec l'ancien pliage carré simple à `6 mm` ($20 \times 20\text{ cm}$ et $24 \times 24\text{ cm}$), ramener une seule fois les 4 pointes au centre produit un carré dont les 4 arêtes restent plus fines que le cœur et comblent mal la circonférence du moule rond.
+     En passant à **`4 mm`**, la masse surfacique devient $\sigma_{4\text{ mm}} = \frac{4}{6} \times 1,00 = 0,667\text{ g/cm}^2$. À poids égal, le côté du carré doit augmenter d'un facteur $\sqrt{6/4} \approx 1,225$ :
+     * **Format 4 personnes (`400 g`, moule $\varnothing 20\text{ cm}$) :**
+       - **Taille calculée à `4 mm` :** Carré de **`24,5 × 24,5 cm`** (soit **24 à 25 cm** de côté, surface $600\text{ cm}^2 = 400\text{ g}$) *[à confirmer avec la cote exacte du labo]*.
+       - **Pliage :** Ramener les 4 pointes au centre pour former un carré intermédiaire (côté $\approx 17,3\text{ cm}$, diagonale $24,5\text{ cm}$), puis **replier les 4 nouvelles pointes vers le centre** pour obtenir un **octogone de $\varnothing 19\text{--}20\text{ cm}$** qui remplit le moule $\varnothing 20\text{ cm}$ avec une épaisseur périphérique régulière.
+       - **Rendement par bac (`8 820 g`) :** **22 pièces de 400 g**.
+     * **Format 6 personnes (`600 g`, moule $\varnothing 24\text{ cm}$) :**
+       - **Taille calculée à `4 mm` :** Carré de **`29,5 × 29,5 cm` à `30 × 30 cm`** ($24 \times \sqrt{1,5} = 29,4\text{ cm}$, surface $865\text{ à }900\text{ cm}^2 \approx 580\text{--}600\text{ g}$) *[à confirmer avec la cote exacte du labo]*.
+       - **Pliage :** Ramener les 4 pointes au centre (carré intermédiaire $\approx 21\text{ cm}$ de côté, diagonale $29,5\text{--}30\text{ cm}$), puis **replier les 4 pointes** pour former un **octogone de $\varnothing 23\text{--}24\text{ cm}$** ajusté au moule $\varnothing 24\text{ cm}$.
+       - **Rendement par bac (`8 820 g`) :** **14 pièces de 600 g** (`8 400 g`) + **420 g de parures** (valorisables en Arlettes ou en individuels).
+
+---
+
 ## 4. CONDUITE DU CRU SURGELÉ EN BOUTIQUE & CUISSON SOUS GRILLE PERMANENTE
 
 ### 4.1 Remise en Œuvre & Pousse Douce en Boutique
@@ -143,7 +169,7 @@ flowchart TD
    * Dès qu'ils sont durs comme du bois, **démouler les palets congelés et les stocker en cartons étanches sous housse à -18 °C**.
    * Les moules silicone sont immédiatement lavés et réutilisés au laboratoire.
 2. **Décongélation Lente Nocturne en Boutique (+4 °C, 12 h)** :
-   * Chemiser les moules silicone d'un lit de cassonade (5 g indiv / 12 g grand).
+   * Mettre un peu de cassonade dans le fond des moules silicone avant d'y déposer les kouign-amanns pour accentuer la caramélisation.
    * Déposer les palets congelés dans les empreintes (ils s'insèrent parfaitement).
    * Laisser décongeler **12 heures à +4 °C** en chambre froide positive.
 3. **Pousse Douce Contrôlée (23–24 °C Maximum)** :

@@ -5,7 +5,7 @@
 * **Base :** Feuilletage Inversé Pur Beurre AOP Charentes-Poitou 84 % (48 strates)  
 * **Garniture :** Crème d'amande brute avec peaux torréfiées au four, gousse entière de vanille Bourbon de Madagascar, fleur de sel de Guérande & disque de feuillantine pralinée croustillante  
 * **Finition :** Chiquetage inversé d'artisan d'art, caramélisation opaline brillante  
-* **Statut :** ⭐ Annexe Prestige (Ne pas substituer à la fiche standard de production de masse)
+* **Statut :** 🗂️ Annexe R&D mise de côté (Hors production active — conservée en réserve R&D)
 
 ---
 
