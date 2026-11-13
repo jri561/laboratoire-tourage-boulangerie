@@ -3,7 +3,7 @@
 
 * **Codes Produits** : `P-GAL-02` (Galette Pommes du Four) • `P-GAL-03` (Galette Trio Poire - Frangipane - Nutolade)
 * **Famille** : Pâtisserie Boulangère de Saison & Pâtes Tourées Garnies
-* **Procédé Atelier J/J+1** : Montage sur Feuilletage Inversé 3,0 mm $\rightarrow$ Bouclier semoule fine blé dur anti-détrempe $\rightarrow$ Soudure exclusive à l'EAU PURE (marge 3,0 cm) $\rightarrow$ 1re dorure Bamix $\rightarrow$ Nuit au frigo +4 °C en échelle $\rightarrow$ 2e dorure & rayage le lendemain $\rightarrow$ 4 à 5 cheminées vapeur $\rightarrow$ Surgélation flash -35 °C $\rightarrow$ Stockage caisses filmées -18 °C jusqu'à janvier
+* **Procédé Atelier J/J+1** : Montage sur Feuilletage Inversé 3,0 mm $\rightarrow$ Garniture directe sans semoule (Topfil Pommes ou Trio Frangipane $\rightarrow$ Nutolade $\rightarrow$ Poires) $\rightarrow$ Soudure exclusive à l'EAU PURE (marge 2,0 à 3,0 cm) $\rightarrow$ 1re dorure Bamix $\rightarrow$ Nuit au frigo +4 °C en échelle $\rightarrow$ 2e dorure & rayage le lendemain $\rightarrow$ 4 à 5 cheminées vapeur $\rightarrow$ Surgélation flash -35 °C $\rightarrow$ Stockage caisses filmées -18 °C jusqu'à janvier
 * **Équipements Clés** : Laminoir Rondo Compas, Poches à douille n°14, Pinceau large soies douces, Fours ventilés et fours à soles
 * **Format Documentaire** : Cahier Technique R&D Direction & Propriété Intellectuelle
 * **Version** : `v3.2-CHIRURGICAL-R&D` | **Statut** : 🟢 Validé Production & Anti-Détrempe 2026
@@ -22,38 +22,37 @@
   │ • Extrait sec & Pectine : thermostabilité 100 % usine  │ • Eau libre : modérée si compotée très réduite (38°B)  │
   │ • Pression vapeur : modérée, tenue parfaite au four    │ • Pression vapeur : plus forte, cheminées obligatoires │
   │ • Main d'œuvre : zéro préparation en cuve              │ • Main d'œuvre : cuisson compotée et mélange préalable│
-  │ • Bouclier semoule fond : 8 g (4p) / 12 g (6p) / 15 g  │ • Bouclier semoule fond : 10 g (4p) / 15 g (6p) / 20 g │
+  │ • Fond de pâte : direct sans semoule (Topfil lié)      │ • Eau libre plus forte : cuisson réduite à 38°B       │
   │ • Cadence équipe : MAXIMALE pour 3 touriers            │ • Cadence équipe : bonne, mais étape de mélange        │
   └────────────────────────────────────────────────────────┴────────────────────────────────────────────────────────┘
 ```
 
 ### 1.1 Pourquoi le 100 % Puratos Topfil Pommes Est la Recommandation N°1
 * Le **Puratos Topfil Pommes** contient 70 % de cubes de pommes fraîches enrobés d'un gel d'amidon modifié et de pectine formulé spécifiquement pour résister à une cuisson prolongée à $175\text{ }^\circ\text{C}$ sans relarguer d'eau libre.
-* Pour une équipe de 3 ouvriers approvisionnant 2 à 3 points de vente, le 100 % Topfil élimine toute variabilité artisanale de taux d'humidité : le comportement à la cuisson est **100 % reproductible**.
-* Associé à notre **voile de semoule fine de blé dur** (8 g en 4p, 12 g en 6p, 15 g en 8p), le fond de feuilletage reste parfaitement sec, croustillant et doré.
+* Pour une équipe de 3 ouvriers approvisionnant 2 à 3 points de vente, le 100 % Topfil élimine toute variabilité artisanale de taux d'humidité : le comportement à la cuisson est **100 % reproductible**, **sans ajout de semoule de blé dur dans le fond**.
 
 ---
 
-### 1.2 Galette Trio Poire - Frangipane - Nutolade (`P-GAL-03`) : Le Sandwich Barrière
+### 1.2 Galette Trio Frangipane - Nutolade - Poires (`P-GAL-03`) : Architecture Étagée (Option A)
 
 ```
-                  ARCHITECTURE ÉTAGÉE EN SANDWICH BARRIÈRE (COUPE AXIALE)
+                  ARCHITECTURE ÉTAGÉE (FRANGIPANE ➔ NUTOLADE ➔ POIRES)
   ═════════════════════════════════════════════════════════════════════════════════════════════
   [ VOÛTE ]    Abaisse Feuilletage Inversé 3,0 mm + Rayage + 4 Évents
   ─────────────────────────────────────────────────────────────────────────────────────────────
-  [ COUCHE 3 ] Dés de Poires au Sirop Égouttés 2 h & Épongés (Incrustés sur la Frangipane)
+  [ COUCHE 3 ] Dés de Poires au Sirop Égouttés 2 h & Épongés (Déposés par-dessus)
   ─────────────────────────────────────────────────────────────────────────────────────────────
-  [ COUCHE 2 ] INSERT FRANGIPANE 80/20 BISEAUTÉ (BARRIÈRE THERMIQUE & ÉPONGE HYDRIQUE)
+  [ COUCHE 2 ] Spirale de Nutolade Fluide (Pochée sur la Frangipane, marge périphérique)
   ─────────────────────────────────────────────────────────────────────────────────────────────
-  [ COUCHE 1 ] Spirale de Nutolade Fluide (Pochée au centre restreint, Ø réduit de 50 %)
+  [ COUCHE 1 ] INSERT FRANGIPANE 80/20 BISEAUTÉ CONGELÉ -18 °C (SOCLE & BARRIÈRE ANTI-DÉTREMPE)
   ─────────────────────────────────────────────────────────────────────────────────────────────
   [ SOLE ]     Abaisse Feuilletage Inversé 3,0 mm (Posée sur Silpat)
   ═════════════════════════════════════════════════════════════════════════════════════════════
 ```
 
-1. **La Nutolade au Fond sur Diamètre Réduit :** Pochée au centre strict (marge $\ge 4\text{ cm}$ avec le bord).
-2. **L'Insert Frangipane 80/20 Biseauté en Cloche :** Coiffe intégralement la Nutolade et forme une barrière thermique isolante.
-3. **Les Poires Égouttées au Sommet :** Poires en boîte égouttées **au minimum 2 heures sur grille à +4 °C** puis épongées au papier absorbant. Déposées au sommet, leur jus résiduel est bu par l'amidon de la frangipane.
+1. **L'Insert Frangipane 80/20 en Socle :** Sorti du stock congelé à `-18 °C`, il forme une base sèche et structurée qui isole la pâte du fond. *(Astuce atelier : l'insert de 4 pers. `250 g / Ø 16 cm` sert directement de socle à la 6 pers. Poire-Nutolade).*
+2. **La Nutolade au Milieu :** Pochée en spirale sur la frangipane (sans déborder vers la soudure).
+3. **Les Poires Égouttées par-dessus :** Poires en boîte égouttées **au minimum 2 heures sur grille à +4 °C** puis épongées au papier absorbant, déposées sur le dessus.
 
 ---
 
@@ -61,39 +60,39 @@
 
 ### 2.1 Tableau A : Galette Pommes du Four (Réf. `P-GAL-02`) — Option 100 % Topfil *(Piste retenue — à valider en essai)*
 
-| Paramètre d'Atelier | Format 4 Pers (Ø 20 cm) | Format 6 Pers (Ø 24 cm) | Format 8 Pers (Ø 28 cm) | Spécification Opérateur |
+| Paramètre d'Atelier | Individuelle (Ø 12 cm) | Format 4 Pers (Ø 20 cm) | Format 6 Pers (Ø 24 cm) | Spécification Opérateur |
 | :--- | :---: | :---: | :---: | :--- |
-| **Diamètre disques pâte (cru)** | **Ø 20 cm** | **Ø 24 cm** | **Ø 28 cm** | Feuilletage Inversé 3,0 mm |
-| **Pâte Feuilletée Inversée 3,0 mm** | **200 g** (2 x 100 g) | **280 g** (2 x 140 g) | **400 g** (2 x 200 g) | Disque fond + disque dessus |
-| **Voile Fond Semoule Blé Dur** | **8 g pile** | **12 g pile** | **15 g pile** | **Éponge thermique anti-détrempe** |
-| **Puratos Topfil Pommes 100 %** | **250 g pile** | **380 g pile** | **520 g pile** | Déposé au centre à la poche/cuillère |
-| *(Variante 50/50 Compotée)* | *(125 g Topfil + 125 g Comp.)*| *(190 g Topfil + 190 g Comp.)*| *(260 g Topfil + 260 g Comp.)*| *Semoule : 10 g / 15 g / 20 g* |
-| **POIDS TOTAL BRUT CRU** | **458 g** | **672 g** | **935 g** | Poids total avant cuisson |
-| **Marge libre nue de soudure** | **3,0 cm strict** | **3,0 cm strict** | **3,0 cm strict** | Collage exclusif à l'EAU PURE |
-| **Cheminées d'évacuation** | **4 fentes centre** | **4 fentes centre** | **5 fentes centre** | Évacuation vapeur de fruit |
+| **Diamètre disques pâte (cru)** | **Ø 12 cm** | **Ø 20 cm** | **Ø 24 cm** | Feuilletage Inversé 3,0 mm |
+| **Pâte Feuilletée Inversée 3,0 mm** | **80 g** (2 x 40 g) | **200 g** (2 x 100 g) | **280 g** (2 x 140 g) | Disque fond + disque dessus |
+| **Fond de pâte** | **Sans semoule** | **Sans semoule** | **Sans semoule** | Garnissage direct sur pâte |
+| **Puratos Topfil Pommes 100 %** | **Poché à la main (PM)** | **280 g pile** | **430 g pile** | Déposé au centre à la poche/cuillère |
+| *(Variante 50/50 Compotée)* | *(Poché à la main)* | *(140 g Topfil + 140 g Comp.)*| *(215 g Topfil + 215 g Comp.)*| *Compote réduite 38°B* |
+| **POIDS TOTAL BRUT CRU** | **PM** | **480 g** | **710 g** | Poids total avant cuisson |
+| **Marge libre nue de soudure** | **2,0 cm strict** | **2,0 à 3,0 cm** | **2,0 à 3,0 cm** | Collage exclusif à l'EAU PURE |
+| **Cheminées d'évacuation** | **1 fente centre** | **4 fentes centre** | **4 fentes centre** | Évacuation vapeur de fruit |
 
 ---
 
-### 2.2 Tableau B : Galette Trio Poire - Frangipane - Nutolade (Réf. `P-GAL-03`)
+### 2.2 Tableau B : Galette Trio Frangipane - Nutolade - Poires (Réf. `P-GAL-03`)
 
-| Composant du Sandwich Étagé | Format 4 Pers (Ø 20 cm) | Format 6 Pers (Ø 24 cm) | Format 8 Pers (Ø 28 cm) | Spécification Opérateur |
+| Composant du Sandwich Étagé | Individuelle (Ø 12 cm) | Format 4 Pers (Ø 20 cm) | Format 6 Pers (Ø 24 cm) | Spécification Opérateur |
 | :--- | :---: | :---: | :---: | :--- |
-| **Pâte Feuilletée Inversée 3,0 mm** | **200 g** (2 x 100 g) | **280 g** (2 x 140 g) | **400 g** (2 x 200 g) | Disques fond et dessus |
-| **`[1]` Spirale Nutolade fond** | **60 g** (Ø 10 cm) | **90 g** (Ø 12 cm) | **130 g** (Ø 15 cm) | Pochée au centre (marge $\ge 4\text{ cm}$) |
-| **`[2]` Frangipane 80/20 Biseautée** | **160 g** (Ø 14 cm) | **250 g** (Ø 18 cm) | **340 g** (Ø 22 cm) | Disque cloche biseauté coiffant Nutolade |
-| **`[3]` Dés Poires égouttées 2 h** | **60 g** | **90 g** | **130 g** | Égouttées et épongées, incrustées sommet |
-| **SOUS-TOTAL GARNITURE NETTE** | **280 g net** | **430 g net** | **600 g net** | Masse totale au cœur |
-| **POIDS TOTAL BRUT CRU** | **480 g** | **710 g** | **1 000 g** | Poids avant cuisson |
-| **Marge Nue Périphérique** | **3,0 cm strict** | **3,0 cm strict** | **3,0 cm strict** | Humidifiée au pinceau à l'EAU PURE |
-| **Cheminées d'évacuation** | **4 fentes centre** | **4 fentes centre** | **4 fentes centre** | Percées au cutter au centre |
+| **Pâte Feuilletée Inversée 3,0 mm** | **80 g** (2 x 40 g) | **200 g** (2 x 100 g) | **280 g** (2 x 140 g) | Disques fond et dessus |
+| **`[1]` Frangipane 80/20 Biseautée (socle)** | **Poché à la main (PM)** | **160 g** (Ø 14–16 cm) | **250 g** (Ø 16 cm) | Insert congelé -18 °C (6p = insert 4p standard) |
+| **`[2]` Spirale Nutolade (milieu)** | **Poché à la main (PM)** | **50 g** | **80 g** | Pochée sur l'insert frangipane |
+| **`[3]` Dés Poires égouttées 2 h (dessus)** | **Poché à la main (PM)** | **70 g** | **110 g** | Égouttées et épongées, déposées par-dessus |
+| **SOUS-TOTAL GARNITURE NETTE** | **PM** | **280 g net** | **440 g net** | Masse totale au cœur |
+| **POIDS TOTAL BRUT CRU** | **PM** | **480 g** | **720 g** | Poids avant cuisson |
+| **Marge Nue Périphérique** | **2,0 cm strict** | **2,0 à 3,0 cm** | **2,0 à 3,0 cm** | Humidifiée au pinceau à l'EAU PURE |
+| **Cheminées d'évacuation** | **1 fente centre** | **4 fentes centre** | **4 fentes centre** | Percées au cutter au centre |
 
 ---
 
 ## 3. PROTOCOLE D'ASSEMBLAGE, WORKFLOW J / J+1 & CUISSON SOUS CALES
 
 1. **Jour J (Après-Midi) — Montage & 1re Dorure :**
-   * Saupoudrer le voile de semoule fine de blé dur sur le fond de pâte 3,0 mm.
-   * Déposer la garniture (Topfil Pommes ou Sandwich Trio avec **insert frangipane biseauté sorti du stock congelé à -18 °C**) en laissant **3,0 cm de marge nue**.
+   * Poser le disque fond de pâte 3,0 mm sur Silpat (**sans semoule**).
+   * Déposer la garniture (Topfil Pommes directement, ou Trio Frangipane congelée -18 °C $\rightarrow$ Nutolade $\rightarrow$ Poires par-dessus) en laissant la marge nue de soudure.
    * Humidifier la marge nue au pinceau à l'**EAU PURE EXCLUSIVE** (zéro dorure).
    * Poser le disque supérieur, chasser l'air du plat de la main, pincer intimement la soudure.
    * Chiqueter le bord à 45° au couteau d'office tous les 8–10 mm.

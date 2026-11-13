@@ -100,10 +100,9 @@ Le creusement annulaire (« fossé » ou dépression circulaire) entourant l'ins
 
 | Format Galette | Diamètre Pâte (Cru) | Pâte Feuilletée 3,0 mm | Diamètre Insert Biseauté | Poids Net Insert Frangipane | Marge Nue Périphérique | Position Fève de Collection |
 | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
-| **Individuelle (1 p)** | **Ø 12 cm** | 80 g (2 x 40 g) | **Ø 8 cm** (bord 3 mm) | **60 g** | 2,0 cm strict | À 2 cm du bord |
-| **Partage 4 pers** | **Ø 20 cm** | 200 g (2 x 100 g) | **Ø 15 cm** (bord 5 mm) | **220 g** | 2,5 cm strict | À 3 cm du bord (jamais au centre) |
-| **Partage 6 pers** | **Ø 24 cm** | 280 g (2 x 140 g) | **Ø 19 cm** (bord 5 mm) | **350 g** | 2,5 cm strict | À 3 cm du bord (jamais au centre) |
-| **Partage 8 pers** | **Ø 28 cm** | 400 g (2 x 200 g) | **Ø 23 cm** (bord 5 mm) | **500 g** | 2,5 cm strict | À 3 cm du bord (jamais au centre) |
+| **Individuelle (1 p)** | **Ø 12 cm** | 80 g (2 x 40 g) | **Poché à la main** | **Poché à la main (PM)** | 2,0 cm strict | À 2 cm du bord |
+| **Partage 4 pers** | **Ø 20 cm** | 200 g (2 x 100 g) | **Ø 16 cm** (bord 5 mm) | **250 g** | 2,0 cm strict | À 3 cm du bord (jamais au centre) |
+| **Partage 6 pers** | **Ø 24 cm** | 280 g (2 x 140 g) | **Ø 20 cm** (bord 5 mm) | **390 à 400 g** | 2,0 cm strict | À 3 cm du bord (jamais au centre) |
 
 ---
 

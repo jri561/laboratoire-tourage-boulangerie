@@ -58,9 +58,9 @@ L'eau contenue dans la frangipane et dans les couches de pâte commence à geler
 1. Disposer les galettes montées, rayées et percées de leurs cheminées sur des plaques 60×40 recouvertes de papier siliconé Silpat (maximum 4 galettes 4p ou 6p par plaque, 2 galettes 8p par plaque).
 2. Enfourner immédiatement en cellule de refroidissement/surgélation rapide régulée à **$-35\text{ }^\circ\text{C}$** avec ventilation forcée.
 3. **Temps de séjour nominal :**
+   * Format Individuel : **20 minutes chrono**.
    * Format 4 personnes : **30 minutes chrono**.
    * Format 6 personnes : **40 minutes chrono**.
-   * Format 8 personnes : **50 minutes chrono**.
 4. **Critère de sortie :** La sonde à cœur doit indiquer **$\le -10\text{ }^\circ\text{C}$**. Les galettes doivent être dures comme de la pierre.
 
 ---
@@ -126,10 +126,8 @@ Dans une chambre froide négative à -18 °C, l'air sec extrait continuellement 
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :--- |
 | **4 Personnes (Ø 20 cm)** | ❄️ Congelé direct (-18 °C) | **190 °C** | **165–170 °C** | 40 mm | **38 à 42 min** | **OUVRIR À 26 MIN** (14 min fin) | Au pinceau dès sortie four |
 | **6 Personnes (Ø 24 cm)** | ❄️ Congelé direct (-18 °C) | **190 °C** | **165–170 °C** | 40 mm | **45 à 48 min** | **OUVRIR À 30 MIN** (16 min fin) | Au pinceau dès sortie four |
-| **8 Personnes (Ø 28 cm)** | ❄️ Congelé direct (-18 °C) | **185 °C** | **165 °C** | 40 mm | **52 à 55 min** | **OUVRIR À 35 MIN** (18 min fin) | Au pinceau dès sortie four |
 | **4 Personnes (Ø 20 cm)** | 🟢 Décongelé (+4 °C, 4 h) | **190 °C** | **175 °C** | 40 mm | **32 à 35 min** | **OUVRIR À 22 MIN** (12 min fin) | Au pinceau dès sortie four |
 | **6 Personnes (Ø 24 cm)** | 🟢 Décongelé (+4 °C, 4 h) | **190 °C** | **175 °C** | 40 mm | **38 à 42 min** | **OUVRIR À 26 MIN** (14 min fin) | Au pinceau dès sortie four |
-| **8 Personnes (Ø 28 cm)** | 🟢 Décongelé (+4 °C, 4 h) | **185 °C** | **170 °C** | 40 mm | **45 à 48 min** | **OUVRIR À 30 MIN** (16 min fin) | Au pinceau dès sortie four |
 
 ---
 

@@ -145,7 +145,6 @@ Le lendemain, le pâton est parfaitement détendu et maturé. Pour garantir **z�
 | **Sel d'Atelier** | Sel fin raffiné (2,0 %) | Fleur de sel (2,1 %) | Fleur de sel Guérande (2,5 %) | Sel fin (2,0 %) | Sel fin (1,8 %) | **Fleur de sel dissoute** : sapidité noble et minéraux structurants. |
 | **Vinaigre Blanc 8°** | 6 g / kg (tampon pH 5,1) | 5 g / kg | 8 g / kg | 7 g / kg | - | **6 g / kg validé à 100 %** : anti-PPO prouvé sans acidité résiduelle. |
 | **Tourage** | 1S + 2D (48 strates) | 2D + 1S ou 1D+1S+1D | 1D + 1S + 1D + 1S | 2D + 1S (48 strates) | 1D + 1S (PLF) / 5S | **1S + 2D = 48 strates maintenu** : optimum Deligny & Lucas INRAE. |
-| **Finition Surface** | Sirop 30°B à chaud | Sucre glace caramélisé 230 °C | Sirop 30°B à chaud | Sucre glace caramélisé | Sirop brillanté + cuisson poussée | **Double choix selon boutique** : Sirop 30°B (brillance miroir 48 h) ou Sucre glace (effet craquant verre ambré). |
 
 ---
 
@@ -200,11 +199,7 @@ Dans la recette académique, la détrempe ne contient que farine et eau salée �
     - 80 g Vinaigre blanc d'alcool 8° (tampon anti-PPO)
     - *Sous-total Détrempe :* **16 140 g net** (divisé en 4 pâtons de 4 035 g cadrés 30 × 25 cm à +4 °C).
   * **Total Pâte Tourée 48 Strates :** **29 140 g net** (4 pâtons de 7 285 g).
-  * **Rendement net par carton de 10 kg de beurre :**
-    - **Galettes 4 personnes (200 g pâte) :** **~145 galettes finies** par carton.
-    - **Galettes 6 personnes (280 g pâte) :** **~104 galettes finies** par carton.
-    - **Galettes 8 personnes (400 g pâte) :** **~72 galettes finies** par carton.
-* **Zéro Déchet & Fluidité Logistique :** 1 carton complet de beurre utilisé, 2 pains étalons de margarine Opal entiers (zéro reste entamé), calculs arrondis nets.
+* **Zéro Déchet & Fluidité Logistique :** 1 carton complet de beurre utilisé, 2 pains étalons de margarine Opal entiers (zéro reste entamé), calculs arrondis nets. *(Les formats et poids d'inserts des galettes figurent exclusivement dans les fiches dédiées du Pôle Galettes.)*
 
 ---
 
