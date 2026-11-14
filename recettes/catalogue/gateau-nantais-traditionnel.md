@@ -26,7 +26,7 @@
 
 | Phase & Ordre | Ingrédient d'Atelier | % Meunier | Base 1 kg Farine | Petit Lot (10 Indiv / 1 kg) | Lot Atelier (50 Indiv / 5 kg) | Grand Lot (150 Indiv / 15 kg) | Rôle Biochimique & Précautions |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
-| **`[1]` Crémage** | **Beurre doux 82% pommade (18 °C)** | **175,0 %** | **1 750 g** | **230 g** | **1 150 g** | **3 450 g** | Texture ultra-fondante, enrobage des amidons |
+| **`[1]` Crémage** | **Margarine OPAL Cake-Cream (Michard 3825)** | **175,0 %** | **1 750 g** | **230 g** | **1 150 g** | **3 450 g** | Texture fondante régulière, zéro tranchage |
 | **`[1]` Crémage** | **Sucre glace tamisé** | **175,0 %** | **1 750 g** | **230 g** | **1 150 g** | **3 450 g** | Finesse de grain ; dissout immédiatement dans le beurre |
 | **`[1]` Crémage** | **Poudre d'amande blanche** | **175,0 %** | **1 750 g** | **230 g** | **1 150 g** | **3 450 g** | Corps et goût amande intense |
 | **`[1]` Crémage** | **Sel fin d'atelier** | **3,0 %** | **30 g** | **4 g** | **20 g** | **60 g** | Exhausteur de goût indispensable |
@@ -52,7 +52,7 @@
 * **Sucre glace tamisé extra-fin** : 500 g (100 %)  
 * **Rhum ambré agricole 45°** : 80 g (16 %)  
 * **Trimoline (sucre inverti)** : 50 g (10 %) — *Bloque la cristallisation cassante*  
-* **Gélatine feuille Or (hydratée)** : 4 g (0,8 %) — *Empêche le faïençage en froid négatif*  
+* **Gélatine feuille Or (Disgroup 00021806) : 4 g (0,8 %) + 24 g d'eau froide d'hydratation** — *Empêche le faïençage en froid négatif (28 g masse gélatine)*  
 
 ---
 
@@ -60,7 +60,7 @@
 
 ```mermaid
 flowchart TD
-    A["Étape 1 : Crémage à la Feuille (V1 puis V2 / 2 min)<br>Beurre pommade 18 °C + Sucre glace + Poudre d'amande + Sel"] --> B["Étape 2 : Émulsion Œufs en 3 fois (V1 / 2 min)<br>Absorber chaque tiers avant d'ajouter le suivant"]
+    A["Étape 1 : Crémage à la Feuille (V1 puis V2 / 2 min)<br>Margarine OPAL (3825) + Sucre glace + Poudre d'amande + Sel"] --> B["Étape 2 : Émulsion Œufs en 3 fois (V1 / 2 min)<br>Absorber chaque tiers avant d'ajouter le suivant"]
     B --> C["Étape 3 : Incorporation Poudres tamisées (V1 / 45 sec)<br>Farine T65 BM + Levure chimique (Arrêter dès disparition du sec)"]
     C --> D["Étape 4 : Finition Rhum en filet (V1 / 30 sec)<br>Appareil lisse, satiné et onctueux"]
     D --> E["Étape 5 : Dosage en moules alu beurrés<br>Individuel : 100 g / Partage : 450 g"]
@@ -72,12 +72,12 @@ flowchart TD
 ---
 
 ### Étape 1 : Préparation & Conduite au Batteur Planétaire
-1. **Crémage Amande & Beurre (Point Clé de la Texture)** :
-   * Dans la cuve du batteur équipé de la **Feuille**, placer le beurre pommade à 18 °C (jamais fondu), le sucre glace, la poudre d'amande et le sel.
+1. **Crémage Amande & OPAL (Point Clé de la Texture)** :
+   * Dans la cuve du batteur équipé de la **Feuille**, placer la **Margarine OPAL Cake-Cream (Michard 3825)** souple à température d'atelier (~18 °C), le sucre glace, la poudre d'amande et le sel.
    * Tourner en vitesse 1 pendant 1 minute, puis en vitesse 2 pendant 2 minutes. On obtient une texture sableuse crémeuse homogène sans incorporer d'air excessif.
 2. **Émulsion des Œufs Liquides** :
    * Réduire en 1ʳᵉ vitesse.
-   * Verser les œufs liquides tempérés en **3 fractions égales**. Laisser la matière grasse émulsionner chaque fraction pendant 30 à 45 secondes avant d'ajouter la suivante.
+   * Verser les œufs liquides en **3 fractions égales**. Laisser la matière grasse émulsionner chaque fraction pendant 30 à 45 secondes avant d'ajouter la suivante (les émulsifiants de l'OPAL sécurisent l'émulsion sans besoin de tempérer œufs ni rhum).
 3. **Poudres & Rhum** :
    * Verser la farine T65 conventionnelle BM et la levure chimique tamisées ensemble. Mélanger en vitesse 1 pendant **40 secondes maximum**. Ne pas corser pour garantir un gâteau ultra-fondant.
    * Verser enfin le rhum ambré en filet lent. Dès que la pâte est lisse et satinée, stopper immédiatement la cuve.

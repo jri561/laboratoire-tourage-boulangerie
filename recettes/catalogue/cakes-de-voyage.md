@@ -34,7 +34,7 @@
 
 | INGRÉDIENT | ÉTAPE | % MEUNIER | BASE 1 KG MIX/FARINE | 1 MOULE (3 KG) | 10 MOULES (30 KG) | 15 MOULES (45 KG) |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Mix Cake Citron IREKS (ou Farine T55 + Sucre)** | 1 | **100,0 %** | **1 000 g** | **1 600 g** | **16 000 g** | **24 000 g** |
+| **Mix REX MELLA CITRON 10 KG (Michard 74240)** | 1 | **100,0 %** | **1 000 g** | **1 600 g** | **16 000 g** | **24 000 g** |
 | **Œufs entiers liquides** | 1 | 35,0 % | 350 g | 560 g | 5 600 g | 8 400 g |
 | **Huile végétale neutre (colza/tournesol)** | 1 | 30,0 % | 300 g | 480 g | 4 800 g | 7 200 g |
 | **Eau tempérée (20 °C)** | 1 | 22,5 % | 225 g | 360 g | 3 600 g | 5 400 g |
@@ -49,18 +49,20 @@
 
 | INGRÉDIENT | ÉTAPE | % MEUNIER | BASE 1 KG MIX/FARINE | PAR PÂTE (1 MOULE) | PAR PÂTE (10 MOULES) | PAR PÂTE (15 MOULES) |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Mix Mella Golden OU Mella Choc** | 1 | **100,0 %** | **1 000 g** | **735 g** | **7 350 g** | **11 000 g** |
+| **Mix REX MELLA GOLDEN (Michard 43622) OU REX MELLA DEL.G MERE (Michard 71432)** | 1 | **100,0 %** | **1 000 g** | **735 g** | **7 350 g** | **11 000 g** |
 | **Huile végétale neutre** | 1 | 48,3 % | 483 g | 355 g | 3 550 g | 5 350 g |
 | **Œufs entiers liquides** | 1 | 40,1 % | 401 g | 295 g | 2 950 g | 4 400 g |
 | **Eau tempérée (20 °C)** | 1 | 19,7 % | 197 g | 145 g | 1 450 g | 2 200 g |
 | **SOUS-TOTAL PAR COULEUR DE PÂTE** | — | — | **2 081 g** | **1 530 g** | **15 300 g** | **22 950 g** |
-| **TOTAL DRESSAGE PAR MOULE (GOLDEN + CHOC)** | — | — | — | **3 060 g** | **30 600 g** | **45 900 g** |
+| **TOTAL DRESSAGE PAR MOULE (GOLDEN + DEL.G MERE)** | — | — | — | **3 060 g** | **30 600 g** | **45 900 g** |
 
 ---
 
 ### TABLEAU C : DÉCLINAISON AUX FRUITS CONFITS TRADITION (RÉF. `B-CAK-03`)
 *Fruits confits égouttés et enrobés pour suspension homogène dans la masse.*
-- **Mix Golden / Base T55 :** 12 350 g (10 moules) • 18 500 g (15 moules).
+- **Mix REX MELLA GOLDEN CAKE (Michard 43622) :** 12 350 g (10 moules) • 18 500 g (15 moules).
+
+> **Alternative R&D sans mix (100 % maison Farine T65 BM) :** Voir l'annexe Prestige dédiée dans [cakes-de-voyage-prestige-sans-mix.md](file:///home/toto/.gemini/antigravity/scratch/laboratoire-tourage-boulangerie/recettes/catalogue/annexes_prestige/cakes-de-voyage-prestige-sans-mix.md).
 - **Œufs liquides :** 5 900 g (10 moules) • 8 850 g (15 moules).
 - **Huile végétale :** 4 950 g (10 moules) • 7 400 g (15 moules).
 - **Eau tempérée :** 2 450 g (10 moules) • 3 700 g (15 moules).
@@ -99,9 +101,9 @@ flowchart TD
 ### DÉTAIL DES PHASES OPÉRATOIRES :
 1. **Étape 1 — Frasage et émulsion au batteur :** Dans la cuve du batteur de 40 L ou 80 L équipé de la **Feuille**, verser simultanément le Mix (ou la farine avec sucre et levure), les œufs entiers liquides, l'huile de colza et l'eau tempérée. Démarrer en 1ʳᵉ vitesse pendant 1 minute pour agglomérer les poudres sans projection, puis passer en 2ᵉ vitesse pendant 3 minutes chrono. L'appareil devient brillant, soyeux et parfaitement homogène.
 2. **Étape 2 — Inclusions :** Verser les graines de pavot bleu (ou les fruits confits farinés). Faire tourner en vitesse 1 pendant 30 secondes pour répartir les graines uniformément sans abîmer les particules.
-3. **Cas du Marbré 50/50 :** Préparer deux cuves distinctes (une pour la pâte Golden parfumée à la vanille bourbon, une pour la pâte Choc enrichie en cacao 100%).
+3. **Cas du Marbré 50/50 :** Préparer deux cuves distinctes (une pour la pâte `REX MELLA GOLDEN CAKE` parfumée à la vanille bourbon, une pour la pâte `REX MELLA DEL.G MERE` — Michard `71432`).
 4. **Étape 3 — Moulage calibré :** Poser le moule inox sur la balance électronique tarée. Couler exactement **3 060 g d'appareil**.
-   - *Pour le Marbré :* Déposer au fond une 1ʳᵉ couche de pâte Golden (765 g), recouvrir d'une couche de pâte Choc (765 g), répéter une couche Golden (765 g) et terminer par la couche Choc (765 g). Passer éventuellement une spatule en zigzag pour créer un motif calligraphique à la coupe.
+   - *Pour le Marbré :* Déposer au fond une 1ʳᵉ couche de pâte Golden (765 g), recouvrir d'une couche de pâte Délice Grand-Mère (765 g), répéter une couche Golden (765 g) et terminer par la couche Délice Grand-Mère (765 g). Passer éventuellement une spatule en zigzag pour créer un motif calligraphique à la coupe.
 5. **Étape 4 — Fente axiale à la corne huilée (Point Technique Majeur) :** Tremper le fil d'une corne de pâtissier rigide dans de l'huile de colza. Enfoncer la corne sur 15 à 20 mm de profondeur et fendre la surface du cake sur toute sa longueur médiane d'un bord à l'autre. L'huile déposée crée une ligne de moindre résistance thermique et mécanique : le cake s'ouvrira harmonieusement en son milieu en formant une belle cheminée d'écorce dorée au lieu d'éclater de manière asymétrique sur les côtés.
 
 ---

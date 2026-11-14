@@ -31,14 +31,15 @@
 | **`[1]` Fonte** | **Huile de colza raffinée** | **255,3 %** | **600 g** | **3 000 g** | **6 000 g** | **9 000 g** | Lipides insaturés : fondant persistant à froid |
 | **`[2]` Fouet** | **Œufs entiers liquides** | **280,9 %** | **660 g** | **3 300 g** | **6 600 g** | **9 900 g** | Émulsion avec les lipides, prise de coagulum |
 | **`[2]` Fouet** | **Extrait de café pur Trablit** | **2,1 %** | **5 g** | **25 g** | **50 g** | **75 g** | **Signature d'atelier** : booste les arômes cacao |
-| **`[2]` Fouet** | **Sucre cristal semoule** | **340,4 %** | **800 g** | **4 000 g** | **8 000 g** | **12 000 g** | Dissolution partielle : croûte craquelée satinée |
+| **`[2]` Fouet** | **Sucre cristal semoule** | **319,1 %** | **750 g** | **3 750 g** | **7 500 g** | **11 250 g** | Dissolution partielle : croûte craquelée satinée |
+| **`[2]` Fouet** | **Sucre inverti (Trimoline — Disgroup 00021913)** | **21,3 %** | **50 g** | **250 g** | **500 g** | **750 g** | Stabilise l'émulsion & bloque le ressuage au froid |
 | **`[3]` Poudres**| **Farine T65 conventionnelle BM (Moulin de Cadillac)** | **100,0 %** | **235 g** | **1 175 g** | **2 350 g** | **3 525 g** | Dosage très faible : texture fondante non cake |
 | **`[3]` Poudres**| **Cacao pur 100 % en poudre** | **38,3 %** | **90 g** | **450 g** | **900 g** | **1 350 g** | Coloration noir ébène et amertume noble |
 | **`[3]` Poudres**| **Sel fin d'atelier** | **2,1 %** | **5 g** | **25 g** | **50 g** | **75 g** | Renforce le profil chocolat et contraste sucré |
 | **`[3]` Poudres**| **Levure chimique (Baking powder)**| **2,1 %** | **5 g** | **25 g** | **50 g** | **75 g** | Micro-aération empêchant l'effet élastique |
 | **SOUS-TOTAL**| **TOTAL BROWNIE NATURE COULÉ** | **1 276,6 %** | **3 000 g** | **15 000 g** | **30 000 g** | **45 000 g** | **3,00 kg net / cadre 56x36 cm** |
-| **`[4]` Option** | **Noix de pécan demi-cerneaux** | **170,2 %** | **+ 400 g** | **+ 2 000 g** | **+ 4 000 g** | **+ 6 000 g** | Dispersées en surface avant enfournement |
-| **TOTAL PÉCAN**| **TOTAL AVEC NOIX DE PÉCAN** | **1 446,8 %** | **3 400 g** | **17 000 g** | **34 000 g** | **51 000 g** | **Version Pécan Gourmande** |
+| **`[4]` Option** | **Cerneaux de noix brisures (Disgroup 00021037)** | **170,2 %** | **+ 400 g** | **+ 2 000 g** | **+ 4 000 g** | **+ 6 000 g** | Dispersées en surface avant enfournement |
+| **TOTAL NOIX** | **TOTAL AVEC CERNEAUX DE NOIX** | **1 446,8 %** | **3 400 g** | **17 000 g** | **34 000 g** | **51 000 g** | **Version Noix Gourmande** |
 
 ---
 
@@ -56,10 +57,10 @@
 ```mermaid
 flowchart TD
     A["Étape 1 : Fonte Chocolat / Huile\nChocolat noir 55% fondu à 45–50 °C\n+ Huile de colza versée en émulsion au fouet"]
-    --> B["Étape 2 : Mélange Batteur à la Feuille\nŒufs + Extrait de café Trablit + Sucre semoule\nFaire tourner 2 min en 1re vitesse (Zéro foisonnement/sans air)"]
+    --> B["Étape 2 : Mélange Batteur à la Feuille\nŒufs + Café Trablit + Sucre semoule + Trimoline\nFaire tourner 2 min en 1re vitesse (Zéro foisonnement/sans air)"]
     --> C["Étape 3 : Incorporation de l'Émulsion Chocolat-Huile\nVerser en filet dans la cuve en rotation lente V1"]
     --> D["Étape 4 : Ajout des Poudres Tamisées\nFarine T65 BM + Cacao pur + Sel fin + Levure chimique\nMélanger juste le temps de lisser l'appareil"]
-    --> E["Étape 5 : Coulage en Cadres Inox 56x36 cm (Sur Silpat)\nPeser 3 000 g net d'appareil par cadre (épaisseur 20–22 mm)\n+ Option : Parsemer 400 g de noix de pécan en surface"]
+    --> E["Étape 5 : Coulage en Cadres Inox 56x36 cm (Sur Silpat)\nPeser 3 000 g net d'appareil par cadre (épaisseur 20–22 mm)\n+ Option : Parsemer 400 g de cerneaux de noix brisures"]
     --> F["Cuisson Four Ventilé 160 °C (22 à 25 min)\nOURAS FERMÉS EN CONTINU (Préservation du fondant cœur)"]
     --> G["Décadrage à chaud 10 min après sortie du four\n+ Figeage obligatoire 1 h à 2 h en chambre froide (+4 °C)"]
     --> H["Découpe Chirurgicale au couteau chaud essuyé :\n7 coupes dans la longueur (8,0 cm) x 5 coupes dans la largeur (7,2 cm)\n= 35 CARRÉS IDENTIQUES DE 85 G (ZÉRO CHUTE)"]
@@ -71,8 +72,8 @@ flowchart TD
 1. **Émulsion Fondante Chocolat Noir & Huile de Colza** :
    * Faire fondre le chocolat noir 55 % au bain-marie ou étuve entre **45 °C et 50 °C**.
    * Verser l'huile de colza à température ambiante sur le chocolat fondu en mélangeant vivement au fouet. L'émulsion doit être lisse, brillante et tiède (~35 °C).
-2. **Dissolution du Sucre & Signature Trablit** :
-   * Mettre les œufs entiers liquides, le sucre semoule et l'**extrait de café pur Trablit** `[2]` dans la cuve du batteur muni de la feuille.
+2. **Dissolution du Sucre, Trimoline & Signature Trablit** :
+   * Mettre les œufs entiers liquides, le sucre semoule, la **Trimoline** (`Disgroup 00021913`) et l'**extrait de café pur Trablit** `[2]` dans la cuve du batteur muni de la feuille.
    * Tourner pendant **1 à 2 minutes en 1ʳᵉ vitesse**.
    * *Règle d'or de texture* : **Ne jamais fouetter ni blanchir la masse**. Tout apport d'air ferait gonfler le gâteau en génoise sèche à la cuisson, anéantissant la texture dense et fondante recherchée.
 3. **Mélange & Tamisage des Poudres** :
@@ -82,15 +83,15 @@ flowchart TD
 
 ---
 
-### Étape 2 : Coulage en Cadres Inox 56x36 cm & Grainage Pécan
+### Étape 2 : Coulage en Cadres Inox 56x36 cm & Grainage Noix
 1. **Mise en Place des Cadres d'Atelier** :
    * Disposer des cadres inox rectangulaires (**dimensions intérieures 56 × 36 cm, hauteur 4,0 cm**) sur des plaques de cuisson 60×40 garnies d'une toile Silpat parfaitement plane et dégraissée.
 2. **Coulage Pesé à 3 000 g Net** :
    * Poser la plaque avec le cadre sur une balance plateforme tarée.
    * Verser exactement **3 000 g net d'appareil brownie par cadre**.
    * Étaler délicatement à la spatule coudée inox pour obtenir une épaisseur constante de **20 à 22 mm** sur toute la surface.
-3. **Option Noix de Pécan** :
-   * Pour la version Pécan, parsemer **400 g de demi-cerneaux de noix de pécan** (préalablement torréfiés 10 min à 150 °C et refroidis) de façon homogène sur toute la surface de la pâte crue. Enfoncer très légèrement les fruits à fleur de pâte.
+3. **Option Cerneaux de Noix** :
+   * Pour la version Noix, parsemer **400 g de cerneaux de noix brisures (`Disgroup 00021037`)** (préalablement torréfiés 10 min à 150 °C et refroidis) de façon homogène sur toute la surface de la pâte crue. Enfoncer très légèrement les fruits à fleur de pâte.
 
 ---
 
@@ -116,4 +117,4 @@ flowchart TD
    * Utiliser une lame longue et fine chauffée dans l'eau chaude et essuyée à chaque trait (ou couteau pneumatique d'atelier) :
      * **Dans la longueur (56 cm)** : Réaliser 6 traits espacés de **8,0 cm** $\rightarrow$ **7 bandes longitudinales**.
      * **Dans la largeur (36 cm)** : Réaliser 4 traits espacés de **7,2 cm** $\rightarrow$ **5 bandes transversales**.
-   * **Bilan Atelier** : **35 carrés rigoureusement identiques de 8,0 × 7,2 cm**, pesant **85 g brut** (nature) ou **97 g** (pécan), zéro chute, arêtes nettes sans bavure.
+   * **Bilan Atelier** : **35 carrés rigoureusement identiques de 8,0 × 7,2 cm**, pesant **85 g brut** (nature) ou **97 g** (noix), zéro chute, arêtes nettes sans bavure.

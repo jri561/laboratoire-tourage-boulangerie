@@ -44,10 +44,12 @@
 | **Farine T65 conventionnelle BM (Moulin de Cadillac)** | 3 | **100,0 %** | **1 000 g** | **1 040 g** | **4 700 g** | **9 250 g** | **13 950 g** |
 | **Poudre de lait entier 26%**| 3 | 9,6 % | 96 g | 100 g | 450 g | 900 g | 1 350 g |
 | **Levure chimique (Baking powder)** | 3 | 5,3 % | 53 g | 55 g | 250 g | 500 g | 750 g |
-| **Pépites chocolat noir 50% (décor)** | 4 | 15,4 % | 154 g | 160 g | 750 g | 1 500 g | 2 200 g |
+| **Pépites chocolat noir 50 % (inclusion pâte)** | 4 | 15,4 % | 154 g | 160 g | 750 g | 1 500 g | 2 200 g |
 | **SOUS-TOTAL PÂTE EN CUVE** | — | — | **3 318 g** | **3 450 g** | **15 570 g** | **30 785 g** | **46 300 g** |
 | **Fourrage Nutolade apparent (post-cuisson)** | 4 | 48,1 % | 481 g | + 500 g | + 2 500 g | + 5 000 g | + 7 500 g |
 | **MASSE TOTALE FINIE SORTIE ATELIER** | — | — | **3 799 g** | **3 950 g** | **18 070 g** | **35 785 g** | **53 800 g** |
+
+> **Décor avant cuisson (`B-MUF-01`) :** Déposer des **chunks de chocolat** (`BEL CHUNK LAIT 28` Puratos `4001596` ou chunks noir, `PM`) sur le dessus de chaque muffin juste après dressage.
 
 ---
 
@@ -77,7 +79,7 @@
 
 1. **Rôle de l'huile de colza :** L'huile fluide à température ambiante (et même à +4 °C) ne cristallise pas contrairement aux graisses concrètes (beurre). Elle entoure les granules d'amidon gélatinisés, maintenant une souplesse extrême et limitant drastiquement le rancissement oxydatif.
 2. **Poudres de lait et levure chimique :** Le mélange farine + poudre de lait + levure chimique doit être tamisé ensemble pour éviter les grumeaux de phosphate et assurer un développement alvéolaire parfaitement régulier sans poches de gaz asymétriques.
-3. **Pépites et inclusions :** Ne jamais mélanger les pépites de chocolat dans la pâte chaude ; elles doivent être incorporées au dernier moment ou déposées en surfaçage pour ne pas fondre dans l'appareil.
+3. **Pépites et inclusions :** Incorporer les pépites de chocolat noir 50 % dans la pâte uniquement en fin de mélange (Étape 4, 30 s en V1) pour ne pas les chauffer ni les briser. Déposer les chunks de chocolat sur le dessus après dressage en caissette, juste avant maturation/cuisson.
 
 ---
 
@@ -92,8 +94,8 @@
 ```mermaid
 flowchart TD
     A["Étape 1 : Blanchiment Léger<br>Œufs + Sucres (Semoule + Inverti) + Sel (Feuille V2 / 2 min)"] --> B["Étape 2 : Émulsion Liquide<br>Verser Eau + Huile Colza (V1 / 1 min 30)"]
-    B --> C["Étape 3 : Incorporation Poudres<br>Farine + Lait + Levure tamisés (V1 / 45 sec chrono)"]
-    C --> D["Étape 4 : Dressage & Calibrage<br>Pocheuse ou Dresseuse : 120 g / caissette tulipe"]
+    B --> C["Étape 3 : Incorporation Poudres + Pépites<br>Farine + Lait + Levure (V1 / 45 s) puis Pépites 50% (V1 / 30 s)"]
+    C --> D["Étape 4 : Dressage & Chunks<br>120 g / caissette tulipe + Chunks chocolat sur le dessus"]
     D --> E["Étape 5 : Maturation Froid Positif<br>Repos caissettes à +4 °C (1 h minimum ou nuit J-1)"]
     E --> F["Étape 6 : Cuisson Choc Thermique (Oura Fermé)<br>Four ventilé 205 °C (5 min) -> Bascule 165 °C (17 min)"]
     F --> G["Étape 7 : Empreinte Pilon à Chaud<br>Pilon inox Ø 35 mm dès sortie du four (< 60 s)"]
@@ -103,8 +105,8 @@ flowchart TD
 ### DÉTAIL DES PHASES OPÉRATOIRES :
 1. **Étape 1 — Blanchiment partiel :** Dans la cuve du batteur muni de la **Feuille**, introduire les œufs liquides, le sucre semoule et le sel fin. Tourner en vitesse 2 pendant 2 minutes. On cherche une légère dissolution du sucre sans monter l'appareil en ruban (éviter d'incorporer trop d'air qui ferait retomber le muffin après cuisson).
 2. **Étape 2 — Émulsion des liquides :** Réduire en vitesse 1. Verser l'eau tempérée et l'huile de colza en filet régulier. Mélanger pendant 1 min 30 s jusqu'à émulsion lactescente homogène.
-3. **Étape 3 — Incorporation des poudres (Point Critique) :** Verser l'ensemble Farine + Poudre de lait + Levure chimique tamisées (et poudre de noisettes pour la formule Noisette). Mélanger en vitesse 1 pendant **45 secondes à 1 minute maximum**. **Arrêter impérativement dès disparition de la farine sèche**. Un corsage au batteur développerait le réseau de gluten, rendant le muffin élastique et caoutchouteux au lieu d'être friable et fondant (*short texture*).
-4. **Étape 4 — Dressage en caissettes tulipes :** Disposer 24 caissettes tulipes dans les empreintes de la plaque alvéolée 60x40 cm. À l'aide de la dresseuse volumétrique ou à la poche à douille lisse n°14, doser exactement **120 g de pâte crue** par moule. Parsemer le surfaçage de pépites de chocolat noir ou d'éclats de noisettes torréfiées.
+3. **Étape 3 — Incorporation des poudres & pépites (Point Critique) :** Verser l'ensemble Farine + Poudre de lait + Levure chimique tamisées (et poudre de noisettes pour la formule Noisette). Mélanger en vitesse 1 pendant **45 secondes à 1 minute maximum**. **Arrêter impérativement dès disparition de la farine sèche**. Pour le Tableau A (`B-MUF-01`), ajouter ensuite les **pépites chocolat noir 50 %** directement dans la masse et tourner **30 secondes en vitesse 1** pour les répartir sans corser la pâte.
+4. **Étape 4 — Dressage en caissettes tulipes & Chunks :** Disposer 24 caissettes tulipes dans les empreintes de la plaque alvéolée 60x40 cm. À l'aide de la dresseuse volumétrique ou à la poche à douille lisse n°14, doser exactement **120 g de pâte crue** par moule. Déposer les **chunks de chocolat** sur le dessus des muffins (`B-MUF-01`) ou parsemer les **noisettes concassées** (`B-MUF-02`).
 
 ---
 
