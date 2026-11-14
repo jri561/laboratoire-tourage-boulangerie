@@ -59,7 +59,7 @@ flowchart TD
     --> B["Étape 2 : Émulsion Liquide\nAjouter Œufs + Vanille liquide en 1re vitesse\n(Mélanger 45 s jusqu'à liaison homogène)"]
     --> C["Étape 3 : Incorporation des Poudres Tamisées\nFarine T65 BM + Poudre à crème + Levure chimique (+ Cacao si Noisette)\nFrasage 1 min en 1re vitesse (Arrêt dès disparition farine)"]
     --> D["Étape 4 : Inclusions Pépites & Noisettes\nVerser les pépites froides (+4 °C) et noisettes torréfiées\n30 secondes en 1re vitesse pour répartir sans broyer"]
-    --> E["Étape 5 : Dressage Automatique ou Mécanique\nBoules calibrées de 80 g sur plaques 60x40 (24 pcs / plaque)\nLéger aplatissement avec une plaque propre (épaisseur ~20 mm)"]
+    --> E["Étape 5 : Dressage Automatique Coupe-Fil\nDresseuse coupe-fil calibrée à 80 g sur plaques 60x40 (24 pcs / plaque)\nÉcrasement automatique intégré sur plaque (épaisseur ~20 mm)"]
     --> F["Étape 6 : Surgélation Flash Cellule -35 °C (35 min)\nDurcissement complet des boules -> Conditionnement caisses -18 °C"]
     --> G["Étape 7 : Cuisson Directe Congelé 165 °C Four Ventilé\n13 à 14 minutes chrono\nOURAS OUVERTS EN CONTINU (Croustillant rives et cœur moelleux)"]
 ```
@@ -84,14 +84,12 @@ flowchart TD
 
 ---
 
-### Étape 2 : Dressage Mécanisé, Calibrage 80 g & Surgélation Flash
-1. **Dressage à la Dresseuse ou au Portionneur** :
-   * Charger la pâte dans la trémie de la dresseuse à pistons ou détailler au portionneur mécanique à glace d'atelier (Ø 55 mm).
-   * Dresser des boules régulières pesant exactement **80 g brut**.
+### Étape 2 : Dressage Automatique (Coupe-Fil), Calibrage 80 g & Surgélation Flash
+1. **Dressage & Écrasement Automatique à la Dresseuse Coupe-Fil** :
+   * Charger la pâte dans la trémie de la **dresseuse automatique équipée du module coupe-fil**.
+   * Régler la machine pour façonner, trancher au fil et déposer des palets calibrés à **80 g brut** avec **écrasement automatique intégré sur la plaque** (épaisseur régulière visée **~20 mm**).
    * **Plaquage 60×40** : Disposer **24 pièces par plaque** (4 rangées de 6 pièces) sur toiles Silpat ou papier siliconé.
-2. **Aplatissement Régulateur d'Étalement (*Spread*)** :
-   * Déposer une plaque de cuisson 60×40 propre sur les dômes des boules et appuyer doucement et horizontalement de quelques millimètres.
-   * *Objectif physique* : Créer une surface supérieure plane et calibrer la hauteur du palet à **~20 mm**. Cela garantit une cuisson homogène entre le centre et la périphérie.
+   * *Objectif physique* : L'écrasement automatique assure une surface supérieure plane et garantit une cuisson homogène entre le centre et la périphérie.
 3. **Surgélation Flash Cellule -35 °C** :
    * Enfourner directement les chariots de plaques en cellule flash à **-35 °C pendant 35 minutes**.
    * Les palets durcissent comme de la pierre.

@@ -18,8 +18,8 @@
 
 | PARAMÈTRE CLÉ | VALEUR DE CONSIGNE | TOLÉRANCE ATELIER | OBJECTIF TECHNIQUE |
 | :--- | :--- | :--- | :--- |
-| **Dorure Standard Viennoiserie** | **Dorure Végétale Prête à l'Emploi** | Pure (Bidon 1 L) | Zéro risque allergène œuf en ligne & brillance satinée |
-| **Dorure Prestige Maison** | **Œufs + Jaunes + Crème 35% + Sel + Sucre** | Strict au Bamix | Dorure brillante intense et couleur ambrée or |
+| **Dorure Standard Viennoiserie (Production)** | **Dorure Végétale Prête à l'Emploi** | Pure (Bidon 1 L) | Remplace l'ancienne dorure œufs ; zéro risque allergène & brillance satinée |
+| **Dorure Spéciale Maison (Archive R&D)** | **Œufs + Jaunes + Crème 35% + Sel + Sucre** | Strict au Bamix | Ancienne recette conservée en réserve au référentiel |
 | **Dorure Feuilletage Inversé** | **67 % Jaunes d'œufs / 33 % Crème 35%** | $\pm 1\text{ \%}$ | Épaisseur couvrante sans écoulement sur les tranches |
 | **Lustrage Sirop 44° Brix** | **800 g sucre / 1 000 g eau** | Ébullition 1 min | Froid ($< 20\text{ }^\circ\text{C}$) sur viennoiserie brûlante sortie four |
 | **Conservation Hygiène** | **Chambre froide +4 °C datée** | Max 48 h (Dorures crues) | Rincer le pistolet à l'eau chaude après chaque service |
@@ -28,8 +28,8 @@
 
 ## 2. FORMULATION MAÎTRESSE & ÉCHELLES DE PESÉE (CHEF D'ATELIER)
 
-### TABLEAU A : DORURE SPÉCIALE VIENNOISERIE MAISON AU PISTOLET (RÉF. `R-DOR-01A`)
-*Formule d'élite MOF (Johan Martin / Thomas Marie) : le sel fluidifie les protéines d'œufs et le sucre amplifie la réaction de Maillard.*
+### TABLEAU A : DORURE SPÉCIALE VIENNOISERIE MAISON AU PISTOLET (RÉF. `R-DOR-01A` — ARCHIVE CONSERVÉE)
+*Ancienne recette de dorure atelier conservée en référence (remplacée en production courante par la Dorure Végétale prête à l'emploi) : le sel fluidifie les protéines d'œufs et le sucre amplifie la réaction de Maillard.*
 
 | INGRÉDIENT | ÉTAPE | % RELATIF | BASE 1 LITRE (~930 g) | BASE 3 LITRES (~2 790 g) | BASE 5 LITRES (~4 650 g) |
 | :--- | :---: | :---: | :---: | :---: | :---: |

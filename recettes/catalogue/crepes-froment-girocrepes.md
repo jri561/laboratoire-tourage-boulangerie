@@ -3,7 +3,7 @@
 **Code Produit :** `C-CRP-01` (Crêpes Sucrées Traditionnelles de Bretagne)  
 **Destination :** Conditionnement en Paquets Frais Sous Atmosphère Protectrice, Rayon Traiteur & Restauration Collective  
 **Ligne Mécanisée :** Machine Continue à Tambour Rotatif Chauffant GIROCRÊPES (Pesée biphasique : Frasage $\rightarrow$ Allongement)  
-**Standardisation :** Formulation au Standard Meunier (Base 1 000 g Farine T55 / 100,0 %) & Paliers (12 à 100 paquets)  
+**Standardisation :** Formulation au Standard Meunier (Base 1 000 g Farine T65 conventionnelle BM / 100,0 %) & Paliers (12 à 100 paquets)  
 **Statut de Validation :** 🟢 Validé Production — Conforme R&D & Régulation Tambour 215 °C  
 
 ---
@@ -33,16 +33,16 @@
 
 | INGRÉDIENT | ÉTAPE | % BOULANGER | BASE 1 KG FARINE | 12 PQTS (2 KG) | 25 PQTS (4 KG) | 50 PQTS (8 KG) | 75 PQTS (12 KG) | 100 PQTS (16 KG) |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **Eau purifiée (1ʳᵉ partie)** | 1 | 82,5 % | 825 g | 1 650 g | 2 900 g | 5 800 g | 8 750 g | 11 650 g |
+| **Eau purifiée (1ʳᵉ partie)** | 1 | 82,5 % | 825 g | 1 650 g | 3 300 g | 6 600 g | 9 900 g | 13 200 g |
 | **Œufs entiers liquides** | 1 | 65,0 % | 650 g | 1 300 g | 2 600 g | 5 200 g | 7 800 g | 10 400 g |
 | **Sucre semoule blanc** | 1 | 30,0 % | 300 g | 600 g | 1 200 g | 2 400 g | 3 600 g | 4 800 g |
 | **Poudre de lait entier 26%** | 1 | 15,0 % | 150 g | 300 g | 600 g | 1 200 g | 1 800 g | 2 400 g |
-| **Sel fin purifié** | 1 | 1,5 % | 15 g | 30 g | 55 g | 110 g | 165 g | 220 g |
-| **Farine T55 meunière standard** | 1 | **100,0 %** | **1 000 g** | **2 000 g** | **4 000 g** | **8 000 g** | **12 000 g** | **16 000 g** |
-| *-- SOUS-TOTAL PHASE 1 (PÂTE MÈRE) --* | — | — | *2 940 g* | *5 880 g* | *11 355 g* | *22 710 g* | *34 115 g* | *45 470 g* |
+| **Sel fin purifié** | 1 | 1,5 % | 15 g | 30 g | 60 g | 120 g | 180 g | 240 g |
+| **Farine T65 conventionnelle BM** *(Moulin de Cadillac)* | 1 | **100,0 %** | **1 000 g** | **2 000 g** | **4 000 g** | **8 000 g** | **12 000 g** | **16 000 g** |
+| *-- SOUS-TOTAL PHASE 1 (PÂTE MÈRE) --* | — | — | *2 940 g* | *5 880 g* | *11 760 g* | *23 520 g* | *35 280 g* | *47 040 g* |
 | **Eau purifiée (2ᵉ partie - Allongement)**| 2 | 52,5 % | 525 g | 1 050 g | 2 100 g | 4 200 g | 6 300 g | 8 400 g |
 | **Huile de colza raffinée** | 2 | 10,5 % | 105 g | 210 g | 420 g | 840 g | 1 260 g | 1 680 g |
-| **MASSE TOTALE APPAREIL HOMOGÈNE** | — | — | **3 570 g** | **7 140 g** | **13 875 g** | **27 750 g** | **41 675 g** | **55 550 g** |
+| **MASSE TOTALE APPAREIL HOMOGÈNE** | — | — | **3 570 g** | **7 140 g** | **14 280 g** | **28 560 g** | **42 840 g** | **57 120 g** |
 
 ---
 
@@ -65,7 +65,7 @@
 
 ```mermaid
 flowchart TD
-    A["Étape 1 : Chargement Phase 1<br>Eau 1 + Œufs + Sucre + Lait + Sel + Farine T55"] --> B["Étape 2 : Frasage Épais<br>Fouet V1 (1 min) puis V2 (2 min 30 s) jusqu'à pâte lisse"]
+    A["Étape 1 : Chargement Phase 1<br>Eau 1 + Œufs + Sucre + Lait + Sel + Farine T65 BM"] --> B["Étape 2 : Frasage Épais<br>Fouet V1 (1 min) puis V2 (2 min 30 s) jusqu'à pâte lisse"]
     B --> C["Étape 3 : Allongement Phase 2<br>Verser Eau 2 + Huile colza en filet en V1"]
     C --> D["Étape 4 : Lissage & Émulsion<br>Fouet V2 pendant 1 minute chrono"]
     D --> E["Étape 5 : Filtration Obligatoire<br>Passage systématique au chinois étamine inox"]
@@ -73,7 +73,7 @@ flowchart TD
 ```
 
 ### DÉTAIL DES PHASES OPÉRATOIRES :
-1. **Étape 1 — Frasage de la pâte mère (Point Clé) :** Dans la cuve du batteur de 40 L ou 80 L muni du **Fouet**, introduire dans l'ordre : l'Eau Partie 1, les œufs liquides, le sucre semoule, la poudre de lait entier, le sel fin et enfin la totalité de la farine T55. Démarrer en vitesse 1 pendant 1 minute pour mouiller la farine sans projection, puis passer en vitesse 2 pendant 2 minutes 30 secondes. La pâte est épaisse, brillante et exempte de tout grumeau.
+1. **Étape 1 — Frasage de la pâte mère (Point Clé) :** Dans la cuve du batteur de 40 L ou 80 L muni du **Fouet**, introduire dans l'ordre : l'Eau Partie 1, les œufs liquides, le sucre semoule, la poudre de lait entier, le sel fin et enfin la totalité de la farine T65 conventionnelle BM. Démarrer en vitesse 1 pendant 1 minute pour mouiller la farine sans projection, puis passer en vitesse 2 pendant 2 minutes 30 secondes. La pâte est épaisse, brillante et exempte de tout grumeau.
 2. **Étape 2 — Allongement et émulsion :** Ramener le batteur en vitesse 1. Verser en filet l'Eau Partie 2 puis l'huile de colza. Ré-accélérer en vitesse 2 pendant 1 minute pour parfaire l'émulsion.
 3. **Étape 3 — Filtration sur chinois étamine :** Verser l'appareil à travers un grand chinois étamine ou une passoire conique en maille inox fine (0,5 mm) dans le bac tampon de transfert. Cette étape élimine les micro-impuretés ou chalazes d'œufs qui risqueraient d'obstruer la rampe d'injection ou de rayer la lame de raclage du tambour.
 

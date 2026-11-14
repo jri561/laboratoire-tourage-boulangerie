@@ -3,7 +3,7 @@
 **Codes Produits :** `T-QCH-01` (Quiche Lorraine Lardons & Emmental) • `T-QCH-02` (Quiche Chèvre & Épinards IQF) • `T-QCH-03` (Quiche Poireaux Fondants)  
 **Destination :** Rayon Traiteur Boulanger, Snacking Chaud, Réceptions & Buffets Traiteur  
 **Conditionnement :** Moules aluminium cannelés individuels Ø 100 mm (Cartons de 48 pièces conditionnées sur grille)  
-**Socle de Fonçage :** Pâte Brisée Fine Pur Beurre ou Feuilletage Inversé Découpé à l'Emporte-Pièce (Laminage 2,5 mm)  
+**Socle de Fonçage :** Fonds de Pâte Brisée prêts à garnir *(Fournisseur Michard Bretagne)* en moules aluminium Ø 100 mm  
 **Standardisation :** Formulation au Standard Appareil (Base 1 000 g Appareil / 100,0 %) & Paliers (10, 20 et 30 caisses de 48 pièces)  
 **Statut de Validation :** 🟢 Validé Production — Conforme R&D & Sel Calibré Anti-Détrempe  
 
@@ -118,7 +118,7 @@ flowchart TD
 ### DÉTAIL DES PHASES OPÉRATOIRES :
 1. **Étape 1 — Préparation de l'appareil à quiche :** Dans une cuve inox propre, verser les œufs entiers liquides et la crème liquide 35%. Ajouter les épices (poivre blanc et muscade) et le sel pesé selon la recette. Fouetter doucement sans faire mousser (l'incorporation d'air ferait gonfler la quiche au four pour s'affaisser ensuite en creux).
 2. **Étape 2 — Garnissage solide des fonds de pâte :**
-   - Disposer les moules foncés en pâte brisée crue sur les plaques du four.
+   - Disposer les fonds de pâte brisée Michard crus en moules aluminium sur les plaques du four.
    - Répartir manuellement ou à la balance le poids précis de garniture solide au fond de chaque fond :
      * *Lorraine :* 30 g de lardons crus répartis uniformément + 10 g d'emmental râpé.
      * *Chèvre-Épinards :* 40 g d'épinards IQF encore durs + 20 g de rondelles de chèvre.

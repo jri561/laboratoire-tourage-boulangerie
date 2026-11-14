@@ -21,8 +21,8 @@
 | **Température Tambour** | **230 °C régulée** | $\pm 3\text{ }^\circ\text{C}$ | Choc thermique élevé indispensable au sarrasin |
 | **Temps de Passage** | **32 secondes** | 30 à 34 s | Cuisson à cœur de l'amidon & croûtage kraz croustillant |
 | **Outil de Cuve** | **Fouet Batteur 40L-80L** | Strict | Émulsion sans grumeaux ; cisaillement fort |
-| **Renfort Cohésion** | **27,5 % Farine T55 & Œufs** | Strict | Confère l'élasticité nécessaire au décollement raclette |
-| **Mention Allergènes** | **Gluten & Lait Entier** | Obligatoire HACCP | Présence de froment (T55) et poudre de lait entier |
+| **Renfort Cohésion** | **27,5 % Farine T65 BM & Œufs** | Strict | Confère l'élasticité nécessaire au décollement raclette |
+| **Mention Allergènes** | **Gluten & Lait Entier** | Obligatoire HACCP | Présence de froment (T65) et poudre de lait entier |
 
 ---
 
@@ -37,7 +37,7 @@
 | **Poudre de lait entier 26%** | 1 | 12,5 % | 125 g | 250 g | 500 g | 750 g | 1 000 g | 1 250 g |
 | **Sel fin purifié** | 1 | 3,25 % | 33 g | 65 g | 130 g | 195 g | 260 g | 325 g |
 | **Farine de blé noir (Sarrasin breton)** | 1 | **100,0 %** | **1 000 g** | **2 000 g** | **4 000 g** | **6 000 g** | **8 000 g** | **10 000 g** |
-| **Farine T55 (liant d'accroche mécanique)** | 1 | 27,5 % | 275 g | 550 g | 1 100 g | 1 650 g | 2 200 g | 2 750 g |
+| **Farine T65 conventionnelle BM** *(liant d'accroche mécanique — Moulin de Cadillac)* | 1 | 27,5 % | 275 g | 550 g | 1 100 g | 1 650 g | 2 200 g | 2 750 g |
 | **Œufs entiers liquides** | 1 | 27,5 % | 275 g | 550 g | 1 100 g | 1 650 g | 2 200 g | 2 750 g |
 | *-- SOUS-TOTAL PHASE 1 (BASE SERRÉE) --* | — | — | *3 083 g* | *6 165 g* | *12 330 g* | *18 495 g* | *24 660 g* | *30 825 g* |
 | **Eau purifiée (2ᵉ partie - Allongement)**| 2 | 50,0 % | 500 g | 1 000 g | 2 000 g | 3 000 g | 4 000 g | 5 000 g |
@@ -47,8 +47,8 @@
 
 ## 3. PRÉCAUTIONS INGRÉDIENTS & SÉCURITÉ MATIÈRE
 
-1. **Rôle biochimique de la farine T55 et des œufs :**
-   Le sarrasin (*Fagopyrum esculentum*) est une polygonacée totalement dépourvue de gluten. Sur une crêpière manuelle en fonte rugueuse, l'eau et le sarrasin pur suffisent. Mais sur un tambour industriel tournant à grande vitesse, une pâte 100% sarrasin se pulvérise en miettes friables au contact de la raclette de décollement. L'apport précis de 27,5 % de farine T55 et d'œufs apporte les liaisons peptidiques et la cohésion d'albumine indispensables pour permettre à la galette d'être pelée sans aucune déchirure.
+1. **Rôle biochimique de la farine T65 BM et des œufs :**
+   Le sarrasin (*Fagopyrum esculentum*) est une polygonacée totalement dépourvue de gluten. Sur une crêpière manuelle en fonte rugueuse, l'eau et le sarrasin pur suffisent. Mais sur un tambour industriel tournant à grande vitesse, une pâte 100% sarrasin se pulvérise en miettes friables au contact de la raclette de décollement. L'apport précis de 27,5 % de farine T65 BM et d'œufs apporte les liaisons peptidiques et la cohésion d'albumine indispensables pour permettre à la galette d'être pelée sans aucune déchirure.
 2. **Poudre de lait entier et coloration :**
    Le sarrasin n'a que peu de sucres réducteurs libres. Les protéines et le lactose du lait entier catalysent la réaction de Maillard à 230 °C, donnant aux galettes leurs fameuses alvéoles brunes et croustillantes (*yeux de la galette*).
 3. **Épaississement thixotropique du blé noir :**
@@ -66,14 +66,14 @@
 
 ```mermaid
 flowchart TD
-    A["Étape 1 : Chargement Phase 1<br>Eau 1 + Lait + Sel + Blé Noir + T55 + Œufs"] --> B["Étape 2 : Frasage Intensif<br>Fouet V1 (1 min) puis V2 (3 min) jusqu'à pâte lisse et souple"]
+    A["Étape 1 : Chargement Phase 1<br>Eau 1 + Lait + Sel + Blé Noir + T65 BM + Œufs"] --> B["Étape 2 : Frasage Intensif<br>Fouet V1 (1 min) puis V2 (3 min) jusqu'à pâte lisse et souple"]
     B --> C["Étape 3 : Allongement Phase 2<br>Verser Eau 2 en filet régulier en V1"]
     C --> D["Étape 4 : Lissage Final<br>Fouet V2 pendant 1 minute chrono"]
     D --> E["Étape 5 : Conduite Tambour Girocrêpes<br>Consigne 230 °C • Défilement 32 s • Alimentation continue"]
 ```
 
 ### DÉTAIL DES PHASES OPÉRATOIRES :
-1. **Étape 1 — Frasage de la base serrée :** Dans la cuve du batteur muni du **Fouet**, introduire dans l'ordre : l'Eau Partie 1, la poudre de lait entier, le sel fin purifié, la farine de blé noir breton, la farine T55 et les œufs entiers liquides. Démarrer en vitesse 1 pendant 1 minute, puis passer en vitesse 2 pendant 3 minutes chrono. On obtient une texture dense, onctueuse et sans grumeaux.
+1. **Étape 1 — Frasage de la base serrée :** Dans la cuve du batteur muni du **Fouet**, introduire dans l'ordre : l'Eau Partie 1, la poudre de lait entier, le sel fin purifié, la farine de blé noir breton, la farine T65 BM et les œufs entiers liquides. Démarrer en vitesse 1 pendant 1 minute, puis passer en vitesse 2 pendant 3 minutes chrono. On obtient une texture dense, onctueuse et sans grumeaux.
 2. **Étape 2 — Allongement :** Ramener le batteur en vitesse 1. Verser en filet l'Eau Partie 2 (environ 500 g par kg de blé noir). Battre en vitesse 2 pendant 1 minute pour uniformiser la densité de coulée.
 3. **Étape 3 — Contrôle de fluidité :** La pâte doit présenter un écoulement continu au viscosimètre ou à la louche sans faire de rupture filandreuse.
 
@@ -98,7 +98,7 @@ flowchart TD
 
 | POINT DE CONTRÔLE | PARAMÈTRE MESURÉ | TOLÉRANCE CRITIQUE | ACTION CORRECTIVE IMMÉDIATE |
 | :--- | :--- | :--- | :--- |
-| **Allergènes** | Présence T55 et Lait | Étiquetage obligatoire | Contrôle de non-contamination croisée sans gluten |
+| **Allergènes** | Présence T65 BM et Lait | Étiquetage obligatoire | Contrôle de non-contamination croisée sans gluten |
 | **Température Tambour** | Pyromètre optique | 230 °C $\pm 3\text{ }^\circ\text{C}$ | Ajuster le thermostat de chauffe |
 | **Temps de Passage** | Chronomètre rotation | 30 à 34 secondes | Régler le potentiomètre d'entraînement |
 | **Homogénéité Pâte** | Viscosité en trémie | Absence de déphasage | Battre manuellement toutes les 20 min |
