@@ -1,0 +1,3245 @@
+[
+  {
+    "file": "croissant-pac-excellence.md",
+    "pole": "1. VIENNOISERIES FEUILLETÉES & TOURAGE",
+    "code": "V-PLF-01",
+    "title": "Croissant d'Excellence PAC (Double Congélation)",
+    "headers": [
+      "Ingrédient d'Atelier",
+      "1 Bac (8 000 g détrempe)",
+      "10 Bacs (80 000 g détrempe)",
+      "20 Bacs (160 000 g cuve pleine)"
+    ],
+    "rows": [
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Farine Gruau Rouge T45 (Cadillac)",
+        "cols": [
+          "3 130 g",
+          "31 300 g",
+          "62 600 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Farine Tradition pure (Décret 93)",
+        "cols": [
+          "1 340 g",
+          "13 400 g",
+          "26 800 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Eau glacée (+1 °C) / Glace écaille",
+        "cols": [
+          "2 015 g",
+          "20 150 g",
+          "40 300 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Sucre cristal blanc",
+        "cols": [
+          "394 g",
+          "3 940 g",
+          "7 880 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Trimoline (Sucre inverti)",
+        "cols": [
+          "157 g",
+          "1 570 g",
+          "3 140 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Levure fraîche L'Hirondelle Or",
+        "cols": [
+          "188 g",
+          "1 880 g",
+          "3 760 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Poudre de lait entier 26 % MG",
+        "cols": [
+          "180 g",
+          "1 800 g",
+          "3 600 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Améliorant S500 Kimo Short",
+        "cols": [
+          "90 g",
+          "900 g",
+          "1 800 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Sel fin de panification",
+        "cols": [
+          "90 g",
+          "900 g",
+          "1 800 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Vinaigre blanc d'alcool (8°)",
+        "cols": [
+          "36 g",
+          "360 g",
+          "720 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-2",
+        "ingredient": "Margarine Opal cuve (Michard 3825)",
+        "cols": [
+          "380 g",
+          "3 800 g",
+          "7 600 g"
+        ]
+      },
+      {
+        "type": "subtotal",
+        "dot": "",
+        "ingredient": "SOUS-TOTAL DÉTREMPE NETTE",
+        "cols": [
+          "8 000 g pile",
+          "80 000 g pile",
+          "160 000 g pile"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-3",
+        "ingredient": "Beurre Debic Croissant 82 % (Michard 6191)",
+        "cols": [
+          "2 000 g",
+          "20 000 g",
+          "40 000 g"
+        ]
+      },
+      {
+        "type": "total",
+        "dot": "",
+        "ingredient": "POIDS TOTAL PÂTON TOURÉ",
+        "cols": [
+          "10 000 g pile",
+          "100 000 g pile",
+          "200 000 g pile"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-3",
+        "ingredient": "Dorure Végétale au pistolet",
+        "cols": [
+          "50 g / plaque",
+          "500 g",
+          "1 000 g"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "pain-chocolat-equerre-pac.md",
+    "pole": "1. VIENNOISERIES FEUILLETÉES & TOURAGE",
+    "code": "V-PLF-02",
+    "title": "Pain au Chocolat Équerré PAC (1 Barre 160)",
+    "headers": [
+      "Ingrédient d'Atelier",
+      "1 Bac (8 000 g)",
+      "10 Bacs (80 000 g)",
+      "20 Bacs (160 000 g)"
+    ],
+    "rows": [
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Farine Gruau Rouge T45 (Moulin de Cadillac)",
+        "cols": [
+          "3 130 g",
+          "31 300 g",
+          "62 600 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Farine Tradition pure (Décret 93)",
+        "cols": [
+          "1 340 g",
+          "13 400 g",
+          "26 800 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Eau glacée (+1 °C) / Glace",
+        "cols": [
+          "2 015 g",
+          "20 150 g",
+          "40 300 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Sucre cristal semoule",
+        "cols": [
+          "394 g",
+          "3 940 g",
+          "7 880 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Trimoline (Sucre inverti)",
+        "cols": [
+          "157 g",
+          "1 570 g",
+          "3 140 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Levure fraîche L'Hirondelle Or",
+        "cols": [
+          "188 g",
+          "1 880 g",
+          "3 760 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Poudre de lait entier 26 %",
+        "cols": [
+          "180 g",
+          "1 800 g",
+          "3 600 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Améliorant S500 Kimo Short",
+        "cols": [
+          "90 g",
+          "900 g",
+          "1 800 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Sel fin d'atelier",
+        "cols": [
+          "90 g",
+          "900 g",
+          "1 800 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Vinaigre blanc d'alcool 8°",
+        "cols": [
+          "36 g",
+          "360 g",
+          "720 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-2",
+        "ingredient": "Margarine Opal cuve (Michard 3825)",
+        "cols": [
+          "380 g",
+          "3 800 g",
+          "7 600 g"
+        ]
+      },
+      {
+        "type": "subtotal",
+        "dot": "",
+        "ingredient": "SOUS-TOTAL DÉTREMPE NET",
+        "cols": [
+          "8 000 g pile",
+          "80 000 g pile",
+          "160 000 g pile"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-3",
+        "ingredient": "Beurre Debic Croissant tourage (Michard 6191)",
+        "cols": [
+          "2 000 g",
+          "20 000 g",
+          "40 000 g"
+        ]
+      },
+      {
+        "type": "total",
+        "dot": "",
+        "ingredient": "POIDS TOTAL PÂTON TOURÉ",
+        "cols": [
+          "10 000 g pile",
+          "100 000 g pile",
+          "200 000 g pile"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-3",
+        "ingredient": "Barres chocolat 44 % (Calibre 160)",
+        "cols": [
+          "~130 barres",
+          "~1 300 barres",
+          "~2 600 barres"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-3",
+        "ingredient": "Dorure Végétale au pistolet",
+        "cols": [
+          "50 g / plaque",
+          "500 g",
+          "1 000 g"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "pain-raisins-escargot-pac.md",
+    "pole": "1. VIENNOISERIES FEUILLETÉES & TOURAGE",
+    "code": "V-PLF-03",
+    "title": "Pain aux Raisins (Escargot) PAC (90 g)",
+    "headers": [
+      "Ingrédient d'Atelier",
+      "1 Bac (8 000 g)",
+      "10 Bacs (80 000 g)",
+      "20 Bacs (160 000 g)"
+    ],
+    "rows": [
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Farine Gruau Rouge T45 (Moulin de Cadillac)",
+        "cols": [
+          "3 130 g",
+          "31 300 g",
+          "62 600 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Farine Tradition pure (Décret 93)",
+        "cols": [
+          "1 340 g",
+          "13 400 g",
+          "26 800 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Eau glacée (+1 °C) / Glace",
+        "cols": [
+          "2 015 g",
+          "20 150 g",
+          "40 300 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Sucre cristal semoule",
+        "cols": [
+          "394 g",
+          "3 940 g",
+          "7 880 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Trimoline (Sucre inverti)",
+        "cols": [
+          "157 g",
+          "1 570 g",
+          "3 140 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Levure fraîche L'Hirondelle Or",
+        "cols": [
+          "188 g",
+          "1 880 g",
+          "3 760 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Poudre de lait entier 26 %",
+        "cols": [
+          "180 g",
+          "1 800 g",
+          "3 600 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Améliorant S500 Kimo Short",
+        "cols": [
+          "90 g",
+          "900 g",
+          "1 800 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Sel fin d'atelier",
+        "cols": [
+          "90 g",
+          "900 g",
+          "1 800 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Vinaigre blanc d'alcool 8°",
+        "cols": [
+          "36 g",
+          "360 g",
+          "720 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-2",
+        "ingredient": "Margarine Opal cuve (Michard 3825)",
+        "cols": [
+          "380 g",
+          "3 800 g",
+          "7 600 g"
+        ]
+      },
+      {
+        "type": "subtotal",
+        "dot": "",
+        "ingredient": "SOUS-TOTAL DÉTREMPE NET",
+        "cols": [
+          "8 000 g pile",
+          "80 000 g pile",
+          "160 000 g pile"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-3",
+        "ingredient": "Beurre Debic Croissant tourage (Michard 6191)",
+        "cols": [
+          "2 000 g",
+          "20 000 g",
+          "40 000 g"
+        ]
+      },
+      {
+        "type": "total",
+        "dot": "",
+        "ingredient": "POIDS TOTAL PÂTON TOURÉ",
+        "cols": [
+          "10 000 g pile",
+          "100 000 g pile",
+          "200 000 g pile"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "pain-suisse-chocolatine-pac.md",
+    "pole": "1. VIENNOISERIES FEUILLETÉES & TOURAGE",
+    "code": "V-PLF-04",
+    "title": "Pain Suisse (Chocolatine Longue) PAC (120 g)",
+    "headers": [
+      "Ingrédient d'Atelier",
+      "1 Bac (8 000 g)",
+      "10 Bacs (80 000 g)",
+      "20 Bacs (160 000 g)"
+    ],
+    "rows": [
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Farine Gruau Rouge T45 (Moulin de Cadillac)",
+        "cols": [
+          "3 130 g",
+          "31 300 g",
+          "62 600 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Farine Tradition pure (Décret 93)",
+        "cols": [
+          "1 340 g",
+          "13 400 g",
+          "26 800 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Eau glacée (+1 °C) / Glace",
+        "cols": [
+          "2 015 g",
+          "20 150 g",
+          "40 300 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Sucre cristal semoule",
+        "cols": [
+          "394 g",
+          "3 940 g",
+          "7 880 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Trimoline (Sucre inverti)",
+        "cols": [
+          "157 g",
+          "1 570 g",
+          "3 140 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Levure fraîche L'Hirondelle Or",
+        "cols": [
+          "188 g",
+          "1 880 g",
+          "3 760 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Poudre de lait entier 26 %",
+        "cols": [
+          "180 g",
+          "1 800 g",
+          "3 600 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Améliorant S500 Kimo Short",
+        "cols": [
+          "90 g",
+          "900 g",
+          "1 800 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Sel fin d'atelier",
+        "cols": [
+          "90 g",
+          "900 g",
+          "1 800 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Vinaigre blanc d'alcool 8°",
+        "cols": [
+          "36 g",
+          "360 g",
+          "720 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-2",
+        "ingredient": "Margarine Opal cuve (Michard 3825)",
+        "cols": [
+          "380 g",
+          "3 800 g",
+          "7 600 g"
+        ]
+      },
+      {
+        "type": "subtotal",
+        "dot": "",
+        "ingredient": "SOUS-TOTAL DÉTREMPE NET",
+        "cols": [
+          "8 000 g pile",
+          "80 000 g pile",
+          "160 000 g pile"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-3",
+        "ingredient": "Beurre Debic Croissant tourage (Michard 6191)",
+        "cols": [
+          "2 000 g",
+          "20 000 g",
+          "40 000 g"
+        ]
+      },
+      {
+        "type": "total",
+        "dot": "",
+        "ingredient": "POIDS TOTAL PÂTON TOURÉ",
+        "cols": [
+          "10 000 g pile",
+          "100 000 g pile",
+          "200 000 g pile"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "oranais-abricots-pac.md",
+    "pole": "1. VIENNOISERIES FEUILLETÉES & TOURAGE",
+    "code": "V-PLF-05",
+    "title": "Oranais aux Abricots PAC (100 g)",
+    "headers": [
+      "Ingrédient d'Atelier",
+      "1 Bac (8 000 g)",
+      "10 Bacs (80 000 g)",
+      "20 Bacs (160 000 g)"
+    ],
+    "rows": [
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Farine Gruau Rouge T45 (Moulin de Cadillac)",
+        "cols": [
+          "3 130 g",
+          "31 300 g",
+          "62 600 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Farine Tradition pure (Décret 93)",
+        "cols": [
+          "1 340 g",
+          "13 400 g",
+          "26 800 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Eau glacée (+1 °C) / Glace",
+        "cols": [
+          "2 015 g",
+          "20 150 g",
+          "40 300 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Sucre cristal semoule",
+        "cols": [
+          "394 g",
+          "3 940 g",
+          "7 880 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Trimoline (Sucre inverti)",
+        "cols": [
+          "157 g",
+          "1 570 g",
+          "3 140 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Levure fraîche L'Hirondelle Or",
+        "cols": [
+          "188 g",
+          "1 880 g",
+          "3 760 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Poudre de lait entier 26 %",
+        "cols": [
+          "180 g",
+          "1 800 g",
+          "3 600 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Améliorant S500 Kimo Short",
+        "cols": [
+          "90 g",
+          "900 g",
+          "1 800 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Sel fin d'atelier",
+        "cols": [
+          "90 g",
+          "900 g",
+          "1 800 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Vinaigre blanc d'alcool 8°",
+        "cols": [
+          "36 g",
+          "360 g",
+          "720 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-2",
+        "ingredient": "Margarine Opal cuve (Michard 3825)",
+        "cols": [
+          "380 g",
+          "3 800 g",
+          "7 600 g"
+        ]
+      },
+      {
+        "type": "subtotal",
+        "dot": "",
+        "ingredient": "SOUS-TOTAL DÉTREMPE NET",
+        "cols": [
+          "8 000 g pile",
+          "80 000 g pile",
+          "160 000 g pile"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-3",
+        "ingredient": "Beurre Debic Croissant tourage (Michard 6191)",
+        "cols": [
+          "2 000 g",
+          "20 000 g",
+          "40 000 g"
+        ]
+      },
+      {
+        "type": "total",
+        "dot": "",
+        "ingredient": "POIDS TOTAL PÂTON TOURÉ",
+        "cols": [
+          "10 000 g pile",
+          "100 000 g pile",
+          "200 000 g pile"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "cinnamon-roll-feuillete-pac.md",
+    "pole": "1. VIENNOISERIES FEUILLETÉES & TOURAGE",
+    "code": "V-PLF-06",
+    "title": "Cinnamon Roll Feuilleté PAC (75 g)",
+    "headers": [
+      "Ingrédient d'Atelier",
+      "1 Bac (8 000 g)",
+      "10 Bacs (80 000 g)",
+      "20 Bacs (160 000 g)"
+    ],
+    "rows": [
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Farine de Gruau T45",
+        "cols": [
+          "3 130 g",
+          "31 300 g",
+          "62 600 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Farine T65 Tradition (Décret 93)",
+        "cols": [
+          "1 340 g",
+          "13 400 g",
+          "26 800 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Eau glacée (+1 °C) / Glace",
+        "cols": [
+          "2 015 g",
+          "20 150 g",
+          "40 300 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Sucre cristal semoule",
+        "cols": [
+          "394 g",
+          "3 940 g",
+          "7 880 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Trimoline (Sucre inverti)",
+        "cols": [
+          "157 g",
+          "1 570 g",
+          "3 140 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Levure fraîche L'Hirondelle Or",
+        "cols": [
+          "188 g",
+          "1 880 g",
+          "3 760 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Poudre de lait entier 26 %",
+        "cols": [
+          "180 g",
+          "1 800 g",
+          "3 600 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Améliorant S500 Kimo Short",
+        "cols": [
+          "90 g",
+          "900 g",
+          "1 800 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Sel fin d'atelier",
+        "cols": [
+          "90 g",
+          "900 g",
+          "1 800 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Vinaigre blanc d'alcool 8°",
+        "cols": [
+          "36 g",
+          "360 g",
+          "720 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-2",
+        "ingredient": "Matière grasse cuve (Opale/Beurre)",
+        "cols": [
+          "380 g",
+          "3 800 g",
+          "7 600 g"
+        ]
+      },
+      {
+        "type": "subtotal",
+        "dot": "",
+        "ingredient": "SOUS-TOTAL DÉTREMPE NET",
+        "cols": [
+          "8 000 g pile",
+          "80 000 g pile",
+          "160 000 g pile"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-3",
+        "ingredient": "Beurre sec tourage 84 % (Plaques 2 kg)",
+        "cols": [
+          "2 000 g",
+          "20 000 g",
+          "40 000 g"
+        ]
+      },
+      {
+        "type": "total",
+        "dot": "",
+        "ingredient": "POIDS TOTAL PÂTON TOURÉ",
+        "cols": [
+          "10 000 g pile",
+          "100 000 g pile",
+          "200 000 g pile"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "cruffin-atelier-pac.md",
+    "pole": "1. VIENNOISERIES FEUILLETÉES & TOURAGE",
+    "code": "V-PLF-07",
+    "title": "Cruffin Feuilleté Atelier PAC (80 g)",
+    "headers": [
+      "Ingrédient d'Atelier",
+      "1 Bac (8 000 g)",
+      "10 Bacs (80 000 g)",
+      "20 Bacs (160 000 g)"
+    ],
+    "rows": [
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Farine de Gruau T45",
+        "cols": [
+          "3 130 g",
+          "31 300 g",
+          "62 600 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Farine T65 Tradition (Décret 93)",
+        "cols": [
+          "1 340 g",
+          "13 400 g",
+          "26 800 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Eau glacée (+1 °C) / Glace",
+        "cols": [
+          "2 015 g",
+          "20 150 g",
+          "40 300 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Sucre cristal semoule",
+        "cols": [
+          "394 g",
+          "3 940 g",
+          "7 880 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Trimoline (Sucre inverti)",
+        "cols": [
+          "157 g",
+          "1 570 g",
+          "3 140 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Levure fraîche L'Hirondelle Or",
+        "cols": [
+          "188 g",
+          "1 880 g",
+          "3 760 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Poudre de lait entier 26 %",
+        "cols": [
+          "180 g",
+          "1 800 g",
+          "3 600 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Améliorant S500 Kimo Short",
+        "cols": [
+          "90 g",
+          "900 g",
+          "1 800 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Sel fin d'atelier",
+        "cols": [
+          "90 g",
+          "900 g",
+          "1 800 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Vinaigre blanc d'alcool 8°",
+        "cols": [
+          "36 g",
+          "360 g",
+          "720 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-2",
+        "ingredient": "Matière grasse cuve (Opale/Beurre)",
+        "cols": [
+          "380 g",
+          "3 800 g",
+          "7 600 g"
+        ]
+      },
+      {
+        "type": "subtotal",
+        "dot": "",
+        "ingredient": "SOUS-TOTAL DÉTREMPE NET",
+        "cols": [
+          "8 000 g pile",
+          "80 000 g pile",
+          "160 000 g pile"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-3",
+        "ingredient": "Beurre sec tourage 84 % (Plaques 2 kg)",
+        "cols": [
+          "2 000 g",
+          "20 000 g",
+          "40 000 g"
+        ]
+      },
+      {
+        "type": "total",
+        "dot": "",
+        "ingredient": "POIDS TOTAL PÂTON TOURÉ",
+        "cols": [
+          "10 000 g pile",
+          "100 000 g pile",
+          "200 000 g pile"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "kouign-amann-pac.md",
+    "pole": "1. VIENNOISERIES FEUILLETÉES & TOURAGE",
+    "code": "V-KOU-01",
+    "title": "Kouign-Amann d'Atelier (Individuel & Partage)",
+    "headers": [
+      "Ingrédient d'Atelier",
+      "1 Bac (5 000 g dét.)",
+      "5 Bacs (25 000 g dét.)",
+      "10 Bacs (50 000 g dét.)"
+    ],
+    "rows": [
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Farine T65 Tradition pure",
+        "cols": [
+          "2 750 g",
+          "13 750 g",
+          "27 500 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Eau glacée (+0,5 °C) / Glace",
+        "cols": [
+          "1 420 g",
+          "7 100 g",
+          "14 200 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Sucre semoule cuve",
+        "cols": [
+          "50 g",
+          "250 g",
+          "500 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Poudre de lait entier 26 %",
+        "cols": [
+          "70 g",
+          "350 g",
+          "700 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Améliorant S500 Kimo Short",
+        "cols": [
+          "70 g",
+          "350 g",
+          "700 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Vinaigre blanc d'alcool (8°)",
+        "cols": [
+          "15 g",
+          "75 g",
+          "150 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Sel fin d'atelier",
+        "cols": [
+          "50 g",
+          "250 g",
+          "500 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Levure fraîche L'Hirondelle Or",
+        "cols": [
+          "165 g",
+          "825 g",
+          "1 650 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-2",
+        "ingredient": "Margarine Opal cuve (ou beurre)",
+        "cols": [
+          "410 g",
+          "2 050 g",
+          "4 100 g"
+        ]
+      },
+      {
+        "type": "subtotal",
+        "dot": "",
+        "ingredient": "DÉTREMPE CRYO AU BAC",
+        "cols": [
+          "5 000 g pile",
+          "25 000 g pile",
+          "50 000 g pile"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-3",
+        "ingredient": "Beurre Tourage Debic (plaques 2 kg)",
+        "cols": [
+          "2 000 g",
+          "10 000 g",
+          "20 000 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-3",
+        "ingredient": "Sucre semoule (Ratio d'Or)",
+        "cols": [
+          "1 800 g",
+          "9 000 g",
+          "18 000 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-3",
+        "ingredient": "Fleur de sel de Guérande",
+        "cols": [
+          "20 g",
+          "100 g",
+          "200 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "",
+        "ingredient": "BLOC BEURRE MANIÉ SUCRÉ",
+        "cols": [
+          "3 820 g pile",
+          "19 100 g pile",
+          "38 200 g pile"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "",
+        "ingredient": "PÂTON COMPLET PRÊT AU TOURAGE",
+        "cols": [
+          "8 820 g pile",
+          "44 100 g pile",
+          "88 200 g pile"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-3",
+        "ingredient": "Cassonade (fond de moule)",
+        "cols": [
+          "PM",
+          "PM",
+          "PM"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "feuilletage-inverse-universel.md",
+    "pole": "1. VIENNOISERIES FEUILLETÉES & TOURAGE",
+    "code": "P-FEU-01",
+    "title": "FEUILLETAGE INVERSÉ D'ATELIER (MANIÉ 48 STRATES)",
+    "headers": [
+      "Ingrédient d'Atelier",
+      "1 Pâton (7 285 g net)",
+      "2 Pâtons (14 570 g net)",
+      "4 Pâtons / 1 Carton (29 140 g)"
+    ],
+    "rows": [
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Beurre Tourage Debic 82 % (Michard 6191)",
+        "cols": [
+          "2 500 g",
+          "5 000 g",
+          "10 000 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Farine T65 Tradition pure",
+        "cols": [
+          "750 g",
+          "1 500 g",
+          "3 000 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "",
+        "ingredient": "BLOC 1 • BEURRE MANIÉ (EXTÉRIEUR)",
+        "cols": [
+          "3 250 g pile",
+          "6 500 g pile",
+          "13 000 g pile"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-2",
+        "ingredient": "Farine T65 Tradition pure",
+        "cols": [
+          "2 500 g",
+          "5 000 g",
+          "10 000 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-2",
+        "ingredient": "Margarine OPAL cuve (Michard 3825) en dés",
+        "cols": [
+          "250 g",
+          "500 g",
+          "1 000 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-2",
+        "ingredient": "Eau purifiée glacée (+2 °C)",
+        "cols": [
+          "1 200 g",
+          "2 400 g",
+          "4 800 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-2",
+        "ingredient": "Fleur de sel de Guérande (ou sel fin)",
+        "cols": [
+          "65 g",
+          "130 g",
+          "260 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-2",
+        "ingredient": "Vinaigre blanc d'alcool 8°",
+        "cols": [
+          "20 g",
+          "40 g",
+          "80 g"
+        ]
+      },
+      {
+        "type": "subtotal",
+        "dot": "",
+        "ingredient": "BLOC 2 • DÉTREMPE (INTÉRIEUR)",
+        "cols": [
+          "4 035 g pile",
+          "8 070 g pile",
+          "16 140 g pile"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "",
+        "ingredient": "PÂTON FEUILLETÉ COMPLET (48 STRATES)",
+        "cols": [
+          "7 285 g pile",
+          "14 570 g pile",
+          "29 140 g pile"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "v-vie-01-pain-viennois-nature-pac.md",
+    "pole": "2. VIENNOISERIE GÉNÉRALE & PÂTES LEVÉES",
+    "code": "V-VIE-01",
+    "title": "Pain Viennois Nature PAC (Méthode Directe & Complexe Soft'r / Kimo)",
+    "headers": [
+      "Ingrédient d'Atelier",
+      "1 Bac (20 pcs / 5 600 g)",
+      "10 Bacs (200 pcs / 56 000 g)",
+      "20 Bacs (400 pcs / 112 000 g)"
+    ],
+    "rows": [
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Farine Gruau Rouge T45",
+        "cols": [
+          "1 760 g",
+          "17 600 g",
+          "35 200 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Farine T65 Tradition pure",
+        "cols": [
+          "754 g",
+          "7 540 g",
+          "15 090 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Eau très froide (+1 °C)",
+        "cols": [
+          "955 g",
+          "9 550 g",
+          "19 110 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Œufs entiers liquides past.",
+        "cols": [
+          "453 g",
+          "4 530 g",
+          "9 050 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Pâte Fermentée Viennoise (PFV)",
+        "cols": [
+          "503 g",
+          "5 030 g",
+          "10 060 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Sucre cristal semoule",
+        "cols": [
+          "302 g",
+          "3 020 g",
+          "6 040 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Trimoline (Sucre inverti)",
+        "cols": [
+          "101 g",
+          "1 010 g",
+          "2 010 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Poudre de lait entier 26 %",
+        "cols": [
+          "75 g",
+          "750 g",
+          "1 510 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Sel fin d'atelier",
+        "cols": [
+          "50 g",
+          "500 g",
+          "1 010 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Levure fraîche L'Hirondelle Or",
+        "cols": [
+          "113 g",
+          "1 130 g",
+          "2 260 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Améliorant S500 Kimo Short",
+        "cols": [
+          "38 g",
+          "380 g",
+          "750 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Améliorant Puratos Soft'r",
+        "cols": [
+          "38 g",
+          "380 g",
+          "750 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Extrait de vanille liquide",
+        "cols": [
+          "5 g",
+          "50 g",
+          "100 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-2",
+        "ingredient": "Margarine OPALE cuve",
+        "cols": [
+          "453 g",
+          "4 530 g",
+          "9 060 g"
+        ]
+      },
+      {
+        "type": "subtotal",
+        "dot": "",
+        "ingredient": "PÂTE AU BAC (280 G CRU)",
+        "cols": [
+          "5 600 g pile",
+          "56 000 g pile",
+          "112 000 g pile"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-3",
+        "ingredient": "Dorure Végétale au pistolet",
+        "cols": [
+          "50 g",
+          "500 g",
+          "1 000 g"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "v-vie-02-pain-viennois-chocolat-pac.md",
+    "pole": "2. VIENNOISERIE GÉNÉRALE & PÂTES LEVÉES",
+    "code": "V-VIE-02",
+    "title": "Pain Viennois Pépites Chocolat PAC (Méthode Directe & Complexe Soft'r / Kimo)",
+    "headers": [
+      "Ingrédient d'Atelier",
+      "1 Bac (40 pcs / 5 600 g)",
+      "10 Bacs (400 pcs / 56 000 g)",
+      "20 Bacs (800 pcs / 112 000 g)"
+    ],
+    "rows": [
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Farine Gruau Rouge T45",
+        "cols": [
+          "1 576 g",
+          "15 760 g",
+          "31 520 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Farine T65 Tradition pure",
+        "cols": [
+          "676 g",
+          "6 760 g",
+          "13 510 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Eau très froide (+1 °C)",
+        "cols": [
+          "856 g",
+          "8 560 g",
+          "17 110 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Œufs entiers liquides past.",
+        "cols": [
+          "405 g",
+          "4 050 g",
+          "8 110 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Pâte Fermentée Viennoise (PFV)",
+        "cols": [
+          "450 g",
+          "4 500 g",
+          "9 010 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Sucre cristal semoule",
+        "cols": [
+          "270 g",
+          "2 700 g",
+          "5 400 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Trimoline (Sucre inverti)",
+        "cols": [
+          "90 g",
+          "900 g",
+          "1 800 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Poudre de lait entier 26 %",
+        "cols": [
+          "68 g",
+          "680 g",
+          "1 350 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Sel fin d'atelier",
+        "cols": [
+          "45 g",
+          "450 g",
+          "900 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Levure fraîche L'Hirondelle Or",
+        "cols": [
+          "101 g",
+          "1 010 g",
+          "2 030 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Améliorant S500 Kimo Short",
+        "cols": [
+          "34 g",
+          "340 g",
+          "670 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Améliorant Puratos Soft'r",
+        "cols": [
+          "34 g",
+          "340 g",
+          "680 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Extrait de vanille liquide",
+        "cols": [
+          "5 g",
+          "50 g",
+          "90 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-2",
+        "ingredient": "Margarine OPALE cuve",
+        "cols": [
+          "405 g",
+          "4 050 g",
+          "8 110 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "",
+        "ingredient": "PÂTE NATURE BASE",
+        "cols": [
+          "5 015 g",
+          "50 150 g",
+          "100 290 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-3",
+        "ingredient": "Pépites chocolat noir 50 % (+4 °C)",
+        "cols": [
+          "585 g",
+          "5 850 g",
+          "11 710 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "",
+        "ingredient": "PÂTE CHOCOLATÉE AU BAC",
+        "cols": [
+          "5 600 g pile",
+          "56 000 g pile",
+          "112 000 g pile"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-3",
+        "ingredient": "Dorure Végétale au pistolet",
+        "cols": [
+          "50 g",
+          "500 g",
+          "1 000 g"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "brioche-individuelle-sucre-pac.md",
+    "pole": "2. VIENNOISERIE GÉNÉRALE & PÂTES LEVÉES",
+    "code": "V-BRI-01",
+    "title": "Petite Brioche Individuelle au Sucre PAC (Calibre 75 g & Huile de Colza)",
+    "headers": [
+      "Ingrédient d'Atelier",
+      "1 Bac (80 pcs 75g / 6 000 g)",
+      "10 Bacs (800 pcs / 60 000 g)",
+      "20 Bacs (1600 pcs / 120 000 g)"
+    ],
+    "rows": [
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Farine Gruau Rouge T45",
+        "cols": [
+          "2 953 g",
+          "29 530 g",
+          "59 050 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Eau très froide (+1 °C)",
+        "cols": [
+          "768 g",
+          "7 680 g",
+          "15 350 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Œufs entiers liquides past.",
+        "cols": [
+          "827 g",
+          "8 270 g",
+          "16 540 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Sucre cristal semoule",
+        "cols": [
+          "413 g",
+          "4 130 g",
+          "8 270 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Trimoline (Sucre inverti)",
+        "cols": [
+          "89 g",
+          "890 g",
+          "1 770 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Poudre de lait entier 26 %",
+        "cols": [
+          "118 g",
+          "1 180 g",
+          "2 360 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Sel fin d'atelier",
+        "cols": [
+          "62 g",
+          "620 g",
+          "1 240 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Levure fraîche L'Hirondelle Or",
+        "cols": [
+          "142 g",
+          "1 420 g",
+          "2 830 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Améliorant S500 Kimo Short",
+        "cols": [
+          "44 g",
+          "440 g",
+          "890 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Améliorant Puratos Soft'r",
+        "cols": [
+          "44 g",
+          "440 g",
+          "890 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Extrait de vanille liquide",
+        "cols": [
+          "9 g",
+          "90 g",
+          "180 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-2",
+        "ingredient": "Huile de colza neutre",
+        "cols": [
+          "531 g",
+          "5 310 g",
+          "10 630 g"
+        ]
+      },
+      {
+        "type": "subtotal",
+        "dot": "",
+        "ingredient": "PÂTE AU BAC (75 G CRU)",
+        "cols": [
+          "6 000 g pile",
+          "60 000 g pile",
+          "120 000 g pile"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-3",
+        "ingredient": "Sucre Grain n°10 (Perlé)",
+        "cols": [
+          "560 g",
+          "5 600 g",
+          "11 200 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-3",
+        "ingredient": "Dorure Spéciale Bamix",
+        "cols": [
+          "100 g",
+          "1 000 g",
+          "2 000 g"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "frangipane-galette-rois-pac.md",
+    "pole": "3. PÂTISSERIE BOULANGÈRE & ÉPIPHANIE",
+    "code": "P-FRA-01",
+    "title": "FRANGIPANE D'ATELIER 80/20 & GALETTES DES ROIS D'EXCELLENCE",
+    "headers": [
+      "Ingrédient d'Atelier",
+      "Lot Std (10 300 g)",
+      "Double Lot (20 600 g)",
+      "Quadruple Lot (41 200 g)"
+    ],
+    "rows": [
+      {
+        "type": "normal",
+        "dot": "",
+        "ingredient": "Eau très froide (+10 °C)",
+        "cols": [
+          "1 500 g",
+          "3 000 g",
+          "6 000 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "",
+        "ingredient": "Poudre crème à froid Staufim",
+        "cols": [
+          "600 g",
+          "1 200 g",
+          "2 400 g"
+        ]
+      },
+      {
+        "type": "subtotal",
+        "dot": "",
+        "ingredient": "SOUS-TOTAL PÂTISSIÈRE (20,4 %)",
+        "cols": [
+          "2 100 g pile",
+          "4 200 g pile",
+          "8 400 g pile"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "",
+        "ingredient": "Margarine OPAL cuve (Michard 3825) souple (18 °C)",
+        "cols": [
+          "2 000 g",
+          "4 000 g",
+          "8 000 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "",
+        "ingredient": "Sucre glace tamisé (Poudre fine)",
+        "cols": [
+          "2 000 g",
+          "4 000 g",
+          "8 000 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "",
+        "ingredient": "Œufs entiers liquides pasteurisés",
+        "cols": [
+          "1 600 g",
+          "3 200 g",
+          "6 400 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "",
+        "ingredient": "Poudre d'amande blanche émondée (100 %)",
+        "cols": [
+          "2 000 g",
+          "4 000 g",
+          "8 000 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "",
+        "ingredient": "Farine T65 Tradition pure (Liant structure)",
+        "cols": [
+          "420 g",
+          "840 g",
+          "1 680 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "",
+        "ingredient": "Poudre à crème (Liant fondant & vanille)",
+        "cols": [
+          "180 g",
+          "360 g",
+          "720 g"
+        ]
+      },
+      {
+        "type": "subtotal",
+        "dot": "",
+        "ingredient": "SOUS-TOTAL CRÈME D'AMANDE (79,6 %)",
+        "cols": [
+          "8 200 g pile",
+          "16 400 g pile",
+          "32 800 g pile"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "",
+        "ingredient": "MASSE FRANGIPANE FINIE (100 % AMANDE)",
+        "cols": [
+          "10 300 g pile",
+          "20 600 g pile",
+          "41 200 g pile"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "galettes-rois-variations-pomme-poire-nutolade.md",
+    "pole": "3. PÂTISSERIE BOULANGÈRE & ÉPIPHANIE",
+    "code": "P-GAL-02",
+    "title": "VARIATIONS GALETTES DES ROIS D'ÉPIPHANIE",
+    "headers": [
+      "Composant du Sandwich Étagé",
+      "Individuelle (Ø 12 cm)",
+      "Format 4 Pers (Ø 20 cm)",
+      "Format 6 Pers (Ø 24 cm)"
+    ],
+    "rows": [
+      {
+        "type": "normal",
+        "dot": "",
+        "ingredient": "Pâte Feuilletée Inversée 3,0 mm",
+        "cols": [
+          "80 g (2 x 40 g)",
+          "200 g (2 x 100 g)",
+          "280 g (2 x 140 g)"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "",
+        "ingredient": "[1] Frangipane 80/20 Biseautée (socle)",
+        "cols": [
+          "Poché à la main (PM)",
+          "160 g (Ø 14–16 cm)",
+          "250 g (Ø 16 cm)"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "",
+        "ingredient": "[2] Spirale Nutolade (milieu)",
+        "cols": [
+          "Poché à la main (PM)",
+          "50 g",
+          "80 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "",
+        "ingredient": "[3] Dés Poires égouttées 2 h (dessus)",
+        "cols": [
+          "Poché à la main (PM)",
+          "70 g",
+          "110 g"
+        ]
+      },
+      {
+        "type": "total",
+        "dot": "",
+        "ingredient": "SOUS-TOTAL GARNITURE NETTE",
+        "cols": [
+          "PM",
+          "280 g net",
+          "440 g net"
+        ]
+      },
+      {
+        "type": "total",
+        "dot": "",
+        "ingredient": "POIDS TOTAL BRUT CRU",
+        "cols": [
+          "PM",
+          "480 g",
+          "720 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "",
+        "ingredient": "Marge Nue Périphérique",
+        "cols": [
+          "2,0 cm strict",
+          "2,0 à 3,0 cm",
+          "2,0 à 3,0 cm"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "",
+        "ingredient": "Cheminées d'évacuation",
+        "cols": [
+          "1 fente centre",
+          "4 fentes centre",
+          "4 fentes centre"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "gateau-nantais-traditionnel.md",
+    "pole": "3. PÂTISSERIE BOULANGÈRE & ÉPIPHANIE",
+    "code": "P-NAN-01",
+    "title": "GÂTEAU NANTAIS DE VOYAGE (PUR FONDANT & RHUM 45°)",
+    "headers": [
+      "Ingrédient d'Atelier",
+      "Petit Lot (10 Indiv / 1 kg)",
+      "Lot Atelier (50 Indiv / 5 kg)",
+      "Grand Lot (150 Indiv / 15 kg)"
+    ],
+    "rows": [
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Margarine OPAL Cake-Cream (Michard 3825)",
+        "cols": [
+          "230 g",
+          "1 150 g",
+          "3 450 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Sucre glace tamisé",
+        "cols": [
+          "230 g",
+          "1 150 g",
+          "3 450 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Poudre d'amande blanche",
+        "cols": [
+          "230 g",
+          "1 150 g",
+          "3 450 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Sel fin d'atelier",
+        "cols": [
+          "4 g",
+          "20 g",
+          "60 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-2",
+        "ingredient": "Œufs entiers liquides pasteurisés",
+        "cols": [
+          "200 g",
+          "1 000 g",
+          "3 000 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-3",
+        "ingredient": "Farine T65 conventionnelle BM (Moulin de Cadillac)",
+        "cols": [
+          "130 g",
+          "650 g",
+          "1 950 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-3",
+        "ingredient": "Levure chimique (Baking powder)",
+        "cols": [
+          "5 g",
+          "25 g",
+          "75 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-3",
+        "ingredient": "Rhum ambré agricole 45° ou 54°",
+        "cols": [
+          "80 g",
+          "400 g",
+          "1 200 g"
+        ]
+      },
+      {
+        "type": "total",
+        "dot": "",
+        "ingredient": "POIDS TOTAL APPAREIL CRU",
+        "cols": [
+          "1 109 g",
+          "5 545 g",
+          "16 635 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "",
+        "ingredient": "Moules individuels aluminium 100 g",
+        "cols": [
+          "11 pièces",
+          "55 pièces",
+          "165 pièces"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "",
+        "ingredient": "Moules partage aluminium 450 g",
+        "cols": [
+          "2 pièces",
+          "12 pièces",
+          "36 pièces"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "brookie-cadres-60x40.md",
+    "pole": "4. BISCUITERIE, CAKES & SNACKING",
+    "code": "B-BRK-01",
+    "title": "Brookie en Cadres Inox 60x40 (56x36 cm)",
+    "headers": [
+      "Ingrédient d'Atelier",
+      "1 Cadre (30 p.)",
+      "5 Cadres (150 p.)",
+      "10 Cadres (300 p.)"
+    ],
+    "rows": [
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Chocolat noir 55 % de couverture",
+        "cols": [
+          "450 g",
+          "2 250 g",
+          "4 500 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Huile de colza raffinée",
+        "cols": [
+          "450 g",
+          "2 250 g",
+          "4 500 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-2",
+        "ingredient": "Œufs entiers liquides",
+        "cols": [
+          "500 g",
+          "2 500 g",
+          "5 000 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-2",
+        "ingredient": "Sucre semoule extra-fin",
+        "cols": [
+          "600 g",
+          "3 000 g",
+          "6 000 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-3",
+        "ingredient": "Farine T65 conventionnelle BM (Moulin de Cadillac)",
+        "cols": [
+          "180 g",
+          "900 g",
+          "1 800 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-3",
+        "ingredient": "Cacao pur 100 % en poudre",
+        "cols": [
+          "70 g",
+          "350 g",
+          "700 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-3",
+        "ingredient": "Sel fin d'atelier",
+        "cols": [
+          "5 g",
+          "25 g",
+          "50 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-3",
+        "ingredient": "Levure chimique (Baking powder)",
+        "cols": [
+          "5 g",
+          "25 g",
+          "50 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "",
+        "ingredient": "TOTAL APPAREIL A (BROWNIE)",
+        "cols": [
+          "2 260 g",
+          "11 300 g",
+          "22 600 g"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "brownie-fondant-chocolat.md",
+    "pole": "4. BISCUITERIE, CAKES & SNACKING",
+    "code": "B-BRW-01",
+    "title": "Brownie Fondant Intense Chocolat (Cadres 56x36 cm)",
+    "headers": [
+      "Ingrédient d'Atelier",
+      "1 Cadre (35 p.)",
+      "5 Cadres (175 p.)",
+      "10 Cadres (350 p.)"
+    ],
+    "rows": [
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Chocolat noir 55 % de couverture",
+        "cols": [
+          "600 g",
+          "3 000 g",
+          "6 000 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Huile de colza raffinée",
+        "cols": [
+          "600 g",
+          "3 000 g",
+          "6 000 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-2",
+        "ingredient": "Œufs entiers liquides",
+        "cols": [
+          "660 g",
+          "3 300 g",
+          "6 600 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-2",
+        "ingredient": "Extrait de café pur Trablit",
+        "cols": [
+          "5 g",
+          "25 g",
+          "50 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-2",
+        "ingredient": "Sucre cristal semoule",
+        "cols": [
+          "750 g",
+          "3 750 g",
+          "7 500 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-2",
+        "ingredient": "Sucre inverti (Trimoline - Disgroup 00021913)",
+        "cols": [
+          "50 g",
+          "250 g",
+          "500 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-3",
+        "ingredient": "Farine T65 conventionnelle BM (Moulin de Cadillac)",
+        "cols": [
+          "235 g",
+          "1 175 g",
+          "2 350 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-3",
+        "ingredient": "Cacao pur 100 % en poudre",
+        "cols": [
+          "90 g",
+          "450 g",
+          "900 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-3",
+        "ingredient": "Sel fin d'atelier",
+        "cols": [
+          "5 g",
+          "25 g",
+          "50 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-3",
+        "ingredient": "Levure chimique (Baking powder)",
+        "cols": [
+          "5 g",
+          "25 g",
+          "50 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "",
+        "ingredient": "TOTAL BROWNIE NATURE COULÉ",
+        "cols": [
+          "3 000 g",
+          "15 000 g",
+          "30 000 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-3",
+        "ingredient": "Cerneaux de noix brisures (Disgroup 00021037)",
+        "cols": [
+          "+ 400 g",
+          "+ 2 000 g",
+          "+ 4 000 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "",
+        "ingredient": "TOTAL AVEC CERNEAUX DE NOIX",
+        "cols": [
+          "3 400 g",
+          "17 000 g",
+          "34 000 g"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "cookies-classique-noisette.md",
+    "pole": "4. BISCUITERIE, CAKES & SNACKING",
+    "code": "B-CKI-01",
+    "title": "Cookies Classiques & Noisette (Calibre 80 g)",
+    "headers": [
+      "Ingrédient d'Atelier",
+      "Cuve 80 kg (1 000 p.)",
+      "Cuve 160 kg (2 000 p.)"
+    ],
+    "rows": [
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Matière Grasse OPALE (ou Beurre)",
+        "cols": [
+          "14 500 g",
+          "29 000 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Sucre roux Cassonade (68% sucres)",
+        "cols": [
+          "10 000 g",
+          "20 000 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Sucre blanc semoule (32% sucres)",
+        "cols": [
+          "4 800 g",
+          "9 600 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Gros sel de Guérande",
+        "cols": [
+          "600 g",
+          "1 200 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-2",
+        "ingredient": "Œufs entiers liquides",
+        "cols": [
+          "6 400 g",
+          "12 800 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-2",
+        "ingredient": "Extrait naturel de vanille liquide",
+        "cols": [
+          "250 g",
+          "500 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-3",
+        "ingredient": "Farine T65 conventionnelle BM (Moulin de Cadillac)",
+        "cols": [
+          "22 000 g",
+          "44 000 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-3",
+        "ingredient": "Poudre à crème vanillée",
+        "cols": [
+          "1 900 g",
+          "3 800 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-3",
+        "ingredient": "Levure chimique (Baking powder)",
+        "cols": [
+          "700 g",
+          "1 400 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-3",
+        "ingredient": "Pépites chocolat noir 50 %",
+        "cols": [
+          "19 100 g",
+          "38 200 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "",
+        "ingredient": "TOTAL MASSE CUVE CLASSIQUE",
+        "cols": [
+          "80 250 g (1 000 p.)",
+          "160 500 g (2 000 p.)"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-3",
+        "ingredient": "Pépites chocolat + Noisettes",
+        "cols": [
+          "14 100g + 5 000g",
+          "28 200g + 10 000g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-3",
+        "ingredient": "Poudre de cacao pur 100 %",
+        "cols": [
+          "300 g",
+          "600 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "",
+        "ingredient": "TOTAL MASSE CUVE NOISETTE",
+        "cols": [
+          "80 550 g (1 000 p.)",
+          "161 100 g (2 000 p.)"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "muffins-gamme-atelier.md",
+    "pole": "4. BISCUITERIE, CAKES & SNACKING",
+    "code": "B-MUF-01",
+    "title": "GAMME MUFFINS ATELIER (120 g)",
+    "headers": [
+      "INGRÉDIENT",
+      "1 PLAQUE (24 P.)",
+      "5 PLAQUES (120 P.)",
+      "10 PLAQUES (240 P.)"
+    ],
+    "rows": [
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Œufs entiers liquides",
+        "cols": [
+          "400 g",
+          "1 800 g",
+          "3 550 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Sucre semoule blanc",
+        "cols": [
+          "415 g",
+          "1 860 g",
+          "3 720 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Sucre inverti (Trimoline) ou miel",
+        "cols": [
+          "65 g",
+          "290 g",
+          "580 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Sel fin purifié",
+        "cols": [
+          "15 g",
+          "70 g",
+          "135 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-2",
+        "ingredient": "Eau tempérée (20 °C)",
+        "cols": [
+          "700 g",
+          "3 150 g",
+          "6 200 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-2",
+        "ingredient": "Huile de colza raffinée",
+        "cols": [
+          "500 g",
+          "2 250 g",
+          "4 450 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-3",
+        "ingredient": "Farine T65 conventionnelle BM (Moulin de Cadillac)",
+        "cols": [
+          "1 040 g",
+          "4 700 g",
+          "9 250 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-3",
+        "ingredient": "Poudre de lait entier 26%",
+        "cols": [
+          "100 g",
+          "450 g",
+          "900 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-3",
+        "ingredient": "Levure chimique (Baking powder)",
+        "cols": [
+          "55 g",
+          "250 g",
+          "500 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "",
+        "ingredient": "Pépites chocolat noir 50 % (inclusion pâte)",
+        "cols": [
+          "160 g",
+          "750 g",
+          "1 500 g"
+        ]
+      },
+      {
+        "type": "subtotal",
+        "dot": "",
+        "ingredient": "SOUS-TOTAL PÂTE EN CUVE",
+        "cols": [
+          "3 450 g",
+          "15 570 g",
+          "30 785 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "",
+        "ingredient": "Fourrage Nutolade apparent (post-cuisson)",
+        "cols": [
+          "+ 500 g",
+          "+ 2 500 g",
+          "+ 5 000 g"
+        ]
+      },
+      {
+        "type": "total",
+        "dot": "",
+        "ingredient": "MASSE TOTALE FINIE SORTIE ATELIER",
+        "cols": [
+          "3 950 g",
+          "18 070 g",
+          "35 785 g"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "cakes-de-voyage.md",
+    "pole": "4. BISCUITERIE, CAKES & SNACKING",
+    "code": "B-CAK-01",
+    "title": "CAKES DE VOYAGE FORMAT ATELIER (3 KG)",
+    "headers": [
+      "INGRÉDIENT",
+      "1 MOULE (3 KG)",
+      "10 MOULES (30 KG)",
+      "15 MOULES (45 KG)"
+    ],
+    "rows": [
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Mix REX MELLA CITRON 10 KG (Michard 74240)",
+        "cols": [
+          "1 600 g",
+          "16 000 g",
+          "24 000 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Œufs entiers liquides",
+        "cols": [
+          "560 g",
+          "5 600 g",
+          "8 400 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Huile végétale neutre (colza/tournesol)",
+        "cols": [
+          "480 g",
+          "4 800 g",
+          "7 200 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Eau tempérée (20 °C)",
+        "cols": [
+          "360 g",
+          "3 600 g",
+          "5 400 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-2",
+        "ingredient": "Graines de pavot bleu nettoyées",
+        "cols": [
+          "60 g",
+          "600 g",
+          "900 g"
+        ]
+      },
+      {
+        "type": "total",
+        "dot": "",
+        "ingredient": "MASSE TOTALE CRUE ENFOURNÉE",
+        "cols": [
+          "3 060 g",
+          "30 600 g",
+          "45 900 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "",
+        "ingredient": "POIDS NET APRÈS CUISSON (RESSUAGE)",
+        "cols": [
+          "~3 000 g",
+          "~30 000 g",
+          "~45 000 g"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "crepes-froment-girocrepes.md",
+    "pole": "5. CRÊPERIE, TRAITEUR & RÉFÉRENTIELS",
+    "code": "C-CRP-01",
+    "title": "CRÊPES DE FROMENT SUR CARROUSEL GIROCRÊPES",
+    "headers": [
+      "INGRÉDIENT",
+      "12 PQTS (2 KG)",
+      "25 PQTS (4 KG)",
+      "50 PQTS (8 KG)"
+    ],
+    "rows": [
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Eau purifiée (1ʳᵉ partie)",
+        "cols": [
+          "1 650 g",
+          "3 300 g",
+          "6 600 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Œufs entiers liquides",
+        "cols": [
+          "1 300 g",
+          "2 600 g",
+          "5 200 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Sucre semoule blanc",
+        "cols": [
+          "600 g",
+          "1 200 g",
+          "2 400 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Poudre de lait entier 26%",
+        "cols": [
+          "300 g",
+          "600 g",
+          "1 200 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Sel fin purifié",
+        "cols": [
+          "30 g",
+          "60 g",
+          "120 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Farine T65 conventionnelle BM (Moulin de Cadillac)",
+        "cols": [
+          "2 000 g",
+          "4 000 g",
+          "8 000 g"
+        ]
+      },
+      {
+        "type": "subtotal",
+        "dot": "",
+        "ingredient": "-- SOUS-TOTAL PHASE 1 (PÂTE MÈRE) --",
+        "cols": [
+          "5 880 g",
+          "11 760 g",
+          "23 520 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-2",
+        "ingredient": "Eau purifiée (2ᵉ partie - Allongement)",
+        "cols": [
+          "1 050 g",
+          "2 100 g",
+          "4 200 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-2",
+        "ingredient": "Huile de colza raffinée",
+        "cols": [
+          "210 g",
+          "420 g",
+          "840 g"
+        ]
+      },
+      {
+        "type": "total",
+        "dot": "",
+        "ingredient": "MASSE TOTALE APPAREIL HOMOGÈNE",
+        "cols": [
+          "7 140 g",
+          "14 280 g",
+          "28 560 g"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "galettes-ble-noir-girocrepes.md",
+    "pole": "5. CRÊPERIE, TRAITEUR & RÉFÉRENTIELS",
+    "code": "C-GAL-01",
+    "title": "GALETTES DE BLÉ NOIR SUR CARROUSEL GIROCRÊPES",
+    "headers": [
+      "INGRÉDIENT",
+      "10 PQTS (2 KG)",
+      "20 PQTS (4 KG)",
+      "30 PQTS (6 KG)"
+    ],
+    "rows": [
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Eau purifiée (1ʳᵉ partie)",
+        "cols": [
+          "2 750 g",
+          "5 500 g",
+          "8 250 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Poudre de lait entier 26%",
+        "cols": [
+          "250 g",
+          "500 g",
+          "750 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Sel fin purifié",
+        "cols": [
+          "65 g",
+          "130 g",
+          "195 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Farine de blé noir (Sarrasin breton)",
+        "cols": [
+          "2 000 g",
+          "4 000 g",
+          "6 000 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Farine T65 conventionnelle BM (liant d'accroche mécanique - Moulin de Cadillac)",
+        "cols": [
+          "550 g",
+          "1 100 g",
+          "1 650 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Œufs entiers liquides",
+        "cols": [
+          "550 g",
+          "1 100 g",
+          "1 650 g"
+        ]
+      },
+      {
+        "type": "subtotal",
+        "dot": "",
+        "ingredient": "-- SOUS-TOTAL PHASE 1 (BASE SERRÉE) --",
+        "cols": [
+          "6 165 g",
+          "12 330 g",
+          "18 495 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-2",
+        "ingredient": "Eau purifiée (2ᵉ partie - Allongement)",
+        "cols": [
+          "1 000 g",
+          "2 000 g",
+          "3 000 g"
+        ]
+      },
+      {
+        "type": "total",
+        "dot": "",
+        "ingredient": "MASSE TOTALE APPAREIL HOMOGÈNE",
+        "cols": [
+          "7 165 g",
+          "14 330 g",
+          "21 495 g"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "quiches-traiteur.md",
+    "pole": "5. CRÊPERIE, TRAITEUR & RÉFÉRENTIELS",
+    "code": "T-QCH-01",
+    "title": "GAMME QUICHES TRAITEUR (CAISSES DE 48 PIÈCES)",
+    "headers": [
+      "INGRÉDIENT",
+      "CUVE 20 KG",
+      "CUVE 50 KG",
+      "CUVE 100 KG"
+    ],
+    "rows": [
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Œufs entiers liquides pasteurisés",
+        "cols": [
+          "10,0 kg",
+          "25,0 kg",
+          "50,0 kg"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Crème liquide entière 35 % MG",
+        "cols": [
+          "10,0 kg",
+          "25,0 kg",
+          "50,0 kg"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Poivre blanc moulu",
+        "cols": [
+          "30 g",
+          "75 g",
+          "150 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Noix de muscade râpée",
+        "cols": [
+          "10 g",
+          "25 g",
+          "50 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Sel fin (Selon tableau ci-dessous)",
+        "cols": [
+          "80 g ou 160 g",
+          "200 g ou 400 g",
+          "400 g ou 800 g"
+        ]
+      }
+    ]
+  },
+  {
+    "file": "dorures-et-sirops-referentiel.md",
+    "pole": "5. CRÊPERIE, TRAITEUR & RÉFÉRENTIELS",
+    "code": "R-DOR-01",
+    "title": "DORURES D'ATELIER & SIROPS DE LUSTRAGE",
+    "headers": [
+      "INGRÉDIENT",
+      "BASE 3 LITRES (~2 790 g)",
+      "BASE 5 LITRES (~4 650 g)"
+    ],
+    "rows": [
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Œufs entiers liquides pasteurisés",
+        "cols": [
+          "900 g",
+          "1 500 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Jaunes d'œufs liquides pasteurisés",
+        "cols": [
+          "900 g",
+          "1 500 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Crème liquide entière 35 % MG",
+        "cols": [
+          "900 g",
+          "1 500 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Sucre semoule blanc fin",
+        "cols": [
+          "60 g",
+          "100 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "dot-1",
+        "ingredient": "Sel fin purifié",
+        "cols": [
+          "30 g",
+          "50 g"
+        ]
+      },
+      {
+        "type": "total",
+        "dot": "",
+        "ingredient": "MASSE TOTALE DORURE SPÉCIALE",
+        "cols": [
+          "2 790 g",
+          "4 650 g"
+        ]
+      },
+      {
+        "type": "normal",
+        "dot": "",
+        "ingredient": "-- Option Standard Atelier Ligne --",
+        "cols": [
+          "Dorure Végétale Pure (3 L)",
+          "Dorure Végétale Pure (5 L)"
+        ]
+      }
+    ]
+  }
+]
