@@ -1,9 +1,12 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Générateur PDF « Atelier Direct » — Cahier de Recettes & Fiches Opérateurs
+Générateur PDF « Chrono Unifié » — Cahier de Production & Fiches d'Atelier
 Format A4 portrait strict (210 × 297 mm) en double-page face-à-face.
-Aucune photo, aucune illustration, aucun schéma SVG.
+- En-tête blanc sobre + Mémo Express horizontal en haut
+- Tableau pleine largeur avec cases à cocher ☐, colonne principale en gros gras,
+  et bandeaux de phases colorés (01 Bleu, 02 Ambre, 03 Vert)
+- Instructions Page Droite reliées au même code couleur 01/02/03 avec gros repères chiffrés
 """
 
 import os
@@ -16,7 +19,7 @@ FICHES_DIR = os.path.join(BASE_DIR, "recettes/fiches_atelier_operateurs")
 EXPORT_DIR = os.path.join(BASE_DIR, "exports_pdf")
 
 CSS_BASE = """
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap');
 
 * {
     box-sizing: border-box;
@@ -26,10 +29,10 @@ CSS_BASE = """
 
 body {
     font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-    color: #0f172a;
+    color: #1c1917;
     background-color: #ffffff;
     font-size: 8.6pt;
-    line-height: 1.32;
+    line-height: 1.3;
     margin: 0;
     padding: 0;
     font-variant-numeric: tabular-nums;
@@ -59,20 +62,6 @@ body {
     gap: 3.5px;
 }
 
-.page-sheet.dense .topbar {
-    padding: 2.2mm 4mm;
-    margin-bottom: 1mm;
-}
-
-.page-sheet.dense .topbar-title {
-    font-size: 11pt;
-}
-
-.page-sheet.dense .sec-title {
-    font-size: 8.8pt;
-    margin: 2px 0 1.5px 0;
-}
-
 /* === COUVERTURE SOMBRE === */
 .cover-sheet {
     width: 210mm;
@@ -93,14 +82,14 @@ body {
     font-weight: 800;
     letter-spacing: 0.14em;
     text-transform: uppercase;
-    color: #60a5fa;
+    color: #fbbf24;
     margin-bottom: 6mm;
 }
 
 .cover-title {
     font-size: 30pt;
-    font-weight: 800;
-    line-height: 1.08;
+    font-weight: 900;
+    line-height: 1.06;
     letter-spacing: -0.02em;
     margin: 0 0 5mm 0;
     color: #ffffff;
@@ -117,7 +106,7 @@ body {
 .cover-accent-bar {
     width: 28mm;
     height: 1.6mm;
-    background-color: #60a5fa;
+    background-color: #b45309;
     margin-bottom: 10mm;
 }
 
@@ -130,18 +119,25 @@ body {
 .cover-card {
     background-color: #1e293b;
     border: 1px solid #334155;
+    border-left: 4px solid #2563eb;
     border-radius: 4px;
     padding: 4.5mm 5mm;
 }
 
+.cover-card.c-amber { border-left-color: #d97706; }
+.cover-card.c-green { border-left-color: #16a34a; }
+
 .cover-card-num {
     font-size: 8pt;
     font-weight: 800;
-    color: #60a5fa;
+    color: #93c5fd;
     letter-spacing: 0.08em;
     text-transform: uppercase;
     margin-bottom: 1.5mm;
 }
+
+.cover-card.c-amber .cover-card-num { color: #fcd34d; }
+.cover-card.c-green .cover-card-num { color: #86efac; }
 
 .cover-card-title {
     font-size: 11pt;
@@ -166,126 +162,172 @@ body {
     font-weight: 600;
 }
 
-/* === BANDEAU TOPBAR === */
-.topbar {
+/* === EN-TÊTE CHRONO UNIFIÉ === */
+.cu-head {
     display: flex;
-    align-items: center;
     justify-content: space-between;
-    padding: 3.2mm 4.5mm;
-    border-radius: 3px;
+    align-items: flex-end;
+    border-bottom: 2.5px solid #1c1917;
+    padding-bottom: 2mm;
     margin-bottom: 2mm;
 }
 
-.topbar-left {
-    background-color: #0f172a;
-}
-
-.topbar-right {
-    background-color: #1e293b;
-}
-
-.topbar-title-wrap {
+.cu-head-left {
     display: flex;
     flex-direction: column;
+    padding-right: 4mm;
 }
 
-.topbar-title {
-    font-size: 12.5pt;
+.cu-kicker {
+    font-size: 7.2pt;
     font-weight: 800;
-    color: #ffffff;
-    letter-spacing: -0.01em;
-    line-height: 1.15;
-}
-
-.topbar-sub {
-    font-size: 7.8pt;
-    font-weight: 500;
-    color: #cbd5e1;
-    margin-top: 1px;
-}
-
-.topbar-badge {
-    font-size: 7.8pt;
-    font-weight: 800;
-    letter-spacing: 0.06em;
+    letter-spacing: 0.09em;
     text-transform: uppercase;
+    color: #b45309;
+    margin-bottom: 0.5mm;
+}
+
+.cu-kicker.green { color: #15803d; }
+
+.cu-title {
+    font-size: 15.5pt;
+    font-weight: 900;
+    letter-spacing: -0.02em;
+    line-height: 1.08;
+    color: #1c1917;
+    margin: 0;
+}
+
+.cu-sub {
+    font-size: 7.8pt;
+    color: #57534e;
+    font-weight: 500;
+    margin-top: 0.8mm;
+}
+
+.cu-pill {
+    background-color: #1e40af;
     color: #ffffff;
-    padding: 1.6mm 3.2mm;
-    border-radius: 2px;
+    padding: 1.8mm 3.5mm;
+    border-radius: 4px;
+    font-weight: 900;
+    font-size: 8pt;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
     white-space: nowrap;
 }
 
-.badge-blue {
-    background-color: #2563eb;
-}
+.cu-pill.green { background-color: #15803d; }
 
-.badge-green {
-    background-color: #16a34a;
+.page-sheet.dense .cu-head {
+    padding-bottom: 1.4mm;
+    margin-bottom: 1.2mm;
 }
+.page-sheet.dense .cu-title { font-size: 13.5pt; }
 
-/* === TITRES DE SECTION === */
-.sec-title {
-    font-size: 9.8pt;
-    font-weight: 800;
-    letter-spacing: 0.04em;
-    text-transform: uppercase;
-    color: #0f172a;
-    border-bottom: 1.5px solid #cbd5e1;
-    padding-bottom: 1.5px;
-    margin: 4px 0 3px 0;
-}
-
-/* === PAVÉS 3 COLONNES (PARAMÈTRES CLÉS) === */
-.kpi-grid {
+/* === MÉMO EXPRESS (TUILES HAUTES) === */
+.memo-strip {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 2.5mm;
-    margin: 2px 0 4px 0;
+    gap: 2.2mm;
+    margin: 0 0 2.5mm 0;
 }
 
-.kpi-box {
-    background-color: #f8fafc;
-    border: 1px solid #cbd5e1;
+.m-card {
+    background-color: #faf8f5;
+    border: 1px solid #e7e5e4;
+    border-top: 3.5px solid #1e40af;
     border-radius: 3px;
-    padding: 2.4mm 2.5mm;
-    text-align: center;
+    padding: 1.8mm 2.5mm;
 }
 
-.kpi-val {
-    font-size: 13pt;
-    font-weight: 800;
-    color: #0f172a;
-    line-height: 1.15;
-    font-variant-numeric: tabular-nums;
+.m-card.amber { border-top-color: #b45309; }
+.m-card.green { border-top-color: #15803d; }
+
+.m-v {
+    font-size: 12.5pt;
+    font-weight: 900;
+    color: #1c1917;
+    line-height: 1.1;
 }
 
-.kpi-lbl {
-    font-size: 7pt;
+.m-l {
+    font-size: 6.6pt;
     font-weight: 700;
     text-transform: uppercase;
-    letter-spacing: 0.05em;
-    color: #64748b;
-    margin-top: 1mm;
+    color: #78716c;
+    margin-top: 0.6mm;
+    letter-spacing: 0.03em;
 }
 
-/* === TABLEAUX DE DONNÉES === */
+/* === TITRES DE SECTION RELIÉS COULEUR === */
+.sec-h {
+    display: flex;
+    align-items: center;
+    gap: 2.2mm;
+    border-bottom: 1.5px solid #e7e5e4;
+    padding-bottom: 1.2mm;
+    margin: 3px 0 2px 0;
+}
+
+.sec-num {
+    color: #ffffff;
+    font-size: 9pt;
+    font-weight: 900;
+    padding: 0.6mm 2.2mm;
+    border-radius: 3px;
+    line-height: 1.1;
+}
+
+.sec-num.p1 { background-color: #1e40af; }
+.sec-num.p2 { background-color: #b45309; }
+.sec-num.p3 { background-color: #15803d; }
+.sec-num.p4 { background-color: #334155; }
+
+.sec-t {
+    font-size: 9.8pt;
+    font-weight: 800;
+    text-transform: uppercase;
+    color: #1c1917;
+    letter-spacing: 0.02em;
+}
+
+.sec-k {
+    margin-left: auto;
+    font-size: 7.5pt;
+    font-weight: 800;
+    background: #faf8f5;
+    border: 1px solid #d6d3d1;
+    padding: 0.5mm 2.2mm;
+    border-radius: 3px;
+    color: #1c1917;
+    white-space: nowrap;
+}
+
+.page-sheet.dense .sec-h {
+    margin: 1.5px 0 1px 0;
+    padding-bottom: 0.8mm;
+}
+.page-sheet.dense .sec-t { font-size: 8.8pt; }
+
+/* === TABLEAUX PLEINE LARGEUR === */
 .data-table {
     width: 100%;
     border-collapse: collapse;
-    margin: 2px 0 4px 0;
-    font-size: 8.4pt;
+    margin: 1px 0 3px 0;
+    font-size: 8.6pt;
     font-variant-numeric: tabular-nums;
 }
 
 .data-table th {
     text-align: left;
-    font-size: 7.4pt;
+    font-size: 7pt;
     font-weight: 800;
     text-transform: uppercase;
-    letter-spacing: 0.03em;
-    color: #0f172a;
-    border-bottom: 2px solid #0f172a;
-    padding: 3px 5px;
+    letter-spacing: 0.04em;
+    color: #57534e;
+    border-bottom: 2px solid #1c1917;
+    padding: 2.5px 4px;
 }
 
 .data-table th.num,
@@ -298,132 +340,176 @@ body {
     white-space: nowrap;
 }
 
-.data-table.wide {
-    font-size: 7.4pt;
+.data-table th.main-col {
+    background-color: #eff6ff;
+    color: #1e3a8a;
+    font-size: 7.5pt;
 }
 
-.data-table.wide th {
-    font-size: 6.5pt;
-    padding: 2px 3px;
-}
-
-.data-table.wide td {
-    padding: 2px 3px;
-}
-
-.data-table.wide td.num {
-    white-space: normal;
+.data-table td.main-col {
+    background-color: #eff6ff;
+    color: #0f172a;
+    font-weight: 900;
+    font-size: 10.2pt;
+    padding-right: 6px;
 }
 
 .data-table td {
-    padding: 3.2px 5px;
-    border-bottom: 1px solid #e2e8f0;
-    color: #0f172a;
+    padding: 2.8px 4px;
+    border-bottom: 1px solid #f0ede8;
+    color: #1c1917;
     vertical-align: middle;
 }
 
+.data-table td.chk {
+    width: 6mm;
+    text-align: center;
+    font-size: 10pt;
+    color: #a8a29e;
+    padding: 1px 2px;
+}
+
+/* Bandeaux de phase colorés dans le tableau */
+.data-table tr.p-band td {
+    font-size: 7.4pt;
+    font-weight: 800;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    padding: 2px 5px;
+    color: #ffffff;
+    border: none;
+}
+.data-table tr.p-band.p1 td { background-color: #1e40af; }
+.data-table tr.p-band.p2 td { background-color: #b45309; }
+.data-table tr.p-band.p3 td { background-color: #15803d; }
+.data-table tr.p-band.p4 td { background-color: #334155; }
+
 .data-table tr.row-subtotal td {
-    background-color: #f1f5f9;
-    font-weight: 700;
-    color: #334155;
-    border-top: 1px solid #cbd5e1;
-    border-bottom: 1px solid #cbd5e1;
+    background-color: #f5f5f4;
+    font-weight: 800;
+    color: #1c1917;
+    border-top: 1.5px solid #a8a29e;
+    border-bottom: 1.5px solid #a8a29e;
+}
+.data-table tr.row-subtotal td.main-col {
+    background-color: #dbeafe;
+    color: #1e3a8a;
 }
 
 .data-table tr.row-total td {
-    background-color: #eff6ff;
-    font-weight: 800;
+    background-color: #1c1917;
+    font-weight: 900;
     font-size: 9pt;
-    color: #0f172a;
-    border-top: 1.5px solid #2563eb;
-    border-bottom: 1.5px solid #2563eb;
+    color: #ffffff;
+    border: none;
+    padding: 3.5px 4px;
 }
-
 .data-table tr.row-total td.num {
-    font-size: 9.6pt;
-    color: #1d4ed8;
+    color: #e7e5e4;
+}
+.data-table tr.row-total td.main-col {
+    background-color: #1e40af;
+    color: #ffffff;
+    font-size: 11pt;
 }
 
-.data-table.compact {
-    font-size: 7.6pt;
-}
-
-.data-table.compact th {
-    font-size: 6.9pt;
-    padding: 2px 4px;
-}
-
-.data-table.compact td {
-    padding: 2px 4px;
-}
-
-.data-table.compact tr.row-total td {
-    font-size: 8.2pt;
-}
+/* Variantes densité */
+.data-table.compact { font-size: 7.7pt; }
+.data-table.compact th { font-size: 6.6pt; padding: 1.8px 3.5px; }
+.data-table.compact td { padding: 1.8px 3.5px; }
+.data-table.compact td.main-col { font-size: 9pt; }
+.data-table.compact tr.row-total td { font-size: 8.2pt; }
+.data-table.compact tr.row-total td.main-col { font-size: 9.5pt; }
 
 .data-table.ultra-compact {
-    font-size: 6.7pt;
+    font-size: 6.8pt;
     line-height: 1.12;
     margin: 1px 0 2px 0;
 }
+.data-table.ultra-compact th { font-size: 6.2pt; padding: 1.2px 3px; }
+.data-table.ultra-compact td { padding: 1.2px 3px; }
+.data-table.ultra-compact td.main-col { font-size: 7.8pt; }
+.data-table.ultra-compact tr.p-band td { font-size: 6.4pt; padding: 1.2px 4px; }
+.data-table.ultra-compact tr.row-total td { font-size: 7.2pt; padding: 2px 3px; }
+.data-table.ultra-compact tr.row-total td.main-col { font-size: 8.2pt; }
 
-.data-table.ultra-compact th {
-    font-size: 6.2pt;
-    padding: 1.4px 3px;
+.data-table.wide { font-size: 7.3pt; }
+.data-table.wide th { font-size: 6.4pt; padding: 1.8px 3px; }
+.data-table.wide td { padding: 1.8px 3px; }
+.data-table.wide td.num { white-space: normal; }
+.data-table.wide td.main-col { font-size: 8.4pt; }
+
+.data-table.wide-text {
+    table-layout: fixed;
+    width: 100%;
+    font-size: 7.2pt;
+}
+.data-table.wide-text th,
+.data-table.wide-text td {
+    overflow-wrap: break-word;
+    white-space: normal;
 }
 
-.data-table.ultra-compact td {
-    padding: 1.3px 3px;
+/* === CARTES D'ÉTAPES CHRONO UNIFIÉ (PAGE DROITE) === */
+.step-rows {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5mm;
+    margin: 1px 0 3px 0;
 }
 
-.data-table.ultra-compact tr.row-total td {
-    font-size: 7.1pt;
-}
-
-.data-table.ultra-compact tr.row-total td.num {
-    font-size: 7.4pt;
-}
-
-/* === PASTILLES D'ORDRE (2.4 mm) === */
-.dot {
-    display: inline-block;
-    width: 2.4mm;
-    height: 2.4mm;
-    border-radius: 50%;
-    vertical-align: middle;
-    margin-right: 3px;
-}
-.dot-blue { background-color: #2563eb; }
-.dot-amber { background-color: #d97706; }
-.dot-green { background-color: #16a34a; }
-
-/* === CARTES D'ÉTAPES (GRILLE 2 COLONNES) === */
-.steps-grid {
+.s-row {
     display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 2.5mm;
-    margin: 2px 0 4px 0;
-}
-
-.step-card {
-    border: 1px solid #cbd5e1;
+    grid-template-columns: 33mm 1fr;
+    border: 1px solid #e7e5e4;
+    border-left: 3.5px solid #1e40af;
     border-radius: 3px;
-    padding: 2.5mm 3mm;
+    overflow: hidden;
     background-color: #ffffff;
 }
 
-.step-card-title {
-    font-size: 8.5pt;
-    font-weight: 800;
-    color: #0f172a;
-    margin-bottom: 1mm;
-    display: block;
+.s-row.p2 { border-left-color: #b45309; }
+.s-row.p3 { border-left-color: #15803d; }
+.s-row.p4 { border-left-color: #334155; }
+
+.s-left {
+    background-color: #faf8f5;
+    border-right: 1px solid #e7e5e4;
+    padding: 1.8mm 2.2mm;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
-.step-card-body {
-    font-size: 8pt;
-    color: #334155;
+.s-val {
+    font-size: 10.5pt;
+    font-weight: 900;
+    color: #1c1917;
+    line-height: 1.1;
+}
+
+.s-lbl {
+    font-size: 6.5pt;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #78716c;
+    margin-top: 0.4mm;
+}
+
+.s-right {
+    padding: 1.8mm 2.8mm;
+    display: block;
+    font-size: 8.3pt;
+    color: #44403c;
     line-height: 1.3;
+    align-self: center;
+}
+
+.s-right strong.st {
+    color: #1c1917;
+    font-size: 8.7pt;
+    display: block;
+    margin-bottom: 0.3mm;
 }
 
 /* === LISTES SOBRES & PARAGRAPHES === */
@@ -431,76 +517,57 @@ body {
     margin: 1px 0 3px 14px;
     padding: 0;
     font-size: 8.1pt;
-    color: #1e293b;
+    color: #1c1917;
 }
-.clean-list li {
-    margin-bottom: 1.5px;
-}
+.clean-list li { margin-bottom: 1.5px; }
 .note-line {
     font-size: 7.9pt;
-    color: #475569;
+    color: #57534e;
     margin: 1px 0 2px 0;
 }
 
-/* === ENCADRÉ ALERTE CRITIQUE === */
+/* === ENCADRÉ RÈGLE D'OR / CRITIQUE === */
 .alert-critical {
     background-color: #fef2f2;
-    border: 1px solid #ef4444;
-    border-radius: 3px;
-    color: #991b1b;
+    border: 1.5px solid #ef4444;
+    border-left: 5px solid #dc2626;
+    border-radius: 4px;
+    color: #7f1d1d;
     font-size: 8.2pt;
     font-weight: 800;
     text-transform: uppercase;
     text-align: center;
-    padding: 2.5mm 4mm;
+    padding: 2.2mm 3.5mm;
     margin-top: auto;
     letter-spacing: 0.02em;
 }
 
 /* === PIED DE PAGE DISCRET === */
 .page-footer {
-    border-top: 1px solid #cbd5e1;
-    padding-top: 1.8mm;
-    margin-top: 2mm;
+    border-top: 1px solid #e7e5e4;
+    padding-top: 1.6mm;
+    margin-top: 1.5mm;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    font-size: 7.5pt;
-    color: #64748b;
-    font-weight: 600;
+    font-size: 7.4pt;
+    color: #78716c;
+    font-weight: 700;
 }
 """
 
 CSS_BOOK_MARGINS = """
-@page {
-    size: A4 portrait;
-    margin: 15mm 14mm 14mm 18mm;
-}
-@page :first {
-    margin: 0;
-}
-@page :left {
-    margin: 15mm 18mm 14mm 14mm;
-}
-@page :right {
-    margin: 15mm 14mm 14mm 18mm;
-}
+@page { size: A4 portrait; margin: 15mm 14mm 14mm 18mm; }
+@page :first { margin: 0; }
+@page :left { margin: 15mm 18mm 14mm 14mm; }
+@page :right { margin: 15mm 14mm 14mm 18mm; }
 """
 
 CSS_SHEET_MARGINS = """
-@page {
-    size: A4 portrait;
-    margin: 15mm 14mm 14mm 18mm;
-}
-@page :first {
-    margin: 15mm 18mm 14mm 14mm;
-}
-@page :left {
-    margin: 15mm 18mm 14mm 14mm;
-}
-@page :right {
-    margin: 15mm 14mm 14mm 18mm;
-}
+@page { size: A4 portrait; margin: 15mm 14mm 14mm 18mm; }
+@page :first { margin: 15mm 18mm 14mm 14mm; }
+@page :left { margin: 15mm 18mm 14mm 14mm; }
+@page :right { margin: 15mm 14mm 14mm 18mm; }
 """
 
 
@@ -526,15 +593,16 @@ def is_numeric_cell(raw: str) -> bool:
     return False
 
 
-def format_phase_dot(raw: str) -> str:
+def phase_key(raw: str) -> tuple[str, str]:
+    """Associe une phase Markdown à son code couleur (p1=Bleu, p2=Ambre, p3=Vert) et son libellé."""
     s = re.sub(r'[*`\[\]]', '', raw).strip().upper()
     if s in ('1', 'A', '1 A', '1 B'):
-        return f'<span class="dot dot-blue"></span>{clean_inline(raw)}'
+        return 'p1', f'PHASE {s} • BASE / FRASAGE'
     if s in ('2', 'B', 'C'):
-        return f'<span class="dot dot-amber"></span>{clean_inline(raw)}'
+        return 'p2', f'PHASE {s} • AJOUT / ÉMULSION'
     if s in ('3', '4', 'D', 'OPTION', '4 A', '4 B', '3 B', 'DÉCOR', 'FOURRAGE'):
-        return f'<span class="dot dot-green"></span>{clean_inline(raw)}'
-    return clean_inline(raw)
+        return 'p3', f'PHASE {s} • TOURAGE / FINITION'
+    return 'p4', s
 
 
 def render_table(table_lines: list[str], force_ultra_compact: bool = False) -> str:
@@ -547,30 +615,57 @@ def render_table(table_lines: list[str], force_ultra_compact: bool = False) -> s
         if cells:
             rows.append(cells)
 
-    # Détection des colonnes numériques
+    has_phase_col = bool(headers and headers[0].strip().lower() in ('phase', 'étape', 'bloc'))
+    # Pour les tableaux avec colonne Phase/Ingrédient, on remplace la colonne Phase par des bandeaux colorés
+    # et on ajoute une colonne case à cocher ☐ pour l'opérateur au poste de balance.
+    use_checklist = has_phase_col and len(headers) >= 3
+
     num_cols = set()
     for c_idx in range(len(headers)):
-        if c_idx == 0:
+        if c_idx == 0 or (use_checklist and c_idx == 1):
             continue
         matches = sum(1 for r in rows if c_idx < len(r) and is_numeric_cell(r[c_idx]))
         if rows and matches >= max(1, len(rows) // 2):
             num_cols.add(c_idx)
 
-    # Mode compact automatique si > 15 lignes, ultra-compact si page dense, wide si >= 5 colonnes
+    # Première colonne numérique mise en avant (généralement 1 Bac / 1 Moule / Lot Std)
+    main_num_col = min(num_cols) if num_cols else None
+
     classes = ["data-table"]
     if force_ultra_compact:
         classes.append("ultra-compact")
     elif len(rows) > 15:
         classes.append("compact")
-    if len(headers) >= 5:
+    eff_cols = len(headers) if not use_checklist else len(headers)
+    if eff_cols >= 5:
         classes.append("wide")
+    if eff_cols >= 4 and any(len(c) > 35 for r in rows for c in r):
+        classes.append("wide-text")
+
     out = [f'<table class="{" ".join(classes)}"><thead><tr>']
-    for c_idx, h in enumerate(headers):
-        cls = ' class="num"' if c_idx in num_cols else ''
-        out.append(f'<th{cls}>{clean_inline(h)}</th>')
+    if use_checklist:
+        out.append('<th style="width:6mm;"></th>')
+        for c_idx in range(1, len(headers)):
+            cls_parts = []
+            if c_idx in num_cols:
+                cls_parts.append("num")
+            if c_idx == main_num_col:
+                cls_parts.append("main-col")
+            cls = f' class="{" ".join(cls_parts)}"' if cls_parts else ''
+            out.append(f'<th{cls}>{clean_inline(headers[c_idx])}</th>')
+    else:
+        for c_idx, h in enumerate(headers):
+            cls_parts = []
+            if c_idx in num_cols:
+                cls_parts.append("num")
+            if c_idx == main_num_col:
+                cls_parts.append("main-col")
+            cls = f' class="{" ".join(cls_parts)}"' if cls_parts else ''
+            out.append(f'<th{cls}>{clean_inline(h)}</th>')
     out.append('</tr></thead><tbody>')
 
-    has_phase_col = headers and headers[0].strip().lower() in ('phase', 'étape', 'bloc')
+    last_phase = None
+    colspan = len(headers)
 
     for r in rows:
         lbl_upper = (r[0] + " " + (r[1] if len(r) > 1 else "")).upper()
@@ -580,22 +675,42 @@ def render_table(table_lines: list[str], force_ultra_compact: bool = False) -> s
         elif "TOTAL" in r[0].upper() or "MASSE" in r[0].upper():
             tr_cls = ' class="row-total"'
 
+        if use_checklist and not tr_cls:
+            p_cls, p_lbl = phase_key(r[0])
+            if p_cls != last_phase:
+                out.append(f'<tr class="p-band {p_cls}"><td colspan="{colspan}">{html.escape(p_lbl)}</td></tr>')
+                last_phase = p_cls
+
         out.append(f'<tr{tr_cls}>')
-        for c_idx in range(len(headers)):
-            val = r[c_idx] if c_idx < len(r) else ""
-            cls = ' class="num"' if c_idx in num_cols else ''
-            if c_idx == 0 and has_phase_col and not tr_cls:
-                cell_html = format_phase_dot(val)
-            else:
-                cell_html = clean_inline(val)
-            out.append(f'<td{cls}>{cell_html}</td>')
+        if use_checklist:
+            chk_cell = '<td class="chk"></td>' if tr_cls else '<td class="chk">☐</td>'
+            out.append(chk_cell)
+            for c_idx in range(1, len(headers)):
+                val = r[c_idx] if c_idx < len(r) else ""
+                cls_parts = []
+                if c_idx in num_cols:
+                    cls_parts.append("num")
+                if c_idx == main_num_col:
+                    cls_parts.append("main-col")
+                cls = f' class="{" ".join(cls_parts)}"' if cls_parts else ''
+                out.append(f'<td{cls}>{clean_inline(val)}</td>')
+        else:
+            for c_idx in range(len(headers)):
+                val = r[c_idx] if c_idx < len(r) else ""
+                cls_parts = []
+                if c_idx in num_cols:
+                    cls_parts.append("num")
+                if c_idx == main_num_col:
+                    cls_parts.append("main-col")
+                cls = f' class="{" ".join(cls_parts)}"' if cls_parts else ''
+                out.append(f'<td{cls}>{clean_inline(val)}</td>')
         out.append('</tr>')
     out.append('</tbody></table>')
     return "\n".join(out)
 
 
 def render_kpi_from_table(table_lines: list[str]) -> str:
-    """Transforme un tableau Repères Flash (<= 3 lignes) en grille 3 colonnes de pavés."""
+    """Transforme un tableau Repères Flash (<= 3 lignes) en bandeau Mémo Express 3 tuiles."""
     rows = []
     for ln in table_lines[2:]:
         cells = [p.strip() for p in ln.strip('|').split('|')]
@@ -603,28 +718,54 @@ def render_kpi_from_table(table_lines: list[str]) -> str:
             rows.append(cells)
     if not rows:
         return ""
-    out = ['<div class="kpi-grid">']
-    for r in rows[:3]:
+    accents = ["", " amber", " green"]
+    out = ['<div class="memo-strip">']
+    for idx, r in enumerate(rows[:3]):
         lbl = clean_inline(r[0])
         val = clean_inline(r[1])
-        out.append(f'<div class="kpi-box"><div class="kpi-val">{val}</div><div class="kpi-lbl">{lbl}</div></div>')
+        out.append(f'<div class="m-card{accents[idx % 3]}"><div class="m-v">{val}</div><div class="m-l">{lbl}</div></div>')
     out.append('</div>')
     return "\n".join(out)
 
 
-def render_page_body(md_block: str, is_right: bool) -> tuple[str, str]:
-    """Convertit une demi-fiche Markdown (gauche ou droite) en HTML structuré."""
+def extract_step_metric(stitle: str, sbody: str, num: str) -> tuple[str, str]:
+    """Extrait un repère chiffré (temps, température, poids) pour le bloc gauche de la carte."""
+    m_paren = re.search(r'\(([^)\[\]]*\d[^)\[\]]*)\)', stitle)
+    if m_paren:
+        val = m_paren.group(1).strip()
+        if not re.match(r'^[\d\s.,]+$', val) and len(val) <= 18:
+            return val, f"ÉTAPE {num}"
+    plain = re.sub(r'[*`]', '', sbody)
+    m_val = re.search(
+        r'(?<![\d.,])(?<!\d )([-+]?\s*\d+(?:\s\d{3})*(?:[.,]\d+)?(?:\s*[–-]\s*[-+]?\s*\d+(?:\s\d{3})*(?:[.,]\d+)?)?\s*(?:min|sec|h\b|°C|g\b|kg|mm|cm|%)|≥\s*\d+\s*\w+)',
+        plain,
+    )
+    if m_val:
+        val = re.sub(r'\s+', ' ', m_val.group(1).strip()).replace('- ', '-').replace('+ ', '+')
+        if len(val) <= 18:
+            return val, f"ÉTAPE {num}"
+    return f"ÉTAPE {num}", "CONSIGNE"
+
+
+def render_page_body(md_block: str, is_right: bool) -> tuple[str, str, bool]:
+    """Convertit une demi-fiche Markdown (gauche ou droite) en HTML structuré Chrono Unifié."""
     lines = md_block.strip().splitlines()
+    total_tbl_rows = sum(
+        1 for ln in lines
+        if ln.strip().startswith('|') and not re.match(r'^\|\s*[-:]+', ln.strip())
+    )
+    is_dense = total_tbl_rows > 20
     blocks = []
     alert_html = ""
     sec_num = 0
     i = 0
     step_cards = []
+    phase_classes = ['p1', 'p2', 'p3', 'p4']
 
     def flush_steps():
         nonlocal step_cards
         if step_cards:
-            blocks.append('<div class="steps-grid">' + "".join(step_cards) + '</div>')
+            blocks.append('<div class="step-rows">' + "".join(step_cards) + '</div>')
             step_cards = []
 
     while i < len(lines):
@@ -637,7 +778,6 @@ def render_page_body(md_block: str, is_right: bool) -> tuple[str, str]:
         if s.startswith('### ') or s.startswith('#### '):
             flush_steps()
             title = s.lstrip('#').strip()
-            # Repères Flash -> converti en pavés KPI 3 colonnes
             if "repères flash" in title.lower():
                 j = i + 1
                 while j < len(lines) and not lines[j].strip().startswith('|'):
@@ -650,10 +790,23 @@ def render_page_body(md_block: str, is_right: bool) -> tuple[str, str]:
                     blocks.append(render_kpi_from_table(tbl))
                     i = j
                     continue
+
             sec_num += 1
-            if not re.match(r'^\d+\.', title):
-                title = f"{sec_num}. {title}"
-            blocks.append(f'<div class="sec-title">{clean_inline(title)}</div>')
+            clean_t = re.sub(r'^\d+\.\s*', '', title)
+            p_cls = phase_classes[min(sec_num - 1, 3)]
+            num_badge = f"{sec_num:02d}"
+            # Extraire éventuelle info clé entre parenthèses à la fin du titre pour le badge KPI à droite
+            kpi_badge = ""
+            m_end = re.search(r'\(([^)]+)\)\s*$', clean_t)
+            if m_end and len(m_end.group(1)) <= 26:
+                kpi_badge = f'<span class="sec-k">{clean_inline(m_end.group(1))}</span>'
+                clean_t = clean_t[:m_end.start()].strip()
+            blocks.append(
+                f'<div class="sec-h">'
+                f'<span class="sec-num {p_cls}">{num_badge}</span>'
+                f'<span class="sec-t">{clean_inline(clean_t)}</span>'
+                f'{kpi_badge}</div>'
+            )
             i += 1
             continue
 
@@ -664,7 +817,7 @@ def render_page_body(md_block: str, is_right: bool) -> tuple[str, str]:
             while i < len(lines) and lines[i].strip().startswith('|'):
                 tbl.append(lines[i].strip())
                 i += 1
-            blocks.append(render_table(tbl))
+            blocks.append(render_table(tbl, force_ultra_compact=is_dense))
             continue
 
         # Cartes d'étapes numérotées (1. **Titre :** texte)
@@ -673,21 +826,22 @@ def render_page_body(md_block: str, is_right: bool) -> tuple[str, str]:
             num, stitle, sbody = m_step.groups()
             stitle = stitle.rstrip(':').strip()
             sbody = sbody.lstrip(':').strip()
-            # Rassembler éventuelles sous-puces rattachées à cette étape
             sub_bullets = []
             j = i + 1
             while j < len(lines) and (lines[j].startswith('   -') or lines[j].startswith('   *')):
-                sub_bullets.append(clean_inline(lines[j].strip()[2:].strip()))
+                sub_bullets.append(lines[j].strip()[2:].strip())
                 j += 1
             if sub_bullets:
                 sbody = (sbody + " " if sbody else "") + " • ".join(sub_bullets)
                 i = j
             else:
                 i += 1
+            p_cls = phase_classes[min(max(sec_num - 1, 0), 3)]
+            m_val, m_lbl = extract_step_metric(stitle, sbody, num)
             step_cards.append(
-                f'<div class="step-card">'
-                f'<span class="step-card-title">{num}. {clean_inline(stitle)}</span>'
-                f'<div class="step-card-body">{clean_inline(sbody)}</div>'
+                f'<div class="s-row {p_cls}">'
+                f'<div class="s-left"><span class="s-val">{clean_inline(m_val)}</span><span class="s-lbl">{clean_inline(m_lbl)}</span></div>'
+                f'<div class="s-right"><strong class="st">{clean_inline(stitle)}</strong>{clean_inline(sbody)}</div>'
                 f'</div>'
             )
             continue
@@ -698,7 +852,7 @@ def render_page_body(md_block: str, is_right: bool) -> tuple[str, str]:
             items = []
             while i < len(lines) and (lines[i].strip().startswith('- ') or lines[i].strip().startswith('* ')):
                 txt = lines[i].strip()[2:].strip()
-                if is_right and ("INTERDICTION" in txt.upper() or "OURA" in txt.upper() and "FERMÉ" in txt.upper() and "STRICTEMENT" in txt.upper()):
+                if is_right and ("INTERDICTION" in txt.upper() or ("OURA" in txt.upper() and "FERMÉ" in txt.upper() and "STRICTEMENT" in txt.upper())):
                     alert_html = f'<div class="alert-critical">{clean_inline(txt)}</div>'
                 else:
                     items.append(f'<li>{clean_inline(txt)}</li>')
@@ -721,20 +875,18 @@ def render_page_body(md_block: str, is_right: bool) -> tuple[str, str]:
                 blocks.append(f'<p class="note-line">{clean_inline(q_text)}</p>')
             continue
 
-        # Note italique
         flush_steps()
         blocks.append(f'<p class="note-line">{clean_inline(s)}</p>')
         i += 1
 
     flush_steps()
-    return "\n".join(blocks), alert_html
+    return "\n".join(blocks), alert_html, is_dense
 
 
 def parse_fiche_pages(md_path: str, page_start: int, total_pages: int) -> list[str]:
     text = open(md_path, encoding='utf-8').read()
     lines = text.splitlines()
 
-    # Extraire titre H1 et ligne meta
     title = ""
     meta = ""
     body_lines = []
@@ -751,22 +903,23 @@ def parse_fiche_pages(md_path: str, page_start: int, total_pages: int) -> list[s
     left_md = parts[0] if len(parts) > 0 else ""
     right_md = parts[1] if len(parts) > 1 else ""
 
-    left_html, left_alert = render_page_body(left_md, is_right=False)
-    right_html, right_alert = render_page_body(right_md, is_right=True)
+    left_html, left_alert, left_dense = render_page_body(left_md, is_right=False)
+    right_html, right_alert, right_dense = render_page_body(right_md, is_right=True)
 
-    # Extraire numéro de fiche pour libellé pied de page
-    fname = os.path.basename(md_path)
     section_label = title
+    left_cls = "page-sheet dense" if left_dense else "page-sheet"
+    right_cls = "page-sheet dense" if right_dense else "page-sheet"
 
     page_left = f"""
-    <div class="page-sheet">
+    <div class="{left_cls}">
       <div class="page-content">
-        <div class="topbar topbar-left">
-          <div class="topbar-title-wrap">
-            <div class="topbar-title">{clean_inline(title)}</div>
-            <div class="topbar-sub">{clean_inline(meta)}</div>
+        <div class="cu-head">
+          <div class="cu-head-left">
+            <div class="cu-kicker">FICHE ATELIER • POSTE DE PESÉE &amp; PRÉPARATION</div>
+            <h1 class="cu-title">{clean_inline(title)}</h1>
+            <div class="cu-sub">{clean_inline(meta)}</div>
           </div>
-          <div class="topbar-badge badge-blue">POSTE DE PESÉE</div>
+          <div class="cu-pill">POSTE DE PESÉE</div>
         </div>
         {left_html}
         {left_alert}
@@ -779,14 +932,15 @@ def parse_fiche_pages(md_path: str, page_start: int, total_pages: int) -> list[s
     """
 
     page_right = f"""
-    <div class="page-sheet">
+    <div class="{right_cls}">
       <div class="page-content">
-        <div class="topbar topbar-right">
-          <div class="topbar-title-wrap">
-            <div class="topbar-title">{clean_inline(title)}</div>
-            <div class="topbar-sub">{clean_inline(meta)}</div>
+        <div class="cu-head">
+          <div class="cu-head-left">
+            <div class="cu-kicker green">FICHE ATELIER • CONDUITE MACHINE &amp; CUISSON</div>
+            <h1 class="cu-title">{clean_inline(title)}</h1>
+            <div class="cu-sub">{clean_inline(meta)}</div>
           </div>
-          <div class="topbar-badge badge-green">CONDUITE &amp; CUISSON</div>
+          <div class="cu-pill green">CONDUITE &amp; CUISSON</div>
         </div>
         {right_html}
         {right_alert}
@@ -804,10 +958,10 @@ def build_cover_html() -> str:
     return """
     <div class="cover-sheet">
       <div>
-        <div class="cover-kicker">LABORATOIRE DE TOURAGE &amp; BOULANGERIE • EDITION ATELIER DIRECT</div>
+        <div class="cover-kicker">LABORATOIRE DE TOURAGE &amp; BOULANGERIE • EDITION CHRONO UNIFIÉ</div>
         <h1 class="cover-title">CAHIER DE PRODUCTION<br>&amp; FICHES D'ATELIER</h1>
         <div class="cover-accent-bar"></div>
-        <p class="cover-subtitle">Référentiel opérationnel de pesée, façonnage, double congélation PAC et cuisson. Document structuré en double-page A4 pour lecture directe au poste de travail.</p>
+        <p class="cover-subtitle">Référentiel opérationnel de pesée, façonnage, double congélation PAC et cuisson. Code couleur unifié entre pesée (Page Gauche) et conduite machine (Page Droite).</p>
 
         <div class="cover-grid">
           <div class="cover-card">
@@ -820,22 +974,22 @@ def build_cover_html() -> str:
             <div class="cover-card-title">Pains Viennois &amp; Brioches PAC</div>
             <div class="cover-card-desc">Méthode directe Soft'r / Kimo : Pains Viennois 280 g &amp; 140 g, Petites Brioches au Sucre 75 g.</div>
           </div>
-          <div class="cover-card">
+          <div class="cover-card c-amber">
             <div class="cover-card-num">PÔLE 3 • FICHE 05</div>
             <div class="cover-card-title">Kouign-Amann Breton</div>
             <div class="cover-card-desc">Beurre manié sucré au Ratio d'Or (3 820 g/bac), individuels 100 g &amp; partage 400/600 g en octogone.</div>
           </div>
-          <div class="cover-card">
+          <div class="cover-card c-amber">
             <div class="cover-card-num">PÔLE 4 • FICHES 06 – 07</div>
             <div class="cover-card-title">Feuilletage Inversé &amp; Épiphanie</div>
             <div class="cover-card-desc">Feuilletage 48 strates (OPAL en détrempe), Frangipane 80/20, Pommes Topfil &amp; Trio Poire-Nutolade.</div>
           </div>
-          <div class="cover-card">
+          <div class="cover-card c-green">
             <div class="cover-card-num">PÔLE 5 • FICHES 08 – 13</div>
             <div class="cover-card-title">Biscuiterie &amp; Gâteaux de Voyage</div>
             <div class="cover-card-desc">Cookies coupe-fil 80 g, Muffins pilon 120 g, Brownie &amp; Brookie en cadres 56×36 cm, Cakes &amp; Nantais.</div>
           </div>
-          <div class="cover-card">
+          <div class="cover-card c-green">
             <div class="cover-card-num">PÔLE 6 • FICHES 14 – 17</div>
             <div class="cover-card-title">Girocrêpes, Traiteur &amp; Cuissons</div>
             <div class="cover-card-desc">Crêpes froment, Galettes blé noir, Quiches individuelles IQF, Dorures, Sirop 44°B et barèmes généraux.</div>
@@ -855,15 +1009,22 @@ def build_sommaire_pages(total_pages: int) -> list[str]:
     p2 = f"""
     <div class="page-sheet">
       <div class="page-content">
-        <div class="topbar topbar-left">
-          <div class="topbar-title-wrap">
-            <div class="topbar-title">SOMMAIRE GÉNÉRAL — PÔLES 1 À 4</div>
-            <div class="topbar-sub">Index des fiches Viennoiserie, Kouign-Amann, Feuilletage &amp; Galettes</div>
+        <div class="cu-head">
+          <div class="cu-head-left">
+            <div class="cu-kicker">INDEX GÉNÉRAL • PÔLES 1 À 4</div>
+            <h1 class="cu-title">Sommaire — Viennoiserie &amp; Feuilletage</h1>
+            <div class="cu-sub">PLF, Pains Viennois, Brioches, Kouign-Amann, Feuilletage Inversé &amp; Galettes</div>
           </div>
-          <div class="topbar-badge badge-blue">PAGES 4 – 17</div>
+          <div class="cu-pill">PAGES 4 – 17</div>
         </div>
 
-        <div class="sec-title">1. Index des Fiches Pôles 1 à 4</div>
+        <div class="memo-strip">
+          <div class="m-card"><div class="m-v">± 1 g</div><div class="m-l">Levure, Sel, S500, Vinaigre</div></div>
+          <div class="m-card amber"><div class="m-v">20–21 °C</div><div class="m-l">Sortie Pétrin PLF / Viennois</div></div>
+          <div class="m-card green"><div class="m-v">-10 °C</div><div class="m-l">Sonde Cœur Blocage PAC</div></div>
+        </div>
+
+        <div class="sec-h"><span class="sec-num p1">01</span><span class="sec-t">Index des Fiches Pôles 1 à 4</span></div>
         <table class="data-table">
           <thead><tr><th>Fiche</th><th>Pôle</th><th>Désignation Atelier</th><th class="num">Pages</th></tr></thead>
           <tbody>
@@ -877,16 +1038,12 @@ def build_sommaire_pages(total_pages: int) -> list[str]:
           </tbody>
         </table>
 
-        <div class="sec-title">2. Tolérances de Pesée &amp; Températures de Base</div>
-        <div class="kpi-grid">
-          <div class="kpi-box"><div class="kpi-val">± 1 g</div><div class="kpi-lbl">Levure, Sel, S500, Vinaigre</div></div>
-          <div class="kpi-box"><div class="kpi-val">20–21 °C</div><div class="kpi-lbl">Sortie Pétrin PLF / Viennois</div></div>
-          <div class="kpi-box"><div class="kpi-val">-10 °C</div><div class="kpi-lbl">Sonde Cœur Blocage PAC</div></div>
+        <div class="sec-h"><span class="sec-num p2">02</span><span class="sec-t">Code Couleur Unifié &amp; Tolérances</span></div>
+        <div class="step-rows">
+          <div class="s-row"><div class="s-left"><span class="s-val" style="color:#1e40af;">PHASE 1</span><span class="s-lbl">Bleu</span></div><div class="s-right"><strong class="st">Base / Cuve V1 / Détrempe</strong>Tous les ingrédients de départ du tableau bleu correspondent aux étapes 01 bleues en page droite.</div></div>
+          <div class="s-row p2"><div class="s-left"><span class="s-val" style="color:#b45309;">PHASE 2</span><span class="s-lbl">Ambre</span></div><div class="s-right"><strong class="st">Ajout V2 / Émulsion / Beurre</strong>Ajouts différés en cuve et beurre de tourage : étapes 02 ambre.</div></div>
+          <div class="s-row p3"><div class="s-left"><span class="s-val" style="color:#15803d;">PHASE 3</span><span class="s-lbl">Vert</span></div><div class="s-right"><strong class="st">Tourage / Finition / Circuit PAC</strong>Abaisse, façonnage, congélation PAC et cuisson : étapes 03 vertes.</div></div>
         </div>
-        <ul class="clean-list">
-          <li><strong>Farines, sucres, graisses &amp; liquides :</strong> tolérance ± 5 g ; bacs Paneo divisés pile au gramme près.</li>
-          <li><strong>Pastilles d'ordre dans les tableaux :</strong> <span class="dot dot-blue"></span>Phase 1 (Frasage / Base) • <span class="dot dot-amber"></span>Phase 2 (Matière grasse cuve / Émulsion) • <span class="dot dot-green"></span>Phase 3–4 (Tourage / Poudres / Options).</li>
-        </ul>
       </div>
       <footer class="page-footer">
         <span>SOMMAIRE GÉNÉRAL • PÔLES 1 À 4</span>
@@ -898,15 +1055,16 @@ def build_sommaire_pages(total_pages: int) -> list[str]:
     p3 = f"""
     <div class="page-sheet">
       <div class="page-content">
-        <div class="topbar topbar-right">
-          <div class="topbar-title-wrap">
-            <div class="topbar-title">SOMMAIRE GÉNÉRAL — PÔLES 5 À 6</div>
-            <div class="topbar-sub">Index des fiches Biscuiterie, Gâteaux de Voyage, Girocrêpes, Traiteur &amp; Finitions</div>
+        <div class="cu-head">
+          <div class="cu-head-left">
+            <div class="cu-kicker green">INDEX GÉNÉRAL • PÔLES 5 À 6</div>
+            <h1 class="cu-title">Sommaire — Biscuiterie, Traiteur &amp; Cuissons</h1>
+            <div class="cu-sub">Cookies, Muffins, Brownie, Brookie, Cakes, Nantais, Girocrêpes, Quiches &amp; Barèmes</div>
           </div>
-          <div class="topbar-badge badge-green">PAGES 18 – 37</div>
+          <div class="cu-pill green">PAGES 18 – 37</div>
         </div>
 
-        <div class="sec-title">1. Index des Fiches Pôles 5 à 6</div>
+        <div class="sec-h"><span class="sec-num p3">01</span><span class="sec-t">Index des Fiches Pôles 5 à 6</span></div>
         <table class="data-table">
           <thead><tr><th>Fiche</th><th>Pôle</th><th>Désignation Atelier</th><th class="num">Pages</th></tr></thead>
           <tbody>
@@ -923,12 +1081,11 @@ def build_sommaire_pages(total_pages: int) -> list[str]:
           </tbody>
         </table>
 
-        <div class="sec-title">2. Règles Sanitaires &amp; Chaîne du Froid</div>
-        <div class="steps-grid">
-          <div class="step-card"><span class="step-card-title">Légumes IQF (Quiches)</span><div class="step-card-body">Enfourner directement congelés sans jamais décongeler au préalable.</div></div>
-          <div class="step-card"><span class="step-card-title">Refroidissement Traiteur</span><div class="step-card-body">Descente en cellule sous +10 °C à cœur en moins de 2 heures.</div></div>
-          <div class="step-card"><span class="step-card-title">Dorure Pinceau (+4 °C)</span><div class="step-card-body">Conservation maximale 48 h datée. Filtration chinois étamine 0,5 mm.</div></div>
-          <div class="step-card"><span class="step-card-title">Allergènes &amp; Étiquetage</span><div class="step-card-body">Identifier chaque bac/caisse : gluten, œufs, lait, fruits à coque, sarrasin.</div></div>
+        <div class="sec-h"><span class="sec-num p1">02</span><span class="sec-t">Règles Sanitaires &amp; Chaîne du Froid</span></div>
+        <div class="step-rows">
+          <div class="s-row"><div class="s-left"><span class="s-val">IQF -18 °C</span><span class="s-lbl">Quiches</span></div><div class="s-right"><strong class="st">Légumes IQF (Quiches)</strong>Enfourner directement congelés sans jamais décongeler au préalable.</div></div>
+          <div class="s-row p2"><div class="s-left"><span class="s-val">&lt; 2 h / +10 °C</span><span class="s-lbl">Cellule</span></div><div class="s-right"><strong class="st">Refroidissement Traiteur</strong>Descente rapide en cellule sous +10 °C à cœur en moins de 2 heures.</div></div>
+          <div class="s-row p3"><div class="s-left"><span class="s-val">48 h max</span><span class="s-lbl">Chinois 0,5 mm</span></div><div class="s-right"><strong class="st">Dorure Pinceau (+4 °C)</strong>Conservation maximale 48 h datée. Filtration chinois étamine.</div></div>
         </div>
 
         <div class="alert-critical">CHAÎNE DU FROID STRICTE : STOCKAGE NÉGATIF À -18 °C EN CAISSES ÉTANCHES APRÈS BLOCAGE FLASH -35 °C</div>
@@ -963,7 +1120,7 @@ def compile_html_to_pdf(body_html: str, css_margins: str, out_name: str, title: 
         "--headless",
         "--disable-gpu",
         "--no-sandbox",
-        "--print-to-pdf-no-header",
+        "--no-pdf-header-footer",
         f"--print-to-pdf={pdf_out}",
         html_out,
     ]
@@ -975,7 +1132,7 @@ def compile_html_to_pdf(body_html: str, css_margins: str, out_name: str, title: 
 
 def build_pdf():
     os.makedirs(EXPORT_DIR, exist_ok=True)
-    print("=== GÉNÉRATION DES PDFS « ATELIER DIRECT » ===")
+    print("=== GÉNÉRATION DES PDFS « CHRONO UNIFIÉ » ===")
 
     fiches_ordered = [
         ("01-recette-maitresse-plf-commune.md", "01_Recette_Maitresse_PLF_Commune", "Fiche 01 - Recette Maîtresse PLF Commune"),
@@ -1006,16 +1163,14 @@ def build_pdf():
         cur_page += 2
 
     book_html = "\n".join(book_chunks)
-    compile_html_to_pdf(book_html, CSS_BOOK_MARGINS, "Cahier_Recettes_Complet_Labo", "Cahier de Production Atelier Direct")
-    compile_html_to_pdf(book_html, CSS_BOOK_MARGINS, "cahier_atelier_equipe", "Cahier d'Atelier Équipe - Atelier Direct")
+    compile_html_to_pdf(book_html, CSS_BOOK_MARGINS, "Cahier_Recettes_Complet_Labo", "Cahier de Production Chrono Unifié")
+    compile_html_to_pdf(book_html, CSS_BOOK_MARGINS, "cahier_atelier_equipe", "Cahier d'Atelier Équipe - Chrono Unifié")
 
-    # PDFs individuels (2 pages strictes par fiche)
     for md_name, out_name, title in fiches_ordered:
         fpath = os.path.join(FICHES_DIR, md_name)
         pages = parse_fiche_pages(fpath, 1, 2)
         compile_html_to_pdf("\n".join(pages), CSS_SHEET_MARGINS, out_name, title)
 
-    # Regroupement historique PLF 01-02 si utilisé par scripts annexes
     plf_pages = parse_fiche_pages(os.path.join(FICHES_DIR, "01-recette-maitresse-plf-commune.md"), 1, 4)
     plf_pages += parse_fiche_pages(os.path.join(FICHES_DIR, "02-annexe-faconnages-et-calibres-plf.md"), 3, 4)
     compile_html_to_pdf("\n".join(plf_pages), CSS_SHEET_MARGINS, "01_02_PLF_Commune_Et_Faconnages", "Fiches 01-02 - PLF Commune & Façonnages")
