@@ -25,7 +25,7 @@
 ### Tableau Chronologique des Pesées en 2 Blocs
 
 #### BLOC A • Appareil Brownie Fondant (Fond de Cadre)
-*Base meunière Brownie : Farine T55 = 100,0 % (180 g / cadre) | Tolérance : ± 1 g ingrédients critiques.*
+*Base meunière Brownie : Farine T65 conventionnelle BM (Moulin de Cadillac — F. T.65 BM) = 100,0 % (180 g / cadre) | Tolérance : ± 1 g ingrédients critiques.*
 
 | Phase & Ordre | Ingrédient d'Atelier | % Farine | 1 Cadre (30 p.) | 5 Cadres (150 p.) | 10 Cadres (300 p.) | 15 Cadres (450 p.) | Rôle & Spécification Biochimique |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
@@ -33,7 +33,7 @@
 | **`[1]` Fonte** | **Huile de colza raffinée** | **250,0 %** | **450 g** | **2 250 g** | **4 500 g** | **6 750 g** | Lipides fluides : moelleux persistant à froid |
 | **`[2]` Fouet** | **Œufs entiers liquides** | **277,8 %** | **500 g** | **2 500 g** | **5 000 g** | **7 500 g** | Coagulation thermique et liaison |
 | **`[2]` Fouet** | **Sucre semoule extra-fin** | **333,3 %** | **600 g** | **3 000 g** | **6 000 g** | **9 000 g** | Abaissement $a_w$ et croûte satinée craquelée |
-| **`[3]` Poudres**| **Farine T55 pâtissière** | **100,0 %** | **180 g** | **900 g** | **1 800 g** | **2 700 g** | Faible gluten : texture dense sans élasticité |
+| **`[3]` Poudres**| **Farine T65 conventionnelle BM (Moulin de Cadillac)** | **100,0 %** | **180 g** | **900 g** | **1 800 g** | **2 700 g** | Mélange court : texture dense sans élasticité |
 | **`[3]` Poudres**| **Cacao pur 100 % en poudre** | **38,9 %** | **70 g** | **350 g** | **700 g** | **1 050 g** | Amertume, intensité aromatique et couleur |
 | **`[3]` Poudres**| **Sel fin d'atelier** | **2,8 %** | **5 g** | **25 g** | **50 g** | **75 g** | Exhausteur de goût chocolat |
 | **`[3]` Poudres**| **Levure chimique (Baking powder)**| **2,8 %** | **5 g** | **25 g** | **50 g** | **75 g** | Légère aération évitant l'effet bloc compact |
@@ -42,7 +42,7 @@
 ---
 
 #### BLOC B • Pâte Cookie Pépites (Abaisse Supérieure Laminée)
-*Base meunière Cookie : Farine T55 = 100,0 % (330 g / cadre) | Tolérance : ± 1 g ingrédients critiques.*
+*Base meunière Cookie : Farine T65 conventionnelle BM (Moulin de Cadillac — F. T.65 BM) = 100,0 % (330 g / cadre) | Tolérance : ± 1 g ingrédients critiques.*
 
 | Phase & Ordre | Ingrédient d'Atelier | % Farine | 1 Cadre (30 p.) | 5 Cadres (150 p.) | 10 Cadres (300 p.) | 15 Cadres (450 p.) | Rôle & Spécification Biochimique |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
@@ -51,7 +51,7 @@
 | **`[1]` Sablage**| **Sucre blanc semoule** | **21,2 %** | **70 g** | **350 g** | **700 g** | **1 050 g** | Croquant périphérique et étalement |
 | **`[1]` Sablage**| **Gros sel de Guérande** | **3,0 %** | **10 g** | **50 g** | **100 g** | **150 g** | Cristaux salés croquants en dégustation |
 | **`[2]` Liaison**| **Œufs entiers liquides** | **30,3 %** | **100 g** | **500 g** | **1 000 g** | **1 500 g** | Émulsion avec la matière grasse |
-| **`[3]` Poudres**| **Farine T55 pâtissière** | **100,0 %** | **330 g** | **1 650 g** | **3 300 g** | **4 950 g** | Armature croustillante sablée |
+| **`[3]` Poudres**| **Farine T65 conventionnelle BM (Moulin de Cadillac)** | **100,0 %** | **330 g** | **1 650 g** | **3 300 g** | **4 950 g** | Armature croustillante sablée |
 | **`[3]` Poudres**| **Poudre à crème vanillée** | **9,1 %** | **30 g** | **150 g** | **300 g** | **450 g** | Amidon de maïs : friabilité et texture sablée |
 | **`[3]` Poudres**| **Levure chimique** | **3,0 %** | **10 g** | **50 g** | **100 g** | **150 g** | Soulèvement de l'abaisse cookie |
 | **`[4]` Inclusions**| **Pépites de chocolat noir 50 %** | **84,8 %** | **280 g** | **1 400 g** | **2 800 g** | **4 200 g** | Inclusions thermorésistantes |
@@ -70,7 +70,7 @@ flowchart TD
     --> D["MONTAGE EN CADRE INOX 56x36 cm (Sur plaque Silpat 60x40) :\n1. Couler 2 260 g d'Appareil Brownie A et lisser à la palette\n2. Déposer la plaque rigide de Cookie 5,5 mm B par-dessus"]
     --> E["Cuisson Four Ventilé 160–165 °C (24 à 26 min)\nOura fermé pendant 18 min puis ouvert sur les 6 dernières min"]
     --> F["Décadrage à chaud 10 min après sortie du four\n+ Figeage obligatoire 2 h en chambre froide (+4 °C)"]
-    --> G["Découpe au couteau-scie chaud et réglet inox :\n7 traits dans la longueur (bandes 6,0 cm)\n5 traits dans la largeur (bandes 11,2 cm)\n= 30 RECTANGLES PARFAITS DE 115 G (ZÉRO CHUTE)"]
+    --> G["Découpe au couteau-scie chaud et réglet inox :\n4 traits dans la longueur 56 cm (5 bandes de 11,2 cm)\n5 traits dans la largeur 36 cm (6 bandes de 6,0 cm)\n= 30 RECTANGLES PARFAITS DE 115 G (ZÉRO CHUTE)"]
 ```
 
 ---
@@ -80,7 +80,7 @@ flowchart TD
    * Mettre la matière grasse Opale (ou beurre doux), la cassonade, le sucre blanc et le gros sel `[1]` dans la cuve du batteur muni de la feuille.
    * Lancer en 1ʳᵉ vitesse pendant **1 minute** : sabler la matière sans jamais blanchir ni incorporer d'air (un foisonnement excessif ferait gonfler le cookie comme un cake et détruirait le contraste brooky).
    * Verser les œufs liquides `[2]` en 1ʳᵉ vitesse.
-   * Ajouter la farine T55, la poudre à crème et la levure chimique tamisées `[3]`. Mélanger en 1ʳᵉ vitesse jusqu'à disparition de la farine libre.
+   * Ajouter la farine T65 conventionnelle BM, la poudre à crème et la levure chimique tamisées `[3]`. Mélanger en 1ʳᵉ vitesse jusqu'à disparition de la farine libre.
    * Verser les pépites de chocolat noir `[4]` et tourner **30 secondes** pour les répartir.
 2. **Laminage Étalon à 5,5 mm & Durcissement au Froid** :
    * Peser des pâtons de **1 200 g pile**.
@@ -97,7 +97,7 @@ flowchart TD
 2. **Liaison des Masses** :
    * Dans la cuve du batteur (feuille), réunir les œufs entiers et le sucre semoule `[2]`. Faire tourner en 1ʳᵉ vitesse pendant **1 à 2 minutes** pour dissoudre le sucre sans mousser.
    * Verser le mélange chocolat/huile tiède.
-   * Ajouter la farine T55, le cacao en poudre, le sel fin et la levure chimique `[3]` préalablement tamisés ensemble.
+   * Ajouter la farine T65 conventionnelle BM, le cacao en poudre, le sel fin et la levure chimique `[3]` préalablement tamisés ensemble.
    * Mélanger en 1ʳᵉ vitesse jusqu'à parfaite homogénéité.
 3. **Montage Séquentiel en Cadre 60×40** :
    * Poser un cadre inox d'atelier (**56 × 36 cm, hauteur 4,0 cm**) sur une plaque de cuisson 60×40 garnie d'une toile Silpat propre.

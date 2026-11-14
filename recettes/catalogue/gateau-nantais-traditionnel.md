@@ -22,7 +22,7 @@
 ---
 
 ### Tableau Chronologique des Pesées d'Atelier
-*Base meunière : Farine Totale = 100,0 % (Farine T55 standard) | Tolérance : ± 1 g ingrédients critiques / ± 5 g farines.*
+*Base meunière : Farine Totale = 100,0 % (Farine T65 conventionnelle BM — Moulin de Cadillac, réf. FPBMT65) | Tolérance : ± 1 g ingrédients critiques / ± 5 g farines.*
 
 | Phase & Ordre | Ingrédient d'Atelier | % Meunier | Base 1 kg Farine | Petit Lot (10 Indiv / 1 kg) | Lot Atelier (50 Indiv / 5 kg) | Grand Lot (150 Indiv / 15 kg) | Rôle Biochimique & Précautions |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
@@ -31,10 +31,10 @@
 | **`[1]` Crémage** | **Poudre d'amande blanche** | **175,0 %** | **1 750 g** | **230 g** | **1 150 g** | **3 450 g** | Corps et goût amande intense |
 | **`[1]` Crémage** | **Sel fin d'atelier** | **3,0 %** | **30 g** | **4 g** | **20 g** | **60 g** | Exhausteur de goût indispensable |
 | **`[2]` Émulsion** | **Œufs entiers liquides pasteurisés** | **150,0 %** | **1 500 g** | **200 g** | **1 000 g** | **3 000 g** | Liant protéique, émulsion eau-dans-huile progressive |
-| **`[3]` Poudres** | **Farine T55 standard** | **100,0 %** | **1 000 g** | **130 g** | **650 g** | **1 950 g** | Farine faible : structure sans aucun élastique |
+| **`[3]` Poudres** | **Farine T65 conventionnelle BM (Moulin de Cadillac)** | **100,0 %** | **1 000 g** | **130 g** | **650 g** | **1 950 g** | Incorporation courte V1 : structure sans élasticité |
 | **`[3]` Poudres** | **Levure chimique (Baking powder)** | **4,0 %** | **40 g** | **5 g** | **25 g** | **75 g** | Poussée fine régulière |
 | **`[4]` Arôme** | **Rhum ambré agricole 45° ou 54°** | **60,0 %** | **600 g** | **80 g** | **400 g** | **1 200 g** | Solvant aromatique vanillé de mélasse |
-| **TOTAL** | **POIDS TOTAL APPAREIL CRU** | **837,0 %** | **8 370 g** | **1 109 g** | **5 545 g** | **16 635 g** | **Appareil prêt à dresser** |
+| **TOTAL** | **POIDS TOTAL APPAREIL CRU** | **842,0 %** | **8 420 g** | **1 109 g** | **5 545 g** | **16 635 g** | **Appareil prêt à dresser** |
 | *Rendement* | *Moules individuels aluminium 100 g* | — | *~83 pièces* | *11 pièces* | *55 pièces* | *165 pièces* | *Dresseuse volumétrique* |
 | *Rendement* | *Moules partage aluminium 450 g* | — | *~18 pièces* | *2 pièces* | *12 pièces* | *36 pièces* | *Format familial 4–5 parts* |
 
@@ -61,7 +61,7 @@
 ```mermaid
 flowchart TD
     A["Étape 1 : Crémage à la Feuille (V1 puis V2 / 2 min)<br>Beurre pommade 18 °C + Sucre glace + Poudre d'amande + Sel"] --> B["Étape 2 : Émulsion Œufs en 3 fois (V1 / 2 min)<br>Absorber chaque tiers avant d'ajouter le suivant"]
-    B --> C["Étape 3 : Incorporation Poudres tamisées (V1 / 45 sec)<br>Farine T55 + Levure chimique (Arrêter dès disparition du sec)"]
+    B --> C["Étape 3 : Incorporation Poudres tamisées (V1 / 45 sec)<br>Farine T65 BM + Levure chimique (Arrêter dès disparition du sec)"]
     C --> D["Étape 4 : Finition Rhum en filet (V1 / 30 sec)<br>Appareil lisse, satiné et onctueux"]
     D --> E["Étape 5 : Dosage en moules alu beurrés<br>Individuel : 100 g / Partage : 450 g"]
     E --> F["Étape 6 : Cuisson Four ventilé 165 °C (Oura Fermé)<br>Indiv : 25–28 min | Partage : 40–45 min"]
@@ -79,7 +79,7 @@ flowchart TD
    * Réduire en 1ʳᵉ vitesse.
    * Verser les œufs liquides tempérés en **3 fractions égales**. Laisser la matière grasse émulsionner chaque fraction pendant 30 à 45 secondes avant d'ajouter la suivante.
 3. **Poudres & Rhum** :
-   * Verser la farine T55 et la levure chimique tamisées ensemble. Mélanger en vitesse 1 pendant **40 secondes maximum**. Ne pas corser pour garantir un gâteau ultra-fondant.
+   * Verser la farine T65 conventionnelle BM et la levure chimique tamisées ensemble. Mélanger en vitesse 1 pendant **40 secondes maximum**. Ne pas corser pour garantir un gâteau ultra-fondant.
    * Verser enfin le rhum ambré en filet lent. Dès que la pâte est lisse et satinée, stopper immédiatement la cuve.
 
 ---

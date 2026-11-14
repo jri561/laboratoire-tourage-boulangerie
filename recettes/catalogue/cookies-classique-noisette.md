@@ -23,7 +23,7 @@
 ---
 
 ### Tableau Chronologique des Pesées en 4 Phases
-*Base meunière : Farine T55 = 100,0 % | Tolérance balance : ± 1 g ingrédients critiques / ± 10 g poudres et farines.*
+*Base meunière : Farine T65 conventionnelle BM (Moulin de Cadillac — F. T.65 BM) = 100,0 % | Tolérance balance : ± 1 g ingrédients critiques / ± 10 g poudres et farines.*
 
 | Phase & Ordre | Ingrédient d'Atelier | % Meunier | Base 1 kg Farine | Cuve 80 kg (1 000 p.) | Cuve 160 kg (2 000 p.) | Rôle & Spécification Biochimique |
 | :---: | :--- | :---: | :---: | :---: | :---: | :--- |
@@ -33,14 +33,14 @@
 | **`[1]` Sablage**| **Gros sel de Guérande** | **2,7 %** | **27 g** | **600 g** | **1 200 g** | Contraste salin pur sans fondre dans la pâte |
 | **`[2]` Émulsion**| **Œufs entiers liquides** | **29,1 %** | **291 g** | **6 400 g** | **12 800 g** | Liaison liquide, lécithine émulsifiante |
 | **`[2]` Émulsion**| **Extrait naturel de vanille liquide**| **1,1 %** | **11 g** | **250 g** | **500 g** | Signature aromatique pâtissière |
-| **`[3]` Poudres**| **Farine T55 pâtissière** | **100,0 %** | **1 000 g** | **22 000 g** | **44 000 g** | Gluten court : évite l'élasticité caoutchouteuse |
+| **`[3]` Poudres**| **Farine T65 conventionnelle BM (Moulin de Cadillac)** | **100,0 %** | **1 000 g** | **22 000 g** | **44 000 g** | Frasage court strict (évite le corse du gluten T65) |
 | **`[3]` Poudres**| **Poudre à crème vanillée** | **8,6 %** | **86 g** | **1 900 g** | **3 800 g** | Amidon de maïs : texturant cœur tendre |
 | **`[3]` Poudres**| **Levure chimique (Baking powder)**| **3,2 %** | **32 g** | **700 g** | **1 400 g** | Soulèvement initial à la cuisson |
 | **`[4]` Déclinaison A**| **Pépites chocolat noir 50 %** | **86,8 %** | **868 g** | **19 100 g** | **38 200 g** | **Inclusions Version Classique Chunks** |
 | **TOTAL A** | **TOTAL MASSE CUVE CLASSIQUE** | **364,7 %** | **3 647 g** | **80 250 g (1 000 p.)**| **160 500 g (2 000 p.)**| **Poids brut unitaire calibré à 80 g pile** |
 | **`[4]` Déclinaison B**| **Pépites chocolat + Noisettes** | **86,8 %** | **641g + 227g** | **14 100g + 5 000g**| **28 200g + 10 000g**| **Inclusions Version Noisette (14,1kg Choc + 5kg Noisettes)** |
 | **`[3]` Repère B**| **Poudre de cacao pur 100 %** | **1,4 %** | **14 g** | **300 g** | **600 g** | Ajouté aux poudres `[3]` pour teinte ambrée repère |
-| **TOTAL B** | **TOTAL MASSE CUVE NOISETTE** | **364,1 %** | **3 641 g** | **80 100 g (1 000 p.)**| **160 200 g (2 000 p.)**| **Poids brut unitaire calibré à 80 g pile** |
+| **TOTAL B** | **TOTAL MASSE CUVE NOISETTE** | **366,1 %** | **3 661 g** | **80 550 g (1 000 p.)**| **161 100 g (2 000 p.)**| **Poids brut unitaire calibré à 80 g pile** |
 
 ---
 
@@ -57,7 +57,7 @@
 flowchart TD
     A["Étape 1 : Sablage Ultra-Court au Batteur (Feuille)\nOPALE + Cassonade + Blanc + Gros sel\n2 min en 1re vitesse (Pas de foisonnement)"]
     --> B["Étape 2 : Émulsion Liquide\nAjouter Œufs + Vanille liquide en 1re vitesse\n(Mélanger 45 s jusqu'à liaison homogène)"]
-    --> C["Étape 3 : Incorporation des Poudres Tamisées\nFarine T55 + Poudre à crème + Levure chimique (+ Cacao si Noisette)\nFrasage 1 min en 1re vitesse (Arrêt dès disparition farine)"]
+    --> C["Étape 3 : Incorporation des Poudres Tamisées\nFarine T65 BM + Poudre à crème + Levure chimique (+ Cacao si Noisette)\nFrasage 1 min en 1re vitesse (Arrêt dès disparition farine)"]
     --> D["Étape 4 : Inclusions Pépites & Noisettes\nVerser les pépites froides (+4 °C) et noisettes torréfiées\n30 secondes en 1re vitesse pour répartir sans broyer"]
     --> E["Étape 5 : Dressage Automatique ou Mécanique\nBoules calibrées de 80 g sur plaques 60x40 (24 pcs / plaque)\nLéger aplatissement avec une plaque propre (épaisseur ~20 mm)"]
     --> F["Étape 6 : Surgélation Flash Cellule -35 °C (35 min)\nDurcissement complet des boules -> Conditionnement caisses -18 °C"]
@@ -75,7 +75,7 @@ flowchart TD
    * Verser les œufs entiers froids et l'extrait de vanille `[2]` en filet régulier.
    * Faire tourner **45 secondes à 1 minute en 1ʳᵉ vitesse** pour émulsionner les liquides.
 3. **Frasage des Poudres Tamisées** :
-   * Tamiser ensemble la farine T55, la poudre à crème et la levure chimique `[3]` (ajouter les 300 g de cacao pur pour la version Noisette).
+   * Tamiser ensemble la farine T65 conventionnelle BM, la poudre à crème et la levure chimique `[3]` (ajouter les 300 g de cacao pur pour la version Noisette).
    * Verser l'ensemble des poudres dans la cuve.
    * Mélanger en 1ʳᵉ vitesse pendant **1 minute seulement**, jusqu'à ce que la farine soit absorbée. Stopper immédiatement pour ne pas corser la pâte ni développer le gluten.
 4. **Distribution des Inclusions** :

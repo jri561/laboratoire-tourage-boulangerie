@@ -28,8 +28,10 @@
 
 ## 2. FORMULATION MAÎTRESSE & ÉCHELLES DE PESÉE (CHEF D'ATELIER)
 
-### TABLEAU A : MUFFINS TOUT CHOCOLAT (RÉF. `B-MUF-01`)
+### TABLEAU A : MUFFINS PÉPITES CHOCOLAT & CŒUR NUTOLADE (RÉF. `B-MUF-01`)
 *Formule à base d'huile de colza et sucre inverti garantissant un moelleux permanent (conservation 7 jours sans dessèchement).*
+
+> **Note d'atelier (Marge de freinte cuve & doseuse) :** Le dosage en caissettes tulipes est de **24 × 120 g = 2 880 g utiles coulés par plaque**. Le sous-total cuve de **3 450 g pour 1 plaque** (et **15 570 g pour 5 plaques**, soit 3 114 g/plaque) intègre volontairement la **marge technique de freinte (400 à 570 g)** liée à l'amorçage de la doseuse/poche et à la rétention sur la feuille et les parois de cuve.
 
 | INGRÉDIENT | ÉTAPE | % BOULANGER | BASE 1 KG FARINE | 1 PLAQUE (24 P.) | 5 PLAQUES (120 P.) | 10 PLAQUES (240 P.) | 15 PLAQUES (360 P.) |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -39,7 +41,7 @@
 | **Sel fin purifié** | 1 | 1,4 % | 14 g | 15 g | 70 g | 135 g | 200 g |
 | **Eau tempérée (20 °C)** | 2 | 67,3 % | 673 g | 700 g | 3 150 g | 6 200 g | 9 350 g |
 | **Huile de colza raffinée** | 2 | 48,1 % | 481 g | 500 g | 2 250 g | 4 450 g | 6 700 g |
-| **Farine T55 standard** | 3 | **100,0 %** | **1 000 g** | **1 040 g** | **4 700 g** | **9 250 g** | **13 950 g** |
+| **Farine T65 conventionnelle BM (Moulin de Cadillac)** | 3 | **100,0 %** | **1 000 g** | **1 040 g** | **4 700 g** | **9 250 g** | **13 950 g** |
 | **Poudre de lait entier 26%**| 3 | 9,6 % | 96 g | 100 g | 450 g | 900 g | 1 350 g |
 | **Levure chimique (Baking powder)** | 3 | 5,3 % | 53 g | 55 g | 250 g | 500 g | 750 g |
 | **Pépites chocolat noir 50% (décor)** | 4 | 15,4 % | 154 g | 160 g | 750 g | 1 500 g | 2 200 g |
@@ -60,7 +62,7 @@
 | **Sel fin purifié** | 1 | 1,9 % | 19 g | 15 g | 70 g | 135 g | 200 g |
 | **Eau tempérée (20 °C)** | 2 | 89,7 % | 897 g | 700 g | 3 150 g | 6 200 g | 9 350 g |
 | **Huile de colza raffinée** | 2 | 64,1 % | 641 g | 500 g | 2 250 g | 4 450 g | 6 700 g |
-| **Farine T55 standard** | 3 | **100,0 %** | **1 000 g** | **780 g** | **3 500 g** | **6 950 g** | **10 450 g** |
+| **Farine T65 conventionnelle BM (Moulin de Cadillac)** | 3 | **100,0 %** | **1 000 g** | **780 g** | **3 500 g** | **6 950 g** | **10 450 g** |
 | **Poudre de noisettes torréfiée** | 3 | 33,3 % | 333 g | 260 g | 1 200 g | 2 300 g | 3 500 g |
 | **Poudre de lait entier 26%**| 3 | 12,8 % | 128 g | 100 g | 450 g | 900 g | 1 350 g |
 | **Levure chimique (Baking powder)** | 3 | 7,1 % | 71 g | 55 g | 250 g | 500 g | 750 g |
