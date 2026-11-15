@@ -1,4 +1,4 @@
-# 17 — DORURES, SIROP DE LUSTRAGE 44° BRIX & BARÈMES DE CUISSON
+# 17 — DORURES, SIROP DE LUSTRAGE 44° & BARÈMES DE CUISSON
 **Codes :** `R-DOR-01` (Dorures) • `R-SIR-01` (Sirop 44°) | **Récapitulatif général des cuissons atelier**
 
 ---
@@ -16,14 +16,14 @@
 | **Crème liquide entière 35 % MG** | **330 g** | **660 g** | **990 g** |
 | **TOTAL DORURE PINCEAU** | **1 000 g** | **2 000 g** | **3 000 g** |
 
-- *Application :* Mixer au Bamix, **filtrer au passoire fine (chinois)**. Conservation `+4 °C` **max 48 h**. Ne jamais laisser couler sur la tranche du feuilletage.
+- *Application :* Mixer au Bamix, **filtrer à la passoire fine (chinois)**. Conservation `+4 °C` **max 48 h**. Ne jamais laisser couler sur la tranche du feuilletage.
 
 ### 3. Sirop de Lustrage 44° (`R-SIR-01` — Viennoiseries PLF)
 | Ingrédient | Petit Lot (1,8 kg) | Lot Standard (5,4 kg) | Grand Lot (10,8 kg) |
 | :--- | :---: | :---: | :---: |
 | **Eau** | **1 000 g** | **3 000 g** | **6 000 g** |
 | **Sucre semoule** | **800 g** | **2 400 g** | **4 800 g** |
-| **TOTAL SIROP 44° BRIX** | **1 800 g** | **5 400 g** | **10 800 g** |
+| **TOTAL SIROP 44°** | **1 800 g** | **5 400 g** | **10 800 g** |
 
 - *Cuisson :* Porter à ébullition franche **1 minute chrono**, refroidir totalement (`< 20 °C`). Toujours appliquer **FROID au pinceau sur viennoiserie brûlante sortie du four**.
 
@@ -38,8 +38,6 @@
 | **Pain aux Raisins (`90 g`)** | Congelé `-18 °C` | **165 °C** | — | **16–18 min** | **Ouvrir à 12 min** | **Sirop 44° froid** |
 | **Pain Suisse (`120 g`)** | Congelé `-18 °C` | **165 °C** | — | **18–20 min** | **Ouvrir à 14 min** | Sirop 44° froid *(opt.)* |
 | **Oranais Abricots (`100 g`)** | Congelé `-18 °C` | **165–170 °C** | — | **18–20 min** | **Ouvrir à 14 min** | **Sirop 44° froid** |
-| **Cinnamon Roll (`75 g`)** | Congelé `-18 °C` | **165 °C** | — | **16–18 min** | **Ouvrir à 12 min** | **Sirop 44° froid** |
-| **Cruffin (`80 g`)** | Congelé `-18 °C` | **165–170 °C** | — | **18–20 min** | **Ouvrir à 14 min** | Sucre vanillé à tiède |
 | **Pain Viennois Nature (`280 g`)** | Congelé `-18 °C` | **165 °C** | — | **11 min** | **FERMÉS en continu** | Ressuage grille |
 | **Pain Viennois Choc (`140 g`)** | Congelé `-18 °C` | **165 °C** | — | **9 min** | **FERMÉS en continu** | Ressuage grille |
 | **Brioche au Sucre (`75 g`)** | Congelé `-18 °C` | **165 °C** | — | **11–13 min** | **OUVERTS en continu** | Ressuage grille |
@@ -53,4 +51,5 @@
 | **Brookie (`3,46 kg / cadre`)** | Cru + Cookie `-35 °C` | **175 °C → 160–165 °C** | — | **24–26 min** | **Fermés 18' puis Ouverts** | Décadrer 10' + 2 h `+4 °C` |
 | **Cakes de Voyage (`3,06 kg`)** | Cru | **155 °C** | — | **75 min** | **FERMÉS (porte close 60')** | Démoulage tiède 10' |
 | **Gâteau Nantais (`100 / 450 g`)** | Cru | **165 °C** | — | **25–28' / 40–45'** | **FERMÉS en continu** | Punchage sirop chaud + Glaçage |
+| **Pain d'Épices (`280 g`)** | Cru | **130 °C (vent. 2)** | — | **55 min** | — | Démoulage à chaud |
 | **Quiches Traiteur (`Ø 100 mm`)** | Cru + Surgelé `-18 °C` | **170 °C** | — | **30–35 min** | **FERMÉS en continu** | Cœur `≥ 85 °C` + Cellule `< +10 °C` |

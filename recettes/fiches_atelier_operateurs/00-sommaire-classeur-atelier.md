@@ -7,8 +7,8 @@
 
 | N° | Pôle | Titre de la Fiche | Code(s) |
 | :---: | :--- | :--- | :--- |
-| **01** | Pôle 1 — PLF | **Recette Maîtresse Pâte Levée Feuilletée (Détrempe, Tourage & PAC)** | `V-PLF-01` à `07` |
-| **02** | Pôle 1 — PLF | **Annexe Façonnages, Calibres & Garnitures PLF (7 Produits)** | `V-PLF-01` à `07` |
+| **01** | Pôle 1 — PLF | **Recette Maîtresse Pâte Levée Feuilletée (Détrempe, Tourage & PAC)** | `V-PLF-01` à `05` |
+| **02** | Pôle 1 — PLF | **Annexe Façonnages, Calibres & Garnitures PLF (5 Produits)** | `V-PLF-01` à `05` |
 | **03** | Pôle 2 — Pâtes Levées | **Pains Viennois Nature (280 g) & Pépites Chocolat (140 g) PAC** | `V-VIE-01`, `V-VIE-02` |
 | **04** | Pôle 2 — Pâtes Levées | **Petite Brioche Individuelle au Sucre PAC (75 g)** | `V-BRI-01` |
 | **05** | Pôle 3 — Breton | **Kouign-Amann Individuel (100 g) & Partage (400 g / 600 g)** | `V-KOU-01`, `V-KOU-02` |
@@ -18,12 +18,13 @@
 | **09** | Pôle 5 — Biscuiterie | **Muffins Pépites/Cœur Nutolade & Myrtille (Doseuse 130 g)** | `B-MUF-01` à `03` |
 | **10** | Pôle 5 — Biscuiterie | **Brownie Fondant Chocolat, Trimoline & Cerneaux de Noix (Cadre 56×36)** | `B-BRW-01` |
 | **11** | Pôle 5 — Biscuiterie | **Brookie Double Couche en Cadres 56×36 cm (30 Parts 115 g)** | `B-BRK-01` |
-| **12** | Pôle 5 — Biscuiterie | **Cakes de Voyage (Mix Golden, Citron Pavot & Marbré)** | `B-CAK-01` à `03` |
+| **12** | Pôle 5 — Biscuiterie | **Cakes de Voyage (Mix Golden, Citron Pavot & Marbré)** | `B-CAK-01` à `02` |
 | **13** | Pôle 5 — Biscuiterie | **Gâteau Nantais OPAL & Glaçage Rhum-Gélatine** | `B-NAN-01` |
 | **14** | Pôle 6 — Girocrêpes | **Crêpes de Froment sur Carrousel Girocrêpes** | `C-CRP-01` |
 | **15** | Pôle 6 — Girocrêpes | **Galettes de Blé Noir (Sarrasin) sur Carrousel Girocrêpes** | `C-GAL-01` |
 | **16** | Pôle 6 — Traiteur | **Quiches Traiteur (Lorraine, Chèvre-Épinards IQF, Poireaux)** | `T-QCH-01` à `03` |
 | **17** | Pôle 6 — Finitions | **Dorures, Sirop de Lustrage 44° & Barèmes Généraux de Cuisson** | `R-DOR-01`, `R-SIR-01` |
+| **18** | Pôle 5 — Biscuiterie | **Pain d'Épices (Lingots 280 g)** | `B-PEP-01` |
 
 ---
 

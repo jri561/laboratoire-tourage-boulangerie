@@ -411,16 +411,21 @@ body {
 .data-table.ultra-compact tr.row-total td { font-size: 7.2pt; padding: 2px 3px; }
 .data-table.ultra-compact tr.row-total td.main-col { font-size: 8.2pt; }
 
-.data-table.wide { font-size: 7.3pt; }
+.data-table.wide { font-size: 7.4pt; }
 .data-table.wide th { font-size: 6.4pt; padding: 1.8px 3px; }
 .data-table.wide td { padding: 1.8px 3px; }
+.data-table.wide th:first-child,
+.data-table.wide td:first-child { width: 32%; }
 .data-table.wide td.num { white-space: normal; }
 .data-table.wide td.main-col { font-size: 8.4pt; }
 
 .data-table.wide-text {
-    table-layout: fixed;
     width: 100%;
     font-size: 7.2pt;
+}
+.data-table.wide-text th:first-child,
+.data-table.wide-text td:first-child {
+    width: 30%;
 }
 .data-table.wide-text th,
 .data-table.wide-text td {
@@ -774,22 +779,33 @@ def extract_step_metric(stitle: str, sbody: str, num: str) -> tuple[str, str]:
 def render_page_body(md_block: str, is_right: bool) -> tuple[str, str, bool]:
     """Convertit une demi-fiche Markdown (gauche ou droite) en HTML structuré Chrono Unifié."""
     lines = md_block.strip().splitlines()
-    # Compter uniquement les lignes de tableaux réellement affichées (hors Repères Flash)
+    # Estimer la hauteur réelle sur page (en tenant compte des multi-tableaux et tableaux larges)
     total_tbl_rows = 0
+    num_tables = 0
+    max_cols = 0
     in_reperes = False
+    in_tbl = False
     for ln in lines:
         st = ln.strip()
         if st.startswith('### ') or st.startswith('#### '):
             in_reperes = "repères flash" in st.lower()
-        elif not in_reperes and st.startswith('|') and not re.match(r'^\|\s*[-:]+', st):
-            total_tbl_rows += 1
+            in_tbl = False
+        elif not in_reperes and st.startswith('|'):
+            if not re.match(r'^\|\s*[-:]+', st):
+                total_tbl_rows += 1
+                max_cols = max(max_cols, len(st.strip('|').split('|')))
+                if not in_tbl:
+                    num_tables += 1
+                    in_tbl = True
+        else:
+            in_tbl = False
 
-    is_dense = total_tbl_rows > 20
+    is_dense = (total_tbl_rows > 18) or (total_tbl_rows >= 15 and max_cols >= 6)
     scale_cls = ""
     if not is_right and not is_dense:
-        if total_tbl_rows <= 9:
+        if total_tbl_rows <= 9 and num_tables == 1:
             scale_cls = "xl-tbl"
-        elif total_tbl_rows <= 17:
+        elif total_tbl_rows <= 15 and max_cols <= 5:
             scale_cls = "large-tbl"
     blocks = []
     alert_html = ""
@@ -1059,7 +1075,7 @@ def build_sommaire_pages(total_pages: int) -> list[str]:
           <thead><tr><th>Fiche</th><th>Pôle</th><th>Produits</th><th class="num">Pages</th></tr></thead>
           <tbody>
             <tr><td><strong>01</strong></td><td>Pôle 1 • PLF</td><td><strong>Pâte Levée Feuilletée (Recette commune)</strong></td><td class="num">2 – 3</td></tr>
-            <tr><td><strong>02</strong></td><td>Pôle 1 • PLF</td><td><strong>Façonnages &amp; Calibres PLF (7 produits)</strong></td><td class="num">4 – 5</td></tr>
+            <tr><td><strong>02</strong></td><td>Pôle 1 • PLF</td><td><strong>Façonnages &amp; Calibres PLF (5 produits)</strong></td><td class="num">4 – 5</td></tr>
             <tr><td><strong>03</strong></td><td>Pôle 2 • Pâtes Levées</td><td><strong>Pains Viennois Nature &amp; Pépites Chocolat</strong></td><td class="num">6 – 7</td></tr>
             <tr><td><strong>04</strong></td><td>Pôle 2 • Pâtes Levées</td><td><strong>Petite Brioche au Sucre</strong></td><td class="num">8 – 9</td></tr>
             <tr><td><strong>05</strong></td><td>Pôle 3 • Breton</td><td><strong>Kouign-Amann Individuel &amp; Partage</strong></td><td class="num">10 – 11</td></tr>

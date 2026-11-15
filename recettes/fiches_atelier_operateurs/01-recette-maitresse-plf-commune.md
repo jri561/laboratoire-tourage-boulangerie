@@ -1,5 +1,5 @@
 # 01 — RECETTE MAÎTRESSE PÂTE LEVÉE FEUILLETÉE (PLF COMMUNE)
-**Codes :** `V-PLF-01` à `V-PLF-07` | **Tourage unifié :** 1 Tour Double + 1 Tour Simple (`1D + 1S` = 12 couches)
+**Codes :** `V-PLF-01` à `V-PLF-05` | **Tourage unifié :** 1 Tour Double + 1 Tour Simple (`1D + 1S` = 12 couches)
 
 ---
 

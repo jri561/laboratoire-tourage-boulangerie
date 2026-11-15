@@ -37,7 +37,7 @@
 
 ### 1. Pétrissage & Raffermissement
 1. **Frasage (`[1]`) :** Mettre tous les ingrédients `[1]` dans le pétrin spirale. Tourner **5 min en 1ʳᵉ vitesse (V1)**.
-2. **Incorporation Huile (`[2]`) :** Passer en **2ᵉ vitesse (V2)** pendant **4 min** jusqu'à amorce de voile, puis verser l'**huile de colza en filet très lent**. Pétrir encore **6 à 7 min en V2** jusqu'au **voile translucide et décollement complet**. Température sortie : **20 °C à 22 °C**.
+2. **Incorporation Huile (`[2]`) :** Passer en **2ᵉ vitesse (V2)** pendant **4 min** jusqu'à amorce de voile, puis verser l'**huile de colza en filet très lent**. Pétrir encore **6 à 7 min en V2** jusqu'à obtenir une **pâte lisse qui se décolle des parois**. Température sortie : **20 °C à 22 °C**.
 3. **Pointage & Froid :** Peser des bacs plats à **6 000 g** (épaisseur `3,0 cm`). Pointer **20 min à 20–22 °C** sous film, puis raffermir **25 min à `+4 °C`** (indispensable pour éviter tout collage à la diviseuse).
 
 ### 2. Division `20 × 4`, Boulage & Double Congélation PAC

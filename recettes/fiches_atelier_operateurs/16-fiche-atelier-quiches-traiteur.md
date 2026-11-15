@@ -1,4 +1,4 @@
-# 16 — QUICHES TRAITEUR (LORRAINE, CHÈVRE-ÉPINARDS IQF & POIREAUX)
+# 16 — QUICHES TRAITEUR (LORRAINE, CHÈVRE-ÉPINARDS & POIREAUX)
 **Codes :** `T-QCH-01` à `03` | **Moules :** Aluminium `Ø 100 mm` + **Fonds Pâte Brisée Prêts à Garnir** | **Cartons :** `48 pcs`
 
 ---
