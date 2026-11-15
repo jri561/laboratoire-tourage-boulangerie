@@ -54,5 +54,5 @@
 4. **Pousse Étuvée & Blocage PAC (Stock 2 Boutiques) :**
    - Décongélation lente nuit (`+2 °C / +4 °C`, `10–12 h`).
    - Étuve **`25–26 °C` / `75–80 % d'humidité`** pendant **`2 h 15 à 2 h 30`** — **arrêt strict à 70–75 % du volume**.
-   - Ressuyage **15 min à `+4 °C`**, pulvérisation **Dorure Végétale au pistolet** (1,5 bar), puis **cellule flash `-35 °C`** avec arrêt **strict à `-10 °C` sonde à cœur**.
+   - Refroidissement **15 min à `+4 °C`**, pulvérisation **Dorure Végétale au pistolet** (1,5 bar), puis **cellule flash `-35 °C`** avec arrêt **strict à `-10 °C` sonde à cœur**.
    - Expédition & stockage boutiques à **`-18 °C`**.

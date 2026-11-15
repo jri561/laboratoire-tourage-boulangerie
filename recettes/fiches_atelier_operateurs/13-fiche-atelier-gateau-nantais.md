@@ -26,7 +26,7 @@
 
 <!-- PAGE_BREAK -->
 
-## PAGE DROITE — CONDUITE, CUISSON, PUNCHAGE & GLAÇAGE
+## PAGE DROITE — CONDUITE, CUISSON, IMBIBAGE & GLAÇAGE
 
 ### 1. Conduite au Batteur (Feuille — Ingrédients à Température Ambiante)
 1. **Crémage (`[1]`) :** OPAL à ~18 °C + sucre glace + poudre d'amande + sel à la **feuille : 1 min V1 puis 2 min V2** (texture crémeuse sans excès d'air).

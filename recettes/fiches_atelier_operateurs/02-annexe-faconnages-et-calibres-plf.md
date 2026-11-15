@@ -47,8 +47,8 @@
 ### Barème de Cuisson Directe Congelé en Boutique (`-18 °C`, Zéro Décongélation)
 | Produit | Four Ventilé | Buée | Temps Total | Ouverture Ouras | Finition Sortie Four |
 | :--- | :---: | :---: | :---: | :---: | :--- |
-| **Croissant (`75 g`)** | **160–165 °C** | **3 s** | **16–18 min** | **À 13 min** | Ressuage grille |
-| **Pain au Chocolat (`85 g`)** | **160–165 °C** | **3 s** | **18–20 min** | **À 14 min** | Ressuage grille |
+| **Croissant (`75 g`)** | **160–165 °C** | **3 s** | **16–18 min** | **À 13 min** | Refroid. grille |
+| **Pain au Chocolat (`85 g`)** | **160–165 °C** | **3 s** | **18–20 min** | **À 14 min** | Refroid. grille |
 | **Pain aux Raisins (`90 g`)** | **165 °C** | — | **16–18 min** | **À 12 min** | **Sirop 44° froid au pinceau** |
 | **Pain Suisse (`120 g`)** | **165 °C** | — | **18–20 min** | **À 14 min** | Sirop 44° froid (optionnel) |
 | **Oranais (`100 g`)** | **165–170 °C** | — | **18–20 min** | **À 14 min** | **Sirop 44° froid sur fruits & pâte** |

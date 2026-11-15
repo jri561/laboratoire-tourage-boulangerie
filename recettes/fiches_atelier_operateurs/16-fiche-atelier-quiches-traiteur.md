@@ -3,32 +3,40 @@
 
 ---
 
-## PAGE GAUCHE — POSTE DE PESÉE (APPAREIL MAÎTRE & VARIÉTÉS)
+## PAGE GAUCHE — POSTE DE PESÉE (3 VARIÉTÉS SÉPARÉES)
 
-### 1. Appareil Universel Maître (`50 % Œufs / 50 % Crème 35 %`)
-| Ingrédient | Cuve 20 kg | Cuve 50 kg | Cuve 100 kg |
-| :--- | :---: | :---: | :---: |
-| **Œufs entiers liquides pasteurisés** | **10,0 kg** | **25,0 kg** | **50,0 kg** |
-| **Crème liquide entière 35 % MG** | **10,0 kg** | **25,0 kg** | **50,0 kg** |
-| **Poivre blanc moulu** | **30 g** | **75 g** | **150 g** |
-| **Noix de muscade râpée** | **10 g** | **25 g** | **50 g** |
-| **Sel fin** *(Lorraine `4 g/kg` / Légumes `8 g/kg`)* | **80 g** *(Lor.)* / **160 g** *(Lég.)* | **200 g** / **400 g** | **400 g** / **800 g** |
-
-### 2. Échelles par Variété (Caisses de 48 Pièces)
-| Variété / Composant | Par Pièce | 1 Caisse (48 p.) | 10 Caisses (480 p.) | 20 Caisses (960 p.) | 30 Caisses (1 440 p.) |
+### 1. Quiche Lorraine (`T-QCH-01` — `140 g` garniture / pièce)
+| Ingrédient | Par Pièce | 1 Caisse (48 p.) | 10 Caisses (480 p.) | 20 Caisses (960 p.) | 30 Caisses (1 440 p.) |
 | :--- | :---: | :---: | :---: | :---: | :---: |
-| **`T-QCH-01` LORRAINE (`140 g` garniture) :** | | | | | |
-| - Appareil liquide assaisonné (**4 g sel/kg**) | **100 g** | **4,80 kg** | **48,0 kg** | **96,0 kg** | **144,0 kg** |
-| - Lardons fumés pur porc crus | **30 g** | **1,44 kg** | **14,4 kg** | **28,8 kg** | **43,2 kg** |
-| - Emmental râpé français 45 % | **10 g** | **0,48 kg** | **4,8 kg** | **9,6 kg** | **14,4 kg** |
-| **`T-QCH-02` CHÈVRE-ÉPINARDS (`150 g` garn.) :** | | | | | |
-| - Appareil liquide assaisonné (**8 g sel/kg**) | **90 g** | **4,32 kg** | **43,2 kg** | **86,4 kg** | **129,6 kg** |
-| - **Épinards en branches surgelés** | **40 g** | **1,92 kg** | **19,2 kg** | **38,4 kg** | **57,6 kg** |
-| - Bûche de chèvre (rondelles/dés) | **20 g** | **0,96 kg** | **9,6 kg** | **19,2 kg** | **28,8 kg** |
-| **`T-QCH-03` POIREAUX (`160 g` garniture) :** | | | | | |
-| - Appareil liquide assaisonné (**8 g sel/kg**) | **100 g** | **4,80 kg** | **48,0 kg** | **96,0 kg** | **144,0 kg** |
-| - **Poireaux émincés surgelés** | **50 g** | **2,40 kg** | **24,0 kg** | **48,0 kg** | **72,0 kg** |
-| - Emmental râpé français 45 % | **10 g** | **0,48 kg** | **4,8 kg** | **9,6 kg** | **14,4 kg** |
+| **Œufs entiers liquides** | **50 g** | **2,40 kg** | **24,0 kg** | **48,0 kg** | **72,0 kg** |
+| **Crème liquide 35 % MG** | **50 g** | **2,40 kg** | **24,0 kg** | **48,0 kg** | **72,0 kg** |
+| **Sel fin** *(4 g/kg appareil)* | — | **19 g** | **192 g** | **384 g** | **576 g** |
+| **Poivre blanc moulu** | — | **7 g** | **72 g** | **144 g** | **216 g** |
+| **Noix de muscade râpée** | — | **2,5 g** | **24 g** | **48 g** | **72 g** |
+| **Lardons fumés crus** | **30 g** | **1,44 kg** | **14,4 kg** | **28,8 kg** | **43,2 kg** |
+| **Emmental râpé 45 %** | **10 g** | **0,48 kg** | **4,8 kg** | **9,6 kg** | **14,4 kg** |
+
+### 2. Quiche Chèvre-Épinards (`T-QCH-02` — `150 g` garniture / pièce)
+| Ingrédient | Par Pièce | 1 Caisse (48 p.) | 10 Caisses (480 p.) | 20 Caisses (960 p.) | 30 Caisses (1 440 p.) |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **Œufs entiers liquides** | **45 g** | **2,16 kg** | **21,6 kg** | **43,2 kg** | **64,8 kg** |
+| **Crème liquide 35 % MG** | **45 g** | **2,16 kg** | **21,6 kg** | **43,2 kg** | **64,8 kg** |
+| **Sel fin** *(8 g/kg appareil)* | — | **35 g** | **346 g** | **691 g** | **1 037 g** |
+| **Poivre blanc moulu** | — | **6,5 g** | **65 g** | **130 g** | **194 g** |
+| **Noix de muscade râpée** | — | **2 g** | **22 g** | **43 g** | **65 g** |
+| **Épinards en branches surgelés** | **40 g** | **1,92 kg** | **19,2 kg** | **38,4 kg** | **57,6 kg** |
+| **Bûche de chèvre** | **20 g** | **0,96 kg** | **9,6 kg** | **19,2 kg** | **28,8 kg** |
+
+### 3. Quiche Poireaux (`T-QCH-03` — `160 g` garniture / pièce)
+| Ingrédient | Par Pièce | 1 Caisse (48 p.) | 10 Caisses (480 p.) | 20 Caisses (960 p.) | 30 Caisses (1 440 p.) |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **Œufs entiers liquides** | **50 g** | **2,40 kg** | **24,0 kg** | **48,0 kg** | **72,0 kg** |
+| **Crème liquide 35 % MG** | **50 g** | **2,40 kg** | **24,0 kg** | **48,0 kg** | **72,0 kg** |
+| **Sel fin** *(8 g/kg appareil)* | — | **38 g** | **384 g** | **768 g** | **1 152 g** |
+| **Poivre blanc moulu** | — | **7 g** | **72 g** | **144 g** | **216 g** |
+| **Noix de muscade râpée** | — | **2,5 g** | **24 g** | **48 g** | **72 g** |
+| **Poireaux émincés surgelés** | **50 g** | **2,40 kg** | **24,0 kg** | **48,0 kg** | **72,0 kg** |
+| **Emmental râpé 45 %** | **10 g** | **0,48 kg** | **4,8 kg** | **9,6 kg** | **14,4 kg** |
 
 <!-- PAGE_BREAK -->
 
