@@ -1,5 +1,5 @@
 # 12 — CAKES DE VOYAGE (MIX GOLDEN, CITRON PAVOT & MARBRÉ)
-**Codes :** `B-CAK-01` (Citron Pavot) • `B-CAK-02` (Marbré 50/50) • `B-CAK-03` (Fruits Confits) | **Moule :** `50 × 10 × 10 cm` (`3 060 g` cru)
+**Codes :** `B-CAK-01` (Citron Pavot) • `B-CAK-02` (Marbré 50/50) | **Moule :** `50 × 10 × 10 cm` (`3 060 g` cru)
 
 ---
 
@@ -25,22 +25,17 @@
 | **SOUS-TOTAL PAR COULEUR** | — | **1 530 g** | **15 300 g** | **22 950 g** |
 | **TOTAL DRESSAGE / MOULE (GOLDEN + DEL.G MERE)** | — | **3 060 g** | **30 600 g** | **45 900 g** |
 
-### 3. Cake aux Fruits Confits (`B-CAK-03`)
-- **Mix `REX MELLA GOLDEN CAKE` :** `12 350 g` (10 moules) • `18 500 g` (15 moules)
-- **Œufs liquides :** `5 900 g` (10 m.) • `8 850 g` (15 m.) | **Huile végétale :** `4 950 g` (10 m.) • `7 400 g` (15 m.)
-- **Eau à 20 °C :** `2 450 g` (10 m.) • `3 700 g` (15 m.) | **Fruits confits égouttés & farinés :** `4 950 g` (10 m.) • `7 450 g` (15 m.)
-
 <!-- PAGE_BREAK -->
 
 ## PAGE DROITE — CONDUITE BATTEUR, FENTE AXIALE & CUISSON 75 MIN
 
 ### 1. Fabrication au Batteur (Feuille)
 1. **Émulsion (`1`) :** Verser Mix, œufs tempérés (`18–20 °C`), huile et eau dans la cuve munie de la **feuille**. Tourner **1 min en V1** puis **3 min chrono en V2**.
-2. **Inclusions (`2`) :** Ajouter pavot bleu ou fruits confits (égouttés 2 h et légèrement farinés) et mélanger **30 s en V1**.
+2. **Inclusions (`2`) :** Ajouter les graines de pavot bleu et mélanger **30 s en V1**.
 3. **Dressage en moules `50 × 10 × 10 cm` (chemisés papier ou graissés) :**
-   - *Citron & Fruits :* Peser **3 060 g** nets par moule.
+   - *Citron Pavot :* Peser **3 060 g** nets par moule.
    - *Marbré :* Alterner 4 couches de **765 g** (Golden → Délice Grand-Mère → Golden → Délice Grand-Mère).
-4. **Fente axiale à la corne huilée :** Tremper une corne rigide dans l'huile de colza, enfoncer sur `15–20 mm` et fendre le cake sur toute la longueur médiane.
+4. **Sillon à la corne huilée :** Tremper une corne rigide dans l'huile de colza, enfoncer sur `15–20 mm` et tracer un sillon au milieu sur toute la longueur.
 
 ### 2. Cuisson & Ressuage (Règle des 60 Minutes)
 - **Four ventilé ou soles :** **`155 °C` régulé**, **OURA FERMÉ**, durée **`75 minutes`** (`1 h 15`).

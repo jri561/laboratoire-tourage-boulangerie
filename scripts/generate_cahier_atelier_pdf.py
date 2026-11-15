@@ -428,6 +428,23 @@ body {
     white-space: normal;
 }
 
+/* Modes agrandis pour pages de pesée aérées (occupent la page sans vide inutile) */
+.data-table.large-tbl { font-size: 10.6pt; margin: 4px 0 8px 0; }
+.data-table.large-tbl th { font-size: 8.2pt; padding: 6px 6px; }
+.data-table.large-tbl td { padding: 7.5px 6px; }
+.data-table.large-tbl td.main-col { font-size: 13.2pt; }
+.data-table.large-tbl tr.p-band td { font-size: 8pt; padding: 6px 6px 3px 6px; }
+.data-table.large-tbl tr.row-total td { font-size: 11pt; padding: 8.5px 6px; }
+.data-table.large-tbl tr.row-total td.main-col { font-size: 14pt; }
+
+.data-table.xl-tbl { font-size: 12.5pt; margin: 8px 0 14px 0; }
+.data-table.xl-tbl th { font-size: 9pt; padding: 9px 8px; }
+.data-table.xl-tbl td { padding: 13px 8px; }
+.data-table.xl-tbl td.main-col { font-size: 16pt; }
+.data-table.xl-tbl tr.p-band td { font-size: 8.8pt; padding: 10px 8px 5px 8px; }
+.data-table.xl-tbl tr.row-total td { font-size: 13pt; padding: 13px 8px; }
+.data-table.xl-tbl tr.row-total td.main-col { font-size: 17pt; }
+
 /* === LISTE D'ÉTAPES ÉPURÉE (PAGE DROITE) === */
 .step-rows {
     display: flex;
@@ -577,7 +594,7 @@ def phase_key(raw: str) -> tuple[str, str]:
     return 'p4', s
 
 
-def render_table(table_lines: list[str], force_ultra_compact: bool = False) -> str:
+def render_table(table_lines: list[str], force_ultra_compact: bool = False, scale_cls: str = "") -> str:
     if len(table_lines) < 2:
         return ""
     headers = [p.strip() for p in table_lines[0].strip('|').split('|')]
@@ -594,7 +611,8 @@ def render_table(table_lines: list[str], force_ultra_compact: bool = False) -> s
 
     num_cols = set()
     for c_idx in range(len(headers)):
-        if c_idx == 0 or (use_checklist and c_idx == 1):
+        h_low = headers[c_idx].strip().lower()
+        if c_idx == 0 or (use_checklist and c_idx == 1) or h_low in ('étape', 'phase', 'bloc'):
             continue
         matches = sum(1 for r in rows if c_idx < len(r) and is_numeric_cell(r[c_idx]))
         if rows and matches >= max(1, len(rows) // 2):
@@ -608,8 +626,10 @@ def render_table(table_lines: list[str], force_ultra_compact: bool = False) -> s
         classes.append("ultra-compact")
     elif len(rows) > 15:
         classes.append("compact")
+    elif scale_cls:
+        classes.append(scale_cls)
     eff_cols = len(headers) if not use_checklist else len(headers)
-    if eff_cols >= 5:
+    if eff_cols >= 5 and not scale_cls:
         classes.append("wide")
     if eff_cols >= 4 and any(len(c) > 35 for r in rows for c in r):
         classes.append("wide-text")
@@ -754,11 +774,23 @@ def extract_step_metric(stitle: str, sbody: str, num: str) -> tuple[str, str]:
 def render_page_body(md_block: str, is_right: bool) -> tuple[str, str, bool]:
     """Convertit une demi-fiche Markdown (gauche ou droite) en HTML structuré Chrono Unifié."""
     lines = md_block.strip().splitlines()
-    total_tbl_rows = sum(
-        1 for ln in lines
-        if ln.strip().startswith('|') and not re.match(r'^\|\s*[-:]+', ln.strip())
-    )
+    # Compter uniquement les lignes de tableaux réellement affichées (hors Repères Flash)
+    total_tbl_rows = 0
+    in_reperes = False
+    for ln in lines:
+        st = ln.strip()
+        if st.startswith('### ') or st.startswith('#### '):
+            in_reperes = "repères flash" in st.lower()
+        elif not in_reperes and st.startswith('|') and not re.match(r'^\|\s*[-:]+', st):
+            total_tbl_rows += 1
+
     is_dense = total_tbl_rows > 20
+    scale_cls = ""
+    if not is_right and not is_dense:
+        if total_tbl_rows <= 9:
+            scale_cls = "xl-tbl"
+        elif total_tbl_rows <= 17:
+            scale_cls = "large-tbl"
     blocks = []
     alert_html = ""
     sec_num = 0
@@ -817,7 +849,7 @@ def render_page_body(md_block: str, is_right: bool) -> tuple[str, str, bool]:
             while i < len(lines) and lines[i].strip().startswith('|'):
                 tbl.append(lines[i].strip())
                 i += 1
-            blocks.append(render_table(tbl, force_ultra_compact=is_dense))
+            blocks.append(render_table(tbl, force_ultra_compact=is_dense, scale_cls=scale_cls))
             continue
 
         # Cartes d'étapes numérotées (1. **Titre :** texte)
@@ -1012,70 +1044,48 @@ def build_cover_html() -> str:
 
 
 def build_sommaire_pages(total_pages: int) -> list[str]:
-    p2 = f"""
+    p1 = f"""
     <div class="page-sheet dense">
       <div class="page-content">
         <div class="cu-head">
           <div class="cu-head-left">
-            <div class="cu-kicker">SOMMAIRE GÉNÉRAL • FICHES 01 À 17</div>
             <h1 class="cu-title">Sommaire des Recettes</h1>
-            <div class="cu-sub">Toutes les fiches de production classées par pôle</div>
+            <div class="cu-sub">Cahier de production • Fiches 01 à 18</div>
           </div>
-          <div class="cu-pill">PAGES 4 – 37</div>
+          <div class="cu-pill">PAGES 2 – {total_pages}</div>
         </div>
 
         <table class="data-table">
           <thead><tr><th>Fiche</th><th>Pôle</th><th>Produits</th><th class="num">Pages</th></tr></thead>
           <tbody>
-            <tr><td><strong>01</strong></td><td>Pôle 1 • PLF</td><td><strong>Pâte Levée Feuilletée (Recette commune)</strong></td><td class="num">4 – 5</td></tr>
-            <tr><td><strong>02</strong></td><td>Pôle 1 • PLF</td><td><strong>Façonnages &amp; Calibres PLF (7 produits)</strong></td><td class="num">6 – 7</td></tr>
-            <tr><td><strong>03</strong></td><td>Pôle 2 • Pâtes Levées</td><td><strong>Pains Viennois Nature &amp; Pépites Chocolat</strong></td><td class="num">8 – 9</td></tr>
-            <tr><td><strong>04</strong></td><td>Pôle 2 • Pâtes Levées</td><td><strong>Petite Brioche au Sucre</strong></td><td class="num">10 – 11</td></tr>
-            <tr><td><strong>05</strong></td><td>Pôle 3 • Breton</td><td><strong>Kouign-Amann Individuel &amp; Partage</strong></td><td class="num">12 – 13</td></tr>
-            <tr><td><strong>06</strong></td><td>Pôle 4 • Feuilletage</td><td><strong>Feuilletage Inversé &amp; Plaques Pâtisserie</strong></td><td class="num">14 – 15</td></tr>
-            <tr><td><strong>07</strong></td><td>Pôle 4 • Épiphanie</td><td><strong>Galettes des Rois (Frangipane, Pommes, Poire-Nutolade)</strong></td><td class="num">16 – 17</td></tr>
-            <tr><td><strong>08</strong></td><td>Pôle 5 • Biscuiterie</td><td><strong>Cookies Classique &amp; Chocolat-Noisette</strong></td><td class="num">18 – 19</td></tr>
-            <tr><td><strong>09</strong></td><td>Pôle 5 • Biscuiterie</td><td><strong>Muffins Pépites / Cœur Nutolade &amp; Noisette</strong></td><td class="num">20 – 21</td></tr>
-            <tr><td><strong>10</strong></td><td>Pôle 5 • Biscuiterie</td><td><strong>Brownie Fondant Chocolat &amp; Noix</strong></td><td class="num">22 – 23</td></tr>
-            <tr><td><strong>11</strong></td><td>Pôle 5 • Biscuiterie</td><td><strong>Brookie</strong></td><td class="num">24 – 25</td></tr>
-            <tr><td><strong>12</strong></td><td>Pôle 5 • Biscuiterie</td><td><strong>Cakes de Voyage (Golden, Citron Pavot, Marbré)</strong></td><td class="num">26 – 27</td></tr>
-            <tr><td><strong>13</strong></td><td>Pôle 5 • Biscuiterie</td><td><strong>Gâteau Nantais</strong></td><td class="num">28 – 29</td></tr>
-            <tr><td><strong>14</strong></td><td>Pôle 6 • Girocrêpes</td><td><strong>Crêpes de Froment</strong></td><td class="num">30 – 31</td></tr>
-            <tr><td><strong>15</strong></td><td>Pôle 6 • Girocrêpes</td><td><strong>Galettes de Blé Noir</strong></td><td class="num">32 – 33</td></tr>
-            <tr><td><strong>16</strong></td><td>Pôle 6 • Traiteur</td><td><strong>Quiches (Lorraine, Chèvre-Épinards, Poireaux)</strong></td><td class="num">34 – 35</td></tr>
-            <tr><td><strong>17</strong></td><td>Pôle 6 • Finitions</td><td><strong>Dorures, Sirop 44° &amp; Barèmes de Cuisson</strong></td><td class="num">36 – 37</td></tr>
+            <tr><td><strong>01</strong></td><td>Pôle 1 • PLF</td><td><strong>Pâte Levée Feuilletée (Recette commune)</strong></td><td class="num">2 – 3</td></tr>
+            <tr><td><strong>02</strong></td><td>Pôle 1 • PLF</td><td><strong>Façonnages &amp; Calibres PLF (7 produits)</strong></td><td class="num">4 – 5</td></tr>
+            <tr><td><strong>03</strong></td><td>Pôle 2 • Pâtes Levées</td><td><strong>Pains Viennois Nature &amp; Pépites Chocolat</strong></td><td class="num">6 – 7</td></tr>
+            <tr><td><strong>04</strong></td><td>Pôle 2 • Pâtes Levées</td><td><strong>Petite Brioche au Sucre</strong></td><td class="num">8 – 9</td></tr>
+            <tr><td><strong>05</strong></td><td>Pôle 3 • Breton</td><td><strong>Kouign-Amann Individuel &amp; Partage</strong></td><td class="num">10 – 11</td></tr>
+            <tr><td><strong>06</strong></td><td>Pôle 4 • Feuilletage</td><td><strong>Feuilletage Inversé &amp; Plaques Pâtisserie</strong></td><td class="num">12 – 13</td></tr>
+            <tr><td><strong>07</strong></td><td>Pôle 4 • Épiphanie</td><td><strong>Galettes des Rois (Frangipane, Pommes, Poire-Nutolade)</strong></td><td class="num">14 – 15</td></tr>
+            <tr><td><strong>08</strong></td><td>Pôle 5 • Biscuiterie</td><td><strong>Cookies Classique &amp; Chocolat-Noisette</strong></td><td class="num">16 – 17</td></tr>
+            <tr><td><strong>09</strong></td><td>Pôle 5 • Biscuiterie</td><td><strong>Muffins Pépites / Cœur Nutolade &amp; Noisette</strong></td><td class="num">18 – 19</td></tr>
+            <tr><td><strong>10</strong></td><td>Pôle 5 • Biscuiterie</td><td><strong>Brownie Fondant Chocolat &amp; Noix</strong></td><td class="num">20 – 21</td></tr>
+            <tr><td><strong>11</strong></td><td>Pôle 5 • Biscuiterie</td><td><strong>Brookie</strong></td><td class="num">22 – 23</td></tr>
+            <tr><td><strong>12</strong></td><td>Pôle 5 • Biscuiterie</td><td><strong>Cakes de Voyage (Citron Pavot, Marbré)</strong></td><td class="num">24 – 25</td></tr>
+            <tr><td><strong>13</strong></td><td>Pôle 5 • Biscuiterie</td><td><strong>Gâteau Nantais</strong></td><td class="num">26 – 27</td></tr>
+            <tr><td><strong>14</strong></td><td>Pôle 6 • Girocrêpes</td><td><strong>Crêpes de Froment</strong></td><td class="num">28 – 29</td></tr>
+            <tr><td><strong>15</strong></td><td>Pôle 6 • Girocrêpes</td><td><strong>Galettes de Blé Noir</strong></td><td class="num">30 – 31</td></tr>
+            <tr><td><strong>16</strong></td><td>Pôle 6 • Traiteur</td><td><strong>Quiches (Lorraine, Chèvre-Épinards, Poireaux)</strong></td><td class="num">32 – 33</td></tr>
+            <tr><td><strong>17</strong></td><td>Pôle 6 • Finitions</td><td><strong>Dorures, Sirop 44° &amp; Barèmes de Cuisson</strong></td><td class="num">34 – 35</td></tr>
+            <tr><td><strong>18</strong></td><td>Pôle 5 • Biscuiterie</td><td><strong>Pain d'Épices (Lingots 280 g)</strong></td><td class="num">36 – 37</td></tr>
           </tbody>
         </table>
       </div>
       <footer class="page-footer">
         <span>SOMMAIRE GÉNÉRAL</span>
-        <span>2 / {total_pages}</span>
+        <span>1 / {total_pages}</span>
       </footer>
     </div>
     """
-
-    p3 = f"""
-    <div class="page-sheet">
-      <div class="page-content">
-        <div class="cu-head">
-          <div class="cu-head-left">
-            <div class="cu-kicker">NOTES D'ATELIER</div>
-            <h1 class="cu-title">Notes de Production</h1>
-            <div class="cu-sub">Page libre (permet d'ouvrir chaque fiche en double page face à face)</div>
-          </div>
-          <div class="cu-pill">NOTES</div>
-        </div>
-        <div style="margin-top: 8mm; display: flex; flex-direction: column; gap: 9mm;">
-          {''.join('<div style="border-bottom: 1px solid #e2e8f0; height: 1px;"></div>' for _ in range(18))}
-        </div>
-      </div>
-      <footer class="page-footer">
-        <span>NOTES D'ATELIER</span>
-        <span>3 / {total_pages}</span>
-      </footer>
-    </div>
-    """
-    return [p2, p3]
+    return [p1]
 
 
 def compile_html_to_pdf(body_html: str, css_margins: str, out_name: str, title: str):
@@ -1131,11 +1141,12 @@ def build_pdf():
         ("15-fiche-atelier-galettes-ble-noir-girocrepes.md", "15_Galettes_Ble_Noir_Girocrepes", "Fiche 15 - Galettes Blé Noir Girocrêpes"),
         ("16-fiche-atelier-quiches-traiteur.md", "16_Quiches_Traiteur", "Fiche 16 - Quiches Traiteur"),
         ("17-fiche-atelier-dorures-sirops-et-cuissons.md", "17_Dorures_Sirops_Et_Cuissons", "Fiche 17 - Dorures, Sirops & Cuissons"),
+        ("18-fiche-atelier-pain-depices.md", "18_Pain_dEpices_Lingots_280g", "Fiche 18 - Pain d'Épices (Lingots 280 g)"),
     ]
 
-    total_book_pages = 1 + 2 + 2 * len(fiches_ordered)  # 37 pages
-    book_chunks = [build_cover_html()] + build_sommaire_pages(total_book_pages)
-    cur_page = 4
+    total_book_pages = 1 + 2 * len(fiches_ordered)  # 37 pages
+    book_chunks = build_sommaire_pages(total_book_pages)
+    cur_page = 2
     for md_name, _, _ in fiches_ordered:
         fpath = os.path.join(FICHES_DIR, md_name)
         book_chunks.extend(parse_fiche_pages(fpath, cur_page, total_book_pages))
@@ -1143,7 +1154,6 @@ def build_pdf():
 
     book_html = "\n".join(book_chunks)
     compile_html_to_pdf(book_html, CSS_BOOK_MARGINS, "Cahier_Recettes_Complet_Labo", "Cahier de Production Chrono Unifié")
-    compile_html_to_pdf(book_html, CSS_BOOK_MARGINS, "cahier_atelier_equipe", "Cahier d'Atelier Équipe - Chrono Unifié")
 
     for md_name, out_name, title in fiches_ordered:
         fpath = os.path.join(FICHES_DIR, md_name)
