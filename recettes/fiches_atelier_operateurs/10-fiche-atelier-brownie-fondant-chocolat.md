@@ -23,7 +23,7 @@
 | **`[2]`** | **Trimoline (Sucre inverti)** | **50 g** | **250 g** | **500 g** | **750 g** |
 | **`[3]`** | **Farine T65 conventionnelle BM** | **235 g** | **1 175 g** | **2 350 g** | **3 525 g** |
 | **`[3]`** | **Cacao pur 100 % en poudre** | **90 g** | **450 g** | **900 g** | **1 350 g** |
-| **`[3]`** | **Sel fin d'atelier** | **5 g** | **25 g** | **50 g** | **75 g** |
+| **`[3]`** | **Sel fin** | **5 g** | **25 g** | **50 g** | **75 g** |
 | **`[3]`** | **Levure chimique (Baking powder)** | **5 g** | **25 g** | **50 g** | **75 g** |
 | **SOUS-TOTAL** | **BROWNIE NATURE COULÉ** | **3 000 g** | **15 000 g** | **30 000 g** | **45 000 g** |
 | **`[4]` Option** | **Cerneaux de noix brisures** | **+ 400 g** | **+ 2 000 g** | **+ 4 000 g** | **+ 6 000 g** |

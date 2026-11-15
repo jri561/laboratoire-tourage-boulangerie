@@ -12,7 +12,7 @@
 | **Crème liquide entière 35 % MG** | **10,0 kg** | **25,0 kg** | **50,0 kg** |
 | **Poivre blanc moulu** | **30 g** | **75 g** | **150 g** |
 | **Noix de muscade râpée** | **10 g** | **25 g** | **50 g** |
-| **Sel fin purifié** *(Lorraine `4 g/kg` / Légumes `8 g/kg`)* | **80 g** *(Lor.)* / **160 g** *(Lég.)* | **200 g** / **400 g** | **400 g** / **800 g** |
+| **Sel fin** *(Lorraine `4 g/kg` / Légumes `8 g/kg`)* | **80 g** *(Lor.)* / **160 g** *(Lég.)* | **200 g** / **400 g** | **400 g** / **800 g** |
 
 ### 2. Échelles par Variété (Caisses de 48 Pièces)
 | Variété / Composant | Par Pièce | 1 Caisse (48 p.) | 10 Caisses (480 p.) | 20 Caisses (960 p.) | 30 Caisses (1 440 p.) |

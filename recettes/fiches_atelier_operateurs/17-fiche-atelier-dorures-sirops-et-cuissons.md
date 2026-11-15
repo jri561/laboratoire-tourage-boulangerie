@@ -21,8 +21,8 @@
 ### 3. Sirop de Lustrage 44° Brix (`R-SIR-01` — Viennoiseries PLF)
 | Ingrédient | Petit Lot (1,8 kg) | Lot Standard (5,4 kg) | Grand Lot (10,8 kg) |
 | :--- | :---: | :---: | :---: |
-| **Eau purifiée** | **1 000 g** | **3 000 g** | **6 000 g** |
-| **Sucre semoule blanc** | **800 g** | **2 400 g** | **4 800 g** |
+| **Eau** | **1 000 g** | **3 000 g** | **6 000 g** |
+| **Sucre semoule** | **800 g** | **2 400 g** | **4 800 g** |
 | **TOTAL SIROP 44° BRIX** | **1 800 g** | **5 400 g** | **10 800 g** |
 
 - *Cuisson :* Porter à ébullition franche **1 minute chrono**, refroidir totalement (`< 20 °C`). Toujours appliquer **FROID au pinceau sur viennoiserie brûlante sortie du four**.
@@ -40,8 +40,8 @@
 | **Oranais Abricots (`100 g`)** | Congelé `-18 °C` | **165–170 °C** | — | **18–20 min** | **Ouvrir à 14 min** | **Sirop 44°B froid** |
 | **Cinnamon Roll (`75 g`)** | Congelé `-18 °C` | **165 °C** | — | **16–18 min** | **Ouvrir à 12 min** | **Sirop 44°B froid** |
 | **Cruffin (`80 g`)** | Congelé `-18 °C` | **165–170 °C** | — | **18–20 min** | **Ouvrir à 14 min** | Sucre vanillé à tiède |
-| **Pain Viennois Nature (`280 g`)** | Congelé `-18 °C` | **165 °C** | — | **11 min pile** | **FERMÉS en continu** | Ressuage grille |
-| **Pain Viennois Choc (`140 g`)** | Congelé `-18 °C` | **165 °C** | — | **9 min pile** | **FERMÉS en continu** | Ressuage grille |
+| **Pain Viennois Nature (`280 g`)** | Congelé `-18 °C` | **165 °C** | — | **11 min** | **FERMÉS en continu** | Ressuage grille |
+| **Pain Viennois Choc (`140 g`)** | Congelé `-18 °C` | **165 °C** | — | **9 min** | **FERMÉS en continu** | Ressuage grille |
 | **Brioche au Sucre (`75 g`)** | Congelé `-18 °C` | **165 °C** | — | **11–13 min** | **OUVERTS en continu** | Ressuage grille |
 | **Kouign-Amann Indiv (`100 g`)** | Poussé `+24 °C` | **200 °C (1') $\rightarrow$ 175 °C** | — | **25 min** | **Ouvrir à fond à 20 min** | Grille perm. / Retourner 4–6' |
 | **Kouign-Amann Partage (`400/600 g`)** | Poussé `+24 °C` | **200 °C (1') $\rightarrow$ 175 °C** | — | **30 min** | **Ouvrir à fond à 24 min** | Grille perm. / Retourner 4–6' |

@@ -8,24 +8,24 @@
 ### Repères Flash Poste de Pesée
 | Paramètre | Consigne Atelier | Tolérance |
 | :--- | :--- | :--- |
-| **Détrempe par Bac Paneo** | **8 000 g pile** (pré-laminée épaisseur **3 cm**) | ± 10 g |
-| **Beurre de Tourage / Bac** | **2 000 g pile** (1 plaque Debic Croissant 82 %) | Plaque standard |
-| **Pâton Touré Net / Bac** | **10 000 g pile** | Prêt au détaillage |
+| **Détrempe par Bac Paneo** | **8 000 g** (pré-laminée épaisseur **3 cm**) | ± 10 g |
+| **Beurre de Tourage / Bac** | **2 000 g** (1 plaque Debic Croissant 82 %) | Plaque standard |
+| **Pâton Touré Net / Bac** | **10 000 g** | Prêt au détaillage |
 | **Température Sortie Pétrin** | **20 °C à 21 °C** | Strict max 21,5 °C |
 
 ### Pesées de la Pâte Levée Feuilletée (Base Bacs Paneo)
 | Phase | Ingrédient d'Atelier | 1 Bac (10 kg touré) | 10 Bacs (100 kg touré) | 20 Bacs (200 kg — Cuve pleine) |
 | :---: | :--- | :---: | :---: | :---: |
 | **`[1]`** | **Farine Gruau Rouge T45** | **3 130 g** | **31 300 g** | **62 600 g** |
-| **`[1]`** | **Farine T65 Tradition pure** | **1 340 g** | **13 400 g** | **26 800 g** |
-| **`[1]`** | **Eau glacée (+1 °C) / Glace écaille** | **2 015 g** | **20 150 g** | **40 300 g** |
-| **`[1]`** | **Sucre cristal blanc** | **394 g** | **3 940 g** | **7 880 g** |
+| **`[1]`** | **Farine T65 Tradition** | **1 340 g** | **13 400 g** | **26 800 g** |
+| **`[1]`** | **Eau froide (+1 °C)** | **2 015 g** | **20 150 g** | **40 300 g** |
+| **`[1]`** | **Sucre cristal** | **394 g** | **3 940 g** | **7 880 g** |
 | **`[1]`** | **Trimoline (Sucre inverti)** | **157 g** | **1 570 g** | **3 140 g** |
 | **`[1]`** | **Levure fraîche L'Hirondelle Or** | **188 g** | **1 880 g** | **3 760 g** |
 | **`[1]`** | **Poudre de lait entier 26 % MG** | **180 g** | **1 800 g** | **3 600 g** |
 | **`[1]`** | **Améliorant S500 Kimo Short** | **90 g** | **900 g** | **1 800 g** |
-| **`[1]`** | **Sel fin d'atelier** | **90 g** | **900 g** | **1 800 g** |
-| **`[1]`** | **Vinaigre blanc d'alcool 8°** | **36 g** | **360 g** | **720 g** |
+| **`[1]`** | **Sel fin** | **90 g** | **900 g** | **1 800 g** |
+| **`[1]`** | **Vinaigre d'alcool 8°** | **36 g** | **360 g** | **720 g** |
 | **`[2]`** | **Margarine OPAL cuve** *(morceaux 500 g)* | **380 g** | **3 800 g** | **7 600 g** |
 | **TOTAL** | **SOUS-TOTAL DÉTREMPE NETTE** | **8 000 g** | **80 000 g** | **160 000 g** |
 | **`[3]`** | **Beurre Debic Croissant 82 %** | **2 000 g** | **20 000 g** | **40 000 g** |
@@ -38,7 +38,7 @@
 ### 1. Pétrissage & Refroidissement J-1
 1. **Frasage (`[1]`) :** Verser tous les ingrédients `[1]` dans le pétrin spirale. Tourner **5 min en 1ʳᵉ vitesse (V1)**.
 2. **Pétrissage (`[2]`) :** Passer en **2ᵉ vitesse (V2)** en ajoutant immédiatement la **margarine OPAL** en morceaux de 500 g. Pétrir **4 min 30 s à 5 min max** : arrêter au **1ᵉʳ décollement net** des parois (ne pas chercher le voile étiré). Température sortie : **20 °C à 21 °C**.
-3. **Division & Pré-laminage :** Diviser immédiatement en bacs Paneo de **8 000 g pile**, étaler en galette uniforme de **3 cm d'épaisseur**.
+3. **Division & Pré-laminage :** Diviser immédiatement en bacs Paneo de **8 000 g**, étaler en galette uniforme de **3 cm d'épaisseur**.
 4. **Blocage Flash & Pointage Nuit :** Passer **30 à 35 min en cellule flash `-35 °C`** (cœur `< 6 °C`), puis stocker **12 à 15 h** en chambre froide **`0 °C à +1,5 °C`**.
 
 ### 2. Tourage Unifié (`1D + 1S` = 12 Films de Beurre)

@@ -40,7 +40,7 @@
 
 ### Points Clés de Façonnage Machine
 1. **Croissant (`V-PLF-01`) — Croissomat SCM50 (Sens Droite $\rightarrow$ Gauche) :**
-   - Galets bleus en séparation pure ; tablier 3 manettes : amorce `5–6 mm`, dégagement `28–32 mm`, **3 à 4 spires lâches**, **clé dessous à 6 h**.
+   - Galets bleus en séparation ; tablier 3 manettes : amorce `5–6 mm`, dégagement `28–32 mm`, **3 à 4 spires lâches**, **clé dessous à 6 h**.
 2. **Pain au Chocolat (`V-PLF-02`) — Polyline :**
    - Bandes `85–90 mm`, dépose **1 barre 10 g**, roulage simple serré, **clé dessous à 6 h**, coupe guillotine à `75 g` pâte nette.
 3. **Pain aux Raisins (`V-PLF-03`) :**

@@ -8,14 +8,14 @@
 ### 1. Pesées Frangipane Émulsionnée 80/20 (`P-FRA-01` — 100 % Amande, Zéro Alcool)
 | Étape | Ingrédient d'Atelier | Lot Std (10 300 g) | Double Lot (20 600 g) | Quadruple Lot (41 200 g) |
 | :---: | :--- | :---: | :---: | :---: |
-| **`[A]`** | **Eau très froide (+10 °C)** | **1 500 g** | **3 000 g** | **6 000 g** |
+| **`[A]`** | **Eau froide (+10 °C)** | **1 500 g** | **3 000 g** | **6 000 g** |
 | **`[A]`** | **Poudre crème à froid Staufim** | **600 g** | **1 200 g** | **2 400 g** |
 | *Pâtissière* | *SOUS-TOTAL PÂTISSIÈRE (20,4 %)* | ***2 100 g*** | ***4 200 g*** | ***8 400 g*** |
 | **`[B]`** | **Margarine OPAL cuve** *(18 °C)* | **2 000 g** | **4 000 g** | **8 000 g** |
-| **`[B]`** | **Sucre glace tamisé** *(zéro foisonnement)* | **2 000 g** | **4 000 g** | **8 000 g** |
+| **`[B]`** | **Sucre glace** *(zéro foisonnement)* | **2 000 g** | **4 000 g** | **8 000 g** |
 | **`[C]`** | **Œufs entiers liquides pasteurisés** | **1 600 g** | **3 200 g** | **6 400 g** |
 | **`[D]`** | **Poudre d'amande blanche émondée** | **2 000 g** | **4 000 g** | **8 000 g** |
-| **`[D]`** | **Farine T65 Tradition pure** | **420 g** | **840 g** | **1 680 g** |
+| **`[D]`** | **Farine T65 Tradition** | **420 g** | **840 g** | **1 680 g** |
 | **`[D]`** | **Poudre à crème** | **180 g** | **360 g** | **720 g** |
 | *Amande* | *SOUS-TOTAL CRÈME D'AMANDE (79,6 %)* | ***8 200 g*** | ***16 400 g*** | ***32 800 g*** |
 | **TOTAL** | **MASSE FRANGIPANE FINIE** | **10 300 g** | **20 600 g** | **41 200 g** |

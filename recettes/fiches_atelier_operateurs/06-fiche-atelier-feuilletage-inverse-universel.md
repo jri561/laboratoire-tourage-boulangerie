@@ -1,5 +1,5 @@
 # 06 — FEUILLETAGE INVERSÉ UNIVERSEL (48 STRATES) & PLAQUES PÂTISSERIE
-**Code :** `P-FEU-01` | **Tourage :** `1 Tour Simple + 2 Tours Doubles` (`48 films`) | **Farine unique :** `T65 Tradition pure`
+**Code :** `P-FEU-01` | **Tourage :** `1 Tour Simple + 2 Tours Doubles` (`48 films`) | **Farine unique :** `T65 Tradition`
 
 ---
 
@@ -8,21 +8,21 @@
 ### Repères Flash Poste de Pesée
 | Paramètre | Consigne Atelier | Précision |
 | :--- | :--- | :--- |
-| **Bloc 1 • Beurre Manié (Extérieur)** | **3 250 g pile / pâton** | Batteur feuille V1 `2 min`, cadrer `30 × 40 cm`, froid `+4 °C` |
-| **Bloc 2 • Détrempe (Intérieur)** | **4 035 g pile / pâton** | Frasage court crochet V1 `2 min 30` (**zéro corps**) |
-| **Pâton Feuilleté Complet** | **7 285 g pile / pâton** | **48 strates de beurre** — Abaisse finale **`3,0 mm`** |
+| **Bloc 1 • Beurre Manié (Extérieur)** | **3 250 g / pâton** | Batteur feuille V1 `2 min`, cadrer `30 × 40 cm`, froid `+4 °C` |
+| **Bloc 2 • Détrempe (Intérieur)** | **4 035 g / pâton** | Frasage court crochet V1 `2 min 30` (**zéro corps**) |
+| **Pâton Feuilleté Complet** | **7 285 g / pâton** | **48 strates de beurre** — Abaisse finale **`3,0 mm`** |
 
 ### Pesées du Feuilletage Inversé
 | Bloc | Ingrédient d'Atelier | 1 Pâton (7 285 g) | 2 Pâtons (14 570 g) | 4 Pâtons / 1 Carton (29 140 g) |
 | :---: | :--- | :---: | :---: | :---: |
 | **`[1]`** | **Beurre Tourage Debic 82 %** | **2 500 g** | **5 000 g** | **10 000 g** *(1 carton)* |
-| **`[1]`** | **Farine T65 Tradition pure** | **750 g** | **1 500 g** | **3 000 g** |
+| **`[1]`** | **Farine T65 Tradition** | **750 g** | **1 500 g** | **3 000 g** |
 | **SOUS-BLOC** | **BLOC 1 • BEURRE MANIÉ (EXTÉRIEUR)** | **3 250 g** | **6 500 g** | **13 000 g** |
-| **`[2]`** | **Farine T65 Tradition pure** | **2 500 g** | **5 000 g** | **10 000 g** |
+| **`[2]`** | **Farine T65 Tradition** | **2 500 g** | **5 000 g** | **10 000 g** |
 | **`[2]`** | **Margarine OPAL cuve** *(dés 18 °C)* | **250 g** | **500 g** | **1 000 g** |
-| **`[2]`** | **Eau purifiée glacée (+2 °C)** | **1 200 g** | **2 400 g** | **4 800 g** |
+| **`[2]`** | **Eau froide (+2 °C)** | **1 200 g** | **2 400 g** | **4 800 g** |
 | **`[2]`** | **Fleur de sel de Guérande** *(ou sel fin)* | **65 g** | **130 g** | **260 g** |
-| **`[2]`** | **Vinaigre blanc d'alcool 8°** | **20 g** | **40 g** | **80 g** |
+| **`[2]`** | **Vinaigre d'alcool 8°** | **20 g** | **40 g** | **80 g** |
 | **SOUS-BLOC** | **BLOC 2 • DÉTREMPE (INTÉRIEUR)** | **4 035 g** | **8 070 g** | **16 140 g** |
 | **TOTAL** | **PÂTON FEUILLETÉ COMPLET** | **7 285 g** | **14 570 g** | **29 140 g** |
 

@@ -14,7 +14,7 @@
 | **`[2]`** | **Sucre semoule extra-fin** | **600 g** | **3 000 g** | **6 000 g** | **9 000 g** |
 | **`[3]`** | **Farine T65 conventionnelle BM** | **180 g** | **900 g** | **1 800 g** | **2 700 g** |
 | **`[3]`** | **Cacao pur 100 % en poudre** | **70 g** | **350 g** | **700 g** | **1 050 g** |
-| **`[3]`** | **Sel fin d'atelier** | **5 g** | **25 g** | **50 g** | **75 g** |
+| **`[3]`** | **Sel fin** | **5 g** | **25 g** | **50 g** | **75 g** |
 | **`[3]`** | **Levure chimique (Baking powder)** | **5 g** | **25 g** | **50 g** | **75 g** |
 | **SOUS-TOTAL** | **APPAREIL A (BROWNIE)** | **2 260 g** | **11 300 g** | **22 600 g** | **33 900 g** |
 
@@ -39,7 +39,7 @@
 
 ### 1. Préparation & Laminage de l'Abaisse Cookie (Bloc B)
 1. **Pétrissage (Feuille V1 strict) :** Sabler OPALE + sucres + gros sel **1 min V1** (zéro foisonnement). Ajouter œufs en V1, puis poudres tamisées en V1 jusqu'à absorption, puis pépites **30 s V1**.
-2. **Laminage Rondo `5,5 mm` :** Peser des pâtons de **1 200 g pile**, abaisser à **`5,5 mm`** et couper au gabarit **`56 × 36 cm`**.
+2. **Laminage Rondo `5,5 mm` :** Peser des pâtons de **1 200 g**, abaisser à **`5,5 mm`** et couper au gabarit **`56 × 36 cm`**.
 3. **Blocage Flash :** Glisser sur papier cuisson et passer **15 à 20 min en cellule `-35 °C`** (abaisse rigide manipulable d'un bloc).
 
 ### 2. Appareil Brownie (Bloc A) & Montage en Cadre

@@ -15,14 +15,14 @@
 ### Pesées de l'Appareil Crêpes Froment (`C-CRP-01`)
 | Phase | Ingrédient d'Atelier | 12 Paquets (2 kg far.) | 25 Paquets (4 kg far.) | 50 Paquets (8 kg far.) | 75 Paquets (12 kg far.) | 100 Paquets (16 kg far.) |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: |
-| **`1`** | **Eau purifiée (1ʳᵉ partie)** | **1 650 g** | **3 300 g** | **6 600 g** | **9 900 g** | **13 200 g** |
+| **`1`** | **Eau (1ʳᵉ partie)** | **1 650 g** | **3 300 g** | **6 600 g** | **9 900 g** | **13 200 g** |
 | **`1`** | **Œufs entiers liquides** | **1 300 g** | **2 600 g** | **5 200 g** | **7 800 g** | **10 400 g** |
-| **`1`** | **Sucre semoule blanc** | **600 g** | **1 200 g** | **2 400 g** | **3 600 g** | **4 800 g** |
+| **`1`** | **Sucre semoule** | **600 g** | **1 200 g** | **2 400 g** | **3 600 g** | **4 800 g** |
 | **`1`** | **Poudre de lait entier 26 %** | **300 g** | **600 g** | **1 200 g** | **1 800 g** | **2 400 g** |
-| **`1`** | **Sel fin purifié** | **30 g** | **60 g** | **120 g** | **180 g** | **240 g** |
+| **`1`** | **Sel fin** | **30 g** | **60 g** | **120 g** | **180 g** | **240 g** |
 | **`1`** | **Farine T65 conventionnelle BM** | **2 000 g** | **4 000 g** | **8 000 g** | **12 000 g** | **16 000 g** |
 | *S-TOT* | *SOUS-TOTAL PHASE 1 (PÂTE MÈRE)* | *5 880 g* | *11 760 g* | *23 520 g* | *35 280 g* | *47 040 g* |
-| **`2`** | **Eau purifiée (2ᵉ partie — allongement)** | **1 050 g** | **2 100 g** | **4 200 g** | **6 300 g** | **8 400 g** |
+| **`2`** | **Eau (2ᵉ partie — allongement)** | **1 050 g** | **2 100 g** | **4 200 g** | **6 300 g** | **8 400 g** |
 | **`2`** | **Huile de colza raffinée** | **210 g** | **420 g** | **840 g** | **1 260 g** | **1 680 g** |
 | **TOTAL** | **MASSE TOTALE APPAREIL** | **7 140 g** | **14 280 g** | **28 560 g** | **42 840 g** | **57 120 g** |
 

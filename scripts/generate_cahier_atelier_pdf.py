@@ -729,15 +729,50 @@ def render_kpi_from_table(table_lines: list[str]) -> str:
 
 
 def extract_step_metric(stitle: str, sbody: str, num: str) -> tuple[str, str]:
-    """Extrait un repère chiffré (temps, température, poids) pour le bloc gauche de la carte."""
+    """Extrait un repère chiffré (durée, température, puis dimension/poids) pour le bloc gauche."""
     m_paren = re.search(r'\(([^)\[\]]*\d[^)\[\]]*)\)', stitle)
     if m_paren:
         val = m_paren.group(1).strip()
         if not re.match(r'^[\d\s.,]+$', val) and len(val) <= 18:
             return val, f"ÉTAPE {num}"
     plain = re.sub(r'[*`]', '', sbody)
+
+    # Priorité 1 : durées avec minutes+secondes (ex. "4 min 30 s à 5 min" -> "4'30–5 min")
+    m_min_sec = re.search(r'(\d+)\s*min\s*(\d+)\s*(?:s\b|sec)?\s*(?:à|[–-])\s*(\d+)\s*min', plain)
+    if m_min_sec:
+        val = f"{m_min_sec.group(1)}'{m_min_sec.group(2)}–{m_min_sec.group(3)} min"
+        return val, f"ÉTAPE {num}"
+
+    # Priorité 2 : durées simples ou plages (min, sec, s, h)
+    m_dur = re.search(
+        r'(?<![\d.,])(\d+(?:[.,]\d+)?(?:\s*(?:[–-]|à)\s*\d+(?:[.,]\d+)?)?\s*(?:min|sec|s\b|h\b))',
+        plain,
+    )
+    if m_dur:
+        val = re.sub(r'\s+', ' ', m_dur.group(1).strip()).replace(' à ', '–')
+        if len(val) <= 18:
+            return val, f"ÉTAPE {num}"
+
+    # Priorité 3 : températures (°C), y compris "19 °C à 21 °C" -> "19–21 °C"
+    m_temp_range = re.search(r'([-+]?\s*\d+(?:[.,]\d+)?)\s*°C\s*(?:à|[–-])\s*([-+]?\s*\d+(?:[.,]\d+)?)\s*°C', plain)
+    if m_temp_range:
+        t1 = m_temp_range.group(1).replace(' ', '')
+        t2 = m_temp_range.group(2).replace(' ', '')
+        val = f"{t1}–{t2} °C"
+        if len(val) <= 18:
+            return val, f"ÉTAPE {num}"
+    m_temp = re.search(
+        r'(?<![\d.,])([-+]?\s*\d+(?:[.,]\d+)?(?:\s*(?:[–-]|à)\s*[-+]?\s*\d+(?:[.,]\d+)?)?\s*°C)',
+        plain,
+    )
+    if m_temp:
+        val = re.sub(r'\s+', ' ', m_temp.group(1).strip()).replace('- ', '-').replace('+ ', '+').replace(' à ', '–')
+        if len(val) <= 18:
+            return val, f"ÉTAPE {num}"
+
+    # Priorité 4 (fallback) : dimensions / poids / pourcentages
     m_val = re.search(
-        r'(?<![\d.,])(?<!\d )([-+]?\s*\d+(?:\s\d{3})*(?:[.,]\d+)?(?:\s*[–-]\s*[-+]?\s*\d+(?:\s\d{3})*(?:[.,]\d+)?)?\s*(?:min|sec|h\b|°C|g\b|kg|mm|cm|%)|≥\s*\d+\s*\w+)',
+        r'(?<![\d.,])(?<!\d )([-+]?\s*\d+(?:\s\d{3})*(?:[.,]\d+)?(?:\s*[–-]\s*[-+]?\s*\d+(?:\s\d{3})*(?:[.,]\d+)?)?\s*(?:mm|cm|g\b|kg|%)|≥\s*\d+\s*\w+)',
         plain,
     )
     if m_val:
@@ -961,7 +996,7 @@ def build_cover_html() -> str:
         <div class="cover-kicker">LABORATOIRE DE TOURAGE &amp; BOULANGERIE • EDITION CHRONO UNIFIÉ</div>
         <h1 class="cover-title">CAHIER DE PRODUCTION<br>&amp; FICHES D'ATELIER</h1>
         <div class="cover-accent-bar"></div>
-        <p class="cover-subtitle">Référentiel opérationnel de pesée, façonnage, double congélation PAC et cuisson. Code couleur unifié entre pesée (Page Gauche) et conduite machine (Page Droite).</p>
+        <p class="cover-subtitle">Fiches de pesée, fabrication, façonnage et cuisson pour la production quotidienne.</p>
 
         <div class="cover-grid">
           <div class="cover-card">
@@ -1011,39 +1046,26 @@ def build_sommaire_pages(total_pages: int) -> list[str]:
       <div class="page-content">
         <div class="cu-head">
           <div class="cu-head-left">
-            <div class="cu-kicker">INDEX GÉNÉRAL • PÔLES 1 À 4</div>
+            <div class="cu-kicker">SOMMAIRE • PÔLES 1 À 4</div>
             <h1 class="cu-title">Sommaire — Viennoiserie &amp; Feuilletage</h1>
             <div class="cu-sub">PLF, Pains Viennois, Brioches, Kouign-Amann, Feuilletage Inversé &amp; Galettes</div>
           </div>
           <div class="cu-pill">PAGES 4 – 17</div>
         </div>
 
-        <div class="memo-strip">
-          <div class="m-card"><div class="m-v">± 1 g</div><div class="m-l">Levure, Sel, S500, Vinaigre</div></div>
-          <div class="m-card amber"><div class="m-v">20–21 °C</div><div class="m-l">Sortie Pétrin PLF / Viennois</div></div>
-          <div class="m-card green"><div class="m-v">-10 °C</div><div class="m-l">Sonde Cœur Blocage PAC</div></div>
-        </div>
-
-        <div class="sec-h"><span class="sec-num p1">01</span><span class="sec-t">Index des Fiches Pôles 1 à 4</span></div>
+        <div class="sec-h"><span class="sec-num p1">01</span><span class="sec-t">Fiches Pôles 1 à 4</span></div>
         <table class="data-table">
-          <thead><tr><th>Fiche</th><th>Pôle</th><th>Désignation Atelier</th><th class="num">Pages</th></tr></thead>
+          <thead><tr><th>Fiche</th><th>Pôle</th><th>Produits</th><th class="num">Pages</th></tr></thead>
           <tbody>
-            <tr><td><strong>01</strong></td><td>Pôle 1 • PLF</td><td><strong>Recette Maîtresse PLF Commune (1D + 1S &amp; PAC)</strong></td><td class="num">4 – 5</td></tr>
-            <tr><td><strong>02</strong></td><td>Pôle 1 • PLF</td><td><strong>Annexe Façonnages, Calibres &amp; Garnitures PLF (7 produits)</strong></td><td class="num">6 – 7</td></tr>
-            <tr><td><strong>03</strong></td><td>Pôle 2 • Pâtes Levées</td><td><strong>Pains Viennois Nature (280 g) &amp; Pépites Chocolat (140 g) PAC</strong></td><td class="num">8 – 9</td></tr>
-            <tr><td><strong>04</strong></td><td>Pôle 2 • Pâtes Levées</td><td><strong>Petite Brioche Individuelle au Sucre PAC (75 g)</strong></td><td class="num">10 – 11</td></tr>
-            <tr><td><strong>05</strong></td><td>Pôle 3 • Breton</td><td><strong>Kouign-Amann Individuel (100 g) &amp; Partage (400 / 600 g)</strong></td><td class="num">12 – 13</td></tr>
-            <tr><td><strong>06</strong></td><td>Pôle 4 • Feuilletage</td><td><strong>Feuilletage Inversé Universel (48 Strates) &amp; Plaques Pâtisserie</strong></td><td class="num">14 – 15</td></tr>
-            <tr><td><strong>07</strong></td><td>Pôle 4 • Épiphanie</td><td><strong>Galettes des Rois : Frangipane 80/20, Pommes &amp; Poire-Nutolade</strong></td><td class="num">16 – 17</td></tr>
+            <tr><td><strong>01</strong></td><td>Pôle 1 • PLF</td><td><strong>Pâte Levée Feuilletée (Recette commune)</strong></td><td class="num">4 – 5</td></tr>
+            <tr><td><strong>02</strong></td><td>Pôle 1 • PLF</td><td><strong>Façonnages &amp; Calibres PLF (7 produits)</strong></td><td class="num">6 – 7</td></tr>
+            <tr><td><strong>03</strong></td><td>Pôle 2 • Pâtes Levées</td><td><strong>Pains Viennois Nature &amp; Pépites Chocolat</strong></td><td class="num">8 – 9</td></tr>
+            <tr><td><strong>04</strong></td><td>Pôle 2 • Pâtes Levées</td><td><strong>Petite Brioche au Sucre</strong></td><td class="num">10 – 11</td></tr>
+            <tr><td><strong>05</strong></td><td>Pôle 3 • Breton</td><td><strong>Kouign-Amann Individuel &amp; Partage</strong></td><td class="num">12 – 13</td></tr>
+            <tr><td><strong>06</strong></td><td>Pôle 4 • Feuilletage</td><td><strong>Feuilletage Inversé &amp; Plaques Pâtisserie</strong></td><td class="num">14 – 15</td></tr>
+            <tr><td><strong>07</strong></td><td>Pôle 4 • Épiphanie</td><td><strong>Galettes des Rois (Frangipane, Pommes, Poire-Nutolade)</strong></td><td class="num">16 – 17</td></tr>
           </tbody>
         </table>
-
-        <div class="sec-h"><span class="sec-num p2">02</span><span class="sec-t">Code Couleur Unifié &amp; Tolérances</span></div>
-        <div class="step-rows">
-          <div class="s-row"><div class="s-left"><span class="s-val" style="color:#1e40af;">PHASE 1</span><span class="s-lbl">Bleu</span></div><div class="s-right"><strong class="st">Base / Cuve V1 / Détrempe</strong>Tous les ingrédients de départ du tableau bleu correspondent aux étapes 01 bleues en page droite.</div></div>
-          <div class="s-row p2"><div class="s-left"><span class="s-val" style="color:#b45309;">PHASE 2</span><span class="s-lbl">Ambre</span></div><div class="s-right"><strong class="st">Ajout V2 / Émulsion / Beurre</strong>Ajouts différés en cuve et beurre de tourage : étapes 02 ambre.</div></div>
-          <div class="s-row p3"><div class="s-left"><span class="s-val" style="color:#15803d;">PHASE 3</span><span class="s-lbl">Vert</span></div><div class="s-right"><strong class="st">Tourage / Finition / Circuit PAC</strong>Abaisse, façonnage, congélation PAC et cuisson : étapes 03 vertes.</div></div>
-        </div>
       </div>
       <footer class="page-footer">
         <span>SOMMAIRE GÉNÉRAL • PÔLES 1 À 4</span>
@@ -1057,38 +1079,29 @@ def build_sommaire_pages(total_pages: int) -> list[str]:
       <div class="page-content">
         <div class="cu-head">
           <div class="cu-head-left">
-            <div class="cu-kicker green">INDEX GÉNÉRAL • PÔLES 5 À 6</div>
+            <div class="cu-kicker green">SOMMAIRE • PÔLES 5 À 6</div>
             <h1 class="cu-title">Sommaire — Biscuiterie, Traiteur &amp; Cuissons</h1>
-            <div class="cu-sub">Cookies, Muffins, Brownie, Brookie, Cakes, Nantais, Girocrêpes, Quiches &amp; Barèmes</div>
+            <div class="cu-sub">Cookies, Muffins, Brownie, Brookie, Cakes, Nantais, Crêpes, Quiches &amp; Cuissons</div>
           </div>
           <div class="cu-pill green">PAGES 18 – 37</div>
         </div>
 
-        <div class="sec-h"><span class="sec-num p3">01</span><span class="sec-t">Index des Fiches Pôles 5 à 6</span></div>
+        <div class="sec-h"><span class="sec-num p3">02</span><span class="sec-t">Fiches Pôles 5 à 6</span></div>
         <table class="data-table">
-          <thead><tr><th>Fiche</th><th>Pôle</th><th>Désignation Atelier</th><th class="num">Pages</th></tr></thead>
+          <thead><tr><th>Fiche</th><th>Pôle</th><th>Produits</th><th class="num">Pages</th></tr></thead>
           <tbody>
-            <tr><td><strong>08</strong></td><td>Pôle 5 • Biscuiterie</td><td><strong>Cookies Classique &amp; Chocolat-Noisette (Coupe-Fil 80 g)</strong></td><td class="num">18 – 19</td></tr>
-            <tr><td><strong>09</strong></td><td>Pôle 5 • Biscuiterie</td><td><strong>Muffins Pépites/Cœur Nutolade &amp; Noisette (Doseuse 120 g)</strong></td><td class="num">20 – 21</td></tr>
-            <tr><td><strong>10</strong></td><td>Pôle 5 • Biscuiterie</td><td><strong>Brownie Fondant Chocolat, Trimoline &amp; Cerneaux de Noix</strong></td><td class="num">22 – 23</td></tr>
-            <tr><td><strong>11</strong></td><td>Pôle 5 • Biscuiterie</td><td><strong>Brookie Double Couche en Cadres 56×36 cm (30 Parts 115 g)</strong></td><td class="num">24 – 25</td></tr>
-            <tr><td><strong>12</strong></td><td>Pôle 5 • Biscuiterie</td><td><strong>Cakes de Voyage (Mix Golden, Citron Pavot &amp; Marbré)</strong></td><td class="num">26 – 27</td></tr>
-            <tr><td><strong>13</strong></td><td>Pôle 5 • Biscuiterie</td><td><strong>Gâteau Nantais OPAL &amp; Glaçage Rhum-Gélatine</strong></td><td class="num">28 – 29</td></tr>
-            <tr><td><strong>14</strong></td><td>Pôle 6 • Girocrêpes</td><td><strong>Crêpes de Froment sur Carrousel Girocrêpes</strong></td><td class="num">30 – 31</td></tr>
-            <tr><td><strong>15</strong></td><td>Pôle 6 • Girocrêpes</td><td><strong>Galettes de Blé Noir (Sarrasin) sur Carrousel Girocrêpes</strong></td><td class="num">32 – 33</td></tr>
-            <tr><td><strong>16</strong></td><td>Pôle 6 • Traiteur</td><td><strong>Quiches Traiteur (Lorraine, Chèvre-Épinards IQF, Poireaux)</strong></td><td class="num">34 – 35</td></tr>
-            <tr><td><strong>17</strong></td><td>Pôle 6 • Finitions</td><td><strong>Dorures, Sirop de Lustrage 44° Brix &amp; Barèmes Cuissons</strong></td><td class="num">36 – 37</td></tr>
+            <tr><td><strong>08</strong></td><td>Pôle 5 • Biscuiterie</td><td><strong>Cookies Classique &amp; Chocolat-Noisette</strong></td><td class="num">18 – 19</td></tr>
+            <tr><td><strong>09</strong></td><td>Pôle 5 • Biscuiterie</td><td><strong>Muffins Pépites / Cœur Nutolade &amp; Noisette</strong></td><td class="num">20 – 21</td></tr>
+            <tr><td><strong>10</strong></td><td>Pôle 5 • Biscuiterie</td><td><strong>Brownie Fondant Chocolat &amp; Noix</strong></td><td class="num">22 – 23</td></tr>
+            <tr><td><strong>11</strong></td><td>Pôle 5 • Biscuiterie</td><td><strong>Brookie</strong></td><td class="num">24 – 25</td></tr>
+            <tr><td><strong>12</strong></td><td>Pôle 5 • Biscuiterie</td><td><strong>Cakes de Voyage (Golden, Citron Pavot, Marbré)</strong></td><td class="num">26 – 27</td></tr>
+            <tr><td><strong>13</strong></td><td>Pôle 5 • Biscuiterie</td><td><strong>Gâteau Nantais</strong></td><td class="num">28 – 29</td></tr>
+            <tr><td><strong>14</strong></td><td>Pôle 6 • Girocrêpes</td><td><strong>Crêpes de Froment</strong></td><td class="num">30 – 31</td></tr>
+            <tr><td><strong>15</strong></td><td>Pôle 6 • Girocrêpes</td><td><strong>Galettes de Blé Noir</strong></td><td class="num">32 – 33</td></tr>
+            <tr><td><strong>16</strong></td><td>Pôle 6 • Traiteur</td><td><strong>Quiches (Lorraine, Chèvre-Épinards, Poireaux)</strong></td><td class="num">34 – 35</td></tr>
+            <tr><td><strong>17</strong></td><td>Pôle 6 • Finitions</td><td><strong>Dorures, Sirop 44° Brix &amp; Barèmes de Cuisson</strong></td><td class="num">36 – 37</td></tr>
           </tbody>
         </table>
-
-        <div class="sec-h"><span class="sec-num p1">02</span><span class="sec-t">Règles Sanitaires &amp; Chaîne du Froid</span></div>
-        <div class="step-rows">
-          <div class="s-row"><div class="s-left"><span class="s-val">IQF -18 °C</span><span class="s-lbl">Quiches</span></div><div class="s-right"><strong class="st">Légumes IQF (Quiches)</strong>Enfourner directement congelés sans jamais décongeler au préalable.</div></div>
-          <div class="s-row p2"><div class="s-left"><span class="s-val">&lt; 2 h / +10 °C</span><span class="s-lbl">Cellule</span></div><div class="s-right"><strong class="st">Refroidissement Traiteur</strong>Descente rapide en cellule sous +10 °C à cœur en moins de 2 heures.</div></div>
-          <div class="s-row p3"><div class="s-left"><span class="s-val">48 h max</span><span class="s-lbl">Chinois 0,5 mm</span></div><div class="s-right"><strong class="st">Dorure Pinceau (+4 °C)</strong>Conservation maximale 48 h datée. Filtration chinois étamine.</div></div>
-        </div>
-
-        <div class="alert-critical">CHAÎNE DU FROID STRICTE : STOCKAGE NÉGATIF À -18 °C EN CAISSES ÉTANCHES APRÈS BLOCAGE FLASH -35 °C</div>
       </div>
       <footer class="page-footer">
         <span>SOMMAIRE GÉNÉRAL • PÔLES 5 À 6</span>

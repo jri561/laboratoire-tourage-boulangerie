@@ -8,20 +8,20 @@
 ### Repères Flash Poste de Pesée
 | Paramètre | Consigne Atelier | Précision |
 | :--- | :--- | :--- |
-| **Détrempe par Bac Paneo** | **5 000 g pile** (galette 3 cm) | Flash `-35 °C` (`20 min`) puis nuit `+2/+4 °C` |
-| **Bloc Beurre Manié Sucré / Bac** | **3 820 g pile** (`40 × 30 cm`, ép. 2,5 cm) | Départ beurre froid **+4 °C** en V1 sans chauffer |
-| **Pâton Complet Touré / Bac** | **8 820 g pile** | Donne **88 indiv.** (100 g) ou **22** (400 g) ou **14** (600 g) |
+| **Détrempe par Bac Paneo** | **5 000 g** (galette 3 cm) | Flash `-35 °C` (`20 min`) puis nuit `+2/+4 °C` |
+| **Bloc Beurre Manié Sucré / Bac** | **3 820 g** (`40 × 30 cm`, ép. 2,5 cm) | Départ beurre froid **+4 °C** en V1 sans chauffer |
+| **Pâton Complet Touré / Bac** | **8 820 g** | Donne **88 indiv.** (100 g) ou **22** (400 g) ou **14** (600 g) |
 
 ### Pesées du Kouign-Amann (Base Bacs)
 | Phase | Ingrédient d'Atelier | 1 Bac (8 820 g touré) | 5 Bacs (44 100 g touré) | 10 Bacs (88 200 g touré) |
 | :---: | :--- | :---: | :---: | :---: |
-| **`[1]`** | **Farine T65 Tradition pure** | **2 750 g** | **13 750 g** | **27 500 g** |
-| **`[1]`** | **Eau glacée (+0,5 °C) / Glace** | **1 420 g** | **7 100 g** | **14 200 g** |
+| **`[1]`** | **Farine T65 Tradition** | **2 750 g** | **13 750 g** | **27 500 g** |
+| **`[1]`** | **Eau froide (+0,5 °C)** | **1 420 g** | **7 100 g** | **14 200 g** |
 | **`[1]`** | **Sucre semoule cuve** | **50 g** | **250 g** | **500 g** |
 | **`[1]`** | **Poudre de lait entier 26 %** | **70 g** | **350 g** | **700 g** |
 | **`[1]`** | **Améliorant S500 Kimo Short** | **70 g** | **350 g** | **700 g** |
-| **`[1]`** | **Vinaigre blanc d'alcool (8°)** | **15 g** | **75 g** | **150 g** |
-| **`[1]`** | **Sel fin d'atelier** | **50 g** | **250 g** | **500 g** |
+| **`[1]`** | **Vinaigre d'alcool (8°)** | **15 g** | **75 g** | **150 g** |
+| **`[1]`** | **Sel fin** | **50 g** | **250 g** | **500 g** |
 | **`[1]`** | **Levure fraîche L'Hirondelle Or** | **165 g** | **825 g** | **1 650 g** |
 | **`[2]`** | **Margarine OPAL cuve** *(ou beurre)* | **410 g** | **2 050 g** | **4 100 g** |
 | **SOUS-TOTAL** | **DÉTREMPE CRYO AU BAC** | **5 000 g** | **25 000 g** | **50 000 g** |

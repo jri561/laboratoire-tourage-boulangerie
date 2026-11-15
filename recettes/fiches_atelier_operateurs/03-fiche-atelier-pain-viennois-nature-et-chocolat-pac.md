@@ -9,14 +9,14 @@
 | Phase | Ingrédient d'Atelier | 1 Bac (20 pcs / 5,6 kg) | 10 Bacs (200 pcs / 56 kg) | 20 Bacs (400 pcs / 112 kg) | 30 Bacs (600 pcs / 168 kg) |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | **`[1]`** | **Farine Gruau Rouge T45** | **1 760 g** | **17 600 g** | **35 200 g** | **52 800 g** |
-| **`[1]`** | **Farine T65 Tradition pure** | **754 g** | **7 540 g** | **15 090 g** | **22 630 g** |
-| **`[1]`** | **Eau très froide (+1 °C)** | **955 g** | **9 550 g** | **19 110 g** | **28 670 g** |
+| **`[1]`** | **Farine T65 Tradition** | **754 g** | **7 540 g** | **15 090 g** | **22 630 g** |
+| **`[1]`** | **Eau froide (+1 °C)** | **955 g** | **9 550 g** | **19 110 g** | **28 670 g** |
 | **`[1]`** | **Œufs entiers liquides pasteurisés** | **453 g** | **4 530 g** | **9 050 g** | **13 580 g** |
 | **`[1]`** | **Pâte Fermentée Viennoise (PFV)** | **503 g** | **5 030 g** | **10 060 g** | **15 090 g** |
 | **`[1]`** | **Sucre cristal semoule** | **302 g** | **3 020 g** | **6 040 g** | **9 050 g** |
 | **`[1]`** | **Trimoline (Sucre inverti)** | **101 g** | **1 010 g** | **2 010 g** | **3 020 g** |
 | **`[1]`** | **Poudre de lait entier 26 %** | **75 g** | **750 g** | **1 510 g** | **2 260 g** |
-| **`[1]`** | **Sel fin d'atelier** | **50 g** | **500 g** | **1 010 g** | **1 510 g** |
+| **`[1]`** | **Sel fin** | **50 g** | **500 g** | **1 010 g** | **1 510 g** |
 | **`[1]`** | **Levure fraîche L'Hirondelle Or** | **113 g** | **1 130 g** | **2 260 g** | **3 400 g** |
 | **`[1]`** | **Améliorant S500 Kimo Short** | **38 g** | **380 g** | **750 g** | **1 130 g** |
 | **`[1]`** | **Améliorant Soft'r** | **38 g** | **380 g** | **750 g** | **1 130 g** |
@@ -28,14 +28,14 @@
 | Phase | Ingrédient d'Atelier | 1 Bac (40 pcs / 5,6 kg) | 10 Bacs (400 pcs / 56 kg) | 20 Bacs (800 pcs / 112 kg) | 30 Bacs (1 200 pcs / 168 kg) |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | **`[1]`** | **Farine Gruau Rouge T45** | **1 576 g** | **15 760 g** | **31 520 g** | **47 290 g** |
-| **`[1]`** | **Farine T65 Tradition pure** | **676 g** | **6 760 g** | **13 510 g** | **20 270 g** |
-| **`[1]`** | **Eau très froide (+1 °C)** | **856 g** | **8 560 g** | **17 110 g** | **25 670 g** |
+| **`[1]`** | **Farine T65 Tradition** | **676 g** | **6 760 g** | **13 510 g** | **20 270 g** |
+| **`[1]`** | **Eau froide (+1 °C)** | **856 g** | **8 560 g** | **17 110 g** | **25 670 g** |
 | **`[1]`** | **Œufs entiers liquides pasteurisés** | **405 g** | **4 050 g** | **8 110 g** | **12 160 g** |
 | **`[1]`** | **Pâte Fermentée Viennoise (PFV)** | **450 g** | **4 500 g** | **9 010 g** | **13 510 g** |
 | **`[1]`** | **Sucre cristal semoule** | **270 g** | **2 700 g** | **5 400 g** | **8 110 g** |
 | **`[1]`** | **Trimoline (Sucre inverti)** | **90 g** | **900 g** | **1 800 g** | **2 700 g** |
 | **`[1]`** | **Poudre de lait entier 26 %** | **68 g** | **680 g** | **1 350 g** | **2 030 g** |
-| **`[1]`** | **Sel fin d'atelier** | **45 g** | **450 g** | **900 g** | **1 350 g** |
+| **`[1]`** | **Sel fin** | **45 g** | **450 g** | **900 g** | **1 350 g** |
 | **`[1]`** | **Levure fraîche L'Hirondelle Or** | **101 g** | **1 010 g** | **2 030 g** | **3 040 g** |
 | **`[1]`** | **Améliorant S500 Kimo Short** | **34 g** | **340 g** | **670 g** | **1 010 g** |
 | **`[1]`** | **Améliorant Soft'r** | **34 g** | **340 g** | **680 g** | **1 010 g** |
@@ -55,7 +55,7 @@
 4. **Température de sortie pétrin :** **19 °C à 21 °C maximum**.
 
 ### 2. Division, Façonnage Mécanique & Double Congélation
-1. **Pointage court :** Laisser pointer **15 à 20 min en cuve** (`20–22 °C`), puis peser en bacs de **5 600 g pile**.
+1. **Pointage court :** Laisser pointer **15 à 20 min en cuve** (`20–22 °C`), puis peser en bacs de **5 600 g**.
 2. **Division hydraulique (20 parts) :**
    - *Nature (`280 g`) :* 20 pâtons directs de `280 g`.
    - *Chocolat (`140 g`) :* 20 pâtons de `280 g` recoupés en 2 au coupe-pâte = `40 × 140 g`.
@@ -71,5 +71,5 @@
 ### 3. Cuisson Directe Congelé en Boutique (`-18 °C`)
 | Référence | Four Ventilé | Durée | Gestion Ouras | Poids Cuit Visé |
 | :--- | :---: | :---: | :---: | :---: |
-| **Pain Viennois Nature (`280 g`)** | **165 °C** | **11 min pile** | **OURAS STRICTEMENT FERMÉS** | **~266 g** |
-| **Pain Viennois Chocolat (`140 g`)** | **165 °C** | **9 min pile** | **OURAS STRICTEMENT FERMÉS** | **~133 g** |
+| **Pain Viennois Nature (`280 g`)** | **165 °C** | **11 min** | **OURAS STRICTEMENT FERMÉS** | **~266 g** |
+| **Pain Viennois Chocolat (`140 g`)** | **165 °C** | **9 min** | **OURAS STRICTEMENT FERMÉS** | **~133 g** |

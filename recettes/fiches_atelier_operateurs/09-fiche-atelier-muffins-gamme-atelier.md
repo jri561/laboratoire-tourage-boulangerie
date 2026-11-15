@@ -11,9 +11,9 @@
 | Étape | Ingrédient d'Atelier | 1 Plaque (24 pcs) | 5 Plaques (120 pcs) | 10 Plaques (240 pcs) | 15 Plaques (360 pcs) |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | **`1`** | **Œufs entiers liquides** | **400 g** | **1 800 g** | **3 550 g** | **5 350 g** |
-| **`1`** | **Sucre semoule blanc** | **415 g** | **1 860 g** | **3 720 g** | **5 580 g** |
+| **`1`** | **Sucre semoule** | **415 g** | **1 860 g** | **3 720 g** | **5 580 g** |
 | **`1`** | **Trimoline (ou miel)** | **65 g** | **290 g** | **580 g** | **870 g** |
-| **`1`** | **Sel fin purifié** | **15 g** | **70 g** | **135 g** | **200 g** |
+| **`1`** | **Sel fin** | **15 g** | **70 g** | **135 g** | **200 g** |
 | **`2`** | **Eau tempérée (20 °C)** | **700 g** | **3 150 g** | **6 200 g** | **9 350 g** |
 | **`2`** | **Huile de colza raffinée** | **500 g** | **2 250 g** | **4 450 g** | **6 700 g** |
 | **`3`** | **Farine T65 conventionnelle BM** | **1 040 g** | **4 700 g** | **9 250 g** | **13 950 g** |
@@ -29,9 +29,9 @@
 | Étape | Ingrédient d'Atelier | 1 Plaque (24 pcs) | 5 Plaques (120 pcs) | 10 Plaques (240 pcs) | 15 Plaques (360 pcs) |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | **`1`** | **Œufs entiers liquides** | **400 g** | **1 800 g** | **3 550 g** | **5 350 g** |
-| **`1`** | **Sucre semoule blanc** | **430 g** | **1 920 g** | **3 850 g** | **5 770 g** |
+| **`1`** | **Sucre semoule** | **430 g** | **1 920 g** | **3 850 g** | **5 770 g** |
 | **`1`** | **Trimoline (ou miel)** | **50 g** | **230 g** | **450 g** | **680 g** |
-| **`1`** | **Sel fin purifié** | **15 g** | **70 g** | **135 g** | **200 g** |
+| **`1`** | **Sel fin** | **15 g** | **70 g** | **135 g** | **200 g** |
 | **`2`** | **Eau tempérée (20 °C)** | **700 g** | **3 150 g** | **6 200 g** | **9 350 g** |
 | **`2`** | **Huile de colza raffinée** | **500 g** | **2 250 g** | **4 450 g** | **6 700 g** |
 | **`3`** | **Farine T65 conventionnelle BM** | **780 g** | **3 500 g** | **6 950 g** | **10 450 g** |
@@ -55,7 +55,7 @@
 
 ### 2. Cuisson Choc Thermique ("Dôme Coffee Shop")
 - **Four ventilé — OURA STRICTEMENT FERMÉ pendant toute la cuisson :**
-  1. **Palier 1 :** Enfourner à **`205 °C – 210 °C`** pendant **`5 minutes pile`**.
+  1. **Palier 1 :** Enfourner à **`205 °C – 210 °C`** pendant **`5 min`**.
   2. **Palier 2 :** Abaisser à **`165 °C`** et cuire **`17 minutes`** (total : **`22 minutes`**, cœur `94–96 °C`).
 
 ### 3. Technique du Pilon à Chaud & Fourrage Nutolade

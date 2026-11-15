@@ -34,10 +34,10 @@
 ### 1. Tolérances de Pesée à la Balance
 - **Ingrédients critiques** (levure, sel, levure chimique, améliorant S500/Soft'r, gélatine, vinaigre) : **± 1 g**.
 - **Farines, sucres, matières grasses, liquides** : **± 5 g**.
-- **Pâtons divisés en bacs Paneo** : poids net calibré **pile au gramme près**.
+- **Pâtons divisés en bacs Paneo** : poids net calibré **au gramme près**.
 
 ### 2. Règles d'Hygiène & Chaîne du Froid
-- **Température d'eau :** Utiliser de l'eau glacée (`+0,5 °C à +1 °C`) ou glace écaille sur les pâtes levées/tourées pour tenir la sortie pétrin sous **20–21 °C**.
+- **Température d'eau :** Utiliser de l'eau froide (`+0,5 °C à +1 °C`) sur les pâtes levées/tourées pour tenir la sortie pétrin sous **20–21 °C**.
 - **Surgélation Flash (`-35 °C`) :** Respecter strictement la sonde à cœur (`-10 °C` pour le PAC poussé). Conditionner immédiatement en caisses doublées étanches à **`-18 °C`** après blocage.
 - **Légumes IQF (Quiches) :** Enfourner **directement congelés**, sans jamais décongeler au préalable.
 - **Allergènes majeurs :** Identifier clairement chaque bac/caisse contenant gluten (`Gruau T45`, `T65 BM`, `T65 Tradition`), œufs, lait, fruits à coque (amandes, noisettes, noix), ou sarrasin.
