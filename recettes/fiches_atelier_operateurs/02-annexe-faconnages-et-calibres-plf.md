@@ -39,7 +39,7 @@
 ## PAGE DROITE — FAÇONNAGE PAR PRODUIT & CUISSONS BOUTIQUES
 
 ### Points Clés de Façonnage Machine
-1. **Croissant (`V-PLF-01`) — Croissomat SCM50 (Sens Droite $\rightarrow$ Gauche) :**
+1. **Croissant (`V-PLF-01`) — Croissomat SCM50 (Sens Droite → Gauche) :**
    - Galets bleus en séparation ; tablier 3 manettes : amorce `5–6 mm`, dégagement `28–32 mm`, **3 à 4 spires lâches**, **clé dessous à 6 h**.
 2. **Pain au Chocolat (`V-PLF-02`) — Polyline :**
    - Bandes `85–90 mm`, dépose **1 barre 10 g**, roulage simple serré, **clé dessous à 6 h**, coupe guillotine à `75 g` pâte nette.
@@ -59,8 +59,8 @@
 | :--- | :---: | :---: | :---: | :---: | :--- |
 | **Croissant (`75 g`)** | **160–165 °C** | **3 s** | **16–18 min** | **À 13 min** | Ressuage grille |
 | **Pain au Chocolat (`85 g`)** | **160–165 °C** | **3 s** | **18–20 min** | **À 14 min** | Ressuage grille |
-| **Pain aux Raisins (`90 g`)** | **165 °C** | — | **16–18 min** | **À 12 min** | **Sirop 44° Brix froid au pinceau** |
-| **Pain Suisse (`120 g`)** | **165 °C** | — | **18–20 min** | **À 14 min** | Sirop 44° Brix froid (optionnel) |
-| **Oranais (`100 g`)** | **165–170 °C** | — | **18–20 min** | **À 14 min** | **Sirop 44° Brix froid sur fruits & pâte** |
-| **Cinnamon Roll (`75 g`)** | **165 °C** | — | **16–18 min** | **À 12 min** | **Sirop 44° Brix froid dès sortie** |
+| **Pain aux Raisins (`90 g`)** | **165 °C** | — | **16–18 min** | **À 12 min** | **Sirop 44° froid au pinceau** |
+| **Pain Suisse (`120 g`)** | **165 °C** | — | **18–20 min** | **À 14 min** | Sirop 44° froid (optionnel) |
+| **Oranais (`100 g`)** | **165–170 °C** | — | **18–20 min** | **À 14 min** | **Sirop 44° froid sur fruits & pâte** |
+| **Cinnamon Roll (`75 g`)** | **165 °C** | — | **16–18 min** | **À 12 min** | **Sirop 44° froid dès sortie** |
 | **Cruffin (`80 g`)** | **165–170 °C** | — | **18–20 min** | **À 14 min** | Démoulage tiède + **roulage sucre vanillé** |

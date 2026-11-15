@@ -45,7 +45,7 @@
 2. **Surgélation :** Passer **35 min en cellule flash `-35 °C`**, puis conditionner en caisses étanches à **`-18 °C`**.
 
 ### 3. Cuisson Directe Congelé (`-18 °C`, Zéro Décongélation)
-- **Préchauffage :** `180 °C` $\rightarrow$ **Consigne four ventilé : `165 °C` régulé**.
+- **Préchauffage :** `180 °C` → **Consigne four ventilé : `165 °C` régulé**.
 - **Durée :** **`13 à 14 minutes chrono`**.
 - **Ouras :** **OUVERTS EN CONTINU** tout au long de la cuisson.
 - **Ressuage :** Laisser figer **15 min sur plaque** avant toute manipulation (le cœur reste souple à la sortie du four).

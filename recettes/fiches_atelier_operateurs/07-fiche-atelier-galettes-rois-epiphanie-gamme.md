@@ -1,5 +1,5 @@
 # 07 — GALETTES DES ROIS ÉPIPHANIE (FRANGIPANE, POMMES & POIRE-NUTOLADE)
-**Codes :** `P-FRA-01`, `P-GAL-01` à `03` | **Workflow J/J+1 :** Inserts `-18 °C` $\rightarrow$ Nuit `+4 °C` $\rightarrow$ Flash `-35 °C`
+**Codes :** `P-FRA-01`, `P-GAL-01` à `03` | **Workflow J/J+1 :** Inserts `-18 °C` → Nuit `+4 °C` → Flash `-35 °C`
 
 ---
 
@@ -12,7 +12,7 @@
 | **`[A]`** | **Poudre crème à froid Staufim** | **600 g** | **1 200 g** | **2 400 g** |
 | *Pâtissière* | *SOUS-TOTAL PÂTISSIÈRE (20,4 %)* | ***2 100 g*** | ***4 200 g*** | ***8 400 g*** |
 | **`[B]`** | **Margarine OPAL cuve** *(18 °C)* | **2 000 g** | **4 000 g** | **8 000 g** |
-| **`[B]`** | **Sucre glace** *(zéro foisonnement)* | **2 000 g** | **4 000 g** | **8 000 g** |
+| **`[B]`** | **Sucre glace** *(sans faire mousser)* | **2 000 g** | **4 000 g** | **8 000 g** |
 | **`[C]`** | **Œufs entiers liquides pasteurisés** | **1 600 g** | **3 200 g** | **6 400 g** |
 | **`[D]`** | **Poudre d'amande blanche émondée** | **2 000 g** | **4 000 g** | **8 000 g** |
 | **`[D]`** | **Farine T65 Tradition** | **420 g** | **840 g** | **1 680 g** |
@@ -39,14 +39,14 @@
 
 ### 2. Montage & Cycle J / J+1 (Zéro Fossé)
 1. **Jour J — Montage :**
-   - Disque fond `3,0 mm` sur Silpat, déposer l'insert congelé `-18 °C` (ou garniture Pommes sans semoule ; ou Trio Frangipane $\rightarrow$ spirale Nutolade $\rightarrow$ dés de poires **égouttés 2 h minimum et épongés**).
+   - Disque fond `3,0 mm` sur Silpat, déposer l'insert congelé `-18 °C` (ou garniture Pommes sans semoule ; ou Trio Frangipane → spirale Nutolade → dés de poires **égouttés 2 h minimum et épongés**).
    - **Fève :** Placer à **3 cm du bord** (`2 cm` sur individuelle), jamais au centre.
    - **Soudure exclusive à l'EAU PURE** sur la marge libre (`2,0 à 3,0 cm` — zéro œuf sur la soudure).
    - Poser le disque dessus, **épouser à la main du centre vers les bords** pour chasser l'air autour de l'insert (anti-fossé), chiqueter au couteau à 45°.
    - Passer la **1ʳᵉ couche fine de Dorure Pinceau** (67 % jaunes / 33 % crème 35 %), puis **nuit complète en échelle à `+4 °C`** (`12–15 h`).
 2. **Jour J+1 — Finition & Congélation :**
    - Passer la **2ᵉ couche fine de Dorure**, rayer à la lame inclinée (`0,5 mm`) + **4 à 5 cheminées franches** (`1` au centre sur individuelle).
-   - **Surgélation flash `-35 °C`** (cœur `≤ -10 °C` en 40 min) $\rightarrow$ caisses filmées à **`-18 °C`**.
+   - **Surgélation flash `-35 °C`** (cœur `≤ -10 °C` en 40 min) → caisses filmées à **`-18 °C`**.
 
 ### 3. Cuisson sous Cales 40 mm & Sirop Miroir 30°B
 - **Cales inox `40 mm`** aux 4 coins + grille perforée dessus.

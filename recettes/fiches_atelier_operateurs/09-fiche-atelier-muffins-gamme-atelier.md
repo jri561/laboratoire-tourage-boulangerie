@@ -14,7 +14,7 @@
 | **`1`** | **Sucre semoule** | **415 g** | **1 860 g** | **3 720 g** | **5 580 g** |
 | **`1`** | **Trimoline (ou miel)** | **65 g** | **290 g** | **580 g** | **870 g** |
 | **`1`** | **Sel fin** | **15 g** | **70 g** | **135 g** | **200 g** |
-| **`2`** | **Eau tempérée (20 °C)** | **700 g** | **3 150 g** | **6 200 g** | **9 350 g** |
+| **`2`** | **Eau à 20 °C** | **700 g** | **3 150 g** | **6 200 g** | **9 350 g** |
 | **`2`** | **Huile de colza raffinée** | **500 g** | **2 250 g** | **4 450 g** | **6 700 g** |
 | **`3`** | **Farine T65 conventionnelle BM** | **1 040 g** | **4 700 g** | **9 250 g** | **13 950 g** |
 | **`3`** | **Poudre de lait entier 26 %** | **100 g** | **450 g** | **900 g** | **1 350 g** |
@@ -32,7 +32,7 @@
 | **`1`** | **Sucre semoule** | **430 g** | **1 920 g** | **3 850 g** | **5 770 g** |
 | **`1`** | **Trimoline (ou miel)** | **50 g** | **230 g** | **450 g** | **680 g** |
 | **`1`** | **Sel fin** | **15 g** | **70 g** | **135 g** | **200 g** |
-| **`2`** | **Eau tempérée (20 °C)** | **700 g** | **3 150 g** | **6 200 g** | **9 350 g** |
+| **`2`** | **Eau à 20 °C** | **700 g** | **3 150 g** | **6 200 g** | **9 350 g** |
 | **`2`** | **Huile de colza raffinée** | **500 g** | **2 250 g** | **4 450 g** | **6 700 g** |
 | **`3`** | **Farine T65 conventionnelle BM** | **780 g** | **3 500 g** | **6 950 g** | **10 450 g** |
 | **`3`** | **Poudre de noisettes torréfiée** | **260 g** | **1 200 g** | **2 300 g** | **3 500 g** |
@@ -61,4 +61,4 @@
 ### 3. Technique du Pilon à Chaud & Fourrage Nutolade
 1. **Dans les 60 secondes à la sortie du four (`> 85 °C`) :** Enfoncer au centre de chaque muffin le pilon inox (`Ø 35 mm`, prof. `30 mm`) légèrement huilé pour tasser la mie sans casser la tulipe.
 2. **Refroidissement complet** sur grille (`< 25 °C` à cœur), puis **pocher 20 g de Nutolade** (ou praliné) dans le puits.
-3. **Surgélation :** Flash **`-35 °C` (25 min)** $\rightarrow$ stockage étanche à **`-18 °C`** (décongélation 45 min à température ambiante sous cloche).
+3. **Surgélation :** Flash **`-35 °C` (25 min)** → stockage étanche à **`-18 °C`** (décongélation 45 min à température ambiante sous cloche).

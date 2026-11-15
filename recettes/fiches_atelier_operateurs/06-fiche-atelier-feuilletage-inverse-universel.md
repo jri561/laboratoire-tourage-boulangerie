@@ -1,5 +1,5 @@
 # 06 — FEUILLETAGE INVERSÉ UNIVERSEL (48 STRATES) & PLAQUES PÂTISSERIE
-**Code :** `P-FEU-01` | **Tourage :** `1 Tour Simple + 2 Tours Doubles` (`48 films`) | **Farine unique :** `T65 Tradition`
+**Code :** `P-FEU-01` | **Tourage :** `1 Tour Simple + 2 Tours Doubles` (`48 couches`) | **Farine unique :** `T65 Tradition`
 
 ---
 
@@ -10,7 +10,7 @@
 | :--- | :--- | :--- |
 | **Bloc 1 • Beurre Manié (Extérieur)** | **3 250 g / pâton** | Batteur feuille V1 `2 min`, cadrer `30 × 40 cm`, froid `+4 °C` |
 | **Bloc 2 • Détrempe (Intérieur)** | **4 035 g / pâton** | Frasage court crochet V1 `2 min 30` (**zéro corps**) |
-| **Pâton Feuilleté Complet** | **7 285 g / pâton** | **48 strates de beurre** — Abaisse finale **`3,0 mm`** |
+| **Pâton Feuilleté Complet** | **7 285 g / pâton** | **48 couches de beurre** — Abaisse finale **`3,0 mm`** |
 
 ### Pesées du Feuilletage Inversé
 | Bloc | Ingrédient d'Atelier | 1 Pâton (7 285 g) | 2 Pâtons (14 570 g) | 4 Pâtons / 1 Carton (29 140 g) |
@@ -36,7 +36,7 @@
 - **Écart cœur/surface toléré au laminoir :** `≤ 2 °C` (pâton homogène entre **10 °C et 12 °C**).
 
 ### 2. Tourage en 3 Tours (`1S + 2D` = 48 Strates)
-1. **Enchâssement :** Tempérer beurre manié (`30×40 cm`) et détrempe (`30×25 cm`) 10–15 min pour atteindre **10–12 °C**. Poser la détrempe au centre du beurre manié, rabattre les ailes sans chevauchement, pincer le joint.
+1. **Enfermer le beurre :** Tempérer beurre manié (`30×40 cm`) et détrempe (`30×25 cm`) 10–15 min pour atteindre **10–12 °C**. Poser la détrempe au centre du beurre manié, rabattre les ailes sans chevauchement, pincer le joint.
 2. **1ᵉʳ Tour = Tour Simple (3 volets) :** Allonger par passes douces (`≤ 20 %`) à `8 mm`, plier en 3, **quart de tour (90°)**.
 3. **2ᵉ Tour = Tour Double (4 volets) :** Allonger immédiatement à `8 mm`, plier en portefeuille (4 volets).
 4. **Repos Isotherme Obligatoire :**

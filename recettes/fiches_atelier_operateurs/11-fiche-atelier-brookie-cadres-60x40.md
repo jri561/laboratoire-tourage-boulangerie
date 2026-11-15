@@ -38,7 +38,7 @@
 ## PAGE DROITE — LAMINAGE COOKIE, MONTAGE, CUISSON & DÉCOUPE 30 PARTS
 
 ### 1. Préparation & Laminage de l'Abaisse Cookie (Bloc B)
-1. **Pétrissage (Feuille V1 strict) :** Sabler OPALE + sucres + gros sel **1 min V1** (zéro foisonnement). Ajouter œufs en V1, puis poudres tamisées en V1 jusqu'à absorption, puis pépites **30 s V1**.
+1. **Pétrissage (Feuille V1 strict) :** Sabler OPALE + sucres + gros sel **1 min V1** (sans faire mousser). Ajouter œufs en V1, puis poudres tamisées en V1 jusqu'à absorption, puis pépites **30 s V1**.
 2. **Laminage Rondo `5,5 mm` :** Peser des pâtons de **1 200 g**, abaisser à **`5,5 mm`** et couper au gabarit **`56 × 36 cm`**.
 3. **Blocage Flash :** Glisser sur papier cuisson et passer **15 à 20 min en cellule `-35 °C`** (abaisse rigide manipulable d'un bloc).
 
@@ -47,7 +47,7 @@
 2. **Montage (`56 × 36 cm` sur Silpat) :** Couler **`2 260 g` net de Brownie A**, lisser à la palette, puis poser l'abaisse congelée de **Cookie B (`1 200 g`, `5,5 mm`)** par-dessus en appuyant doucement à plat.
 
 ### 3. Cuisson & Découpe Zéro Chute (`30 Rectangles`)
-- **Préchauffage four ventilé :** `175 °C` $\rightarrow$ **Consigne : `160 °C à 165 °C` régulé**, durée **`24 à 26 minutes`**.
+- **Préchauffage four ventilé :** `175 °C` → **Consigne : `160 °C à 165 °C` régulé**, durée **`24 à 26 minutes`**.
 - **Gestion des Ouras :**
   - **FERMÉS** pendant les **18 premières minutes** (garde le brownie fondant).
   - **OUVERTS** sur les **6 à 8 dernières minutes** (croustille le dessus cookie).

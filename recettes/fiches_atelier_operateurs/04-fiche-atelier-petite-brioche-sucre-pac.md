@@ -1,5 +1,5 @@
 # 04 — PETITE BRIOCHE INDIVIDUELLE AU SUCRE PAC (75 G)
-**Code :** `V-BRI-01` | **Calibre :** `75 g` pâte crue + `7 g` sucre grain n°10 (`82 g` brut $\rightarrow$ `~75 g` cuit)
+**Code :** `V-BRI-01` | **Calibre :** `75 g` pâte crue + `7 g` sucre grain n°10 (`82 g` brut → `~75 g` cuit)
 
 ---
 
@@ -19,7 +19,7 @@
 | **`[1]`** | **Eau froide (+1 °C)** | **768 g** | **7 680 g** | **15 350 g** | **23 030 g** |
 | **`[1]`** | **Œufs entiers liquides pasteurisés** | **827 g** | **8 270 g** | **16 540 g** | **24 800 g** |
 | **`[1]`** | **Sucre cristal semoule** | **413 g** | **4 130 g** | **8 270 g** | **12 400 g** |
-| **`[1]`** | **Trimoline (Sucre inverti)** | **89 g** | **890 g** | **1 770 g** | **2 660 g** |
+| **`[1]`** | **Trimoline** | **89 g** | **890 g** | **1 770 g** | **2 660 g** |
 | **`[1]`** | **Poudre de lait entier 26 %** | **118 g** | **1 180 g** | **2 360 g** | **3 540 g** |
 | **`[1]`** | **Sel fin** | **62 g** | **620 g** | **1 240 g** | **1 860 g** |
 | **`[1]`** | **Levure fraîche L'Hirondelle Or** | **142 g** | **1 420 g** | **2 830 g** | **4 250 g** |
@@ -45,7 +45,7 @@
 2. **Boulage & Stock 1 :** Bouler serré à la main (clé fermée dessous), plaquer **24 pièces / plaque 60×40**, flasher **30 min à `-35 °C`**, stocker à `-18 °C`.
 3. **Pousse & Grainage (Stock 2 Boutiques) :**
    - Décongélation lente `+4 °C` (`8–10 h`).
-   - Étuve **`26 °C / 80 % HR`** pendant **`~1 h 45`** — arrêt strict à **70–75 % du volume**.
+   - Étuve **`26 °C / 80 % d'humidité`** pendant **`~1 h 45`** — arrêt strict à **70–75 % du volume**.
    - Raffermir **10 min à `+4 °C`**, pulvériser la **Dorure Végétale** au pistolet et parsemer immédiatement le **Sucre Grain n°10** (`~7 g/pièce`) au labo.
    - Passer en **cellule flash `-35 °C`** jusqu'à **`-10 °C` sonde à cœur**, puis stocker à `-18 °C`.
 

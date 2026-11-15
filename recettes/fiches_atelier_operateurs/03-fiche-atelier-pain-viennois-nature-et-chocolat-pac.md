@@ -14,7 +14,7 @@
 | **`[1]`** | **Œufs entiers liquides pasteurisés** | **453 g** | **4 530 g** | **9 050 g** | **13 580 g** |
 | **`[1]`** | **Pâte Fermentée Viennoise (PFV)** | **503 g** | **5 030 g** | **10 060 g** | **15 090 g** |
 | **`[1]`** | **Sucre cristal semoule** | **302 g** | **3 020 g** | **6 040 g** | **9 050 g** |
-| **`[1]`** | **Trimoline (Sucre inverti)** | **101 g** | **1 010 g** | **2 010 g** | **3 020 g** |
+| **`[1]`** | **Trimoline** | **101 g** | **1 010 g** | **2 010 g** | **3 020 g** |
 | **`[1]`** | **Poudre de lait entier 26 %** | **75 g** | **750 g** | **1 510 g** | **2 260 g** |
 | **`[1]`** | **Sel fin** | **50 g** | **500 g** | **1 010 g** | **1 510 g** |
 | **`[1]`** | **Levure fraîche L'Hirondelle Or** | **113 g** | **1 130 g** | **2 260 g** | **3 400 g** |
@@ -33,7 +33,7 @@
 | **`[1]`** | **Œufs entiers liquides pasteurisés** | **405 g** | **4 050 g** | **8 110 g** | **12 160 g** |
 | **`[1]`** | **Pâte Fermentée Viennoise (PFV)** | **450 g** | **4 500 g** | **9 010 g** | **13 510 g** |
 | **`[1]`** | **Sucre cristal semoule** | **270 g** | **2 700 g** | **5 400 g** | **8 110 g** |
-| **`[1]`** | **Trimoline (Sucre inverti)** | **90 g** | **900 g** | **1 800 g** | **2 700 g** |
+| **`[1]`** | **Trimoline** | **90 g** | **900 g** | **1 800 g** | **2 700 g** |
 | **`[1]`** | **Poudre de lait entier 26 %** | **68 g** | **680 g** | **1 350 g** | **2 030 g** |
 | **`[1]`** | **Sel fin** | **45 g** | **450 g** | **900 g** | **1 350 g** |
 | **`[1]`** | **Levure fraîche L'Hirondelle Or** | **101 g** | **1 010 g** | **2 030 g** | **3 040 g** |
@@ -50,7 +50,7 @@
 
 ### 1. Pétrissage Direct & Inclusion Anti-Marbrage
 1. **Frasage (`[1]`) :** Verser tous les ingrédients `[1]` dans le pétrin spirale. Tourner **5 min en 1ʳᵉ vitesse (V1)**.
-2. **Développement & Émulsion (`[2]`) :** Passer en **2ᵉ vitesse (V2)** pendant **4 min**, puis incorporer la **margarine OPAL** tempérée à **14–16 °C** (en dés de 1–2 cm). Poursuivre **3 à 4 min en V2** jusqu'au **voile translucide et décollement net**.
+2. **Pétrissage & Beurre (`[2]`) :** Passer en **2ᵉ vitesse (V2)** pendant **4 min**, puis incorporer la **margarine OPAL** tempérée à **14–16 °C** (en dés de 1–2 cm). Poursuivre **3 à 4 min en V2** jusqu'au **pâte lisse qui se décolle des parois**.
 3. **Version Pépites Chocolat uniquement (`[3]`) :** Repasser impérativement en **1ʳᵉ vitesse (V1)**, verser les **pépites stockées à `+4 °C`** et tourner **45 à 60 secondes MAX** (zéro fonte, zéro marbrage).
 4. **Température de sortie pétrin :** **19 °C à 21 °C maximum**.
 
@@ -62,10 +62,10 @@
 3. **Détente & Façonnage Tapis :** Laisser détendre **8 à 10 min sous bâche**, puis façonner à la façonneuse à tapis :
    - *Nature (`280 g`) :* Boudins de `22–24 cm`, **10 pièces / plaque**, **5 à 6 coups de lame** nets.
    - *Chocolat (`140 g`) :* Boudins de `14–16 cm`, **16 à 18 pièces / plaque**, **3 coups de lame** nets.
-4. **Stock 1 (Cru) :** Flash **`-35 °C` (35 min)** $\rightarrow$ stockage `-18 °C`.
+4. **Stock 1 (Cru) :** Flash **`-35 °C` (35 min)** → stockage `-18 °C`.
 5. **Pousse PAC (Stock 2 Boutiques) :**
    - Décongélation lente `+4 °C` (`8–10 h`).
-   - Étuve **`26 °C / 80 % HR`** : arrêt strict à **70 % du volume** (`1 h 45–2 h 00` Nature / `1 h 30–1 h 45` Chocolat).
+   - Étuve **`26 °C / 80 % d'humidité`** : arrêt strict à **70 % du volume** (`1 h 45–2 h 00` Nature / `1 h 30–1 h 45` Chocolat).
    - Ressuyage **10 min `+4 °C`**, pulvérisation **Dorure Végétale au pistolet** (1,5 bar), puis **flash `-35 °C` jusqu'à `-10 °C` sonde à cœur**.
 
 ### 3. Cuisson Directe Congelé en Boutique (`-18 °C`)

@@ -162,14 +162,14 @@ body {
     font-weight: 600;
 }
 
-/* === EN-TÊTE CHRONO UNIFIÉ === */
+/* === EN-TÊTE ÉPURÉ === */
 .cu-head {
     display: flex;
     justify-content: space-between;
-    align-items: flex-end;
-    border-bottom: 2.5px solid #1c1917;
+    align-items: center;
+    border-bottom: 2px solid #0f172a;
     padding-bottom: 2mm;
-    margin-bottom: 2mm;
+    margin-bottom: 2.5mm;
 }
 
 .cu-head-left {
@@ -179,45 +179,43 @@ body {
 }
 
 .cu-kicker {
-    font-size: 7.2pt;
-    font-weight: 800;
-    letter-spacing: 0.09em;
-    text-transform: uppercase;
-    color: #b45309;
-    margin-bottom: 0.5mm;
+    display: none;
 }
 
-.cu-kicker.green { color: #15803d; }
-
 .cu-title {
-    font-size: 15.5pt;
-    font-weight: 900;
+    font-size: 15pt;
+    font-weight: 800;
     letter-spacing: -0.02em;
-    line-height: 1.08;
-    color: #1c1917;
+    line-height: 1.1;
+    color: #0f172a;
     margin: 0;
 }
 
 .cu-sub {
-    font-size: 7.8pt;
-    color: #57534e;
+    font-size: 8pt;
+    color: #64748b;
     font-weight: 500;
     margin-top: 0.8mm;
 }
 
 .cu-pill {
-    background-color: #1e40af;
-    color: #ffffff;
-    padding: 1.8mm 3.5mm;
-    border-radius: 4px;
-    font-weight: 900;
-    font-size: 8pt;
-    letter-spacing: 0.05em;
+    border: 1.5px solid #0f172a;
+    color: #0f172a;
+    background-color: #ffffff;
+    padding: 1.2mm 3.2mm;
+    border-radius: 3px;
+    font-weight: 800;
+    font-size: 7.5pt;
+    letter-spacing: 0.06em;
     text-transform: uppercase;
     white-space: nowrap;
 }
 
-.cu-pill.green { background-color: #15803d; }
+.cu-pill.green {
+    border-color: #0f172a;
+    background-color: #0f172a;
+    color: #ffffff;
+}
 
 .page-sheet.dense .cu-head {
     padding-bottom: 1.4mm;
@@ -260,48 +258,30 @@ body {
     letter-spacing: 0.03em;
 }
 
-/* === TITRES DE SECTION RELIÉS COULEUR === */
+/* === TITRES DE SECTION ÉPURÉS === */
 .sec-h {
     display: flex;
-    align-items: center;
-    gap: 2.2mm;
-    border-bottom: 1.5px solid #e7e5e4;
-    padding-bottom: 1.2mm;
-    margin: 3px 0 2px 0;
+    align-items: baseline;
+    gap: 2mm;
+    border-bottom: 1.5px solid #0f172a;
+    padding-bottom: 1mm;
+    margin: 4px 0 2px 0;
 }
 
 .sec-num {
-    color: #ffffff;
-    font-size: 9pt;
-    font-weight: 900;
-    padding: 0.6mm 2.2mm;
-    border-radius: 3px;
-    line-height: 1.1;
+    display: none;
 }
 
-.sec-num.p1 { background-color: #1e40af; }
-.sec-num.p2 { background-color: #b45309; }
-.sec-num.p3 { background-color: #15803d; }
-.sec-num.p4 { background-color: #334155; }
-
 .sec-t {
-    font-size: 9.8pt;
+    font-size: 9.5pt;
     font-weight: 800;
     text-transform: uppercase;
-    color: #1c1917;
-    letter-spacing: 0.02em;
+    color: #0f172a;
+    letter-spacing: 0.03em;
 }
 
 .sec-k {
-    margin-left: auto;
-    font-size: 7.5pt;
-    font-weight: 800;
-    background: #faf8f5;
-    border: 1px solid #d6d3d1;
-    padding: 0.5mm 2.2mm;
-    border-radius: 3px;
-    color: #1c1917;
-    white-space: nowrap;
+    display: none;
 }
 
 .page-sheet.dense .sec-h {
@@ -369,20 +349,18 @@ body {
     padding: 1px 2px;
 }
 
-/* Bandeaux de phase colorés dans le tableau */
+/* Séparateurs de phase sobres dans le tableau */
 .data-table tr.p-band td {
-    font-size: 7.4pt;
+    font-size: 7pt;
     font-weight: 800;
     letter-spacing: 0.05em;
     text-transform: uppercase;
-    padding: 2px 5px;
-    color: #ffffff;
-    border: none;
+    padding: 3px 4px 1.5px 4px;
+    color: #475569;
+    background-color: #f8fafc;
+    border-top: 1px solid #cbd5e1;
+    border-bottom: 1px solid #e2e8f0;
 }
-.data-table tr.p-band.p1 td { background-color: #1e40af; }
-.data-table tr.p-band.p2 td { background-color: #b45309; }
-.data-table tr.p-band.p3 td { background-color: #15803d; }
-.data-table tr.p-band.p4 td { background-color: #334155; }
 
 .data-table tr.row-subtotal td {
     background-color: #f5f5f4;
@@ -450,66 +428,60 @@ body {
     white-space: normal;
 }
 
-/* === CARTES D'ÉTAPES CHRONO UNIFIÉ (PAGE DROITE) === */
+/* === LISTE D'ÉTAPES ÉPURÉE (PAGE DROITE) === */
 .step-rows {
     display: flex;
     flex-direction: column;
-    gap: 1.5mm;
-    margin: 1px 0 3px 0;
+    margin: 1px 0 4px 0;
 }
 
 .s-row {
     display: grid;
-    grid-template-columns: 33mm 1fr;
-    border: 1px solid #e7e5e4;
-    border-left: 3.5px solid #1e40af;
-    border-radius: 3px;
-    overflow: hidden;
+    grid-template-columns: 26mm 1fr;
+    border-bottom: 1px solid #e2e8f0;
+    padding: 2mm 0;
     background-color: #ffffff;
 }
 
-.s-row.p2 { border-left-color: #b45309; }
-.s-row.p3 { border-left-color: #15803d; }
-.s-row.p4 { border-left-color: #334155; }
+.s-row:last-child {
+    border-bottom: none;
+}
 
 .s-left {
-    background-color: #faf8f5;
-    border-right: 1px solid #e7e5e4;
-    padding: 1.8mm 2.2mm;
+    padding-right: 3mm;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: flex-start;
+    align-items: flex-start;
 }
 
 .s-val {
-    font-size: 10.5pt;
-    font-weight: 900;
-    color: #1c1917;
-    line-height: 1.1;
+    font-size: 10pt;
+    font-weight: 800;
+    color: #0f172a;
+    line-height: 1.15;
 }
 
 .s-lbl {
-    font-size: 6.5pt;
-    font-weight: 700;
-    text-transform: uppercase;
-    color: #78716c;
-    margin-top: 0.4mm;
+    font-size: 6.8pt;
+    font-weight: 600;
+    color: #64748b;
+    margin-top: 0.3mm;
 }
 
 .s-right {
-    padding: 1.8mm 2.8mm;
+    padding: 0;
     display: block;
-    font-size: 8.3pt;
-    color: #44403c;
-    line-height: 1.3;
-    align-self: center;
+    font-size: 8.4pt;
+    color: #334155;
+    line-height: 1.32;
 }
 
 .s-right strong.st {
-    color: #1c1917;
-    font-size: 8.7pt;
+    color: #0f172a;
+    font-size: 8.8pt;
     display: block;
-    margin-bottom: 0.3mm;
+    margin-bottom: 0.4mm;
 }
 
 /* === LISTES SOBRES & PARAGRAPHES === */
@@ -644,7 +616,6 @@ def render_table(table_lines: list[str], force_ultra_compact: bool = False) -> s
 
     out = [f'<table class="{" ".join(classes)}"><thead><tr>']
     if use_checklist:
-        out.append('<th style="width:6mm;"></th>')
         for c_idx in range(1, len(headers)):
             cls_parts = []
             if c_idx in num_cols:
@@ -665,7 +636,7 @@ def render_table(table_lines: list[str], force_ultra_compact: bool = False) -> s
     out.append('</tr></thead><tbody>')
 
     last_phase = None
-    colspan = len(headers)
+    colspan = len(headers) - 1 if use_checklist else len(headers)
 
     for r in rows:
         lbl_upper = (r[0] + " " + (r[1] if len(r) > 1 else "")).upper()
@@ -683,8 +654,6 @@ def render_table(table_lines: list[str], force_ultra_compact: bool = False) -> s
 
         out.append(f'<tr{tr_cls}>')
         if use_checklist:
-            chk_cell = '<td class="chk"></td>' if tr_cls else '<td class="chk">☐</td>'
-            out.append(chk_cell)
             for c_idx in range(1, len(headers)):
                 val = r[c_idx] if c_idx < len(r) else ""
                 cls_parts = []
@@ -817,14 +786,10 @@ def render_page_body(md_block: str, is_right: bool) -> tuple[str, str, bool]:
                 j = i + 1
                 while j < len(lines) and not lines[j].strip().startswith('|'):
                     j += 1
-                tbl = []
                 while j < len(lines) and lines[j].strip().startswith('|'):
-                    tbl.append(lines[j].strip())
                     j += 1
-                if tbl:
-                    blocks.append(render_kpi_from_table(tbl))
-                    i = j
-                    continue
+                i = j
+                continue
 
             sec_num += 1
             clean_t = re.sub(r'^\d+\.\s*', '', title)
@@ -873,9 +838,13 @@ def render_page_body(md_block: str, is_right: bool) -> tuple[str, str, bool]:
                 i += 1
             p_cls = phase_classes[min(max(sec_num - 1, 0), 3)]
             m_val, m_lbl = extract_step_metric(stitle, sbody, num)
+            if m_lbl == "CONSIGNE":
+                left_step_html = f'<div class="s-left"><span class="s-lbl" style="margin-top:0;font-size:8pt;font-weight:700;">Étape {num}</span></div>'
+            else:
+                left_step_html = f'<div class="s-left"><span class="s-val">{clean_inline(m_val)}</span></div>'
             step_cards.append(
-                f'<div class="s-row {p_cls}">'
-                f'<div class="s-left"><span class="s-val">{clean_inline(m_val)}</span><span class="s-lbl">{clean_inline(m_lbl)}</span></div>'
+                f'<div class="s-row">'
+                f'{left_step_html}'
                 f'<div class="s-right"><strong class="st">{clean_inline(stitle)}</strong>{clean_inline(sbody)}</div>'
                 f'</div>'
             )
@@ -945,16 +914,19 @@ def parse_fiche_pages(md_path: str, page_start: int, total_pages: int) -> list[s
     left_cls = "page-sheet dense" if left_dense else "page-sheet"
     right_cls = "page-sheet dense" if right_dense else "page-sheet"
 
+    # Nettoyer le sous-titre (retirer les codes internes "Codes : ...")
+    clean_meta_parts = [p.strip() for p in meta.split('|') if not re.match(r'^\*\*Codes?\s*:', p.strip(), re.I)]
+    meta_html = f'<div class="cu-sub">{clean_inline(" | ".join(clean_meta_parts))}</div>' if clean_meta_parts else ''
+
     page_left = f"""
     <div class="{left_cls}">
       <div class="page-content">
         <div class="cu-head">
           <div class="cu-head-left">
-            <div class="cu-kicker">FICHE ATELIER • POSTE DE PESÉE &amp; PRÉPARATION</div>
             <h1 class="cu-title">{clean_inline(title)}</h1>
-            <div class="cu-sub">{clean_inline(meta)}</div>
+            {meta_html}
           </div>
-          <div class="cu-pill">POSTE DE PESÉE</div>
+          <div class="cu-pill">PESÉE</div>
         </div>
         {left_html}
         {left_alert}
@@ -971,11 +943,10 @@ def parse_fiche_pages(md_path: str, page_start: int, total_pages: int) -> list[s
       <div class="page-content">
         <div class="cu-head">
           <div class="cu-head-left">
-            <div class="cu-kicker green">FICHE ATELIER • CONDUITE MACHINE &amp; CUISSON</div>
             <h1 class="cu-title">{clean_inline(title)}</h1>
-            <div class="cu-sub">{clean_inline(meta)}</div>
+            {meta_html}
           </div>
-          <div class="cu-pill green">CONDUITE &amp; CUISSON</div>
+          <div class="cu-pill green">FABRICATION</div>
         </div>
         {right_html}
         {right_alert}
@@ -1002,32 +973,32 @@ def build_cover_html() -> str:
           <div class="cover-card">
             <div class="cover-card-num">PÔLE 1 • FICHES 01 – 02</div>
             <div class="cover-card-title">Pâte Levée Feuilletée (PLF)</div>
-            <div class="cover-card-desc">Détrempe commune, tourage unifié 1D + 1S (12 films) et 7 façonnages sur Rondo Polyline &amp; Croissomat SCM50.</div>
+            <div class="cover-card-desc">Détrempe commune, tourage 1D + 1S (12 couches) et 7 façonnages sur Rondo Polyline &amp; Croissomat SCM50.</div>
           </div>
           <div class="cover-card">
             <div class="cover-card-num">PÔLE 2 • FICHES 03 – 04</div>
             <div class="cover-card-title">Pains Viennois &amp; Brioches PAC</div>
-            <div class="cover-card-desc">Méthode directe Soft'r / Kimo : Pains Viennois 280 g &amp; 140 g, Petites Brioches au Sucre 75 g.</div>
+            <div class="cover-card-desc">Méthode directe : Pains Viennois 280 g &amp; 140 g, Petites Brioches au Sucre 75 g.</div>
           </div>
           <div class="cover-card c-amber">
             <div class="cover-card-num">PÔLE 3 • FICHE 05</div>
             <div class="cover-card-title">Kouign-Amann Breton</div>
-            <div class="cover-card-desc">Beurre manié sucré au Ratio d'Or (3 820 g/bac), individuels 100 g &amp; partage 400/600 g en octogone.</div>
+            <div class="cover-card-desc">Beurre manié sucré (3 820 g/bac), individuels 100 g &amp; partage 400/600 g en octogone.</div>
           </div>
           <div class="cover-card c-amber">
             <div class="cover-card-num">PÔLE 4 • FICHES 06 – 07</div>
             <div class="cover-card-title">Feuilletage Inversé &amp; Épiphanie</div>
-            <div class="cover-card-desc">Feuilletage 48 strates (OPAL en détrempe), Frangipane 80/20, Pommes Topfil &amp; Trio Poire-Nutolade.</div>
+            <div class="cover-card-desc">Feuilletage 48 couches, Frangipane, Pommes &amp; Poire-Nutolade.</div>
           </div>
           <div class="cover-card c-green">
             <div class="cover-card-num">PÔLE 5 • FICHES 08 – 13</div>
             <div class="cover-card-title">Biscuiterie &amp; Gâteaux de Voyage</div>
-            <div class="cover-card-desc">Cookies coupe-fil 80 g, Muffins pilon 120 g, Brownie &amp; Brookie en cadres 56×36 cm, Cakes &amp; Nantais.</div>
+            <div class="cover-card-desc">Cookies coupe-fil 80 g, Muffins 120 g, Brownie &amp; Brookie en cadres 56×36 cm, Cakes &amp; Nantais.</div>
           </div>
           <div class="cover-card c-green">
             <div class="cover-card-num">PÔLE 6 • FICHES 14 – 17</div>
             <div class="cover-card-title">Girocrêpes, Traiteur &amp; Cuissons</div>
-            <div class="cover-card-desc">Crêpes froment, Galettes blé noir, Quiches individuelles IQF, Dorures, Sirop 44°B et barèmes généraux.</div>
+            <div class="cover-card-desc">Crêpes froment, Galettes blé noir, Quiches, Dorures, Sirop 44° et barèmes de cuisson.</div>
           </div>
         </div>
       </div>
@@ -1042,18 +1013,17 @@ def build_cover_html() -> str:
 
 def build_sommaire_pages(total_pages: int) -> list[str]:
     p2 = f"""
-    <div class="page-sheet">
+    <div class="page-sheet dense">
       <div class="page-content">
         <div class="cu-head">
           <div class="cu-head-left">
-            <div class="cu-kicker">SOMMAIRE • PÔLES 1 À 4</div>
-            <h1 class="cu-title">Sommaire — Viennoiserie &amp; Feuilletage</h1>
-            <div class="cu-sub">PLF, Pains Viennois, Brioches, Kouign-Amann, Feuilletage Inversé &amp; Galettes</div>
+            <div class="cu-kicker">SOMMAIRE GÉNÉRAL • FICHES 01 À 17</div>
+            <h1 class="cu-title">Sommaire des Recettes</h1>
+            <div class="cu-sub">Toutes les fiches de production classées par pôle</div>
           </div>
-          <div class="cu-pill">PAGES 4 – 17</div>
+          <div class="cu-pill">PAGES 4 – 37</div>
         </div>
 
-        <div class="sec-h"><span class="sec-num p1">01</span><span class="sec-t">Fiches Pôles 1 à 4</span></div>
         <table class="data-table">
           <thead><tr><th>Fiche</th><th>Pôle</th><th>Produits</th><th class="num">Pages</th></tr></thead>
           <tbody>
@@ -1064,11 +1034,21 @@ def build_sommaire_pages(total_pages: int) -> list[str]:
             <tr><td><strong>05</strong></td><td>Pôle 3 • Breton</td><td><strong>Kouign-Amann Individuel &amp; Partage</strong></td><td class="num">12 – 13</td></tr>
             <tr><td><strong>06</strong></td><td>Pôle 4 • Feuilletage</td><td><strong>Feuilletage Inversé &amp; Plaques Pâtisserie</strong></td><td class="num">14 – 15</td></tr>
             <tr><td><strong>07</strong></td><td>Pôle 4 • Épiphanie</td><td><strong>Galettes des Rois (Frangipane, Pommes, Poire-Nutolade)</strong></td><td class="num">16 – 17</td></tr>
+            <tr><td><strong>08</strong></td><td>Pôle 5 • Biscuiterie</td><td><strong>Cookies Classique &amp; Chocolat-Noisette</strong></td><td class="num">18 – 19</td></tr>
+            <tr><td><strong>09</strong></td><td>Pôle 5 • Biscuiterie</td><td><strong>Muffins Pépites / Cœur Nutolade &amp; Noisette</strong></td><td class="num">20 – 21</td></tr>
+            <tr><td><strong>10</strong></td><td>Pôle 5 • Biscuiterie</td><td><strong>Brownie Fondant Chocolat &amp; Noix</strong></td><td class="num">22 – 23</td></tr>
+            <tr><td><strong>11</strong></td><td>Pôle 5 • Biscuiterie</td><td><strong>Brookie</strong></td><td class="num">24 – 25</td></tr>
+            <tr><td><strong>12</strong></td><td>Pôle 5 • Biscuiterie</td><td><strong>Cakes de Voyage (Golden, Citron Pavot, Marbré)</strong></td><td class="num">26 – 27</td></tr>
+            <tr><td><strong>13</strong></td><td>Pôle 5 • Biscuiterie</td><td><strong>Gâteau Nantais</strong></td><td class="num">28 – 29</td></tr>
+            <tr><td><strong>14</strong></td><td>Pôle 6 • Girocrêpes</td><td><strong>Crêpes de Froment</strong></td><td class="num">30 – 31</td></tr>
+            <tr><td><strong>15</strong></td><td>Pôle 6 • Girocrêpes</td><td><strong>Galettes de Blé Noir</strong></td><td class="num">32 – 33</td></tr>
+            <tr><td><strong>16</strong></td><td>Pôle 6 • Traiteur</td><td><strong>Quiches (Lorraine, Chèvre-Épinards, Poireaux)</strong></td><td class="num">34 – 35</td></tr>
+            <tr><td><strong>17</strong></td><td>Pôle 6 • Finitions</td><td><strong>Dorures, Sirop 44° &amp; Barèmes de Cuisson</strong></td><td class="num">36 – 37</td></tr>
           </tbody>
         </table>
       </div>
       <footer class="page-footer">
-        <span>SOMMAIRE GÉNÉRAL • PÔLES 1 À 4</span>
+        <span>SOMMAIRE GÉNÉRAL</span>
         <span>2 / {total_pages}</span>
       </footer>
     </div>
@@ -1079,32 +1059,18 @@ def build_sommaire_pages(total_pages: int) -> list[str]:
       <div class="page-content">
         <div class="cu-head">
           <div class="cu-head-left">
-            <div class="cu-kicker green">SOMMAIRE • PÔLES 5 À 6</div>
-            <h1 class="cu-title">Sommaire — Biscuiterie, Traiteur &amp; Cuissons</h1>
-            <div class="cu-sub">Cookies, Muffins, Brownie, Brookie, Cakes, Nantais, Crêpes, Quiches &amp; Cuissons</div>
+            <div class="cu-kicker">NOTES D'ATELIER</div>
+            <h1 class="cu-title">Notes de Production</h1>
+            <div class="cu-sub">Page libre (permet d'ouvrir chaque fiche en double page face à face)</div>
           </div>
-          <div class="cu-pill green">PAGES 18 – 37</div>
+          <div class="cu-pill">NOTES</div>
         </div>
-
-        <div class="sec-h"><span class="sec-num p3">02</span><span class="sec-t">Fiches Pôles 5 à 6</span></div>
-        <table class="data-table">
-          <thead><tr><th>Fiche</th><th>Pôle</th><th>Produits</th><th class="num">Pages</th></tr></thead>
-          <tbody>
-            <tr><td><strong>08</strong></td><td>Pôle 5 • Biscuiterie</td><td><strong>Cookies Classique &amp; Chocolat-Noisette</strong></td><td class="num">18 – 19</td></tr>
-            <tr><td><strong>09</strong></td><td>Pôle 5 • Biscuiterie</td><td><strong>Muffins Pépites / Cœur Nutolade &amp; Noisette</strong></td><td class="num">20 – 21</td></tr>
-            <tr><td><strong>10</strong></td><td>Pôle 5 • Biscuiterie</td><td><strong>Brownie Fondant Chocolat &amp; Noix</strong></td><td class="num">22 – 23</td></tr>
-            <tr><td><strong>11</strong></td><td>Pôle 5 • Biscuiterie</td><td><strong>Brookie</strong></td><td class="num">24 – 25</td></tr>
-            <tr><td><strong>12</strong></td><td>Pôle 5 • Biscuiterie</td><td><strong>Cakes de Voyage (Golden, Citron Pavot, Marbré)</strong></td><td class="num">26 – 27</td></tr>
-            <tr><td><strong>13</strong></td><td>Pôle 5 • Biscuiterie</td><td><strong>Gâteau Nantais</strong></td><td class="num">28 – 29</td></tr>
-            <tr><td><strong>14</strong></td><td>Pôle 6 • Girocrêpes</td><td><strong>Crêpes de Froment</strong></td><td class="num">30 – 31</td></tr>
-            <tr><td><strong>15</strong></td><td>Pôle 6 • Girocrêpes</td><td><strong>Galettes de Blé Noir</strong></td><td class="num">32 – 33</td></tr>
-            <tr><td><strong>16</strong></td><td>Pôle 6 • Traiteur</td><td><strong>Quiches (Lorraine, Chèvre-Épinards, Poireaux)</strong></td><td class="num">34 – 35</td></tr>
-            <tr><td><strong>17</strong></td><td>Pôle 6 • Finitions</td><td><strong>Dorures, Sirop 44° Brix &amp; Barèmes de Cuisson</strong></td><td class="num">36 – 37</td></tr>
-          </tbody>
-        </table>
+        <div style="margin-top: 8mm; display: flex; flex-direction: column; gap: 9mm;">
+          {''.join('<div style="border-bottom: 1px solid #e2e8f0; height: 1px;"></div>' for _ in range(18))}
+        </div>
       </div>
       <footer class="page-footer">
-        <span>SOMMAIRE GÉNÉRAL • PÔLES 5 À 6</span>
+        <span>NOTES D'ATELIER</span>
         <span>3 / {total_pages}</span>
       </footer>
     </div>

@@ -23,7 +23,7 @@
 | **14** | Pôle 6 — Girocrêpes | **Crêpes de Froment sur Carrousel Girocrêpes** | `C-CRP-01` |
 | **15** | Pôle 6 — Girocrêpes | **Galettes de Blé Noir (Sarrasin) sur Carrousel Girocrêpes** | `C-GAL-01` |
 | **16** | Pôle 6 — Traiteur | **Quiches Traiteur (Lorraine, Chèvre-Épinards IQF, Poireaux)** | `T-QCH-01` à `03` |
-| **17** | Pôle 6 — Finitions | **Dorures, Sirop de Lustrage 44° Brix & Barèmes Généraux de Cuisson** | `R-DOR-01`, `R-SIR-01` |
+| **17** | Pôle 6 — Finitions | **Dorures, Sirop de Lustrage 44° & Barèmes Généraux de Cuisson** | `R-DOR-01`, `R-SIR-01` |
 
 ---
 
@@ -39,5 +39,5 @@
 ### 2. Règles d'Hygiène & Chaîne du Froid
 - **Température d'eau :** Utiliser de l'eau froide (`+0,5 °C à +1 °C`) sur les pâtes levées/tourées pour tenir la sortie pétrin sous **20–21 °C**.
 - **Surgélation Flash (`-35 °C`) :** Respecter strictement la sonde à cœur (`-10 °C` pour le PAC poussé). Conditionner immédiatement en caisses doublées étanches à **`-18 °C`** après blocage.
-- **Légumes IQF (Quiches) :** Enfourner **directement congelés**, sans jamais décongeler au préalable.
+- **Légumes surgelés (Quiches) :** Enfourner **directement congelés**, sans jamais décongeler au préalable.
 - **Allergènes majeurs :** Identifier clairement chaque bac/caisse contenant gluten (`Gruau T45`, `T65 BM`, `T65 Tradition`), œufs, lait, fruits à coque (amandes, noisettes, noix), ou sarrasin.

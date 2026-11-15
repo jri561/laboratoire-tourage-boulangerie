@@ -20,7 +20,7 @@
 | **`[2]`** | **Œufs entiers liquides** | **660 g** | **3 300 g** | **6 600 g** | **9 900 g** |
 | **`[2]`** | **Extrait de café pur Trablit** | **5 g** | **25 g** | **50 g** | **75 g** |
 | **`[2]`** | **Sucre cristal semoule** | **750 g** | **3 750 g** | **7 500 g** | **11 250 g** |
-| **`[2]`** | **Trimoline (Sucre inverti)** | **50 g** | **250 g** | **500 g** | **750 g** |
+| **`[2]`** | **Trimoline** | **50 g** | **250 g** | **500 g** | **750 g** |
 | **`[3]`** | **Farine T65 conventionnelle BM** | **235 g** | **1 175 g** | **2 350 g** | **3 525 g** |
 | **`[3]`** | **Cacao pur 100 % en poudre** | **90 g** | **450 g** | **900 g** | **1 350 g** |
 | **`[3]`** | **Sel fin** | **5 g** | **25 g** | **50 g** | **75 g** |
@@ -40,7 +40,7 @@
 4. **Coulage :** Poser le cadre inox `56 × 36 cm` sur plaque `60×40` + Silpat, couler **3 000 g net** et lisser à la spatule (`20–22 mm`). Pour la version Noix, parsemer **`400 g` de cerneaux de noix brisures** (torréfiés `10 min à 150 °C` et refroidis) et enfoncer très légèrement.
 
 ### 2. Cuisson Douce (Ouras Fermés)
-- **Préchauffage four ventilé :** `170 °C` $\rightarrow$ **Consigne : `160 °C` régulé**.
+- **Préchauffage four ventilé :** `170 °C` → **Consigne : `160 °C` régulé**.
 - **Durée :** **`22 à 25 minutes`**.
 - **Ouras :** **RIGOREUSEMENT FERMÉS** pendant toute la cuisson (cœur légèrement tremblotant sous le doigt à la sortie).
 

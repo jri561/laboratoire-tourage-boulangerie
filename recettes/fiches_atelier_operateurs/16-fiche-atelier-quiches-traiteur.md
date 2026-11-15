@@ -23,11 +23,11 @@
 | - Emmental râpé français 45 % | **10 g** | **0,48 kg** | **4,8 kg** | **9,6 kg** | **14,4 kg** |
 | **`T-QCH-02` CHÈVRE-ÉPINARDS (`150 g` garn.) :** | | | | | |
 | - Appareil liquide assaisonné (**8 g sel/kg**) | **90 g** | **4,32 kg** | **43,2 kg** | **86,4 kg** | **129,6 kg** |
-| - **Épinards en branches IQF (congelés)** | **40 g** | **1,92 kg** | **19,2 kg** | **38,4 kg** | **57,6 kg** |
+| - **Épinards en branches surgelés** | **40 g** | **1,92 kg** | **19,2 kg** | **38,4 kg** | **57,6 kg** |
 | - Bûche de chèvre (rondelles/dés) | **20 g** | **0,96 kg** | **9,6 kg** | **19,2 kg** | **28,8 kg** |
 | **`T-QCH-03` POIREAUX (`160 g` garniture) :** | | | | | |
 | - Appareil liquide assaisonné (**8 g sel/kg**) | **100 g** | **4,80 kg** | **48,0 kg** | **96,0 kg** | **144,0 kg** |
-| - **Poireaux émincés IQF (congelés)** | **50 g** | **2,40 kg** | **24,0 kg** | **48,0 kg** | **72,0 kg** |
+| - **Poireaux émincés surgelés** | **50 g** | **2,40 kg** | **24,0 kg** | **48,0 kg** | **72,0 kg** |
 | - Emmental râpé français 45 % | **10 g** | **0,48 kg** | **4,8 kg** | **9,6 kg** | **14,4 kg** |
 
 <!-- PAGE_BREAK -->
@@ -35,7 +35,7 @@
 ## PAGE DROITE — ASSEMBLAGE, CUISSON & REFROIDISSEMENT HACCP
 
 ### 1. Règles Critiques d'Atelier
-1. **Légumes IQF directement congelés :** Ne **JAMAIS décongeler** les épinards ou poireaux avant garnissage (sinon détrempage garanti du fond de pâte).
+1. **Légumes surgelés sans décongélation :** Ne **JAMAIS décongeler** les épinards ou poireaux avant garnissage (sinon détrempage garanti du fond de pâte).
 2. **Différenciation stricte du sel :** Toujours **`4 g/kg`** sur l'appareil Lorraine (lardons déjà salés) et **`8 g/kg`** sur l'appareil Légumes.
 3. **Appareil sans mousse :** Fouetter doucement en cuve sans incorporer d'air.
 
@@ -44,4 +44,4 @@
 2. **Garnissage solide puis liquide :** Déposer les garnitures solides au fond, puis couler l'appareil à la doseuse (`90 g` Chèvre-Épinards / `100 g` Lorraine et Poireaux, à 2 mm sous le bord).
 3. **Cuisson four ventilé :** **`170 °C` régulé**, **`30 à 35 minutes`**, **OURA FERMÉ** (température à cœur `≥ 85 °C`).
 4. **Démoulage & Refroidissement HACCP :** Repos `10 min`, démouler tiède sur grilles ajourées. Refroidir en cellule sous **`+10 °C` à cœur en moins de 2 heures**, puis conditionner en cartons de **48 pièces** (2 couches de 24 avec intercalaire).
-   - *Frais (`+4 °C`) :* DLC `4 jours` | *Surgelé (`-18 °C`) :* DLUO `6 mois` | *Régénération boutique :* `10–12 min à 180 °C` (jamais de micro-ondes).
+   - *Frais (`+4 °C`) :* DLC `4 jours` | *Surgelé (`-18 °C`) :* DLUO `6 mois` | *Réchauffage boutique :* `10–12 min à 180 °C` (jamais de micro-ondes).

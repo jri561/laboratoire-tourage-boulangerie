@@ -29,13 +29,13 @@
 
 ## PAGE DROITE — CONDUITE BATTEUR & TAMBOUR GIROCRÊPES
 
-### 1. Préparation Biphasique au Batteur (Fouet)
+### 1. Préparation en 2 fois au batteur (fouet)
 1. **Phase 1 — Base serrée :** Verser Eau 1, lait entier, sel, sarrasin, Farine T65 BM et œufs. Tourner **1 min en V1** puis **3 min en V2**.
 2. **Phase 2 — Allongement :** Revenir en **V1**, verser l'Eau 2 en filet, puis **1 min en V2**.
-3. **Vigilance viscosité :** Si la cuve attend `> 30 min`, redonner un coup de fouet vigoureux avant de charger la trémie (le sarrasin épaissit au repos).
+3. **Si la pâte épaissit :** Si la cuve attend `> 30 min`, redonner un coup de fouet vigoureux avant de charger la trémie (le sarrasin épaissit au repos).
 
 ### 2. Conduite Tambour Rotatif (`230 °C` / `32 s`)
 - **Température tambour :** **`230 °C` régulée** (`± 3 °C` — si `< 220 °C`, la galette colle et s'enroule sur la raclette).
 - **Temps de passage :** **`32 s`** (`30 à 34 s`), épaisseur cuite `0,8–1,0 mm`.
 - **Surveillance :** Brasser la trémie au fouet **toutes les 20 min**.
-- **Pliage & Conditionnement :** Plier en 2 (demi-lune) ou en 4 (triangle), refroidir à `15 °C`, ensacher par 6 ou 10 sous gaz neutre ($N_2$) — DLC `21 jours` entre `0 °C` et `+4 °C`.
+- **Pliage & Conditionnement :** Plier en 2 (demi-lune) ou en 4 (triangle), refroidir à `15 °C`, ensacher par 6 ou 10 sous gaz protecteur — DLC `21 jours` entre `0 °C` et `+4 °C`.

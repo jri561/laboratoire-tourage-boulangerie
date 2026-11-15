@@ -11,7 +11,7 @@
 | **Mix `REX MELLA CITRON 10 KG`** | 1 | **1 600 g** | **16 000 g** | **24 000 g** |
 | **Œufs entiers liquides** *(18–20 °C)* | 1 | **560 g** | **5 600 g** | **8 400 g** |
 | **Huile végétale neutre** *(colza/tournesol)* | 1 | **480 g** | **4 800 g** | **7 200 g** |
-| **Eau tempérée (20 °C)** | 1 | **360 g** | **3 600 g** | **5 400 g** |
+| **Eau à 20 °C** | 1 | **360 g** | **3 600 g** | **5 400 g** |
 | **Graines de pavot bleu nettoyées** | 2 | **60 g** | **600 g** | **900 g** |
 | **TOTAL PÂTE CRUE** | — | **3 060 g** | **30 600 g** | **45 900 g** |
 
@@ -21,14 +21,14 @@
 | **Mix `REX MELLA GOLDEN` OU `DEL.G MERE`** | 1 | **735 g** | **7 350 g** | **11 000 g** |
 | **Huile végétale neutre** | 1 | **355 g** | **3 550 g** | **5 350 g** |
 | **Œufs entiers liquides** *(18–20 °C)* | 1 | **295 g** | **2 950 g** | **4 400 g** |
-| **Eau tempérée (20 °C)** | 1 | **145 g** | **1 450 g** | **2 200 g** |
+| **Eau à 20 °C** | 1 | **145 g** | **1 450 g** | **2 200 g** |
 | **SOUS-TOTAL PAR COULEUR** | — | **1 530 g** | **15 300 g** | **22 950 g** |
 | **TOTAL DRESSAGE / MOULE (GOLDEN + DEL.G MERE)** | — | **3 060 g** | **30 600 g** | **45 900 g** |
 
 ### 3. Cake aux Fruits Confits (`B-CAK-03`)
 - **Mix `REX MELLA GOLDEN CAKE` :** `12 350 g` (10 moules) • `18 500 g` (15 moules)
 - **Œufs liquides :** `5 900 g` (10 m.) • `8 850 g` (15 m.) | **Huile végétale :** `4 950 g` (10 m.) • `7 400 g` (15 m.)
-- **Eau tempérée :** `2 450 g` (10 m.) • `3 700 g` (15 m.) | **Fruits confits égouttés & farinés :** `4 950 g` (10 m.) • `7 450 g` (15 m.)
+- **Eau à 20 °C :** `2 450 g` (10 m.) • `3 700 g` (15 m.) | **Fruits confits égouttés & farinés :** `4 950 g` (10 m.) • `7 450 g` (15 m.)
 
 <!-- PAGE_BREAK -->
 
@@ -39,7 +39,7 @@
 2. **Inclusions (`2`) :** Ajouter pavot bleu ou fruits confits (égouttés 2 h et légèrement farinés) et mélanger **30 s en V1**.
 3. **Dressage en moules `50 × 10 × 10 cm` (chemisés papier ou graissés) :**
    - *Citron & Fruits :* Peser **3 060 g** nets par moule.
-   - *Marbré :* Alterner 4 couches de **765 g** (Golden $\rightarrow$ Délice Grand-Mère $\rightarrow$ Golden $\rightarrow$ Délice Grand-Mère).
+   - *Marbré :* Alterner 4 couches de **765 g** (Golden → Délice Grand-Mère → Golden → Délice Grand-Mère).
 4. **Fente axiale à la corne huilée :** Tremper une corne rigide dans l'huile de colza, enfoncer sur `15–20 mm` et fendre le cake sur toute la longueur médiane.
 
 ### 2. Cuisson & Ressuage (Règle des 60 Minutes)

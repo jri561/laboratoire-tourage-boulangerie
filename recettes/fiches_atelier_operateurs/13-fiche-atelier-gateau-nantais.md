@@ -22,7 +22,7 @@
 
 ### 2. Finitions Post-Cuisson
 - **Sirop d'imbibage au Rhum :** **500 g** eau + **400 g** sucre semoule (bouillir 1 min) + **150 g** rhum ambré hors du feu.
-- **Glaçage Royal Cryorésistant :** **500 g** sucre glace tamisé + **80 g** rhum ambré 45° + **50 g** Trimoline + **4 g** gélatine feuille Or hydratée dans **24 g** d'eau froide (`28 g` masse gélatine).
+- **Glaçage Rhum :** **500 g** sucre glace tamisé + **80 g** rhum ambré 45° + **50 g** Trimoline + **4 g** gélatine feuille Or hydratée dans **24 g** d'eau froide (`28 g` masse gélatine).
 
 <!-- PAGE_BREAK -->
 
