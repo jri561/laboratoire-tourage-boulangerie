@@ -14,7 +14,7 @@
 | **`[1]`** | **Sel fin** | **4 g** | **20 g** | **60 g** |
 | **`[2]`** | **Œufs entiers liquides pasteurisés** | **200 g** | **1 000 g** | **3 000 g** |
 | **`[3]`** | **Farine T65 conventionnelle BM** | **130 g** | **650 g** | **1 950 g** |
-| **`[3]`** | **Levure chimique (Baking powder)** | **5 g** | **25 g** | **75 g** |
+| **`[3]`** | **Levure chimique** | **5 g** | **25 g** | **75 g** |
 | **`[4]`** | **Rhum ambré agricole 45° ou 54°** | **80 g** | **400 g** | **1 200 g** |
 | **TOTAL** | **POIDS TOTAL APPAREIL CRU** | **1 109 g** | **5 545 g** | **16 635 g** |
 | *Rendement* | *Moules individuels aluminium 100 g* | *11 pcs* | *55 pcs* | *165 pcs* |

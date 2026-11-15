@@ -13,7 +13,7 @@
 | **Brassage en Trémie** | **Toutes les 20 minutes au fouet manuel** | Évite la sédimentation du sarrasin |
 
 ### Pesées de l'Appareil Galettes Sarrasin (`C-GAL-01`)
-| Phase | Ingrédient d'Atelier | 10 Paquets (2 kg blé noir) | 20 Paquets (4 kg) | 30 Paquets (6 kg) | 40 Paquets (8 kg) | 50 Paquets (10 kg) |
+| Phase | Ingrédient d'Atelier | 10 Paquets (2 kg) | 20 Paquets (4 kg) | 30 Paquets (6 kg) | 40 Paquets (8 kg) | 50 Paquets (10 kg) |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: |
 | **`1`** | **Eau (1ʳᵉ partie)** | **2 750 g** | **5 500 g** | **8 250 g** | **11 000 g** | **13 750 g** |
 | **`1`** | **Poudre de lait entier 26 %** | **250 g** | **500 g** | **750 g** | **1 000 g** | **1 250 g** |

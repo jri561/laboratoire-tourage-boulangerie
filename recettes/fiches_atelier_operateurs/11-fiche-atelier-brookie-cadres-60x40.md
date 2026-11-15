@@ -15,7 +15,7 @@
 | **`[3]`** | **Farine T65 conventionnelle BM** | **180 g** | **900 g** | **1 800 g** | **2 700 g** |
 | **`[3]`** | **Cacao pur 100 % en poudre** | **70 g** | **350 g** | **700 g** | **1 050 g** |
 | **`[3]`** | **Sel fin** | **5 g** | **25 g** | **50 g** | **75 g** |
-| **`[3]`** | **Levure chimique (Baking powder)** | **5 g** | **25 g** | **50 g** | **75 g** |
+| **`[3]`** | **Levure chimique** | **5 g** | **25 g** | **50 g** | **75 g** |
 | **SOUS-TOTAL** | **APPAREIL A (BROWNIE)** | **2 260 g** | **11 300 g** | **22 600 g** | **33 900 g** |
 
 ### 2. Bloc B • Pâte Cookie Pépites Laminée `5,5 mm` (`1 200 g / cadre`)

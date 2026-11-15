@@ -13,7 +13,7 @@
 | **Grainage Finition** | **Sucre Grain n°10 (`7 g / pièce`)** | Déposé au labo avant le 2ᵉ flash PAC (`560 g / bac`) |
 
 ### Pesées de la Petite Brioche au Sucre
-| Phase | Ingrédient d'Atelier | 1 Bac (80 pcs / 6 kg) | 10 Bacs (800 pcs / 60 kg) | 20 Bacs (1 600 pcs / 120 kg) | 30 Bacs (2 400 pcs / 180 kg) |
+| Phase | Ingrédient d'Atelier | 1 Bac (6 kg) | 10 Bacs (60 kg) | 20 Bacs (120 kg) | 30 Bacs (180 kg) |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | **`[1]`** | **Farine Gruau Rouge T45** | **2 953 g** | **29 530 g** | **59 050 g** | **88 580 g** |
 | **`[1]`** | **Eau froide (+1 °C)** | **768 g** | **7 680 g** | **15 350 g** | **23 030 g** |

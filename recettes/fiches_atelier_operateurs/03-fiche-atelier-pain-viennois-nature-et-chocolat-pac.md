@@ -6,7 +6,7 @@
 ## PAGE GAUCHE — POSTE DE PESÉE (EN GRAMMES)
 
 ### 1. Pain Viennois Nature PAC — Calibre `280 g` cru (`20 pcs / bac de 5 600 g`)
-| Phase | Ingrédient d'Atelier | 1 Bac (20 pcs / 5,6 kg) | 10 Bacs (200 pcs / 56 kg) | 20 Bacs (400 pcs / 112 kg) | 30 Bacs (600 pcs / 168 kg) |
+| Phase | Ingrédient d'Atelier | 1 Bac (5,6 kg) | 10 Bacs (56 kg) | 20 Bacs (112 kg) | 30 Bacs (168 kg) |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | **`[1]`** | **Farine Gruau Rouge T45** | **1 760 g** | **17 600 g** | **35 200 g** | **52 800 g** |
 | **`[1]`** | **Farine T65 Tradition** | **754 g** | **7 540 g** | **15 090 g** | **22 630 g** |
@@ -25,7 +25,7 @@
 | **TOTAL** | **PÂTE NATURE AU BAC (280 g/pc)** | **5 600 g** | **56 000 g** | **112 000 g** | **168 000 g** |
 
 ### 2. Pain Viennois Pépites Chocolat PAC — Calibre `140 g` cru (`40 pcs / bac de 5 600 g`)
-| Phase | Ingrédient d'Atelier | 1 Bac (40 pcs / 5,6 kg) | 10 Bacs (400 pcs / 56 kg) | 20 Bacs (800 pcs / 112 kg) | 30 Bacs (1 200 pcs / 168 kg) |
+| Phase | Ingrédient d'Atelier | 1 Bac (5,6 kg) | 10 Bacs (56 kg) | 20 Bacs (112 kg) | 30 Bacs (168 kg) |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | **`[1]`** | **Farine Gruau Rouge T45** | **1 576 g** | **15 760 g** | **31 520 g** | **47 290 g** |
 | **`[1]`** | **Farine T65 Tradition** | **676 g** | **6 760 g** | **13 510 g** | **20 270 g** |

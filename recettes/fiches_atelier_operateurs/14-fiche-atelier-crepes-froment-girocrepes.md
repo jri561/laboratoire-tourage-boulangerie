@@ -13,7 +13,7 @@
 | **Temps de Repos** | **0 minute (Usage direct immédiat)** | Évite la sédimentation en trémie |
 
 ### Pesées de l'Appareil Crêpes Froment (`C-CRP-01`)
-| Phase | Ingrédient d'Atelier | 12 Paquets (2 kg far.) | 25 Paquets (4 kg far.) | 50 Paquets (8 kg far.) | 75 Paquets (12 kg far.) | 100 Paquets (16 kg far.) |
+| Phase | Ingrédient d'Atelier | 12 Paquets (2 kg) | 25 Paquets (4 kg) | 50 Paquets (8 kg) | 75 Paquets (12 kg) | 100 Paquets (16 kg) |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: |
 | **`1`** | **Eau (1ʳᵉ partie)** | **1 650 g** | **3 300 g** | **6 600 g** | **9 900 g** | **13 200 g** |
 | **`1`** | **Œufs entiers liquides** | **1 300 g** | **2 600 g** | **5 200 g** | **7 800 g** | **10 400 g** |
