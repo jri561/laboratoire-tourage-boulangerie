@@ -399,6 +399,18 @@ body {
 .data-table.compact tr.row-total td { font-size: 8.2pt; }
 .data-table.compact tr.row-total td.main-col { font-size: 9.5pt; }
 
+.data-table.semi-compact {
+    font-size: 7.3pt;
+    line-height: 1.18;
+    margin: 2px 0 3px 0;
+}
+.data-table.semi-compact th { font-size: 6.5pt; padding: 2.2px 3.5px; }
+.data-table.semi-compact td { padding: 2.2px 3.5px; }
+.data-table.semi-compact td.main-col { font-size: 8.4pt; }
+.data-table.semi-compact tr.p-band td { font-size: 6.6pt; padding: 1.8px 4px; }
+.data-table.semi-compact tr.row-total td { font-size: 7.8pt; padding: 2.5px 3.5px; }
+.data-table.semi-compact tr.row-total td.main-col { font-size: 8.8pt; }
+
 .data-table.ultra-compact {
     font-size: 6.8pt;
     line-height: 1.12;
@@ -599,7 +611,7 @@ def phase_key(raw: str) -> tuple[str, str]:
     return 'p4', s
 
 
-def render_table(table_lines: list[str], force_ultra_compact: bool = False, scale_cls: str = "") -> str:
+def render_table(table_lines: list[str], density_cls: str = "", scale_cls: str = "") -> str:
     if len(table_lines) < 2:
         return ""
     headers = [p.strip() for p in table_lines[0].strip('|').split('|')]
@@ -627,8 +639,8 @@ def render_table(table_lines: list[str], force_ultra_compact: bool = False, scal
     main_num_col = min(num_cols) if num_cols else None
 
     classes = ["data-table"]
-    if force_ultra_compact:
-        classes.append("ultra-compact")
+    if density_cls:
+        classes.append(density_cls)
     elif len(rows) > 15:
         classes.append("compact")
     elif scale_cls:
@@ -773,7 +785,30 @@ def extract_step_metric(stitle: str, sbody: str, num: str) -> tuple[str, str]:
         val = re.sub(r'\s+', ' ', m_val.group(1).strip()).replace('- ', '-').replace('+ ', '+')
         if len(val) <= 18:
             return val, f"ÉTAPE {num}"
-    return f"ÉTAPE {num}", "CONSIGNE"
+
+    # Priorité 5 : repère d'action court en atelier (évite les libellés génériques "Étape N")
+    title_low = stitle.lower()
+    body_low = plain.lower()
+    cue_rules = [
+        ("liquides d'abord", "Phase [1]"),
+        ("poudre en dernier", "Phase [2]"),
+        ("corne huilée", "Corne huilée"),
+        ("sillon", "Corne huilée"),
+        ("démoulage", "À chaud" if "à chaud" in body_low else "Démoulage"),
+        ("tour double", "Tour Double"),
+        ("tour simple", "Tour Simple"),
+        ("polyline", "Polyline"),
+        ("couverture sous grille", "Sous grille"),
+        ("filtration", "Passoire fine"),
+        ("sans décongélation", "Surgelés"),
+        ("sans mousse", "Sans mousse"),
+        ("façonnage", "Façonnage"),
+        ("destination", "Plaques"),
+    ]
+    for kw, cue in cue_rules:
+        if kw in title_low or kw in body_low:
+            return cue, f"ÉTAPE {num}"
+    return "Consigne", "CONSIGNE"
 
 
 def render_page_body(md_block: str, is_right: bool) -> tuple[str, str, bool]:
@@ -800,9 +835,13 @@ def render_page_body(md_block: str, is_right: bool) -> tuple[str, str, bool]:
         else:
             in_tbl = False
 
-    is_dense = (total_tbl_rows > 18) or (total_tbl_rows >= 15 and max_cols >= 6)
+    density_cls = ""
+    if (total_tbl_rows > 31) or (total_tbl_rows == 16 and max_cols >= 6 and num_tables == 1) or (21 <= total_tbl_rows <= 25 and num_tables == 2 and max_cols >= 6):
+        density_cls = "ultra-compact"
+    elif (total_tbl_rows >= 17 and max_cols >= 6) or (total_tbl_rows > 18):
+        density_cls = "semi-compact"
     scale_cls = ""
-    if not is_right and not is_dense:
+    if not is_right and not density_cls:
         if total_tbl_rows <= 9 and num_tables == 1:
             scale_cls = "xl-tbl"
         elif total_tbl_rows <= 15 and max_cols <= 5:
@@ -865,7 +904,7 @@ def render_page_body(md_block: str, is_right: bool) -> tuple[str, str, bool]:
             while i < len(lines) and lines[i].strip().startswith('|'):
                 tbl.append(lines[i].strip())
                 i += 1
-            blocks.append(render_table(tbl, force_ultra_compact=is_dense, scale_cls=scale_cls))
+            blocks.append(render_table(tbl, density_cls=density_cls, scale_cls=scale_cls))
             continue
 
         # Cartes d'étapes numérotées (1. **Titre :** texte)
@@ -886,10 +925,8 @@ def render_page_body(md_block: str, is_right: bool) -> tuple[str, str, bool]:
                 i += 1
             p_cls = phase_classes[min(max(sec_num - 1, 0), 3)]
             m_val, m_lbl = extract_step_metric(stitle, sbody, num)
-            if m_lbl == "CONSIGNE":
-                left_step_html = f'<div class="s-left"><span class="s-lbl" style="margin-top:0;font-size:8pt;font-weight:700;">Étape {num}</span></div>'
-            else:
-                left_step_html = f'<div class="s-left"><span class="s-val">{clean_inline(m_val)}</span></div>'
+            val_style = ' style="font-size:8pt;"' if len(m_val) > 9 else ''
+            left_step_html = f'<div class="s-left"><span class="s-val"{val_style}>{clean_inline(m_val)}</span></div>'
             step_cards.append(
                 f'<div class="s-row">'
                 f'{left_step_html}'
@@ -932,7 +969,7 @@ def render_page_body(md_block: str, is_right: bool) -> tuple[str, str, bool]:
         i += 1
 
     flush_steps()
-    return "\n".join(blocks), alert_html, is_dense
+    return "\n".join(blocks), alert_html, bool(density_cls)
 
 
 def parse_fiche_pages(md_path: str, page_start: int, total_pages: int) -> list[str]:

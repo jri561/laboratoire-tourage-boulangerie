@@ -34,9 +34,9 @@
 ## PAGE DROITE — CONDUITE, CUISSON OURAS FERMÉS & DÉCOUPE 35 PARTS
 
 ### 1. Fabrication & Coulage en Cadres (`56 × 36 cm`)
-1. **Émulsion Chocolat-Huile (`[1]`) :** Fondre le chocolat à **45–50 °C**, verser l'huile de colza à température ambiante et fouetter vivement jusqu'à émulsion lisse et tiède (`~35 °C`).
-2. **Dissolution sans Air (`[2]`) :** Mettre œufs, sucre semoule, **Trimoline** et **Trablit** dans la cuve avec la **feuille**. Tourner **1 à 2 min en V1** (**ne jamais fouetter ni blanchir**).
-3. **Poudres (`[3]`) :** Verser l'émulsion chocolat/huile, puis les poudres tamisées (Farine T65 BM, cacao, sel, levure chimique). Tourner **45 s à 1 min en V1** seulement.
+1. **Mélange Chocolat-Huile (`[1]`) :** Fondre le chocolat à **45–50 °C**, verser l'huile de colza à température ambiante et fouetter vivement jusqu'à obtenir un mélange lisse et tiède (`~35 °C`).
+2. **Mélange sans Mousser (`[2]`) :** Mettre œufs, sucre semoule, **Trimoline** et **Trablit** dans la cuve avec la **feuille**. Tourner **1 à 2 min en V1** (**ne jamais fouetter ni blanchir**).
+3. **Poudres (`[3]`) :** Verser le mélange chocolat/huile, puis les poudres tamisées (Farine T65 BM, cacao, sel, levure chimique). Tourner **45 s à 1 min en V1** seulement.
 4. **Coulage :** Poser le cadre inox `56 × 36 cm` sur plaque `60×40` + Silpat, couler **3 000 g net** et lisser à la spatule (`20–22 mm`). Pour la version Noix, parsemer **`400 g` de cerneaux de noix brisures** (torréfiés `10 min à 150 °C` et refroidis) et enfoncer très légèrement.
 
 ### 2. Cuisson Douce (Ouras Fermés)
@@ -44,9 +44,9 @@
 - **Durée :** **`22 à 25 minutes`**.
 - **Ouras :** **RIGOREUSEMENT FERMÉS** pendant toute la cuisson (cœur légèrement tremblotant sous le doigt à la sortie).
 
-### 3. Décadrage, Figeage & Découpe Zéro Chute (`35 Carrés`)
+### 3. Décadrage, Refroidissement & Découpe Sans Chutes (`35 Carrés`)
 1. **Décadrage :** Laisser reposer **10 min** sortie four, passer un couteau fin sur les parois intérieures et lever le cadre.
-2. **Figeage obligatoire :** Passer **`1 h` min (idéal `2 h`) à `+4 °C`** avant découpe.
+2. **Refroidissement obligatoire :** Passer **`1 h` min (idéal `2 h`) à `+4 °C`** avant découpe.
 3. **Grille de découpe (lame chaude essuyée) :**
    - Longueur (`56 cm`) : **6 traits** espacés de `8,0 cm` (= 7 bandes).
    - Largeur (`36 cm`) : **4 traits** espacés de `7,2 cm` (= 5 bandes).

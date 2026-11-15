@@ -28,19 +28,19 @@
 
 ## PAGE DROITE — CONDUITE, CUISSON, PUNCHAGE & GLAÇAGE
 
-### 1. Conduite au Batteur (Feuille — Zéro Tempérage Œufs/Rhum)
+### 1. Conduite au Batteur (Feuille — Ingrédients à Température Ambiante)
 1. **Crémage (`[1]`) :** OPAL à ~18 °C + sucre glace + poudre d'amande + sel à la **feuille : 1 min V1 puis 2 min V2** (texture crémeuse sans excès d'air).
-2. **Émulsion (`[2]`) :** Passer en **V1**, verser les œufs en **3 fractions** (attendre `30–45 s` entre chaque fraction).
+2. **Ajout des œufs (`[2]`) :** Passer en **V1**, verser les œufs en **3 fois** (attendre `30–45 s` entre chaque ajout).
 3. **Poudres & Rhum (`[3]` & `[4]`) :** Farine T65 BM + levure tamisées en **V1 pendant 40 s max**, puis rhum en filet en **V1 pendant 30 s** jusqu'à pâte lisse.
 
-### 2. Dosage, Cuisson & Punchage Immédiat
+### 2. Dosage, Cuisson & Imbibage Immédiat
 1. **Moules aluminium graissés (spray) :** Doser **100 g** (`Ø 85 mm`) ou **450 g** (`Ø 180 mm`).
 2. **Cuisson four ventilé (`165 °C`, oura fermé) :**
    - **Individuels (`100 g`) :** **`25 à 28 minutes`**.
    - **Partage (`450 g`) :** **`40 à 45 minutes`**.
-3. **Punchage à chaud (`> 85 °C`) :** Dès sortie du four, badigeonner le sirop tiède (`~40 °C`) au pinceau : **`10 g`** par individuel / **`35 g`** par partage. Laisser refroidir complètement (`< 20 °C`) sur grille.
+3. **Imbibage à chaud (`> 85 °C`) :** Dès sortie du four, badigeonner le sirop tiède (`~40 °C`) au pinceau : **`10 g`** par individuel / **`35 g`** par partage. Laisser refroidir complètement (`< 20 °C`) sur grille.
 
 ### 3. Glaçage Royal Miroir
-1. Tiédir rhum + Trimoline à `45 °C`, dissoudre la gélatine hydratée (`28 g`), verser sur le sucre glace tamisé et lisser à la spatule sans bulles.
+1. Tiédir rhum + Trimoline à `45 °C`, faire fondre la gélatine ramollie (`28 g`), verser sur le sucre glace tamisé et lisser à la spatule sans bulles.
 2. Étaler à la palette coudée en voile de `1 mm` sur gâteau froid. Laisser figer `25 min`.
 3. **Conservation :** `21 jours` à `18–20 °C` sous cloche/film (compatible surgélation `-18 °C`).

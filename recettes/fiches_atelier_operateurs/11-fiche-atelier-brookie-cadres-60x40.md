@@ -43,15 +43,15 @@
 3. **Blocage Flash :** Glisser sur papier cuisson et passer **15 à 20 min en cellule `-35 °C`** (abaisse rigide manipulable d'un bloc).
 
 ### 2. Appareil Brownie (Bloc A) & Montage en Cadre
-1. **Appareil Brownie :** Fondre chocolat à `45–50 °C` + émulsionner huile de colza. Mélanger œufs + sucre à la **feuille V1 (1–2 min sans mousser)**, ajouter chocolat/huile, puis poudres tamisées en V1.
+1. **Appareil Brownie :** Fondre chocolat à `45–50 °C` et bien mélanger avec l'huile de colza. Mélanger œufs + sucre à la **feuille V1 (1–2 min sans mousser)**, ajouter chocolat/huile, puis poudres tamisées en V1.
 2. **Montage (`56 × 36 cm` sur Silpat) :** Couler **`2 260 g` net de Brownie A**, lisser à la palette, puis poser l'abaisse congelée de **Cookie B (`1 200 g`, `5,5 mm`)** par-dessus en appuyant doucement à plat.
 
-### 3. Cuisson & Découpe Zéro Chute (`30 Rectangles`)
+### 3. Cuisson & Découpe Sans Chutes (`30 Rectangles`)
 - **Préchauffage four ventilé :** `175 °C` → **Consigne : `160 °C à 165 °C` régulé**, durée **`24 à 26 minutes`**.
 - **Gestion des Ouras :**
   - **FERMÉS** pendant les **18 premières minutes** (garde le brownie fondant).
   - **OUVERTS** sur les **6 à 8 dernières minutes** (croustille le dessus cookie).
-- **Décadrage & Figeage :** Laisser tiédir `10 min`, décadrer, puis **2 h obligatoires à `+4 °C`**.
+- **Décadrage & Refroidissement :** Laisser tiédir `10 min`, décadrer, puis **2 h obligatoires à `+4 °C`**.
 - **Découpe (lame chaude essuyée) :**
   - Longueur (`56 cm`) : **4 traits** (= 5 bandes de `11,2 cm`).
   - Largeur (`36 cm`) : **5 traits** (= 6 bandes de `6,0 cm`).

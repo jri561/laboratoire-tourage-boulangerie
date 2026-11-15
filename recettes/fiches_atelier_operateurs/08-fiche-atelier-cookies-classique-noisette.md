@@ -9,21 +9,21 @@
 | Paramètre | Consigne Atelier | Précision |
 | :--- | :--- | :--- |
 | **Farine Atelier** | **Farine T65 conventionnelle BM** | Frasage court strict |
-| **Levure chimique** | **100 % Levure chimique** *(Baking Powder)* | Zéro bicarbonate |
+| **Levure chimique** | **100 % Levure chimique** | Zéro bicarbonate |
 | **Calibrage Dresseuse Coupe-Fil** | **80 g brut / palet** (`24 pièces / plaque 60×40`) | Cuve 80 kg = `1 000 pcs` / Cuve 160 kg = `2 000 pcs` |
 
 ### Pesées des Cookies (Cuve 80 kg & Cuve 160 kg)
 | Phase | Ingrédient d'Atelier | Cuve 80 kg (1 000 pcs) | Cuve 160 kg (2 000 pcs) |
 | :---: | :--- | :---: | :---: |
 | **`[1]`** | **Matière grasse OPALE** *(ou beurre)* | **14 500 g** | **29 000 g** |
-| **`[1]`** | **Sucre roux Cassonade** *(68 % sucres)* | **10 000 g** | **20 000 g** |
-| **`[1]`** | **Sucre blanc semoule** *(32 % sucres)* | **4 800 g** | **9 600 g** |
+| **`[1]`** | **Sucre roux Cassonade** | **10 000 g** | **20 000 g** |
+| **`[1]`** | **Sucre blanc semoule** | **4 800 g** | **9 600 g** |
 | **`[1]`** | **Gros sel de Guérande** | **600 g** | **1 200 g** |
 | **`[2]`** | **Œufs entiers liquides** | **6 400 g** | **12 800 g** |
 | **`[2]`** | **Extrait naturel de vanille liquide** | **250 g** | **500 g** |
 | **`[3]`** | **Farine T65 conventionnelle BM** | **22 000 g** | **44 000 g** |
 | **`[3]`** | **Poudre à crème vanillée** | **1 900 g** | **3 800 g** |
-| **`[3]`** | **Levure chimique (Baking Powder)** | **700 g** | **1 400 g** |
+| **`[3]`** | **Levure chimique** | **700 g** | **1 400 g** |
 | **`[4] A`** | **Pépites chocolat noir 50 %** *(Version Classique)* | **19 100 g** | **38 200 g** |
 | **TOTAL A** | **CUVE CLASSIQUE (1 000 / 2 000 pcs)** | **80 250 g** | **160 500 g** |
 | **`[4] B`** | **Pépites chocolat noir + Noisettes concassées** *(Version Noisette)* | **14 100 g + 5 000 g** | **28 200 g + 10 000 g** |
@@ -44,8 +44,8 @@
 1. **Dresseuse Coupe-Fil :** Charger la trémie, régler le module coupe-fil pour façonner, couper à **80 g brut** et **écraser automatiquement** chaque palet sur la plaque (`épaisseur ~20 mm`, **24 pièces / plaque 60×40** sur Silpat ou papier siliconé).
 2. **Surgélation :** Passer **35 min en cellule flash `-35 °C`**, puis conditionner en caisses étanches à **`-18 °C`**.
 
-### 3. Cuisson Directe Congelé (`-18 °C`, Zéro Décongélation)
+### 3. Cuisson Directe Congelé (`-18 °C`, Sans Décongélation)
 - **Préchauffage :** `180 °C` → **Consigne four ventilé : `165 °C` régulé**.
 - **Durée :** **`13 à 14 minutes chrono`**.
 - **Ouras :** **OUVERTS EN CONTINU** tout au long de la cuisson.
-- **Ressuage :** Laisser figer **15 min sur plaque** avant toute manipulation (le cœur reste souple à la sortie du four).
+- **Refroidissement :** Laisser figer **15 min sur plaque** avant toute manipulation (le cœur reste souple à la sortie du four).

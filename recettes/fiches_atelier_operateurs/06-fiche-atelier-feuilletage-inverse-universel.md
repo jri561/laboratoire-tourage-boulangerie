@@ -1,4 +1,4 @@
-# 06 — FEUILLETAGE INVERSÉ UNIVERSEL (48 STRATES) & PLAQUES PÂTISSERIE
+# 06 — FEUILLETAGE INVERSÉ UNIVERSEL (48 COUCHES) & PLAQUES PÂTISSERIE
 **Code :** `P-FEU-01` | **Tourage :** `1 Tour Simple + 2 Tours Doubles` (`48 couches`) | **Farine unique :** `T65 Tradition`
 
 ---
@@ -28,25 +28,25 @@
 
 <!-- PAGE_BREAK -->
 
-## PAGE DROITE — PROTOCOLE THERMIQUE ANTI-RÉTRACTATION & LAMINAGE
+## PAGE DROITE — TEMPÉRATURE, TOURAGE & LAMINAGE
 
-### 1. Règle Thermique Absolue (Anti-Rétractation)
+### 1. Règle de Température (Éviter le Rétrécissement)
 > **INTERDIT DE METTRE LE PÂTON 30 MIN EN FROID NÉGATIF (-18 °C) ENTRE LES TOURS.**  
-> Le beurre manié gelé en surface bloque le gluten et provoque une rétractation de 15 à 20 % au four.
-- **Écart cœur/surface toléré au laminoir :** `≤ 2 °C` (pâton homogène entre **10 °C et 12 °C**).
+> Le beurre manié gelé en surface bloque la pâte et provoque un rétrécissement de 15 à 20 % au four.
+- **Écart de température toléré (cœur / surface) :** `2 °C max` (pâte homogène entre **10 °C et 12 °C**).
 
-### 2. Tourage en 3 Tours (`1S + 2D` = 48 Strates)
-1. **Enfermer le beurre :** Tempérer beurre manié (`30×40 cm`) et détrempe (`30×25 cm`) 10–15 min pour atteindre **10–12 °C**. Poser la détrempe au centre du beurre manié, rabattre les ailes sans chevauchement, pincer le joint.
+### 2. Tourage en 3 Tours (`1S + 2D` = 48 Couches)
+1. **Enfermer le beurre :** Laisser tempérer beurre manié (`30×40 cm`) et détrempe (`30×25 cm`) 10–15 min pour atteindre **10–12 °C**. Poser la détrempe au centre du beurre manié, rabattre les ailes sans chevauchement, pincer le joint.
 2. **1ᵉʳ Tour = Tour Simple (3 volets) :** Allonger par passes douces (`≤ 20 %`) à `8 mm`, plier en 3, **quart de tour (90°)**.
 3. **2ᵉ Tour = Tour Double (4 volets) :** Allonger immédiatement à `8 mm`, plier en portefeuille (4 volets).
-4. **Repos Isotherme Obligatoire :**
+4. **Repos au Froid Obligatoire :**
    - *Standard :* **1 h 30 à 2 h en froid positif ventilé (`+2 °C à +4 °C`)**.
-   - *Express si urgence :* **8 à 10 min chrono max en cellule `-35 °C`** + **15 min de tempérage sur table**.
-5. **3ᵉ Tour = Tour Double Final :** Quart de tour (`90°`), allonger à `8 mm`, plier en 4. Filmer et laisser maturer **12 à 24 h à `+4 °C`**.
+   - *Express si urgence :* **8 à 10 min chrono max en cellule `-35 °C`** + **15 min à température ambiante sur table**.
+5. **3ᵉ Tour = Tour Double Final :** Quart de tour (`90°`), allonger à `8 mm`, plier en 4. Filmer et laisser reposer **12 à 24 h à `+4 °C`**.
 
 ### 3. Abaisse Finale en Croix (`3,0 mm`) & Plaques Pâtisserie
 1. **Laminage en Croix :** Descendre progressivement jusqu'à `8 mm`, couper si besoin et effectuer un **quart de tour (90°)** pour terminer à **`3,0 mm`**.
-2. **Relaxation Libre (Anti-Snapback) :** Débrayer le laminoir à `3,0 mm`, soulever les deux bouts de la nappe pour casser l'adhérence et **laisser flotter 15 min chrono sur le tapis** avant de détailler.
+2. **Détente de la Pâte :** Débrayer le laminoir à `3,0 mm`, soulever les deux bouts de la pâte pour la décoller du tapis et **laisser reposer 15 min chrono sur le tapis** avant de détailler.
 3. **Destination Pôle Pâtisserie (Fonds de Flan & Pommes) :**
    - Préparer des **plaques rayées/piquées** pour les fonds de flan (détaillés par le pôle pâtisserie), ainsi que des **fonds de pommes en bandes et en ronds**.
    - Si cuisson à blanc entre deux plaques : repos **2 h min à `+4 °C`** + cales inox `3,5 mm`.

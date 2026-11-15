@@ -30,15 +30,15 @@
 ## PAGE DROITE — CONDUITE BATTEUR, FENTE AXIALE & CUISSON 75 MIN
 
 ### 1. Fabrication au Batteur (Feuille)
-1. **Émulsion (`1`) :** Verser Mix, œufs tempérés (`18–20 °C`), huile et eau dans la cuve munie de la **feuille**. Tourner **1 min en V1** puis **3 min chrono en V2**.
-2. **Inclusions (`2`) :** Ajouter les graines de pavot bleu et mélanger **30 s en V1**.
+1. **Mélange de base (`1`) :** Verser Mix, œufs tempérés (`18–20 °C`), huile et eau dans la cuve munie de la **feuille**. Tourner **1 min en V1** puis **3 min chrono en V2**.
+2. **Ajout pavot (`2`) :** Ajouter les graines de pavot bleu et mélanger **30 s en V1**.
 3. **Dressage en moules `50 × 10 × 10 cm` (chemisés papier ou graissés) :**
    - *Citron Pavot :* Peser **3 060 g** nets par moule.
    - *Marbré :* Alterner 4 couches de **765 g** (Golden → Délice Grand-Mère → Golden → Délice Grand-Mère).
 4. **Sillon à la corne huilée :** Tremper une corne rigide dans l'huile de colza, enfoncer sur `15–20 mm` et tracer un sillon au milieu sur toute la longueur.
 
-### 2. Cuisson & Ressuage (Règle des 60 Minutes)
+### 2. Cuisson & Refroidissement (Règle des 60 Minutes)
 - **Four ventilé ou soles :** **`155 °C` régulé**, **OURA FERMÉ**, durée **`75 minutes`** (`1 h 15`).
-- **INTERDICTION ABSOLUE D'OUVRIR LA PORTE PENDANT LES 60 PREMIÈRES MINUTES** (risque d'affaissement central irréversible).
+- **INTERDICTION ABSOLUE D'OUVRIR LA PORTE PENDANT LES 60 PREMIÈRES MINUTES** (sinon le cake s'affaisse au centre).
 - **Contrôle sonde à 75 min :** Lame sèche, cœur `≥ 96 °C`.
-- **Démoulage & Conservation :** Repos `10 min` sur marbre, démouler sur grille, ressuer `3 h` (`< 25 °C`), filmer. Conservation `10–14 jours` à `18–20 °C`.
+- **Démoulage & Conservation :** Repos `10 min` sur marbre, démouler sur grille, laisser refroidir `3 h` (`< 25 °C`), filmer. Conservation `10–14 jours` à `18–20 °C`.

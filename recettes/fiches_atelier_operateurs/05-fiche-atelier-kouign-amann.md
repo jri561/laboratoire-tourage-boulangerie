@@ -24,9 +24,9 @@
 | **`[1]`** | **Sel fin** | **50 g** | **250 g** | **500 g** |
 | **`[1]`** | **Levure fraîche L'Hirondelle Or** | **165 g** | **825 g** | **1 650 g** |
 | **`[2]`** | **Margarine OPAL cuve** *(ou beurre)* | **410 g** | **2 050 g** | **4 100 g** |
-| **SOUS-TOTAL** | **DÉTREMPE CRYO AU BAC** | **5 000 g** | **25 000 g** | **50 000 g** |
+| **SOUS-TOTAL** | **DÉTREMPE REFROIDIE AU BAC** | **5 000 g** | **25 000 g** | **50 000 g** |
 | **`[3]`** | **Beurre Tourage Debic 84 %** *(froid +4 °C)* | **2 000 g** | **10 000 g** | **20 000 g** |
-| **`[3]`** | **Sucre semoule (Ratio d'Or)** | **1 800 g** | **9 000 g** | **18 000 g** |
+| **`[3]`** | **Sucre semoule** | **1 800 g** | **9 000 g** | **18 000 g** |
 | **`[3]`** | **Fleur de sel de Guérande** | **20 g** | **100 g** | **200 g** |
 | **SOUS-BLOC** | **BLOC BEURRE MANIÉ SUCRÉ** | **3 820 g** | **19 100 g** | **38 200 g** |
 | **TOTAL** | **PÂTON COMPLET PRÊT AU TOURAGE** | **8 820 g** | **44 100 g** | **88 200 g** |
@@ -38,10 +38,10 @@
 
 ### 1. Détrempe & Beurre Manié (J-1)
 1. **Détrempe :** Frasage **7 min V1** + **3 à 4 min V2** avec OPAL `[2]` (sortie **20–21 °C**, **zéro pointage**). Étaler à 3 cm, flasher **20 min à `-35 °C`**, puis nuit à `+2/+4 °C`.
-2. **Beurre Manié (Méthode Enveloppe) :** Travailler le beurre Debic **froid à `+4 °C` en 1ʳᵉ vitesse lente sans chauffer**, incorporer sucre semoule et fleur de sel. Peser en pâtons de **3 820 g**, aplatir au rouleau dans du papier sulfurisé plié en **`40 × 30 cm`** (épaisseur `2,5 cm`), stocker à `+4 °C` (consistance `12–14 °C`).
+2. **Beurre Manié (Méthode Enveloppe) :** Travailler le beurre Debic **froid à `+4 °C` en 1ʳᵉ vitesse lente sans chauffer**, incorporer sucre semoule et fleur de sel. Peser en pâtons de **3 820 g**, aplatir au rouleau dans du papier sulfurisé plié en **`40 × 30 cm`** (épaisseur `2,5 cm`), stocker à `+4 °C` (beurre souple à `12–14 °C`).
 
 ### 2. Tourage (2 Tours Simples) & Façonnage
-1. **Tourage Rondo :** Enchâsser, donner le **1ᵉʳ Tour Simple** (abaisse `10 mm`) → repos **15 min à `+2 °C`** → **2ᵉ Tour Simple** (abaisse `8 mm`) → drosser les chants.
+1. **Tourage Rondo :** Enchâsser, donner le **1ᵉʳ Tour Simple** (abaisse `10 mm`) → repos **15 min à `+2 °C`** → **2ᵉ Tour Simple** (abaisse `8 mm`) → parer les bords nets.
 2. **Façonnage selon format :**
    - **Individuel (`100 g`, moule silicone `Ø 80 mm`) :** Abaisse à **`6 mm`**, largeur coupée net à **`45 cm`**, détailler des bandes de **`2,2 cm`** (`~100 g`) et rouler en spirale.
    - **Partage 4 pers. (`400 g`, moule `Ø 20 cm`) :** Abaisse à **`4 mm`**, carrés de **`24,5 × 24,5 cm`** *(à confirmer au labo)*. Replier les 4 pointes au centre (carré), puis replier les 4 nouvelles pointes au centre pour former un **octogone**.

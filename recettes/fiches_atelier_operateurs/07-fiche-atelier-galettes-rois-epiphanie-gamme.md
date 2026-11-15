@@ -5,7 +5,7 @@
 
 ## PAGE GAUCHE — POSTE DE PESÉE (FRANGIPANE 80/20 & CALIBRES GALETTES)
 
-### 1. Pesées Frangipane Émulsionnée 80/20 (`P-FRA-01` — 100 % Amande, Zéro Alcool)
+### 1. Pesées Frangipane 80/20 (`P-FRA-01` — 100 % Amande, Zéro Alcool)
 | Étape | Ingrédient d'Atelier | Lot Std (10 300 g) | Double Lot (20 600 g) | Quadruple Lot (41 200 g) |
 | :---: | :--- | :---: | :---: | :---: |
 | **`[A]`** | **Eau froide (+10 °C)** | **1 500 g** | **3 000 g** | **6 000 g** |
@@ -30,25 +30,25 @@
 
 <!-- PAGE_BREAK -->
 
-## PAGE DROITE — MONTAGE J/J+1, ANTI-FOSSÉ & CUISSON CALES 40 MM
+## PAGE DROITE — MONTAGE J/J+1 & CUISSON CALES 40 MM
 
 ### 1. Fabrication Frangipane & Inserts Congelés (`-18 °C`)
 1. **Pâtissière `[A]` :** Fouetter eau froide + Staufim **1 min en V2**, repos 5 min.
 2. **Crème d'amande `[B]+[C]+[D]` :** Crémer OPAL + sucre glace à la **feuille en V1 sans blanchir** (zéro air), incorporer les œufs en 3 fois, puis `[D]`, puis `[A]`.
-3. **Inserts biseautés :** Pocher sur Silpat avec bordure amincie à `5 mm` (centre `15 mm`, pente douce 30–45°), **congeler à `-18 °C`** et stocker au congélateur jusqu'au montage.
+3. **Inserts à bords fins :** Pocher sur Silpat avec bords fins à `5 mm` (centre `15 mm`, pente douce 30–45°), **congeler à `-18 °C`** et stocker au congélateur jusqu'au montage.
 
-### 2. Montage & Cycle J / J+1 (Zéro Fossé)
+### 2. Montage & Cycle J / J+1
 1. **Jour J — Montage :**
    - Disque fond `3,0 mm` sur Silpat, déposer l'insert congelé `-18 °C` (ou garniture Pommes sans semoule ; ou Trio Frangipane → spirale Nutolade → dés de poires **égouttés 2 h minimum et épongés**).
    - **Fève :** Placer à **3 cm du bord** (`2 cm` sur individuelle), jamais au centre.
    - **Soudure exclusive à l'EAU PURE** sur la marge libre (`2,0 à 3,0 cm` — zéro œuf sur la soudure).
-   - Poser le disque dessus, **épouser à la main du centre vers les bords** pour chasser l'air autour de l'insert (anti-fossé), chiqueter au couteau à 45°.
+   - Poser le disque dessus, **appuyer à la main du centre vers les bords** pour chasser l'air autour de l'insert (éviter le creux), cranter les bords au couteau à 45°.
    - Passer la **1ʳᵉ couche fine de Dorure Pinceau** (67 % jaunes / 33 % crème 35 %), puis **nuit complète en échelle à `+4 °C`** (`12–15 h`).
 2. **Jour J+1 — Finition & Congélation :**
    - Passer la **2ᵉ couche fine de Dorure**, rayer à la lame inclinée (`0,5 mm`) + **4 à 5 cheminées franches** (`1` au centre sur individuelle).
    - **Surgélation flash `-35 °C`** (cœur `≤ -10 °C` en 40 min) → caisses filmées à **`-18 °C`**.
 
-### 3. Cuisson sous Cales 40 mm & Sirop Miroir 30°B
+### 3. Cuisson sous Cales 40 mm & Sirop Miroir
 - **Cales inox `40 mm`** aux 4 coins + grille perforée dessus.
 - **Four ventilé :** Décongelée `+4 °C` = **`175 °C` (`35–42 min`)** | Congelée `-18 °C` = préchauffage `190 °C`, régulation **`165–170 °C` (`42–50 min`)**. **Ouvrir les ouras en grand les 12–15 dernières min.**
-- **Sirop Miroir 30°B (`500 g` eau + `600 g` sucre + `100 g` glucose bouillis 1 min) :** Badigeonner **dès sortie du four sur galette bouillante**.
+- **Sirop Miroir (`500 g` eau + `600 g` sucre + `100 g` glucose bouillis 1 min) :** Badigeonner **dès sortie du four sur galette bouillante**.

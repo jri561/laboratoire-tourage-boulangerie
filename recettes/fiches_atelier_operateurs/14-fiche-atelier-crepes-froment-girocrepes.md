@@ -33,7 +33,7 @@
 ### 1. Préparation en 2 fois au batteur (fouet)
 1. **Phase 1 — Pâte mère épaisse (Anti-grumeaux) :** Dans la cuve munie du **fouet**, verser dans l'ordre : Eau 1, œufs, sucre, poudre de lait, sel et Farine T65 BM. Tourner **1 min en V1** puis **2 min 30 s en V2** jusqu'à pâte épaisse et lisse.
 2. **Phase 2 — Allongement :** Revenir en **V1**, verser en filet l'Eau 2 puis l'huile de colza. Passer **1 min en V2** pour bien lisser.
-3. **Filtration obligatoire :** Passer l'appareil au **passoire fine (chinois)** avant remplissage de la trémie (protège la rampe et la lame de raclage).
+3. **Filtration obligatoire :** Passer l'appareil à la **passoire fine (chinois)** avant remplissage de la trémie (protège la rampe et la lame de raclage).
 
 ### 2. Conduite Tambour Rotatif & Conditionnement
 - **Température tambour :** **`215 °C` régulée** (`± 3 °C`).

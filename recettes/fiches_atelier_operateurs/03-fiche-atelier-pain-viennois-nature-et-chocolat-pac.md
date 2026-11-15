@@ -48,9 +48,9 @@
 
 ## PAGE DROITE — CONDUITE PÉTRIN, FAÇONNAGE TAPIS & CUISSON PAC
 
-### 1. Pétrissage Direct & Inclusion Anti-Marbrage
+### 1. Pétrissage Direct & Pépites (Éviter les Marbrures)
 1. **Frasage (`[1]`) :** Verser tous les ingrédients `[1]` dans le pétrin spirale. Tourner **5 min en 1ʳᵉ vitesse (V1)**.
-2. **Pétrissage & Beurre (`[2]`) :** Passer en **2ᵉ vitesse (V2)** pendant **4 min**, puis incorporer la **margarine OPAL** tempérée à **14–16 °C** (en dés de 1–2 cm). Poursuivre **3 à 4 min en V2** jusqu'au **pâte lisse qui se décolle des parois**.
+2. **Pétrissage & Beurre (`[2]`) :** Passer en **2ᵉ vitesse (V2)** pendant **4 min**, puis incorporer la **margarine OPAL** tempérée à **14–16 °C** (en dés de 1–2 cm). Poursuivre **3 à 4 min en V2** jusqu'à obtenir une **pâte lisse qui se décolle des parois**.
 3. **Version Pépites Chocolat uniquement (`[3]`) :** Repasser impérativement en **1ʳᵉ vitesse (V1)**, verser les **pépites stockées à `+4 °C`** et tourner **45 à 60 secondes MAX** (zéro fonte, zéro marbrage).
 4. **Température de sortie pétrin :** **19 °C à 21 °C maximum**.
 
@@ -66,7 +66,7 @@
 5. **Pousse PAC (Stock 2 Boutiques) :**
    - Décongélation lente `+4 °C` (`8–10 h`).
    - Étuve **`26 °C / 80 % d'humidité`** : arrêt strict à **70 % du volume** (`1 h 45–2 h 00` Nature / `1 h 30–1 h 45` Chocolat).
-   - Ressuyage **10 min `+4 °C`**, pulvérisation **Dorure Végétale au pistolet** (1,5 bar), puis **flash `-35 °C` jusqu'à `-10 °C` sonde à cœur**.
+   - Refroidissement **10 min `+4 °C`**, pulvérisation **Dorure Végétale au pistolet** (1,5 bar), puis **flash `-35 °C` jusqu'à `-10 °C` sonde à cœur**.
 
 ### 3. Cuisson Directe Congelé en Boutique (`-18 °C`)
 | Référence | Four Ventilé | Durée | Gestion Ouras | Poids Cuit Visé |
